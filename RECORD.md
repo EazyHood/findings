@@ -262,7 +262,7 @@ Generated automatically on 2026-08-29. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#199](https://github.com/APN-Network/bugs/issues/199) | Privacy policy's only mention of cookies is a denial, but apn.tech sets a one-year lang cookie | open |
-| [#198](https://github.com/APN-Network/bugs/issues/198) | Site language lives only in a cookie, so four of the five locales have no URL and cannot be indexed | open |
+| [#198](https://github.com/APN-Network/bugs/issues/198) | Site language lives only in a cookie, so four of the five locales have no URL and cannot be indexed | closed |
 | [#197](https://github.com/APN-Network/bugs/issues/197) | apn.tech sends no Strict-Transport-Security header, so the first visit is downgradeable | closed |
 | [#195](https://github.com/APN-Network/bugs/issues/195) | Homepage password field has no accessible name: placeholder is its only label | closed |
 | [#144](https://github.com/APN-Network/bugs/issues/144) | Public bug page uses bug@apn.tech while reward docs use bugs@apn.tech | closed |

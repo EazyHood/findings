@@ -4,7 +4,7 @@
     "prsOpened": 214,
     "prsMerged": 57,
     "issuesOpened": 45,
-    "issuesClosed": 13,
+    "issuesClosed": 14,
     "organizations": 19,
     "truncated": false
   },
@@ -24,7 +24,7 @@
       "number": 198,
       "title": "Site language lives only in a cookie, so four of the five locales have no URL and cannot be indexed",
       "url": "https://github.com/APN-Network/bugs/issues/198",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-28T16:58:36Z"
