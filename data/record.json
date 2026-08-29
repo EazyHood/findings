@@ -2,13 +2,93 @@
   "totals": {
     "generatedAt": "2026-08-29",
     "prsOpened": 214,
-    "prsMerged": 57,
-    "issuesOpened": 45,
+    "prsMerged": 59,
+    "issuesOpened": 53,
     "issuesClosed": 14,
     "organizations": 19,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "APN-Network/bugs",
+      "number": 204,
+      "title": "Reward docs describe an email claim, but 0crat points reporters at a Zerocracy account, and neither document mentions the other",
+      "url": "https://github.com/APN-Network/bugs/issues/204",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T16:24:54Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 203,
+      "title": "lang cookie is set without the Secure attribute, so it is sent over plaintext HTTP",
+      "url": "https://github.com/APN-Network/bugs/issues/203",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T16:15:05Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 202,
+      "title": "CSP script-src ends in `https:`, which allows any HTTPS host and cancels the per-request nonce",
+      "url": "https://github.com/APN-Network/bugs/issues/202",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T16:13:52Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3293,
+      "title": "[DBIP] References-Syntax states that writing `null` blocks inheritance; running csv_to_json.py shows it inherits exactly like a blank, and the same paragraph says \"provider\" three times where it means \"offer\"",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3293",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T16:11:42Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3292,
+      "title": "[DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 4 tagged offers out of 802",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3292",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T16:09:34Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3291,
+      "title": "[DBIP] The worked example on 13 of 14 category pages is shifted one column: 12 share a single cause, and SDKs currently teaches `starred = TBD`",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3291",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T16:07:23Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 201,
+      "title": "Every page loads jQuery from cdnjs and never calls it, adding a third-party request for nothing",
+      "url": "https://github.com/APN-Network/bugs/issues/201",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T15:20:42Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 200,
+      "title": "Mock phone status bar shows UTC to every visitor, so the clock is wrong outside UTC+0",
+      "url": "https://github.com/APN-Network/bugs/issues/200",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-29T15:19:37Z"
+    },
     {
       "repo": "APN-Network/bugs",
       "number": 199,
@@ -374,8 +454,8 @@
       "number": 139,
       "title": "fix: abort uploads safely on unmount",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/139",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-23T10:18:36Z"
     },
@@ -384,8 +464,8 @@
       "number": 138,
       "title": "fix(test): repair and deduplicate file upload suite",
       "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/138",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-23T10:17:53Z"
     },

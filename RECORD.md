@@ -8,6 +8,9 @@ Generated automatically on 2026-08-29. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#3293](https://github.com/Chain-Love/chain-love/issues/3293) | [DBIP] References-Syntax states that writing `null` blocks inheritance; running csv_to_json.py shows it inherits exactly like a blank, and the same paragraph says "provider" three times where it means "offer" | open |
+| [#3292](https://github.com/Chain-Love/chain-love/issues/3292) | [DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 4 tagged offers out of 802 | open |
+| [#3291](https://github.com/Chain-Love/chain-love/issues/3291) | [DBIP] The worked example on 13 of 14 category pages is shifted one column: 12 share a single cause, and SDKs currently teaches `starred = TBD` | open |
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
 | [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
 | [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 12 offer URLs at the destinations these providers moved to | open |
@@ -227,8 +230,24 @@ Generated automatically on 2026-08-29. Do not edit by hand: `scripts/update.mjs`
 | [#142](https://github.com/Hazyshades/Sendly-Test-Repo/pull/142) | fix: prevent synchronous duplicate upload submissions | **merged** |
 | [#141](https://github.com/Hazyshades/Sendly-Test-Repo/pull/141) | ci: run tests and optional typecheck on pushes and PRs | **merged** |
 | [#140](https://github.com/Hazyshades/Sendly-Test-Repo/pull/140) | fix(test): discover all Node test files automatically | closed unmerged |
-| [#139](https://github.com/Hazyshades/Sendly-Test-Repo/pull/139) | fix: abort uploads safely on unmount | open |
-| [#138](https://github.com/Hazyshades/Sendly-Test-Repo/pull/138) | fix(test): repair and deduplicate file upload suite | open |
+| [#139](https://github.com/Hazyshades/Sendly-Test-Repo/pull/139) | fix: abort uploads safely on unmount | **merged** |
+| [#138](https://github.com/Hazyshades/Sendly-Test-Repo/pull/138) | fix(test): repair and deduplicate file upload suite | **merged** |
+
+## APN-Network/bugs
+
+| | Title | State |
+| --- | --- | --- |
+| [#204](https://github.com/APN-Network/bugs/issues/204) | Reward docs describe an email claim, but 0crat points reporters at a Zerocracy account, and neither document mentions the other | open |
+| [#203](https://github.com/APN-Network/bugs/issues/203) | lang cookie is set without the Secure attribute, so it is sent over plaintext HTTP | open |
+| [#202](https://github.com/APN-Network/bugs/issues/202) | CSP script-src ends in `https:`, which allows any HTTPS host and cancels the per-request nonce | open |
+| [#201](https://github.com/APN-Network/bugs/issues/201) | Every page loads jQuery from cdnjs and never calls it, adding a third-party request for nothing | open |
+| [#200](https://github.com/APN-Network/bugs/issues/200) | Mock phone status bar shows UTC to every visitor, so the clock is wrong outside UTC+0 | open |
+| [#199](https://github.com/APN-Network/bugs/issues/199) | Privacy policy's only mention of cookies is a denial, but apn.tech sets a one-year lang cookie | open |
+| [#198](https://github.com/APN-Network/bugs/issues/198) | Site language lives only in a cookie, so four of the five locales have no URL and cannot be indexed | closed |
+| [#197](https://github.com/APN-Network/bugs/issues/197) | apn.tech sends no Strict-Transport-Security header, so the first visit is downgradeable | closed |
+| [#195](https://github.com/APN-Network/bugs/issues/195) | Homepage password field has no accessible name: placeholder is its only label | closed |
+| [#144](https://github.com/APN-Network/bugs/issues/144) | Public bug page uses bug@apn.tech while reward docs use bugs@apn.tech | closed |
+| [#143](https://github.com/APN-Network/bugs/issues/143) | README tells testers to sign in even though APN advertises no signup/no email | open |
 
 ## StellarLend/Stellarlend-frontend
 
@@ -256,17 +275,6 @@ Generated automatically on 2026-08-29. Do not edit by hand: `scripts/update.mjs`
 | [#47](https://github.com/sourcey/startup-credits/pull/47) | catalog: add Kiro Startup Credits Program | closed unmerged |
 | [#41](https://github.com/sourcey/startup-credits/pull/41) | catalog: add Trigger.dev current YC deal | closed unmerged |
 | [#40](https://github.com/sourcey/startup-credits/pull/40) | catalog: add GitBook Startups Program | **merged** |
-
-## APN-Network/bugs
-
-| | Title | State |
-| --- | --- | --- |
-| [#199](https://github.com/APN-Network/bugs/issues/199) | Privacy policy's only mention of cookies is a denial, but apn.tech sets a one-year lang cookie | open |
-| [#198](https://github.com/APN-Network/bugs/issues/198) | Site language lives only in a cookie, so four of the five locales have no URL and cannot be indexed | closed |
-| [#197](https://github.com/APN-Network/bugs/issues/197) | apn.tech sends no Strict-Transport-Security header, so the first visit is downgradeable | closed |
-| [#195](https://github.com/APN-Network/bugs/issues/195) | Homepage password field has no accessible name: placeholder is its only label | closed |
-| [#144](https://github.com/APN-Network/bugs/issues/144) | Public bug page uses bug@apn.tech while reward docs use bugs@apn.tech | closed |
-| [#143](https://github.com/APN-Network/bugs/issues/143) | README tells testers to sign in even though APN advertises no signup/no email | open |
 
 ## ScrollPrize/villa
 
