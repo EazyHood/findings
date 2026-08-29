@@ -7,14 +7,11 @@ Every row below points at a public issue or pull request in a repository I do no
 outcome column is not my claim — it is what the maintainers did. Where something is still open, it
 says so.
 
-**Totals as of 28 August 2026:** 214 pull requests opened, **57 merged**; 45 issues opened, 13
-closed. Across 19 organizations.
+<!-- AUTO:TOTALS -->
+**Totals as of 2026-08-29:** 214 pull requests opened, **57 merged**; 45 issues opened, 13 closed. Across 19 organizations. The complete list is in [RECORD.md](RECORD.md), regenerated automatically.
 
-Two honest notes on those totals before you read further. First, 40 of the 57 merges come from two
-bounty repositories (`Chain-Love/chain-love` and `Hazyshades/Sendly-Test-Repo`) where the work was
-high-volume and individually small — the range is better shown by the other 17. Second, 32 of the 45
-issues are still open, which is ordinary for issues filed against large projects and is not evidence
-of anything either way.
+Two honest notes on those totals. First, 40 of the 57 merges come from two high-volume repositories (`Chain-Love/chain-love` and `Hazyshades/Sendly-Test-Repo`) where the work was individually small — the range is better shown by the other 17. Second, 32 of the 45 issues are still open, which is ordinary for issues filed against large projects and is not evidence of anything either way.
+<!-- /AUTO:TOTALS -->
 
 ---
 
@@ -110,6 +107,25 @@ The shape is always the same, and the middle step is the one that matters.
 
 The measurement discipline matters more than the volume. A number I cannot reproduce does not go in
 the report, and neither does a negative result I have not checked with a positive control.
+
+## How this page stays current
+
+The totals above and [RECORD.md](RECORD.md) are rebuilt from the GitHub API by
+[`scripts/update.mjs`](scripts/update.mjs), on a schedule, in Actions. No local machine is
+involved and nothing here is typed by hand twice.
+
+The curated tables are deliberately **not** generated. A list of titles is not a finding, and the
+one-line descriptions are the part worth reading.
+
+Two guards, because a job that silently writes the wrong thing is worse than one that fails:
+
+- If the search returns nothing at all, it refuses to write. A source that always returns
+  something returning nothing is an exception, not a result.
+- If the totals fall by more than 10% against the previous run, it refuses to write. The record
+  only grows, so a drop is a partial response.
+
+Both were tested by breaking them on purpose. The job exits non-zero and leaves the files
+untouched.
 
 ## The full record
 

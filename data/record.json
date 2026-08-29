@@ -1,0 +1,2603 @@
+{
+  "totals": {
+    "generatedAt": "2026-08-29",
+    "prsOpened": 214,
+    "prsMerged": 57,
+    "issuesOpened": 45,
+    "issuesClosed": 13,
+    "organizations": 19,
+    "truncated": false
+  },
+  "items": [
+    {
+      "repo": "APN-Network/bugs",
+      "number": 199,
+      "title": "Privacy policy's only mention of cookies is a denial, but apn.tech sets a one-year lang cookie",
+      "url": "https://github.com/APN-Network/bugs/issues/199",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-28T18:48:03Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 198,
+      "title": "Site language lives only in a cookie, so four of the five locales have no URL and cannot be indexed",
+      "url": "https://github.com/APN-Network/bugs/issues/198",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-28T16:58:36Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 197,
+      "title": "apn.tech sends no Strict-Transport-Security header, so the first visit is downgradeable",
+      "url": "https://github.com/APN-Network/bugs/issues/197",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-28T15:50:13Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3254,
+      "title": "[DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3254",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-27T21:02:09Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3252,
+      "title": "Add Amberdata and Kaiko market data providers to analytics",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3252",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-27T17:50:10Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3251,
+      "title": "fix(offers): point 12 offer URLs at the destinations these providers moved to",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3251",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-27T17:28:02Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3250,
+      "title": "data(providers): consolidate 463 verified contact and social fields from five conflicting PRs",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3250",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-27T16:45:46Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3240,
+      "title": "[DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3240",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-27T03:09:53Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3239,
+      "title": "[DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3239",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-27T03:07:29Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3234,
+      "title": "[DBIP] `offer` is documented Blank: No but is empty in 1,228 of 1,460 canonical rows, leaving 138 providers with several unnamed offers",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3234",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-26T14:32:51Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3212,
+      "title": "[DBIP] #584 was closed as completed in February; none of its four changes are in the tree",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3212",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-25T16:41:54Z"
+    },
+    {
+      "repo": "ScrollPrize/villa",
+      "number": 1585,
+      "title": "get_ink_metrics: ask for fork only where fork exists",
+      "url": "https://github.com/ScrollPrize/villa/pull/1585",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-24T17:34:25Z"
+    },
+    {
+      "repo": "ScrollPrize/villa",
+      "number": 1584,
+      "title": "spiral: the CUDA torch index is gated to Linux, so Windows installs a CPU-only build",
+      "url": "https://github.com/ScrollPrize/villa/pull/1584",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-24T16:30:21Z"
+    },
+    {
+      "repo": "ScrollPrize/villa",
+      "number": 1583,
+      "title": "get_ink_metrics.py: the fork guard is dead code, and on Windows every fold dies after the expensive prep",
+      "url": "https://github.com/ScrollPrize/villa/issues/1583",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-24T16:08:18Z"
+    },
+    {
+      "repo": "ScrollPrize/villa",
+      "number": 1581,
+      "title": "Scroll 3 is catalogued under 54 keV but its only volume is the 53 keV…",
+      "url": "https://github.com/ScrollPrize/villa/pull/1581",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-24T15:55:18Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3156,
+      "title": "[DBIP] oracles and ramps are the only categories with no price column at all",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3156",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-24T02:25:41Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3153,
+      "title": "data(algorand): add Biatec Scan explorer",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3153",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T12:15:09Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3152,
+      "title": "data(filecoin): add Forest Explorer USDFC faucet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3152",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T11:15:14Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 157,
+      "title": "fix: add guarded keyboard form submission for uploads",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/157",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:26:10Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 156,
+      "title": "feat: validate drag-and-drop uploads through shared path",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/156",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:25:33Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 155,
+      "title": "fix: label file inputs and link upload feedback",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/155",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:25:16Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 154,
+      "title": "fix: safely normalize invalid maxSizeMB values",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/154",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:24:40Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 153,
+      "title": "fix: show friendly upload transport errors",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/153",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:24:02Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 152,
+      "title": "build(types): add strict TypeScript checking",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/152",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:23:57Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 151,
+      "title": "refactor: centralize uploads in useFileUpload",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/151",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:23:15Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 150,
+      "title": "fix(upload): enforce accepted MIME and extension rules",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/150",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:22:50Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 149,
+      "title": "fix: remove individual files without stale previews",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/149",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:22:46Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 148,
+      "title": "fix(upload): consolidate duplicate implementation",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/148",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:21:36Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 147,
+      "title": "fix: reject oversized files in Login before upload",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/147",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:21:25Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 146,
+      "title": "fix(login): make upload endpoint configurable",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/146",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:20:49Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 145,
+      "title": "docs: update bounty claims for ARC Testnet",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/145",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:20:35Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 144,
+      "title": "fix: make issue reference CLI argument-driven",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/144",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:20:03Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 143,
+      "title": "fix(test): unify FileUpload validation contract",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/143",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:19:55Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 142,
+      "title": "fix: prevent synchronous duplicate upload submissions",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/142",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:19:16Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 141,
+      "title": "ci: run tests and optional typecheck on pushes and PRs",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/141",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:18:48Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 140,
+      "title": "fix(test): discover all Node test files automatically",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/140",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:18:40Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 139,
+      "title": "fix: abort uploads safely on unmount",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/139",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:18:36Z"
+    },
+    {
+      "repo": "Hazyshades/Sendly-Test-Repo",
+      "number": 138,
+      "title": "fix(test): repair and deduplicate file upload suite",
+      "url": "https://github.com/Hazyshades/Sendly-Test-Repo/pull/138",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T10:17:53Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3145,
+      "title": "Add Folks Feed Oracle price feeds for Algorand",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3145",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-23T04:34:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3137,
+      "title": "List Dynamic's platform plans on Algorand",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3137",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-22T00:17:06Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3136,
+      "title": "data(providers): fill 43 verified contact and social fields on 28 providers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3136",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-22T00:07:55Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3135,
+      "title": "Add Faucet Trade and ZalalenA testnet faucets for Somnia Shannon",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3135",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-22T00:07:25Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2995,
+      "title": "data(solana): correct `technology` on 18 rows that declare EVM on a non-EVM chain",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2995",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-17T01:07:23Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2993,
+      "title": "data(providers): fill 97 verified contact and social fields on 50 providers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2993",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-17T00:52:22Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2685,
+      "title": "[DBIP] starred sits after pricing in 6 explorers.csv listings and after additionalFeatures in the master and the other 72",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2685",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-12T04:53:49Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2684,
+      "title": "[DBIP] 36 of 42 services.csv network listings order planName before planType, against the master and the byte-identical storages schema",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2684",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-12T04:53:18Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2683,
+      "title": "[DBIP] apis, bridges and faucets store missing values as literal NULL/null strings; the other 11 categories leave them empty",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2683",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-12T04:48:41Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2682,
+      "title": "[DBIP] wallets names its audit column `audit`; the three other audit-carrying categories name it `auditsPerformed`",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2682",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-12T04:43:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2681,
+      "title": "[DBIP] economicalSecurity/economicalSecurityNote misspell \"economic security\" in all 219 bridge and oracle files",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2681",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-12T04:39:47Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52856,
+      "title": "[ttnn] logaddexp: overflow-safe fused SFPU implementation",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52856",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-11T16:31:43Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2638,
+      "title": "data(providers): fill missing contact and social fields (batch 4)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2638",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-11T04:42:16Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2637,
+      "title": "data(providers): fill missing contact and social fields (batch 3)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2637",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-11T04:42:14Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2636,
+      "title": "data(providers): fill missing contact and social fields (batch 2)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2636",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-11T04:41:54Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2635,
+      "title": "data(providers): fill missing contact and social fields (batch 1)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2635",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-11T04:41:04Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2554,
+      "title": "[DBIP] toolType is used as a closed vocabulary but never documented as one - 119 of 126 services cells sit outside its examples",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2554",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-09T14:30:19Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2553,
+      "title": "[Documentation] planType is a closed vocabulary that is missing the value #233 approved, and 93 cells sit outside it",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2553",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-09T14:28:30Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52668,
+      "title": "fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52668",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-09T14:27:06Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2551,
+      "title": "[DBIP] The six columns #584 decided to remove are all still in the database, five months on",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2551",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-09T13:33:40Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2550,
+      "title": "[Documentation] providers.csv is the root table of the model and the only one with no Column Definitions page",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2550",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-09T13:28:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2537,
+      "title": "fix(offers): point 18 offer URLs at the destinations these providers moved to",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2537",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-09T04:00:36Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2482,
+      "title": "[Documentation] The schema.json published in the wiki is 6 definitions and 22 columns behind the one the CI validates against",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2482",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-08T16:30:34Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2481,
+      "title": "[DBIP] explorers is the only category that names the common price column `pricing`",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2481",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-08T16:00:52Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2480,
+      "title": "[DBIP] Three columns documented as never-blank are missing entirely from up to 9 of the 14 categories",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2480",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-08T15:59:18Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52615,
+      "title": "fix(eltwise): factor the magnitude out before squaring in the variance composite",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52615",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-08T14:47:33Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52614,
+      "title": "normalize_hw / std_hw / var_hw: the variance composite returns an exact 0 below |x-mean| ~1e-19 and saturates above ~1.8e19",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52614",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-08T14:43:37Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52613,
+      "title": "fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call)",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52613",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-08T14:32:15Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52612,
+      "title": "[ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52612",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-08T14:26:33Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52611,
+      "title": "fix(eltwise): invert the divisor instead of its square in four backward composites (same op count)",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52611",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-08T14:23:58Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52376,
+      "title": "[ttnn]: backward composites invert the divisor's square, losing the gradient for |x| < 1.08e-19 and again for |x| > 2^63",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52376",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-07T00:00:05Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52375,
+      "title": "fix(ttnn): softplus golden drops beta and threshold",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52375",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-06T23:43:39Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52326,
+      "title": "[Bug fix] fix(data_movement): pad packs a float32 pad value as two bfloat16 halves",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52326",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-06T15:22:43Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2460,
+      "title": "[DBIP] The `github` column holds two different kinds of value",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2460",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-05T16:05:44Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 195,
+      "title": "Homepage password field has no accessible name: placeholder is its only label",
+      "url": "https://github.com/APN-Network/bugs/issues/195",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-05T15:35:55Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52145,
+      "title": "[Bug fix] tril/triu return NaN for non-finite inputs",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52145",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-05T03:48:09Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52144,
+      "title": "[Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52144",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-05T03:47:00Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52131,
+      "title": "The four tickets that blocked numeric_stable in #27995 are all closed; two of the four excepted softmax entry points still default to false and return all zeros above |x| ~85",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52131",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-04T23:56:35Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52124,
+      "title": "[kernels] Clamp sin/cos results to [-1, 1]",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/52124",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-04T21:56:53Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52094,
+      "title": "ttnn.div returns 0 for large denominators — a/a is 0 instead of 1",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52094",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-04T17:17:59Z"
+    },
+    {
+      "repo": "microsoft/winget-pkgs",
+      "number": 412285,
+      "title": "New package: EazyHood.AppCloner version 4.0.0",
+      "url": "https://github.com/microsoft/winget-pkgs/pull/412285",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-04T17:17:25Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52038,
+      "title": "[ttnn]: tril/triu are composed as a mask multiply, so an inf in the masked region becomes NaN instead of 0 (fp32)",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52038",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-04T05:40:55Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52037,
+      "title": "[Bounty $1500] logaddexp / logaddexp2: overflow-safe reformulation",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52037",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-04T05:37:03Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 52036,
+      "title": "[kernels]: xlogy NaN guard is dead code — `in1 == nan` can never be true, so xlogy(x, NaN) returns ~89",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/52036",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-04T05:32:36Z"
+    },
+    {
+      "repo": "EazyHood/AppCloner",
+      "number": 1,
+      "title": "v4: rebuild the launch engine, icons and isolation",
+      "url": "https://github.com/EazyHood/AppCloner/pull/1",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-04T04:42:49Z"
+    },
+    {
+      "repo": "scipy/xsf",
+      "number": 236,
+      "title": "TST: kelvin: add a Wronskian identity test",
+      "url": "https://github.com/scipy/xsf/pull/236",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-04T00:07:40Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 51976,
+      "title": "[kernels]: lgamma (fp32) returns one identical value for all 167,773 floats in [0.5, 0.51], then jumps 0.071",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/51976",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-03T14:28:22Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2458,
+      "title": "Add 9 missing provider logos; fix lunarcrush filename case",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2458",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T04:09:44Z"
+    },
+    {
+      "repo": "scipy/xsf",
+      "number": 233,
+      "title": "FIX: kelvin: ker and kei are wrong across the subnormal range",
+      "url": "https://github.com/scipy/xsf/pull/233",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T04:00:36Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2457,
+      "title": "Add missing CDP Faucet networks and assets (Ethereum Sepolia, Solana Devnet, USDC/EURC/cbBTC)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2457",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T03:31:49Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2456,
+      "title": "Add Ripio and Bitnob to ramps (LATAM / Africa)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2456",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T03:23:33Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2455,
+      "title": "Add Flipside, Amberdata and Kaiko analytics providers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2455",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T03:12:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2454,
+      "title": "Add Solscan, Starkscan and Voyager block explorers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2454",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T02:52:20Z"
+    },
+    {
+      "repo": "Mudlet/Mudlet",
+      "number": 9615,
+      "title": "fix: table.n_collect drops values that match an index",
+      "url": "https://github.com/Mudlet/Mudlet/pull/9615",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T02:38:50Z"
+    },
+    {
+      "repo": "Mudlet/Mudlet",
+      "number": 9614,
+      "title": "fix: compare() no longer rejects tables that hold false",
+      "url": "https://github.com/Mudlet/Mudlet/pull/9614",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T02:38:48Z"
+    },
+    {
+      "repo": "Mudlet/Mudlet",
+      "number": 9613,
+      "title": "fix: stop table.union modifying a table it was given",
+      "url": "https://github.com/Mudlet/Mudlet/pull/9613",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T02:36:03Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2453,
+      "title": "Add Sia, Walrus and Zus decentralized storage networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2453",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T01:34:41Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2452,
+      "title": "Add Code4rena, Sherlock and Immunefi audit platforms",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2452",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T01:31:13Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2451,
+      "title": "Add Certora and Dedaub formal-verification and analysis tooling",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2451",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-03T01:28:24Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2448,
+      "title": "Remove ERCx: product discontinued, domain no longer resolves",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2448",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T23:58:56Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2447,
+      "title": "[DBIP] Automated link-health validation with severity bands (1,861 URLs scanned: 2 dead pages, 5 dead domains, 169 silent redirects)",
+      "url": "https://github.com/Chain-Love/chain-love/issues/2447",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T23:54:51Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2446,
+      "title": "Update six offer URLs that permanently moved",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2446",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T23:47:38Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2445,
+      "title": "Remove Martian Wallet: every domain is dead or repointed elsewhere",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2445",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T23:45:53Z"
+    },
+    {
+      "repo": "tscircuit/core",
+      "number": 2982,
+      "title": "fix: normalize bounds Y axis when checking pcb primitive overlap",
+      "url": "https://github.com/tscircuit/core/pull/2982",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T21:38:47Z"
+    },
+    {
+      "repo": "sourcey/startup-credits",
+      "number": 51,
+      "title": "catalog: add Braintrust for Startups",
+      "url": "https://github.com/sourcey/startup-credits/pull/51",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T20:22:39Z"
+    },
+    {
+      "repo": "sourcey/startup-credits",
+      "number": 50,
+      "title": "catalog: add Braintrust for Startups",
+      "url": "https://github.com/sourcey/startup-credits/pull/50",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T20:14:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2444,
+      "title": "Update five provider URLs that permanently moved",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2444",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T20:02:54Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 2443,
+      "title": "Remove Dapp Pocket: domain lapsed and now redirects to unrelated content",
+      "url": "https://github.com/Chain-Love/chain-love/pull/2443",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T20:01:43Z"
+    },
+    {
+      "repo": "sourcey/startup-credits",
+      "number": 49,
+      "title": "catalog: add Laioutr Startup Program",
+      "url": "https://github.com/sourcey/startup-credits/pull/49",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T19:59:12Z"
+    },
+    {
+      "repo": "CALLE-AI/call-e-integrations",
+      "number": 73,
+      "title": "fix(cli): reject non-numeric --timeout-seconds instead of passing NaN downstream",
+      "url": "https://github.com/CALLE-AI/call-e-integrations/pull/73",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T19:52:57Z"
+    },
+    {
+      "repo": "sourcey/startup-credits",
+      "number": 48,
+      "title": "catalog: add HelpLook Startup Program",
+      "url": "https://github.com/sourcey/startup-credits/pull/48",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T19:48:21Z"
+    },
+    {
+      "repo": "datahub-project/datahub",
+      "number": 18821,
+      "title": "fix(cli): package the datapack resources so the bundled files ship in the wheel",
+      "url": "https://github.com/datahub-project/datahub/pull/18821",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T19:48:13Z"
+    },
+    {
+      "repo": "datahub-project/datahub",
+      "number": 18820,
+      "title": "testIntegrationBatch1 segfaults on master after tests pass; exit 139 is reported as a test failure",
+      "url": "https://github.com/datahub-project/datahub/issues/18820",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T19:47:09Z"
+    },
+    {
+      "repo": "sourcey/startup-credits",
+      "number": 47,
+      "title": "catalog: add Kiro Startup Credits Program",
+      "url": "https://github.com/sourcey/startup-credits/pull/47",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T19:46:29Z"
+    },
+    {
+      "repo": "datahub-project/datahub",
+      "number": 18819,
+      "title": "Three sources disagree on whether Python 3.12 is supported; python_requires has no upper bound so new Pythons fail opaquely",
+      "url": "https://github.com/datahub-project/datahub/issues/18819",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T19:45:13Z"
+    },
+    {
+      "repo": "scipy/xsf",
+      "number": 232,
+      "title": "BUG: kelvin: the shared |x| < 10 branch point costs ber/bei/berp/beip ~6 digits, and ker/kei return NaN at the domain edges",
+      "url": "https://github.com/scipy/xsf/issues/232",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T19:43:07Z"
+    },
+    {
+      "repo": "iv-org/invidious",
+      "number": 5869,
+      "title": "channels: support the carouselHeaderRenderer channel header",
+      "url": "https://github.com/iv-org/invidious/pull/5869",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T17:47:37Z"
+    },
+    {
+      "repo": "sourcey/startup-credits",
+      "number": 41,
+      "title": "catalog: add Trigger.dev current YC deal",
+      "url": "https://github.com/sourcey/startup-credits/pull/41",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T16:48:04Z"
+    },
+    {
+      "repo": "sourcey/startup-credits",
+      "number": 40,
+      "title": "catalog: add GitBook Startups Program",
+      "url": "https://github.com/sourcey/startup-credits/pull/40",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T16:33:39Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 51866,
+      "title": "[kernels]: softplus (bf16) returns exactly 0 for x < -5, breaking the (0, inf) range",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/51866",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T16:32:28Z"
+    },
+    {
+      "repo": "iv-org/invidious",
+      "number": 5868,
+      "title": "[Bug] Auto-generated channels using carouselHeaderRenderer are unsupported (e.g. YouTube Sports)",
+      "url": "https://github.com/iv-org/invidious/issues/5868",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T15:27:54Z"
+    },
+    {
+      "repo": "sendaifun/solana-new",
+      "number": 61,
+      "title": "fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks",
+      "url": "https://github.com/sendaifun/solana-new/pull/61",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T06:35:51Z"
+    },
+    {
+      "repo": "CALLE-AI/call-e-integrations",
+      "number": 72,
+      "title": "fix(core): stop an unreadable token expiry meaning \"never expires\"",
+      "url": "https://github.com/CALLE-AI/call-e-integrations/pull/72",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T05:46:33Z"
+    },
+    {
+      "repo": "sendaifun/solana-new",
+      "number": 60,
+      "title": "fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows",
+      "url": "https://github.com/sendaifun/solana-new/pull/60",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T04:49:50Z"
+    },
+    {
+      "repo": "datahub-project/datahub",
+      "number": 18811,
+      "title": "fix(ingest): use tempfile.gettempdir() instead of hardcoded /tmp",
+      "url": "https://github.com/datahub-project/datahub/pull/18811",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T04:11:37Z"
+    },
+    {
+      "repo": "Paritok-official/paritok-4b-v1",
+      "number": 17,
+      "title": "fix(compress): key the result cache on intent, not content alone (query and level are silently ignored)",
+      "url": "https://github.com/Paritok-official/paritok-4b-v1/pull/17",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T03:25:56Z"
+    },
+    {
+      "repo": "CALLE-AI/call-e-integrations",
+      "number": 71,
+      "title": "fix(cli): stop cmd.exe mangling the OAuth URL on Windows (auth login silently fails)",
+      "url": "https://github.com/CALLE-AI/call-e-integrations/pull/71",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T03:16:26Z"
+    },
+    {
+      "repo": "CALLE-AI/call-e-integrations",
+      "number": 70,
+      "title": "fix: make the plugin/skill validators work on Windows (6 failing tests -> 0)",
+      "url": "https://github.com/CALLE-AI/call-e-integrations/pull/70",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T03:05:40Z"
+    },
+    {
+      "repo": "Paritok-official/paritok-4b-v1",
+      "number": 16,
+      "title": "[hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15)",
+      "url": "https://github.com/Paritok-official/paritok-4b-v1/issues/16",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T02:54:20Z"
+    },
+    {
+      "repo": "Paritok-official/paritok-4b-v1",
+      "number": 15,
+      "title": "fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs)",
+      "url": "https://github.com/Paritok-official/paritok-4b-v1/pull/15",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-08-02T02:46:18Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 51845,
+      "title": "[kernels]: sin/cos lose all accuracy past |x| ~1.04e5 and return |result| > 1 past ~1.68e7 (Cody-Waite reduction limit)",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/51845",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-02T02:30:38Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1989,
+      "title": "Fix OMNIA website links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1989",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T17:28:26Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1988,
+      "title": "Remove sunset Blocknative API listings",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1988",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T17:23:15Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1987,
+      "title": "Fix Altitude links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1987",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T17:11:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1986,
+      "title": "Fix Umbria bridge links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1986",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T17:04:09Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1985,
+      "title": "Fix Gate Web3 wallet links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1985",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T16:59:48Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1984,
+      "title": "Fix Uniblock JSON-RPC docs links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1984",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T16:55:03Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1983,
+      "title": "Update Chainbase Chain RPC links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1983",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T16:40:06Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1982,
+      "title": "Remove unavailable Cookbook MCP listing",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1982",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T16:19:13Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1981,
+      "title": "Remove unsupported Banxa MCP listing",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1981",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T16:14:08Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1979,
+      "title": "Fix LlamaNodes premium links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1979",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T16:02:06Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1978,
+      "title": "Remove decommissioned Hashport bridge listings",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1978",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T13:59:25Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1977,
+      "title": "Fix GeroWallet GitHub link",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1977",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T13:51:59Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1976,
+      "title": "Replace Crypto APIs referral links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1976",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T13:46:03Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1975,
+      "title": "Fix Tenderly canonical documentation links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1975",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-07-06T12:59:59Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1938,
+      "title": "Add third MCP server listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1938",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T04:27:03Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 798,
+      "title": "test: organization service lifecycle and uniqueness",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/798",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T04:26:13Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1937,
+      "title": "Add second MCP server listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1937",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T04:21:01Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 797,
+      "title": "feat: add verification idempotency keys",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/797",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T04:16:50Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1936,
+      "title": "Add MCP server listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1936",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T04:13:38Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 796,
+      "title": "feat: add job queue depth and stuck-job sweeper",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/796",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T04:05:58Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1935,
+      "title": "Add eighth wallet listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1935",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T04:05:54Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1934,
+      "title": "Add seventh wallet listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1934",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:57:12Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 795,
+      "title": "test: cover accountability vault partial payout boundaries",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/795",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:52:44Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1933,
+      "title": "Add sixth wallet listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1933",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:50:51Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1932,
+      "title": "Add fifth wallet listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1932",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:40:47Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 794,
+      "title": "feat: validate webhook event filters",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/794",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:38:24Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1931,
+      "title": "Add fourth wallet listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1931",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:35:04Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 793,
+      "title": "test: transaction repository cursor stability",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/793",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:30:08Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1930,
+      "title": "Add third wallet listing link batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1930",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:28:53Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1929,
+      "title": "Add more wallet listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1929",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:23:12Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 792,
+      "title": "test: ETL batch exactly-once guards",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/792",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:21:00Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1928,
+      "title": "Add core wallet listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1928",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:15:42Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 791,
+      "title": "test: milestone repository soft-delete and verifier queries",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/791",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:14:27Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1927,
+      "title": "Add platform listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1927",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T03:07:05Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 790,
+      "title": "test: WebAuthn counter rollback",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/790",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:59:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1926,
+      "title": "Add Aleph and Filebase storage listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1926",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:58:05Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1925,
+      "title": "Add Lighthouse storage listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1925",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:52:10Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 789,
+      "title": "test: step-up action binding",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/789",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:50:39Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1924,
+      "title": "Add Crust and Pinata storage listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1924",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:46:20Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 788,
+      "title": "test: prismaScope concurrent no-leakage",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/788",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:38:46Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1923,
+      "title": "Add Zeeve storage listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1923",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:33:27Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 787,
+      "title": "test: rate limiter tenant isolation",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/787",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:33:03Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1922,
+      "title": "Add AllThatNode and OMNIA API listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1922",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:25:48Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 786,
+      "title": "Harden S3 evidence object-key validation",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/786",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:22:56Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1921,
+      "title": "Add BlockEden API listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1921",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:18:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1920,
+      "title": "Add verified analytics listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1920",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:10:11Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 785,
+      "title": "perf: audit org-scoped list indexes",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/785",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:06:49Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1919,
+      "title": "Add remaining verified bridge action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1919",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T02:00:31Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 784,
+      "title": "perf: DataLoader-style analytics batch resolver",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/784",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:59:06Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1918,
+      "title": "Add bridge action links for seven providers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1918",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:49:35Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 783,
+      "title": "docs: accountability vault upgrade runbook",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/783",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:49:00Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1917,
+      "title": "Add RhinoFi Synapse Asterizm ChainPort and Router bridge links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1917",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:43:42Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 782,
+      "title": "perf: benchmark export stream backpressure",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/782",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:37:41Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1916,
+      "title": "Add Superbridge Wormhole Across and deBridge bridge links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1916",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:37:34Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 781,
+      "title": "security: add CSRF protection for cookie auth",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/781",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:31:33Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1915,
+      "title": "Add Celer CrossCurve and Transporter bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1915",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:26:50Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 780,
+      "title": "test: add API-key timing resistance coverage",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/780",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:25:25Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1914,
+      "title": "Add Chainspot Oku and Wanchain bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1914",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:21:07Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 779,
+      "title": "security: strict JWT audience issuer validation",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/779",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:17:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1913,
+      "title": "Add Squid and Rubic bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1913",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:15:49Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1912,
+      "title": "Add Symbiosis and Axelar bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1912",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:08:42Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 778,
+      "title": "security: add SSRF guard for evidence references",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/778",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:04:04Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1911,
+      "title": "Add Meson and Owlto bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1911",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T01:00:52Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 777,
+      "title": "security: add privacy logger allowlist guard",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/777",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:58:24Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1910,
+      "title": "Add Jumper and Interport bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1910",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:52:21Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 775,
+      "title": "security: add CodeQL workflow and dependency-review gate",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/775",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:51:37Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 774,
+      "title": "test: graphql depth-limit and complexity guard",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/774",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:48:28Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1909,
+      "title": "Add Orbiter and Layerswap bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1909",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:46:06Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 773,
+      "title": "test: queryParser prototype-pollution and injection guards",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/773",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:41:59Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1908,
+      "title": "Add Hyperlane and Stargate bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1908",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:39:51Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 772,
+      "title": "security: enforce org-scoped GraphQL resolvers",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/772",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:34:39Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1907,
+      "title": "Add SmolRefuel bridge listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1907",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:33:54Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1906,
+      "title": "Add ramp listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1906",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:25:06Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 771,
+      "title": "docs: add tenant isolation threat model",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/771",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:19:33Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1905,
+      "title": "Add explorer listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1905",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:18:12Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 770,
+      "title": "docs: add contributor onboarding guide",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/770",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:12:09Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1904,
+      "title": "Add faucet listing action links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1904",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:08:50Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 769,
+      "title": "docs: add on-call SLO runbook",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/769",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:03:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1903,
+      "title": "Add oracle listing documentation links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1903",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-27T00:02:28Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 768,
+      "title": "docs: add configuration reference",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/768",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T23:53:18Z"
+    },
+    {
+      "repo": "Disciplr-Org/Disciplr-backend",
+      "number": 767,
+      "title": "test: email provider injection guards",
+      "url": "https://github.com/Disciplr-Org/Disciplr-backend/pull/767",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T23:47:38Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1902,
+      "title": "Add Chainlink Data Feeds oracle links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1902",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T23:39:15Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 557,
+      "title": "test: cover positions wallet query params",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/557",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T23:37:49Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1901,
+      "title": "Add Chainlink CCIP listing links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1901",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T23:29:05Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1900,
+      "title": "[DBIP] Add sourceUrls column for offer evidence provenance",
+      "url": "https://github.com/Chain-Love/chain-love/issues/1900",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-06-26T23:12:50Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 556,
+      "title": "test: cover transaction filter validation",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/556",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T22:07:51Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 555,
+      "title": "docs: add rbac role guide",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/555",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T22:04:02Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 552,
+      "title": "docs: document request id tracing",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/552",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T22:00:31Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 551,
+      "title": "security: compare csrf tokens in constant time",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/551",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T21:54:21Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 550,
+      "title": "security: verify database TLS by default",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/550",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T21:50:45Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 549,
+      "title": "test: cover sentry telemetry guard",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/549",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T21:46:21Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 548,
+      "title": "test: cover transaction validator clamping",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/548",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T21:43:00Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 547,
+      "title": "test: cover account export bundle scoping",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/547",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T21:36:36Z"
+    },
+    {
+      "repo": "StellarLend/stellarlend-contracts",
+      "number": 1163,
+      "title": "test(amm): add mint share invariant proptests",
+      "url": "https://github.com/StellarLend/stellarlend-contracts/pull/1163",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T21:26:21Z"
+    },
+    {
+      "repo": "StellarLend/Stellarlend-frontend",
+      "number": 546,
+      "title": "test: cover request id ULID helpers",
+      "url": "https://github.com/StellarLend/Stellarlend-frontend/pull/546",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T21:17:32Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 144,
+      "title": "Public bug page uses bug@apn.tech while reward docs use bugs@apn.tech",
+      "url": "https://github.com/APN-Network/bugs/issues/144",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-06-26T20:43:11Z"
+    },
+    {
+      "repo": "APN-Network/bugs",
+      "number": 143,
+      "title": "README tells testers to sign in even though APN advertises no signup/no email",
+      "url": "https://github.com/APN-Network/bugs/issues/143",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-06-26T20:39:46Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1899,
+      "title": "Update remaining free-row offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1899",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T19:41:02Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1898,
+      "title": "Update remaining service product and plan metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1898",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T19:26:08Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1896,
+      "title": "Update remaining product and plan metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1896",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T19:10:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1895,
+      "title": "Update third MCP server metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1895",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:56:27Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1894,
+      "title": "Update remaining offer search metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1894",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:47:14Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1893,
+      "title": "Update seventh API offer metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1893",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:37:26Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1892,
+      "title": "Update sixth API offer metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1892",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:32:01Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1891,
+      "title": "Update fifth API offer metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1891",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:25:35Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1890,
+      "title": "Update storage offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1890",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:20:51Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1889,
+      "title": "Update fourth API offer metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1889",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:16:32Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1888,
+      "title": "Update second MCP server metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1888",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:05:28Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1887,
+      "title": "Update third API offer metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1887",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T18:04:47Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1886,
+      "title": "Update service offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1886",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:55:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1885,
+      "title": "Update second API offer metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1885",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:50:52Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1884,
+      "title": "Update MCP server offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1884",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:48:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1883,
+      "title": "Update API offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1883",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:39:00Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1882,
+      "title": "Update bridge offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1882",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:32:39Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1881,
+      "title": "Update analytics offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1881",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:25:46Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1880,
+      "title": "Update wallet offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1880",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:17:02Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1879,
+      "title": "Update ramp and faucet offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1879",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:12:46Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1878,
+      "title": "Update platform offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1878",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T17:00:50Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1877,
+      "title": "Update oracle offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1877",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T16:53:50Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1876,
+      "title": "Update oracle and explorer offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1876",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T16:46:26Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1874,
+      "title": "Update security offer metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1874",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T16:31:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1873,
+      "title": "Fix provider GitHub links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1873",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T16:30:29Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1872,
+      "title": "Update fourth SDK metadata batch",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1872",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T16:09:19Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1871,
+      "title": "Update more SDK package metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1871",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T15:39:55Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1870,
+      "title": "[DBIP] Clarify MCP endpoint and source URL fields",
+      "url": "https://github.com/Chain-Love/chain-love/issues/1870",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-06-26T15:27:42Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1869,
+      "title": "Fix current documentation links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1869",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T15:16:28Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1868,
+      "title": "Update additional SDK release metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1868",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T14:47:47Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1867,
+      "title": "Update SDK release metadata",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1867",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T14:31:21Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 1866,
+      "title": "Fix stale Meld, Moralis, and LunarCrush links",
+      "url": "https://github.com/Chain-Love/chain-love/pull/1866",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-06-26T14:20:19Z"
+    },
+    {
+      "repo": "arakoodev/EdgeChains",
+      "number": 611,
+      "title": "feat(comprehend): add Amazon Comprehend PII redaction utility",
+      "url": "https://github.com/arakoodev/EdgeChains/pull/611",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-06-13T02:53:38Z"
+    }
+  ]
+}

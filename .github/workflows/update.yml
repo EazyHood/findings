@@ -1,0 +1,47 @@
+name: Update the record
+
+on:
+  schedule:
+    # Every six hours. Nothing here is urgent, but a same-day application should
+    # find today's work already listed.
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/update.mjs"
+      - ".github/workflows/update.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-record
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Rebuild from the GitHub API
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update.mjs
+
+      - name: Commit only if something actually changed
+        run: |
+          if git diff --quiet; then
+            echo "No change. Nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md RECORD.md data/record.json
+          git commit -m "record: refresh from the GitHub API"
+          git push
