@@ -2,12 +2,18 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-08-29. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-08-30. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
+| [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] 38 JSON list cells repeat an element inside the same array; five bridges declare one chain more than they support | open |
+| [#3302](https://github.com/Chain-Love/chain-love/issues/3302) | [DBIP] `historicalData` holds a word from the row's own slug in 20 rows, and the same file shows where that concept belongs | open |
+| [#3301](https://github.com/Chain-Love/chain-love/issues/3301) | [DBIP] References-Syntax says writing `null` prevents inheritance; the converter treats it exactly like a blank | open |
+| [#3300](https://github.com/Chain-Love/chain-love/issues/3300) | [DBIP] Six category pages teach a `chain` column that does not exist in the offer masters, shifting every field after it | open |
+| [#3299](https://github.com/Chain-Love/chain-love/issues/3299) | [DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 7 tagged offers out of 804 | open |
 | [#3293](https://github.com/Chain-Love/chain-love/issues/3293) | [DBIP] References-Syntax states that writing `null` blocks inheritance; running csv_to_json.py shows it inherits exactly like a blank, and the same paragraph says "provider" three times where it means "offer" | open |
 | [#3292](https://github.com/Chain-Love/chain-love/issues/3292) | [DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 4 tagged offers out of 802 | open |
 | [#3291](https://github.com/Chain-Love/chain-love/issues/3291) | [DBIP] The worked example on 13 of 14 category pages is shifted one column: 12 share a single cause, and SDKs currently teaches `starred = TBD` | open |

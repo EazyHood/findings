@@ -1,14 +1,74 @@
 {
   "totals": {
-    "generatedAt": "2026-08-29",
+    "generatedAt": "2026-08-30",
     "prsOpened": 214,
     "prsMerged": 59,
-    "issuesOpened": 53,
+    "issuesOpened": 59,
     "issuesClosed": 14,
     "organizations": 19,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3304,
+      "title": "[DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3304",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-30T02:41:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3303,
+      "title": "[DBIP] 38 JSON list cells repeat an element inside the same array; five bridges declare one chain more than they support",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3303",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-30T02:39:33Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3302,
+      "title": "[DBIP] `historicalData` holds a word from the row's own slug in 20 rows, and the same file shows where that concept belongs",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3302",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-30T02:38:16Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3301,
+      "title": "[DBIP] References-Syntax says writing `null` prevents inheritance; the converter treats it exactly like a blank",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3301",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-30T02:24:55Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3300,
+      "title": "[DBIP] Six category pages teach a `chain` column that does not exist in the offer masters, shifting every field after it",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3300",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-30T02:23:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3299,
+      "title": "[DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 7 tagged offers out of 804",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3299",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-30T02:21:16Z"
+    },
     {
       "repo": "APN-Network/bugs",
       "number": 204,
