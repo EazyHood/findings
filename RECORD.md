@@ -243,11 +243,11 @@ Generated automatically on 2026-08-30. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#204](https://github.com/APN-Network/bugs/issues/204) | Reward docs describe an email claim, but 0crat points reporters at a Zerocracy account, and neither document mentions the other | open |
-| [#203](https://github.com/APN-Network/bugs/issues/203) | lang cookie is set without the Secure attribute, so it is sent over plaintext HTTP | open |
-| [#202](https://github.com/APN-Network/bugs/issues/202) | CSP script-src ends in `https:`, which allows any HTTPS host and cancels the per-request nonce | open |
-| [#201](https://github.com/APN-Network/bugs/issues/201) | Every page loads jQuery from cdnjs and never calls it, adding a third-party request for nothing | open |
-| [#200](https://github.com/APN-Network/bugs/issues/200) | Mock phone status bar shows UTC to every visitor, so the clock is wrong outside UTC+0 | open |
+| [#204](https://github.com/APN-Network/bugs/issues/204) | Reward docs describe an email claim, but 0crat points reporters at a Zerocracy account, and neither document mentions the other | closed |
+| [#203](https://github.com/APN-Network/bugs/issues/203) | lang cookie is set without the Secure attribute, so it is sent over plaintext HTTP | closed |
+| [#202](https://github.com/APN-Network/bugs/issues/202) | CSP script-src ends in `https:`, which allows any HTTPS host and cancels the per-request nonce | closed |
+| [#201](https://github.com/APN-Network/bugs/issues/201) | Every page loads jQuery from cdnjs and never calls it, adding a third-party request for nothing | closed |
+| [#200](https://github.com/APN-Network/bugs/issues/200) | Mock phone status bar shows UTC to every visitor, so the clock is wrong outside UTC+0 | closed |
 | [#199](https://github.com/APN-Network/bugs/issues/199) | Privacy policy's only mention of cookies is a denial, but apn.tech sets a one-year lang cookie | open |
 | [#198](https://github.com/APN-Network/bugs/issues/198) | Site language lives only in a cookie, so four of the five locales have no URL and cannot be indexed | closed |
 | [#197](https://github.com/APN-Network/bugs/issues/197) | apn.tech sends no Strict-Transport-Security header, so the first visit is downgradeable | closed |
