@@ -3,7 +3,7 @@
     "generatedAt": "2026-08-31",
     "prsOpened": 218,
     "prsMerged": 59,
-    "issuesOpened": 60,
+    "issuesOpened": 61,
     "issuesClosed": 19,
     "organizations": 19,
     "truncated": false
@@ -11,8 +11,18 @@
   "items": [
     {
       "repo": "Chain-Love/chain-love",
+      "number": 3347,
+      "title": "[DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3347",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-31T15:02:40Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
       "number": 3326,
-      "title": "data(providers): fill 49 missing docs and x cells, from docs subdomains and GitHub org profiles",
+      "title": "data(providers): fill 53 missing link cells for 31 providers (batch 4 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3326",
       "state": "open",
       "merged": false,
@@ -22,7 +32,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3325,
-      "title": "data(providers): fill 66 missing link cells for 38 providers, sourced from each provider's own site",
+      "title": "data(providers): fill 37 missing link cells for 32 providers (batch 3 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3325",
       "state": "open",
       "merged": false,
@@ -32,7 +42,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 66 missing link cells for 48 providers, sourced from each provider's own site",
+      "title": "data(providers): fill 43 missing link cells for 32 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,
@@ -42,7 +52,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3323,
-      "title": "data(providers): fill 81 missing link cells for 48 providers, sourced from each provider's own site",
+      "title": "data(providers): fill 46 missing link cells for 32 providers (batch 1 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3323",
       "state": "open",
       "merged": false,
