@@ -1,14 +1,64 @@
 {
   "totals": {
-    "generatedAt": "2026-08-30",
-    "prsOpened": 214,
+    "generatedAt": "2026-08-31",
+    "prsOpened": 218,
     "prsMerged": 59,
-    "issuesOpened": 59,
+    "issuesOpened": 60,
     "issuesClosed": 19,
     "organizations": 19,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3326,
+      "title": "data(providers): fill 49 missing docs and x cells, from docs subdomains and GitHub org profiles",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3326",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-31T03:14:45Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3325,
+      "title": "data(providers): fill 66 missing link cells for 38 providers, sourced from each provider's own site",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3325",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-31T03:05:59Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3324,
+      "title": "data(providers): fill 66 missing link cells for 48 providers, sourced from each provider's own site",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3324",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-31T03:05:56Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3323,
+      "title": "data(providers): fill 81 missing link cells for 48 providers, sourced from each provider's own site",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3323",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-08-31T03:05:47Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3322,
+      "title": "[DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3322",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-08-30T23:06:11Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 3304,

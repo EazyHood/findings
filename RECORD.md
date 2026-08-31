@@ -2,12 +2,17 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-08-30. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-08-31. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 49 missing docs and x cells, from docs subdomains and GitHub org profiles | open |
+| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 66 missing link cells for 38 providers, sourced from each provider's own site | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 66 missing link cells for 48 providers, sourced from each provider's own site | open |
+| [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 81 missing link cells for 48 providers, sourced from each provider's own site | open |
+| [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
 | [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] 38 JSON list cells repeat an element inside the same array; five bridges declare one chain more than they support | open |
 | [#3302](https://github.com/Chain-Love/chain-love/issues/3302) | [DBIP] `historicalData` holds a word from the row's own slug in 20 rows, and the same file shows where that concept belongs | open |
