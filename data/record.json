@@ -1,8 +1,8 @@
 {
   "totals": {
-    "generatedAt": "2026-08-31",
+    "generatedAt": "2026-09-01",
     "prsOpened": 218,
-    "prsMerged": 59,
+    "prsMerged": 60,
     "issuesOpened": 61,
     "issuesClosed": 19,
     "organizations": 19,
@@ -994,8 +994,8 @@
       "number": 412285,
       "title": "New package: EazyHood.AppCloner version 4.0.0",
       "url": "https://github.com/microsoft/winget-pkgs/pull/412285",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-04T17:17:25Z"
     },

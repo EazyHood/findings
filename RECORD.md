@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-08-31. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-09-01. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -357,7 +357,7 @@ Generated automatically on 2026-08-31. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#412285](https://github.com/microsoft/winget-pkgs/pull/412285) | New package: EazyHood.AppCloner version 4.0.0 | open |
+| [#412285](https://github.com/microsoft/winget-pkgs/pull/412285) | New package: EazyHood.AppCloner version 4.0.0 | **merged** |
 
 ## EazyHood/AppCloner
 
