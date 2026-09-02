@@ -15,7 +15,7 @@ Generated automatically on 2026-09-02. Do not edit by hand: `scripts/update.mjs`
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 46 missing link cells for 32 providers (batch 1 of 4) | open |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
-| [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] 38 JSON list cells repeat an element inside the same array; five bridges declare one chain more than they support | open |
+| [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] Clean 36 genuine duplicate JSON-list cells; preserve two positional QuickNode values | open |
 | [#3302](https://github.com/Chain-Love/chain-love/issues/3302) | [DBIP] `historicalData` holds a word from the row's own slug in 20 rows, and the same file shows where that concept belongs | open |
 | [#3301](https://github.com/Chain-Love/chain-love/issues/3301) | [DBIP] References-Syntax says writing `null` prevents inheritance; the converter treats it exactly like a blank | open |
 | [#3300](https://github.com/Chain-Love/chain-love/issues/3300) | [DBIP] Six category pages teach a `chain` column that does not exist in the offer masters, shifting every field after it | open |
@@ -42,7 +42,7 @@ Generated automatically on 2026-09-02. Do not edit by hand: `scripts/update.mjs`
 | [#2993](https://github.com/Chain-Love/chain-love/pull/2993) | data(providers): fill 97 verified contact and social fields on 50 providers | closed unmerged |
 | [#2685](https://github.com/Chain-Love/chain-love/issues/2685) | [DBIP] starred sits after pricing in 6 explorers.csv listings and after additionalFeatures in the master and the other 72 | closed |
 | [#2684](https://github.com/Chain-Love/chain-love/issues/2684) | [DBIP] 36 of 42 services.csv network listings order planName before planType, against the master and the byte-identical storages schema | closed |
-| [#2683](https://github.com/Chain-Love/chain-love/issues/2683) | [DBIP] apis, bridges and faucets store missing values as literal NULL/null strings; the other 11 categories leave them empty | open |
+| [#2683](https://github.com/Chain-Love/chain-love/issues/2683) | [DBIP] Normalize literal NULL/null sentinels in APIs, bridges and faucets | open |
 | [#2682](https://github.com/Chain-Love/chain-love/issues/2682) | [DBIP] wallets names its audit column `audit`; the three other audit-carrying categories name it `auditsPerformed` | open |
 | [#2681](https://github.com/Chain-Love/chain-love/issues/2681) | [DBIP] economicalSecurity/economicalSecurityNote misspell "economic security" in all 219 bridge and oracle files | open |
 | [#2638](https://github.com/Chain-Love/chain-love/pull/2638) | data(providers): fill missing contact and social fields (batch 4) | closed unmerged |

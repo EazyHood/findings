@@ -82,7 +82,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3303,
-      "title": "[DBIP] 38 JSON list cells repeat an element inside the same array; five bridges declare one chain more than they support",
+      "title": "[DBIP] Clean 36 genuine duplicate JSON-list cells; preserve two positional QuickNode values",
       "url": "https://github.com/Chain-Love/chain-love/issues/3303",
       "state": "open",
       "merged": false,
@@ -672,7 +672,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 2683,
-      "title": "[DBIP] apis, bridges and faucets store missing values as literal NULL/null strings; the other 11 categories leave them empty",
+      "title": "[DBIP] Normalize literal NULL/null sentinels in APIs, bridges and faucets",
       "url": "https://github.com/Chain-Love/chain-love/issues/2683",
       "state": "open",
       "merged": false,
