@@ -1,14 +1,54 @@
 {
   "totals": {
-    "generatedAt": "2026-09-02",
-    "prsOpened": 218,
+    "generatedAt": "2026-09-03",
+    "prsOpened": 220,
     "prsMerged": 60,
-    "issuesOpened": 61,
+    "issuesOpened": 63,
     "issuesClosed": 19,
     "organizations": 19,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3577,
+      "title": "data(providers): fill 15 missing github organisations, matched by website domain (batch 1 of 1)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3577",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-03T03:34:12Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3574,
+      "title": "[DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3574",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-09-03T03:12:11Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 55288,
+      "title": "[ttnn] logaddexp2: overflow-safe fused SFPU implementation",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/55288",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-02T23:00:19Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3557,
+      "title": "[DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3557",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-09-02T21:58:47Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 3347,
@@ -22,7 +62,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3326,
-      "title": "data(providers): fill 53 missing link cells for 31 providers (batch 4 of 4)",
+      "title": "data(providers): fill 50 missing link cells for 28 providers (batch 4 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3326",
       "state": "open",
       "merged": false,
@@ -32,7 +72,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3325,
-      "title": "data(providers): fill 37 missing link cells for 32 providers (batch 3 of 4)",
+      "title": "data(providers): fill 33 missing link cells for 29 providers (batch 3 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3325",
       "state": "open",
       "merged": false,
@@ -42,7 +82,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 43 missing link cells for 32 providers (batch 2 of 4)",
+      "title": "data(providers): fill 38 missing link cells for 28 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,
@@ -52,7 +92,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3323,
-      "title": "data(providers): fill 46 missing link cells for 32 providers (batch 1 of 4)",
+      "title": "data(providers): fill 40 missing link cells for 28 providers (batch 1 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3323",
       "state": "open",
       "merged": false,

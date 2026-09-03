@@ -2,17 +2,20 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-09-02. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-09-03. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 15 missing github organisations, matched by website domain (batch 1 of 1) | open |
+| [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
+| [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
-| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 53 missing link cells for 31 providers (batch 4 of 4) | open |
-| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 37 missing link cells for 32 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 43 missing link cells for 32 providers (batch 2 of 4) | open |
-| [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 46 missing link cells for 32 providers (batch 1 of 4) | open |
+| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 50 missing link cells for 28 providers (batch 4 of 4) | open |
+| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 33 missing link cells for 29 providers (batch 3 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 38 missing link cells for 28 providers (batch 2 of 4) | open |
+| [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 40 missing link cells for 28 providers (batch 1 of 4) | open |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
 | [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] Clean 36 genuine duplicate JSON-list cells; preserve two positional QuickNode values | open |
@@ -198,6 +201,7 @@ Generated automatically on 2026-09-02. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | open |
 | [#52856](https://github.com/tenstorrent/tt-metal/pull/52856) | [ttnn] logaddexp: overflow-safe fused SFPU implementation | open |
 | [#52668](https://github.com/tenstorrent/tt-metal/pull/52668) | fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it | open |
 | [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): factor the magnitude out before squaring in the variance composite | open |
