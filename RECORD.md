@@ -19,7 +19,7 @@ Generated automatically on 2026-09-07. Do not edit by hand: `scripts/update.mjs`
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 40 missing link cells for 28 providers (batch 1 of 4) | open |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
-| [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] Clean 36 genuine duplicate JSON-list cells; preserve two positional QuickNode values | open |
+| [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] Clean 36 genuine duplicate JSON-list cells; preserve two positional QuickNode values | closed |
 | [#3302](https://github.com/Chain-Love/chain-love/issues/3302) | [DBIP] `historicalData` holds a word from the row's own slug in 20 rows, and the same file shows where that concept belongs | open |
 | [#3301](https://github.com/Chain-Love/chain-love/issues/3301) | [DBIP] References-Syntax says writing `null` prevents inheritance; the converter treats it exactly like a blank | open |
 | [#3300](https://github.com/Chain-Love/chain-love/issues/3300) | [DBIP] Six category pages teach a `chain` column that does not exist in the offer masters, shifting every field after it | open |
