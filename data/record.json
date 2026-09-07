@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-09-06",
-    "prsOpened": 220,
+    "generatedAt": "2026-09-07",
+    "prsOpened": 221,
     "prsMerged": 60,
     "issuesOpened": 63,
     "issuesClosed": 19,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3687,
+      "title": "data(sui): add Walrus decentralized storage",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3687",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-07T00:53:25Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 3577,
