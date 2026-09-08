@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-09-08",
-    "prsOpened": 221,
+    "prsOpened": 222,
     "prsMerged": 60,
     "issuesOpened": 63,
     "issuesClosed": 20,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 55813,
+      "title": "fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866)",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/55813",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-08T20:22:41Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 3687,
