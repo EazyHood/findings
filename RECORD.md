@@ -202,7 +202,7 @@ Generated automatically on 2026-09-10. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#55813](https://github.com/tenstorrent/tt-metal/pull/55813) | fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866) | open |
+| [#55813](https://github.com/tenstorrent/tt-metal/pull/55813) | fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866) | closed unmerged |
 | [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | open |
 | [#52856](https://github.com/tenstorrent/tt-metal/pull/52856) | [ttnn] logaddexp: overflow-safe fused SFPU implementation | open |
 | [#52668](https://github.com/tenstorrent/tt-metal/pull/52668) | fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it | open |

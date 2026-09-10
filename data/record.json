@@ -24,7 +24,7 @@
       "number": 55813,
       "title": "fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866)",
       "url": "https://github.com/tenstorrent/tt-metal/pull/55813",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-09-08T20:22:41Z"
