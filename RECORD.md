@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-09-09. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-09-10. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -358,6 +358,12 @@ Generated automatically on 2026-09-09. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## cookiechain/superteam-hackathon-submissions
+
+| | Title | State |
+| --- | --- | --- |
+| [#2](https://github.com/cookiechain/superteam-hackathon-submissions/pull/2) | Cookie Payouts | open |
 
 ## microsoft/winget-pkgs
 

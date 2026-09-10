@@ -1,14 +1,24 @@
 {
   "totals": {
-    "generatedAt": "2026-09-09",
-    "prsOpened": 222,
+    "generatedAt": "2026-09-10",
+    "prsOpened": 223,
     "prsMerged": 60,
     "issuesOpened": 63,
     "issuesClosed": 20,
-    "organizations": 19,
+    "organizations": 20,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "cookiechain/superteam-hackathon-submissions",
+      "number": 2,
+      "title": "Cookie Payouts",
+      "url": "https://github.com/cookiechain/superteam-hackathon-submissions/pull/2",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-09T22:16:53Z"
+    },
     {
       "repo": "tenstorrent/tt-metal",
       "number": 55813,
