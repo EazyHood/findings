@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-09-11",
-    "prsOpened": 223,
+    "generatedAt": "2026-09-12",
+    "prsOpened": 224,
     "prsMerged": 60,
     "issuesOpened": 63,
     "issuesClosed": 20,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "CALLE-AI/awesome-phone-call-agents",
+      "number": 476,
+      "title": "feat(dockbrief): add receiving verification brief",
+      "url": "https://github.com/CALLE-AI/awesome-phone-call-agents/pull/476",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-11T21:11:31Z"
+    },
     {
       "repo": "cookiechain/superteam-hackathon-submissions",
       "number": 2,
