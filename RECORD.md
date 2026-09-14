@@ -325,9 +325,9 @@ Generated automatically on 2026-09-14. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#236](https://github.com/scipy/xsf/pull/236) | TST: kelvin: add a Wronskian identity test | open |
-| [#233](https://github.com/scipy/xsf/pull/233) | FIX: kelvin: ker and kei are wrong across the subnormal range | open |
-| [#232](https://github.com/scipy/xsf/issues/232) | BUG: kelvin: the shared \|x\| < 10 branch point costs ber/bei/berp/beip ~6 digits, and ker/kei return NaN at the domain edges | open |
+| [#236](https://github.com/scipy/xsf/pull/236) | TST(kelvin): kelvin: add a Wronskian identity test | open |
+| [#233](https://github.com/scipy/xsf/pull/233) | BUG(kelvin): ker/kei: fix across the whole subnormal range | open |
+| [#232](https://github.com/scipy/xsf/issues/232) | BUG: kelvin: the shared `\|x\| < 10` branch point costs `ber/bei/berp/beip` ~6 digits, and `ker/kei` return NaN at the domain edges | open |
 
 ## Mudlet/Mudlet
 
@@ -363,7 +363,7 @@ Generated automatically on 2026-09-14. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#476](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/476) | feat(dockbrief): add receiving verification brief | open |
+| [#476](https://github.com/CALLE-AI/awesome-phone-call-agents/pull/476) | feat(dockbrief): add receiving verification brief | **merged** |
 
 ## cookiechain/superteam-hackathon-submissions
 

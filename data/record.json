@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-09-14",
     "prsOpened": 224,
-    "prsMerged": 60,
+    "prsMerged": 61,
     "issuesOpened": 63,
     "issuesClosed": 20,
     "organizations": 20,
@@ -14,8 +14,8 @@
       "number": 476,
       "title": "feat(dockbrief): add receiving verification brief",
       "url": "https://github.com/CALLE-AI/awesome-phone-call-agents/pull/476",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-09-11T21:11:31Z"
     },
@@ -1122,7 +1122,7 @@
     {
       "repo": "scipy/xsf",
       "number": 236,
-      "title": "TST: kelvin: add a Wronskian identity test",
+      "title": "TST(kelvin): kelvin: add a Wronskian identity test",
       "url": "https://github.com/scipy/xsf/pull/236",
       "state": "open",
       "merged": false,
@@ -1152,7 +1152,7 @@
     {
       "repo": "scipy/xsf",
       "number": 233,
-      "title": "FIX: kelvin: ker and kei are wrong across the subnormal range",
+      "title": "BUG(kelvin): ker/kei: fix across the whole subnormal range",
       "url": "https://github.com/scipy/xsf/pull/233",
       "state": "open",
       "merged": false,
@@ -1422,7 +1422,7 @@
     {
       "repo": "scipy/xsf",
       "number": 232,
-      "title": "BUG: kelvin: the shared |x| < 10 branch point costs ber/bei/berp/beip ~6 digits, and ker/kei return NaN at the domain edges",
+      "title": "BUG: kelvin: the shared `|x| < 10` branch point costs `ber/bei/berp/beip` ~6 digits, and `ker/kei` return NaN at the domain edges",
       "url": "https://github.com/scipy/xsf/issues/232",
       "state": "open",
       "merged": false,
