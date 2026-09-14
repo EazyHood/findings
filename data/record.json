@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-09-14",
     "prsOpened": 224,
-    "prsMerged": 61,
+    "prsMerged": 62,
     "issuesOpened": 63,
     "issuesClosed": 20,
     "organizations": 20,
@@ -24,8 +24,8 @@
       "number": 2,
       "title": "Cookie Payouts",
       "url": "https://github.com/cookiechain/superteam-hackathon-submissions/pull/2",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-09-09T22:16:53Z"
     },

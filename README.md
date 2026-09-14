@@ -8,9 +8,9 @@ outcome column is not my claim — it is what the maintainers did. Where somethi
 says so.
 
 <!-- AUTO:TOTALS -->
-**Totals as of 2026-09-14:** 224 pull requests opened, **61 merged**; 63 issues opened, 20 closed. Across 20 organizations. The complete list is in [RECORD.md](RECORD.md), regenerated automatically.
+**Totals as of 2026-09-14:** 224 pull requests opened, **62 merged**; 63 issues opened, 20 closed. Across 20 organizations. The complete list is in [RECORD.md](RECORD.md), regenerated automatically.
 
-Two honest notes on those totals. First, 42 of the 61 merges come from two high-volume repositories (`Chain-Love/chain-love` and `Hazyshades/Sendly-Test-Repo`) where the work was individually small — the range is better shown by the other 19. Second, 43 of the 63 issues are still open, which is ordinary for issues filed against large projects and is not evidence of anything either way.
+Two honest notes on those totals. First, 42 of the 62 merges come from two high-volume repositories (`Chain-Love/chain-love` and `Hazyshades/Sendly-Test-Repo`) where the work was individually small — the range is better shown by the other 20. Second, 43 of the 63 issues are still open, which is ordinary for issues filed against large projects and is not evidence of anything either way.
 <!-- /AUTO:TOTALS -->
 
 ---

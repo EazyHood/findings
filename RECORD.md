@@ -369,7 +369,7 @@ Generated automatically on 2026-09-14. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#2](https://github.com/cookiechain/superteam-hackathon-submissions/pull/2) | Cookie Payouts | open |
+| [#2](https://github.com/cookiechain/superteam-hackathon-submissions/pull/2) | Cookie Payouts | **merged** |
 
 ## microsoft/winget-pkgs
 
