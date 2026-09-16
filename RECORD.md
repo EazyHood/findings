@@ -8,6 +8,16 @@ Generated automatically on 2026-09-16. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#3858](https://github.com/Chain-Love/chain-love/pull/3858) | data(algorand): add Folks Finance TestNet faucet | open |
+| [#3857](https://github.com/Chain-Love/chain-love/pull/3857) | data(filecoin): list RedStone FIL/USD push feeds on mainnet and Calibration | open |
+| [#3856](https://github.com/Chain-Love/chain-love/pull/3856) | data(filecoin): add Axelarscan and list the Token Terminal Filecoin explorer | open |
+| [#3855](https://github.com/Chain-Love/chain-love/pull/3855) | data(somnia): add Hyperlane Explorer for Somnia mainnet and testnet | open |
+| [#3854](https://github.com/Chain-Love/chain-love/pull/3854) | data(somnia): list the Pinata storage plans used by the Somnia NFT metadata guide | open |
+| [#3853](https://github.com/Chain-Love/chain-love/pull/3853) | data(filecoin): add Singularity data onboarding tool | open |
+| [#3852](https://github.com/Chain-Love/chain-love/issues/3852) | 18 provider rows carry a Discord invite that no longer resolves | open |
+| [#3851](https://github.com/Chain-Love/chain-love/pull/3851) | fix(hooks): look for the venv interpreter where Windows puts it | open |
+| [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | open |
+| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 29 verified link cells across 27 providers | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | open |
 | [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 15 missing github organisations, matched by website domain (batch 1 of 1) | open |
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
