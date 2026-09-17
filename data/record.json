@@ -954,7 +954,7 @@
       "number": 52668,
       "title": "fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52668",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-08-09T14:27:06Z"
