@@ -2,9 +2,9 @@
   "totals": {
     "generatedAt": "2026-09-18",
     "prsOpened": 233,
-    "prsMerged": 62,
+    "prsMerged": 63,
     "issuesOpened": 64,
-    "issuesClosed": 20,
+    "issuesClosed": 21,
     "organizations": 20,
     "truncated": false
   },
@@ -1044,8 +1044,8 @@
       "number": 52613,
       "title": "fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call)",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52613",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-08T14:32:15Z"
     },
@@ -1054,7 +1054,7 @@
       "number": 52612,
       "title": "[ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite",
       "url": "https://github.com/tenstorrent/tt-metal/issues/52612",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-08T14:26:33Z"
