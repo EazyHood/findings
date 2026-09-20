@@ -331,6 +331,14 @@ Generated automatically on 2026-09-20. Do not edit by hand: `scripts/update.mjs`
 | [#18819](https://github.com/datahub-project/datahub/issues/18819) | Three sources disagree on whether Python 3.12 is supported; python_requires has no upper bound so new Pythons fail opaquely | open |
 | [#18811](https://github.com/datahub-project/datahub/pull/18811) | fix(ingest): use tempfile.gettempdir() instead of hardcoded /tmp | **merged** |
 
+## EazyHood/DealRift
+
+| | Title | State |
+| --- | --- | --- |
+| [#25](https://github.com/EazyHood/DealRift/pull/25) | Añadir PlayStation y Xbox con filtros, catálogo gratuito y seguimiento | **merged** |
+| [#23](https://github.com/EazyHood/DealRift/pull/23) | Añadir biblioteca persistente, alertas de precio y asistente de compra | **merged** |
+| [#22](https://github.com/EazyHood/DealRift/pull/22) | fix: make Windows executable downloads visible | **merged** |
+
 ## scipy/xsf
 
 | | Title | State |

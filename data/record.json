@@ -1,14 +1,44 @@
 {
   "totals": {
     "generatedAt": "2026-09-20",
-    "prsOpened": 233,
-    "prsMerged": 63,
+    "prsOpened": 236,
+    "prsMerged": 66,
     "issuesOpened": 64,
     "issuesClosed": 21,
     "organizations": 20,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "EazyHood/DealRift",
+      "number": 25,
+      "title": "Añadir PlayStation y Xbox con filtros, catálogo gratuito y seguimiento",
+      "url": "https://github.com/EazyHood/DealRift/pull/25",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-09-20T19:45:12Z"
+    },
+    {
+      "repo": "EazyHood/DealRift",
+      "number": 23,
+      "title": "Añadir biblioteca persistente, alertas de precio y asistente de compra",
+      "url": "https://github.com/EazyHood/DealRift/pull/23",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-09-20T19:00:52Z"
+    },
+    {
+      "repo": "EazyHood/DealRift",
+      "number": 22,
+      "title": "fix: make Windows executable downloads visible",
+      "url": "https://github.com/EazyHood/DealRift/pull/22",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-09-20T18:24:47Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 3858,
