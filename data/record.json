@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-09-21",
-    "prsOpened": 236,
+    "prsOpened": 237,
     "prsMerged": 66,
     "issuesOpened": 64,
     "issuesClosed": 21,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 57245,
+      "title": "fix(quasar): step one ULP in nextafter instead of a fixed epsilon",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/57245",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-21T19:07:05Z"
+    },
     {
       "repo": "EazyHood/DealRift",
       "number": 25,
