@@ -1,14 +1,24 @@
 {
   "totals": {
     "generatedAt": "2026-09-23",
-    "prsOpened": 237,
-    "prsMerged": 66,
+    "prsOpened": 238,
+    "prsMerged": 67,
     "issuesOpened": 64,
     "issuesClosed": 21,
     "organizations": 20,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "EazyHood/DealRift",
+      "number": 26,
+      "title": "Añadir filtro de menor precio en USD entre países",
+      "url": "https://github.com/EazyHood/DealRift/pull/26",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-09-23T05:01:10Z"
+    },
     {
       "repo": "tenstorrent/tt-metal",
       "number": 57245,
