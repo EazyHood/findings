@@ -1,14 +1,54 @@
 {
   "totals": {
     "generatedAt": "2026-09-24",
-    "prsOpened": 238,
+    "prsOpened": 240,
     "prsMerged": 67,
-    "issuesOpened": 64,
+    "issuesOpened": 66,
     "issuesClosed": 21,
     "organizations": 20,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3980,
+      "title": "Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3980",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-09-24T15:12:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3979,
+      "title": "[DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers",
+      "url": "https://github.com/Chain-Love/chain-love/issues/3979",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-09-24T15:12:08Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3978,
+      "title": "data(faucets): remove the LearnWeb3 faucet, suspended since August",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3978",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-24T15:12:02Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 3977,
+      "title": "data(ramps): list Guardarian on Algorand and Filecoin",
+      "url": "https://github.com/Chain-Love/chain-love/pull/3977",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-09-24T15:11:58Z"
+    },
     {
       "repo": "EazyHood/DealRift",
       "number": 26,
