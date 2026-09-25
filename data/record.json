@@ -144,7 +144,7 @@
       "number": 3854,
       "title": "data(somnia): list the Pinata storage plans used by the Somnia NFT metadata guide",
       "url": "https://github.com/Chain-Love/chain-love/pull/3854",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-09-16T13:50:19Z"
@@ -154,7 +154,7 @@
       "number": 3853,
       "title": "data(filecoin): add Singularity data onboarding tool",
       "url": "https://github.com/Chain-Love/chain-love/pull/3853",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-09-16T13:49:26Z"
@@ -234,7 +234,7 @@
       "number": 3687,
       "title": "data(sui): add Walrus decentralized storage",
       "url": "https://github.com/Chain-Love/chain-love/pull/3687",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-09-07T00:53:25Z"
