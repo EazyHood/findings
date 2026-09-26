@@ -1,6 +1,6 @@
 {
   "totals": {
-    "generatedAt": "2026-09-25",
+    "generatedAt": "2026-09-26",
     "prsOpened": 240,
     "prsMerged": 67,
     "issuesOpened": 66,
@@ -192,7 +192,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3849,
-      "title": "data(providers): fill 26 verified link cells across 25 providers",
+      "title": "data(providers): fill 25 verified link cells across 24 providers",
       "url": "https://github.com/Chain-Love/chain-love/pull/3849",
       "state": "open",
       "merged": false,
@@ -292,7 +292,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3326,
-      "title": "data(providers): fill 45 missing link cells for 26 providers (batch 4 of 4)",
+      "title": "data(providers): fill 25 missing link cells for 19 providers",
       "url": "https://github.com/Chain-Love/chain-love/pull/3326",
       "state": "open",
       "merged": false,
@@ -302,7 +302,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3325,
-      "title": "data(providers): fill 29 missing link cells for 27 providers (batch 3 of 4)",
+      "title": "data(providers): fill 23 missing link cells for 22 providers (batch 3 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3325",
       "state": "open",
       "merged": false,
@@ -542,7 +542,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3250,
-      "title": "data(providers): consolidate 386 verified contact and social fields from five conflicting PRs",
+      "title": "data(providers): consolidate 263 verified contact and social fields from five conflicting PRs",
       "url": "https://github.com/Chain-Love/chain-love/pull/3250",
       "state": "open",
       "merged": false,

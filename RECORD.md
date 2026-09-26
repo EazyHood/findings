@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-09-25. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-09-26. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -21,14 +21,14 @@ Generated automatically on 2026-09-25. Do not edit by hand: `scripts/update.mjs`
 | [#3852](https://github.com/Chain-Love/chain-love/issues/3852) | 18 provider rows carry a Discord invite that no longer resolves | open |
 | [#3851](https://github.com/Chain-Love/chain-love/pull/3851) | fix(hooks): look for the venv interpreter where Windows puts it | open |
 | [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | open |
-| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 26 verified link cells across 25 providers | open |
+| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 25 verified link cells across 24 providers | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | closed unmerged |
 | [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 14 missing github organisations, matched by website domain (batch 1 of 1) | open |
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
 | [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
-| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 45 missing link cells for 26 providers (batch 4 of 4) | open |
-| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 29 missing link cells for 27 providers (batch 3 of 4) | open |
+| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 25 missing link cells for 19 providers | open |
+| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 23 missing link cells for 22 providers (batch 3 of 4) | open |
 | [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 37 missing link cells for 27 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | open |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
@@ -44,7 +44,7 @@ Generated automatically on 2026-09-25. Do not edit by hand: `scripts/update.mjs`
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
 | [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
 | [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 12 offer URLs at the destinations these providers moved to | open |
-| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 386 verified contact and social fields from five conflicting PRs | open |
+| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 263 verified contact and social fields from five conflicting PRs | open |
 | [#3240](https://github.com/Chain-Love/chain-love/issues/3240) | [DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16 | open |
 | [#3239](https://github.com/Chain-Love/chain-love/issues/3239) | [DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t | open |
 | [#3234](https://github.com/Chain-Love/chain-love/issues/3234) | [DBIP] `offer` is documented Blank: No but is empty in 1,228 of 1,460 canonical rows, leaving 138 providers with several unnamed offers | open |
