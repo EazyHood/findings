@@ -1152,7 +1152,7 @@
     {
       "repo": "tenstorrent/tt-metal",
       "number": 52611,
-      "title": "fix(eltwise): invert the divisor instead of its square in four backward composites (same op count)",
+      "title": "fix(eltwise): invert the divisor instead of its square in three backward composites (same op count)",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52611",
       "state": "open",
       "merged": false,
