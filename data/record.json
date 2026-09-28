@@ -2,9 +2,9 @@
   "totals": {
     "generatedAt": "2026-09-28",
     "prsOpened": 240,
-    "prsMerged": 67,
+    "prsMerged": 68,
     "issuesOpened": 66,
-    "issuesClosed": 21,
+    "issuesClosed": 22,
     "organizations": 20,
     "truncated": false
   },
@@ -974,8 +974,8 @@
       "number": 52856,
       "title": "[ttnn] logaddexp: overflow-safe fused SFPU implementation",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52856",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-11T16:31:43Z"
     },
@@ -1284,7 +1284,7 @@
       "number": 52037,
       "title": "[Bounty $1500] logaddexp / logaddexp2: overflow-safe reformulation",
       "url": "https://github.com/tenstorrent/tt-metal/issues/52037",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-04T05:37:03Z"

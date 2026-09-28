@@ -219,7 +219,7 @@ Generated automatically on 2026-09-28. Do not edit by hand: `scripts/update.mjs`
 | [#57245](https://github.com/tenstorrent/tt-metal/pull/57245) | fix(quasar): step one ULP in nextafter instead of a fixed epsilon | open |
 | [#55813](https://github.com/tenstorrent/tt-metal/pull/55813) | fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866) | closed unmerged |
 | [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | closed unmerged |
-| [#52856](https://github.com/tenstorrent/tt-metal/pull/52856) | [ttnn] logaddexp: overflow-safe fused SFPU implementation | open |
+| [#52856](https://github.com/tenstorrent/tt-metal/pull/52856) | [ttnn] logaddexp: overflow-safe fused SFPU implementation | **merged** |
 | [#52668](https://github.com/tenstorrent/tt-metal/pull/52668) | fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it | closed unmerged |
 | [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): factor the magnitude out before squaring in the variance composite | open |
 | [#52614](https://github.com/tenstorrent/tt-metal/issues/52614) | normalize_hw / std_hw / var_hw: the variance composite returns an exact 0 below \|x-mean\| ~1e-19 and saturates above ~1.8e19 | open |
@@ -235,7 +235,7 @@ Generated automatically on 2026-09-28. Do not edit by hand: `scripts/update.mjs`
 | [#52124](https://github.com/tenstorrent/tt-metal/pull/52124) | [kernels] Clamp sin/cos results to [-1, 1] | closed unmerged |
 | [#52094](https://github.com/tenstorrent/tt-metal/issues/52094) | ttnn.div returns 0 for large denominators — a/a is 0 instead of 1 | open |
 | [#52038](https://github.com/tenstorrent/tt-metal/issues/52038) | [ttnn]: tril/triu are composed as a mask multiply, so an inf in the masked region becomes NaN instead of 0 (fp32) | open |
-| [#52037](https://github.com/tenstorrent/tt-metal/issues/52037) | [Bounty $1500] logaddexp / logaddexp2: overflow-safe reformulation | open |
+| [#52037](https://github.com/tenstorrent/tt-metal/issues/52037) | [Bounty $1500] logaddexp / logaddexp2: overflow-safe reformulation | closed |
 | [#52036](https://github.com/tenstorrent/tt-metal/issues/52036) | [kernels]: xlogy NaN guard is dead code — `in1 == nan` can never be true, so xlogy(x, NaN) returns ~89 | open |
 | [#51976](https://github.com/tenstorrent/tt-metal/issues/51976) | [kernels]: lgamma (fp32) returns one identical value for all 167,773 floats in [0.5, 0.51], then jumps 0.071 | open |
 | [#51866](https://github.com/tenstorrent/tt-metal/issues/51866) | [kernels]: softplus (bf16) returns exactly 0 for x < -5, breaking the (0, inf) range | open |
