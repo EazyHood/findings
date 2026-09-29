@@ -12,15 +12,15 @@ Generated automatically on 2026-09-29. Do not edit by hand: `scripts/update.mjs`
 | [#3979](https://github.com/Chain-Love/chain-love/issues/3979) | [DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers | open |
 | [#3978](https://github.com/Chain-Love/chain-love/pull/3978) | data(faucets): remove the LearnWeb3 faucet, suspended since August | open |
 | [#3977](https://github.com/Chain-Love/chain-love/pull/3977) | data(ramps): list Guardarian on Algorand and Filecoin | open |
-| [#3858](https://github.com/Chain-Love/chain-love/pull/3858) | data(algorand): add Folks Finance TestNet faucet | open |
-| [#3857](https://github.com/Chain-Love/chain-love/pull/3857) | data(filecoin): list RedStone FIL/USD push feeds on mainnet and Calibration | open |
-| [#3856](https://github.com/Chain-Love/chain-love/pull/3856) | data(filecoin): add Axelarscan and list the Token Terminal Filecoin explorer | open |
-| [#3855](https://github.com/Chain-Love/chain-love/pull/3855) | data(somnia): add Hyperlane Explorer for Somnia mainnet and testnet | open |
+| [#3858](https://github.com/Chain-Love/chain-love/pull/3858) | data(algorand): add Folks Finance TestNet faucet | **merged** |
+| [#3857](https://github.com/Chain-Love/chain-love/pull/3857) | data(filecoin): list RedStone FIL/USD push feeds on mainnet and Calibration | **merged** |
+| [#3856](https://github.com/Chain-Love/chain-love/pull/3856) | data(filecoin): list the Token Terminal Filecoin explorer | open |
+| [#3855](https://github.com/Chain-Love/chain-love/pull/3855) | data(somnia): add Hyperlane Explorer for Somnia mainnet and testnet | closed unmerged |
 | [#3854](https://github.com/Chain-Love/chain-love/pull/3854) | data(somnia): list the Pinata storage plans used by the Somnia NFT metadata guide | closed unmerged |
 | [#3853](https://github.com/Chain-Love/chain-love/pull/3853) | data(filecoin): add Singularity data onboarding tool | closed unmerged |
 | [#3852](https://github.com/Chain-Love/chain-love/issues/3852) | 18 provider rows carry a Discord invite that no longer resolves | open |
-| [#3851](https://github.com/Chain-Love/chain-love/pull/3851) | fix(hooks): look for the venv interpreter where Windows puts it | open |
-| [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | open |
+| [#3851](https://github.com/Chain-Love/chain-love/pull/3851) | fix(hooks): look for the venv interpreter where Windows puts it | **merged** |
+| [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | **merged** |
 | [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 25 verified link cells across 24 providers | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | closed unmerged |
 | [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 14 missing github organisations, matched by website domain (batch 1 of 1) | open |
@@ -30,7 +30,7 @@ Generated automatically on 2026-09-29. Do not edit by hand: `scripts/update.mjs`
 | [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 25 missing link cells for 19 providers | open |
 | [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 23 missing link cells for 22 providers (batch 3 of 4) | open |
 | [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 37 missing link cells for 27 providers (batch 2 of 4) | open |
-| [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | open |
+| [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
 | [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] Clean 36 genuine duplicate JSON-list cells; preserve two positional QuickNode values | closed |
@@ -229,7 +229,7 @@ Generated automatically on 2026-09-29. Do not edit by hand: `scripts/update.mjs`
 | [#52376](https://github.com/tenstorrent/tt-metal/issues/52376) | [ttnn]: backward composites invert the divisor's square, losing the gradient for \|x\| < 1.08e-19 and again for \|x\| > 2^63 | open |
 | [#52375](https://github.com/tenstorrent/tt-metal/pull/52375) | fix(ttnn): softplus golden drops beta and threshold | open |
 | [#52326](https://github.com/tenstorrent/tt-metal/pull/52326) | [Bug fix] fix(data_movement): pad packs a float32 pad value as two bfloat16 halves | open |
-| [#52145](https://github.com/tenstorrent/tt-metal/pull/52145) | [Bug fix] tril/triu return NaN for non-finite inputs | open |
+| [#52145](https://github.com/tenstorrent/tt-metal/pull/52145) | [Bug fix] tril/triu: float32 returns NaN in the masked triangle for non-finite inputs | open |
 | [#52144](https://github.com/tenstorrent/tt-metal/pull/52144) | [Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x | open |
 | [#52131](https://github.com/tenstorrent/tt-metal/issues/52131) | The four tickets that blocked numeric_stable in #27995 are all closed; two of the four excepted softmax entry points still default to false and return all zeros above \|x\| ~85 | open |
 | [#52124](https://github.com/tenstorrent/tt-metal/pull/52124) | [kernels] Clamp sin/cos results to [-1, 1] | closed unmerged |
