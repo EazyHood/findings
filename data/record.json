@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-09-30",
     "prsOpened": 240,
-    "prsMerged": 73,
+    "prsMerged": 75,
     "issuesOpened": 66,
     "issuesClosed": 22,
     "organizations": 20,
@@ -124,8 +124,8 @@
       "number": 3856,
       "title": "data(explorers): remove tokenterminal-explorer, already listed under analytics",
       "url": "https://github.com/Chain-Love/chain-love/pull/3856",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-09-16T13:50:28Z"
     },
@@ -1154,8 +1154,8 @@
       "number": 52611,
       "title": "fix(eltwise): invert the divisor instead of its square in three backward composites (same op count)",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52611",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-08T14:23:58Z"
     },

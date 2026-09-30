@@ -14,7 +14,7 @@ Generated automatically on 2026-09-30. Do not edit by hand: `scripts/update.mjs`
 | [#3977](https://github.com/Chain-Love/chain-love/pull/3977) | data(ramps): list Guardarian on Algorand and Filecoin | open |
 | [#3858](https://github.com/Chain-Love/chain-love/pull/3858) | data(algorand): add Folks Finance TestNet faucet | **merged** |
 | [#3857](https://github.com/Chain-Love/chain-love/pull/3857) | data(filecoin): list RedStone FIL/USD push feeds on mainnet and Calibration | **merged** |
-| [#3856](https://github.com/Chain-Love/chain-love/pull/3856) | data(explorers): remove tokenterminal-explorer, already listed under analytics | open |
+| [#3856](https://github.com/Chain-Love/chain-love/pull/3856) | data(explorers): remove tokenterminal-explorer, already listed under analytics | **merged** |
 | [#3855](https://github.com/Chain-Love/chain-love/pull/3855) | data(somnia): add Hyperlane Explorer for Somnia mainnet and testnet | closed unmerged |
 | [#3854](https://github.com/Chain-Love/chain-love/pull/3854) | data(somnia): list the Pinata storage plans used by the Somnia NFT metadata guide | closed unmerged |
 | [#3853](https://github.com/Chain-Love/chain-love/pull/3853) | data(filecoin): add Singularity data onboarding tool | closed unmerged |
@@ -225,7 +225,7 @@ Generated automatically on 2026-09-30. Do not edit by hand: `scripts/update.mjs`
 | [#52614](https://github.com/tenstorrent/tt-metal/issues/52614) | normalize_hw / std_hw / var_hw: the variance composite returns an exact 0 below \|x-mean\| ~1e-19 and saturates above ~1.8e19 | open |
 | [#52613](https://github.com/tenstorrent/tt-metal/pull/52613) | fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call) | **merged** |
 | [#52612](https://github.com/tenstorrent/tt-metal/issues/52612) | [ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite | closed |
-| [#52611](https://github.com/tenstorrent/tt-metal/pull/52611) | fix(eltwise): invert the divisor instead of its square in three backward composites (same op count) | open |
+| [#52611](https://github.com/tenstorrent/tt-metal/pull/52611) | fix(eltwise): invert the divisor instead of its square in three backward composites (same op count) | **merged** |
 | [#52376](https://github.com/tenstorrent/tt-metal/issues/52376) | [ttnn]: backward composites invert the divisor's square, losing the gradient for \|x\| < 1.08e-19 and again for \|x\| > 2^63 | open |
 | [#52375](https://github.com/tenstorrent/tt-metal/pull/52375) | fix(ttnn): softplus golden drops beta and threshold | open |
 | [#52326](https://github.com/tenstorrent/tt-metal/pull/52326) | [Bug fix] fix(data_movement): pad packs a float32 pad value as two bfloat16 halves | open |
