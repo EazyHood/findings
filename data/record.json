@@ -4,7 +4,7 @@
     "prsOpened": 240,
     "prsMerged": 75,
     "issuesOpened": 66,
-    "issuesClosed": 22,
+    "issuesClosed": 23,
     "organizations": 20,
     "truncated": false
   },
@@ -1164,7 +1164,7 @@
       "number": 52376,
       "title": "[ttnn]: backward composites invert the divisor's square, losing the gradient for |x| < 1.08e-19 and again for |x| > 2^63",
       "url": "https://github.com/tenstorrent/tt-metal/issues/52376",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-07T00:00:05Z"
@@ -1174,7 +1174,7 @@
       "number": 52375,
       "title": "fix(ttnn): softplus golden drops beta and threshold",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52375",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-08-06T23:43:39Z"

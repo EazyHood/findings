@@ -226,8 +226,8 @@ Generated automatically on 2026-09-30. Do not edit by hand: `scripts/update.mjs`
 | [#52613](https://github.com/tenstorrent/tt-metal/pull/52613) | fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call) | **merged** |
 | [#52612](https://github.com/tenstorrent/tt-metal/issues/52612) | [ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite | closed |
 | [#52611](https://github.com/tenstorrent/tt-metal/pull/52611) | fix(eltwise): invert the divisor instead of its square in three backward composites (same op count) | **merged** |
-| [#52376](https://github.com/tenstorrent/tt-metal/issues/52376) | [ttnn]: backward composites invert the divisor's square, losing the gradient for \|x\| < 1.08e-19 and again for \|x\| > 2^63 | open |
-| [#52375](https://github.com/tenstorrent/tt-metal/pull/52375) | fix(ttnn): softplus golden drops beta and threshold | open |
+| [#52376](https://github.com/tenstorrent/tt-metal/issues/52376) | [ttnn]: backward composites invert the divisor's square, losing the gradient for \|x\| < 1.08e-19 and again for \|x\| > 2^63 | closed |
+| [#52375](https://github.com/tenstorrent/tt-metal/pull/52375) | fix(ttnn): softplus golden drops beta and threshold | closed unmerged |
 | [#52326](https://github.com/tenstorrent/tt-metal/pull/52326) | [Bug fix] fix(data_movement): pad packs a float32 pad value as two bfloat16 halves | open |
 | [#52145](https://github.com/tenstorrent/tt-metal/pull/52145) | [Bug fix] tril/triu: float32 returns NaN in the masked triangle for non-finite inputs | open |
 | [#52144](https://github.com/tenstorrent/tt-metal/pull/52144) | [Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x | open |
