@@ -4,7 +4,7 @@
     "prsOpened": 240,
     "prsMerged": 75,
     "issuesOpened": 66,
-    "issuesClosed": 23,
+    "issuesClosed": 25,
     "organizations": 20,
     "truncated": false
   },
@@ -242,7 +242,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3577,
-      "title": "data(providers): fill 13 missing github organisations, matched by website domain (batch 1 of 1)",
+      "title": "data(providers): fill 8 missing github organisations, matched by website domain (batch 1 of 1)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3577",
       "state": "open",
       "merged": false,
@@ -312,7 +312,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 36 missing link cells for 27 providers (batch 2 of 4)",
+      "title": "data(providers): fill 32 missing link cells for 26 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,
@@ -374,7 +374,7 @@
       "number": 3301,
       "title": "[DBIP] References-Syntax says writing `null` prevents inheritance; the converter treats it exactly like a blank",
       "url": "https://github.com/Chain-Love/chain-love/issues/3301",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-30T02:24:55Z"
@@ -394,7 +394,7 @@
       "number": 3299,
       "title": "[DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 7 tagged offers out of 804",
       "url": "https://github.com/Chain-Love/chain-love/issues/3299",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-30T02:21:16Z"

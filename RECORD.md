@@ -23,21 +23,21 @@ Generated automatically on 2026-10-01. Do not edit by hand: `scripts/update.mjs`
 | [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | **merged** |
 | [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 25 verified link cells across 24 providers | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | closed unmerged |
-| [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 13 missing github organisations, matched by website domain (batch 1 of 1) | open |
+| [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 8 missing github organisations, matched by website domain (batch 1 of 1) | open |
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
 | [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
 | [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 25 missing link cells for 19 providers | open |
 | [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 22 missing link cells for 21 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 36 missing link cells for 27 providers (batch 2 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 32 missing link cells for 26 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
 | [#3303](https://github.com/Chain-Love/chain-love/issues/3303) | [DBIP] Clean 36 genuine duplicate JSON-list cells; preserve two positional QuickNode values | closed |
 | [#3302](https://github.com/Chain-Love/chain-love/issues/3302) | [DBIP] `historicalData` holds a word from the row's own slug in 20 rows, and the same file shows where that concept belongs | open |
-| [#3301](https://github.com/Chain-Love/chain-love/issues/3301) | [DBIP] References-Syntax says writing `null` prevents inheritance; the converter treats it exactly like a blank | open |
+| [#3301](https://github.com/Chain-Love/chain-love/issues/3301) | [DBIP] References-Syntax says writing `null` prevents inheritance; the converter treats it exactly like a blank | closed |
 | [#3300](https://github.com/Chain-Love/chain-love/issues/3300) | [DBIP] Six category pages teach a `chain` column that does not exist in the offer masters, shifting every field after it | open |
-| [#3299](https://github.com/Chain-Love/chain-love/issues/3299) | [DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 7 tagged offers out of 804 | open |
+| [#3299](https://github.com/Chain-Love/chain-love/issues/3299) | [DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 7 tagged offers out of 804 | closed |
 | [#3293](https://github.com/Chain-Love/chain-love/issues/3293) | [DBIP] References-Syntax states that writing `null` blocks inheritance; running csv_to_json.py shows it inherits exactly like a blank, and the same paragraph says "provider" three times where it means "offer" | open |
 | [#3292](https://github.com/Chain-Love/chain-love/issues/3292) | [DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 4 tagged offers out of 802 | open |
 | [#3291](https://github.com/Chain-Love/chain-love/issues/3291) | [DBIP] The worked example on 13 of 14 category pages is shifted one column: 12 share a single cause, and SDKs currently teaches `starred = TBD` | open |
