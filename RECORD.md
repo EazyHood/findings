@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-09-30. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-01. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -28,8 +28,8 @@ Generated automatically on 2026-09-30. Do not edit by hand: `scripts/update.mjs`
 | [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
 | [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 25 missing link cells for 19 providers | open |
-| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 23 missing link cells for 22 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 37 missing link cells for 27 providers (batch 2 of 4) | open |
+| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 22 missing link cells for 21 providers (batch 3 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 36 missing link cells for 27 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
@@ -44,7 +44,7 @@ Generated automatically on 2026-09-30. Do not edit by hand: `scripts/update.mjs`
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
 | [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
 | [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 12 offer URLs at the destinations these providers moved to | open |
-| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 247 verified contact and social fields from five conflicting PRs | open |
+| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 243 verified contact and social fields from five conflicting PRs | open |
 | [#3240](https://github.com/Chain-Love/chain-love/issues/3240) | [DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16 | open |
 | [#3239](https://github.com/Chain-Love/chain-love/issues/3239) | [DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t | open |
 | [#3234](https://github.com/Chain-Love/chain-love/issues/3234) | [DBIP] `offer` is documented Blank: No but is empty in 1,228 of 1,460 canonical rows, leaving 138 providers with several unnamed offers | open |
@@ -221,7 +221,7 @@ Generated automatically on 2026-09-30. Do not edit by hand: `scripts/update.mjs`
 | [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | closed unmerged |
 | [#52856](https://github.com/tenstorrent/tt-metal/pull/52856) | [ttnn] logaddexp: overflow-safe fused SFPU implementation | **merged** |
 | [#52668](https://github.com/tenstorrent/tt-metal/pull/52668) | fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it | closed unmerged |
-| [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): factor the magnitude out before squaring in the variance composite | open |
+| [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): rescale before squaring in std_hw, var_hw and normalize_hw | open |
 | [#52614](https://github.com/tenstorrent/tt-metal/issues/52614) | normalize_hw / std_hw / var_hw: the variance composite returns an exact 0 below \|x-mean\| ~1e-19 and saturates above ~1.8e19 | open |
 | [#52613](https://github.com/tenstorrent/tt-metal/pull/52613) | fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call) | **merged** |
 | [#52612](https://github.com/tenstorrent/tt-metal/issues/52612) | [ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite | closed |

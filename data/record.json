@@ -1,6 +1,6 @@
 {
   "totals": {
-    "generatedAt": "2026-09-30",
+    "generatedAt": "2026-10-01",
     "prsOpened": 240,
     "prsMerged": 75,
     "issuesOpened": 66,
@@ -302,7 +302,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3325,
-      "title": "data(providers): fill 23 missing link cells for 22 providers (batch 3 of 4)",
+      "title": "data(providers): fill 22 missing link cells for 21 providers (batch 3 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3325",
       "state": "open",
       "merged": false,
@@ -312,7 +312,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 37 missing link cells for 27 providers (batch 2 of 4)",
+      "title": "data(providers): fill 36 missing link cells for 27 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,
@@ -542,7 +542,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3250,
-      "title": "data(providers): consolidate 247 verified contact and social fields from five conflicting PRs",
+      "title": "data(providers): consolidate 243 verified contact and social fields from five conflicting PRs",
       "url": "https://github.com/Chain-Love/chain-love/pull/3250",
       "state": "open",
       "merged": false,
@@ -1112,7 +1112,7 @@
     {
       "repo": "tenstorrent/tt-metal",
       "number": 52615,
-      "title": "fix(eltwise): factor the magnitude out before squaring in the variance composite",
+      "title": "fix(eltwise): rescale before squaring in std_hw, var_hw and normalize_hw",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52615",
       "state": "open",
       "merged": false,
