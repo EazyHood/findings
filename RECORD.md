@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-01. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-02. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4095](https://github.com/Chain-Love/chain-love/pull/4095) | data(analytics): add Coin Metrics, listed on Algorand, Filecoin and Somnia | open |
 | [#3980](https://github.com/Chain-Love/chain-love/issues/3980) | Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset | open |
 | [#3979](https://github.com/Chain-Love/chain-love/issues/3979) | [DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers | open |
 | [#3978](https://github.com/Chain-Love/chain-love/pull/3978) | data(faucets): remove the LearnWeb3 faucet, suspended since August | open |
@@ -313,6 +314,7 @@ Generated automatically on 2026-10-01. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#29](https://github.com/EazyHood/DealRift/pull/29) | Redesign DealRift around an artwork-led game library | **merged** |
 | [#26](https://github.com/EazyHood/DealRift/pull/26) | Añadir filtro de menor precio en USD entre países | **merged** |
 | [#25](https://github.com/EazyHood/DealRift/pull/25) | Añadir PlayStation y Xbox con filtros, catálogo gratuito y seguimiento | **merged** |
 | [#23](https://github.com/EazyHood/DealRift/pull/23) | Añadir biblioteca persistente, alertas de precio y asistente de compra | **merged** |

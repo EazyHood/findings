@@ -1,14 +1,34 @@
 {
   "totals": {
-    "generatedAt": "2026-10-01",
-    "prsOpened": 240,
-    "prsMerged": 75,
+    "generatedAt": "2026-10-02",
+    "prsOpened": 242,
+    "prsMerged": 76,
     "issuesOpened": 66,
     "issuesClosed": 25,
     "organizations": 20,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "EazyHood/DealRift",
+      "number": 29,
+      "title": "Redesign DealRift around an artwork-led game library",
+      "url": "https://github.com/EazyHood/DealRift/pull/29",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-10-02T04:28:10Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4095,
+      "title": "data(analytics): add Coin Metrics, listed on Algorand, Filecoin and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4095",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-02T03:39:02Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 3980,
