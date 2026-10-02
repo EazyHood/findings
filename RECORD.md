@@ -11,7 +11,7 @@ Generated automatically on 2026-10-02. Do not edit by hand: `scripts/update.mjs`
 | [#4095](https://github.com/Chain-Love/chain-love/pull/4095) | data(analytics): add Coin Metrics, listed on Algorand, Filecoin and Somnia | open |
 | [#3980](https://github.com/Chain-Love/chain-love/issues/3980) | Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset | open |
 | [#3979](https://github.com/Chain-Love/chain-love/issues/3979) | [DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers | open |
-| [#3978](https://github.com/Chain-Love/chain-love/pull/3978) | data(faucets): remove the LearnWeb3 faucet, suspended since August | open |
+| [#3978](https://github.com/Chain-Love/chain-love/pull/3978) | data(faucets): remove the LearnWeb3 faucet, suspended since August | **merged** |
 | [#3977](https://github.com/Chain-Love/chain-love/pull/3977) | data(ramps): list Guardarian on Algorand and Filecoin | open |
 | [#3858](https://github.com/Chain-Love/chain-love/pull/3858) | data(algorand): add Folks Finance TestNet faucet | **merged** |
 | [#3857](https://github.com/Chain-Love/chain-love/pull/3857) | data(filecoin): list RedStone FIL/USD push feeds on mainnet and Calibration | **merged** |

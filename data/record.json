@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-10-02",
     "prsOpened": 242,
-    "prsMerged": 76,
+    "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
     "organizations": 20,
@@ -54,8 +54,8 @@
       "number": 3978,
       "title": "data(faucets): remove the LearnWeb3 faucet, suspended since August",
       "url": "https://github.com/Chain-Love/chain-love/pull/3978",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-09-24T15:12:02Z"
     },
