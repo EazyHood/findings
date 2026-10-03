@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-02",
-    "prsOpened": 242,
+    "generatedAt": "2026-10-03",
+    "prsOpened": 243,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "tscircuit/props",
+      "number": 899,
+      "title": "Trim resistor tolerance strings before parsing percentages",
+      "url": "https://github.com/tscircuit/props/pull/899",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-03T04:18:51Z"
+    },
     {
       "repo": "EazyHood/DealRift",
       "number": 29,
@@ -552,7 +562,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3251,
-      "title": "fix(offers): point 12 offer URLs at the destinations these providers moved to",
+      "title": "fix(offers): point 11 offer URLs at the destinations these providers moved to",
       "url": "https://github.com/Chain-Love/chain-love/pull/3251",
       "state": "open",
       "merged": false,

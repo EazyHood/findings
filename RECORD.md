@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-02. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-03. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -44,7 +44,7 @@ Generated automatically on 2026-10-02. Do not edit by hand: `scripts/update.mjs`
 | [#3291](https://github.com/Chain-Love/chain-love/issues/3291) | [DBIP] The worked example on 13 of 14 category pages is shifted one column: 12 share a single cause, and SDKs currently teaches `starred = TBD` | open |
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
 | [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
-| [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 12 offer URLs at the destinations these providers moved to | open |
+| [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 11 offer URLs at the destinations these providers moved to | open |
 | [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 243 verified contact and social fields from five conflicting PRs | open |
 | [#3240](https://github.com/Chain-Love/chain-love/issues/3240) | [DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16 | open |
 | [#3239](https://github.com/Chain-Love/chain-love/issues/3239) | [DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t | open |
@@ -384,6 +384,12 @@ Generated automatically on 2026-10-02. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## tscircuit/props
+
+| | Title | State |
+| --- | --- | --- |
+| [#899](https://github.com/tscircuit/props/pull/899) | Trim resistor tolerance strings before parsing percentages | open |
 
 ## CALLE-AI/awesome-phone-call-agents
 
