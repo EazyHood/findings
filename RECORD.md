@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-03. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-04. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -384,6 +384,12 @@ Generated automatically on 2026-10-03. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## EazyHood/Lyrio
+
+| | Title | State |
+| --- | --- | --- |
+| [#1](https://github.com/EazyHood/Lyrio/pull/1) | Fix lyric timing, romaji, automatic updates, and native AI crashes | open |
 
 ## tscircuit/props
 

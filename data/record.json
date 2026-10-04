@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-03",
-    "prsOpened": 243,
+    "generatedAt": "2026-10-04",
+    "prsOpened": 244,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "EazyHood/Lyrio",
+      "number": 1,
+      "title": "Fix lyric timing, romaji, automatic updates, and native AI crashes",
+      "url": "https://github.com/EazyHood/Lyrio/pull/1",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-04T01:54:04Z"
+    },
     {
       "repo": "tscircuit/props",
       "number": 899,
