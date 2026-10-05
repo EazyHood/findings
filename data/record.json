@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-05",
-    "prsOpened": 247,
+    "prsOpened": 249,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,26 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4203,
+      "title": "data(analytics): add GeckoTerminal offer, listed on Filecoin and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4203",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-05T14:45:55Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4202,
+      "title": "data(algorand): add wen.tools no-code platform",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4202",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-05T14:45:52Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4158,

@@ -8,6 +8,8 @@ Generated automatically on 2026-10-05. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4203](https://github.com/Chain-Love/chain-love/pull/4203) | data(analytics): add GeckoTerminal offer, listed on Filecoin and Somnia | open |
+| [#4202](https://github.com/Chain-Love/chain-love/pull/4202) | data(algorand): add wen.tools no-code platform | open |
 | [#4158](https://github.com/Chain-Love/chain-love/pull/4158) | data(algorand): add ASA Stats portfolio analytics (free tier and 4 subscription plans) | open |
 | [#4157](https://github.com/Chain-Love/chain-love/pull/4157) | data(storages): add Hippius S3 and Drive plans to all-networks | open |
 | [#4156](https://github.com/Chain-Love/chain-love/pull/4156) | data(security): add Paladin, Zokyo and BailSec security services to all-networks | open |
