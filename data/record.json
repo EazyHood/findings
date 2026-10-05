@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-04",
-    "prsOpened": 244,
+    "generatedAt": "2026-10-05",
+    "prsOpened": 247,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,36 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4158,
+      "title": "data(algorand): add ASA Stats portfolio analytics (free tier and 4 subscription plans)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4158",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-05T01:53:09Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4157,
+      "title": "data(storages): add Hippius S3 and Drive plans to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4157",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-05T01:53:06Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4156,
+      "title": "data(security): add Paladin, Zokyo and BailSec security services to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4156",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-05T01:53:04Z"
+    },
     {
       "repo": "EazyHood/Lyrio",
       "number": 1,
