@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-06",
-    "prsOpened": 250,
+    "prsOpened": 259,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,96 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4230,
+      "title": "data(providers): fix moved, dead or wrong links in 21 provider rows and add 6 GitHub orgs",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4230",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:49:32Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4229,
+      "title": "data: point action buttons at pages that moved or were retired",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4229",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:49:29Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4228,
+      "title": "data(algorand): add txnDuck transaction builder to services",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4228",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:49:26Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4227,
+      "title": "data(storages): add QuickNode IPFS plans to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4227",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:49:13Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4226,
+      "title": "data(analytics): add Codex API plans, listed on Somnia mainnet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4226",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:49:08Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4225,
+      "title": "data(analytics): add Coinranking API offers (Free, Startup, Professional, Enterprise), listed on Filecoin, Algorand and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4225",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:49:05Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4224,
+      "title": "data(security): add Zealynx Security and Savant Chat audit offers to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4224",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:49:02Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4223,
+      "title": "data(security): add Adevar Labs audit, preaudit and security services to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4223",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:48:59Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4222,
+      "title": "data(security): add Decurity and Pessimistic audit and security services to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4222",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T00:48:53Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4204,
@@ -144,7 +234,7 @@
       "number": 3977,
       "title": "data(ramps): list Guardarian on Algorand and Filecoin",
       "url": "https://github.com/Chain-Love/chain-love/pull/3977",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-09-24T15:11:58Z"

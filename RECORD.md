@@ -8,6 +8,15 @@ Generated automatically on 2026-10-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4230](https://github.com/Chain-Love/chain-love/pull/4230) | data(providers): fix moved, dead or wrong links in 21 provider rows and add 6 GitHub orgs | open |
+| [#4229](https://github.com/Chain-Love/chain-love/pull/4229) | data: point action buttons at pages that moved or were retired | open |
+| [#4228](https://github.com/Chain-Love/chain-love/pull/4228) | data(algorand): add txnDuck transaction builder to services | open |
+| [#4227](https://github.com/Chain-Love/chain-love/pull/4227) | data(storages): add QuickNode IPFS plans to all-networks | open |
+| [#4226](https://github.com/Chain-Love/chain-love/pull/4226) | data(analytics): add Codex API plans, listed on Somnia mainnet | open |
+| [#4225](https://github.com/Chain-Love/chain-love/pull/4225) | data(analytics): add Coinranking API offers (Free, Startup, Professional, Enterprise), listed on Filecoin, Algorand and Somnia | open |
+| [#4224](https://github.com/Chain-Love/chain-love/pull/4224) | data(security): add Zealynx Security and Savant Chat audit offers to all-networks | open |
+| [#4223](https://github.com/Chain-Love/chain-love/pull/4223) | data(security): add Adevar Labs audit, preaudit and security services to all-networks | open |
+| [#4222](https://github.com/Chain-Love/chain-love/pull/4222) | data(security): add Decurity and Pessimistic audit and security services to all-networks | open |
 | [#4204](https://github.com/Chain-Love/chain-love/pull/4204) | data(security): add Cyberscope and Sayfer audit, pentest and KYC offers to all-networks | open |
 | [#4203](https://github.com/Chain-Love/chain-love/pull/4203) | data(analytics): add GeckoTerminal offer, listed on Filecoin and Somnia | open |
 | [#4202](https://github.com/Chain-Love/chain-love/pull/4202) | data(algorand): add wen.tools no-code platform | open |
@@ -18,7 +27,7 @@ Generated automatically on 2026-10-06. Do not edit by hand: `scripts/update.mjs`
 | [#3980](https://github.com/Chain-Love/chain-love/issues/3980) | Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset | open |
 | [#3979](https://github.com/Chain-Love/chain-love/issues/3979) | [DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers | open |
 | [#3978](https://github.com/Chain-Love/chain-love/pull/3978) | data(faucets): remove the LearnWeb3 faucet, suspended since August | **merged** |
-| [#3977](https://github.com/Chain-Love/chain-love/pull/3977) | data(ramps): list Guardarian on Algorand and Filecoin | open |
+| [#3977](https://github.com/Chain-Love/chain-love/pull/3977) | data(ramps): list Guardarian on Algorand and Filecoin | closed unmerged |
 | [#3858](https://github.com/Chain-Love/chain-love/pull/3858) | data(algorand): add Folks Finance TestNet faucet | **merged** |
 | [#3857](https://github.com/Chain-Love/chain-love/pull/3857) | data(filecoin): list RedStone FIL/USD push feeds on mainnet and Calibration | **merged** |
 | [#3856](https://github.com/Chain-Love/chain-love/pull/3856) | data(explorers): remove tokenterminal-explorer, already listed under analytics | **merged** |
