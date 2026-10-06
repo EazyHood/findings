@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-05. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-06. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4204](https://github.com/Chain-Love/chain-love/pull/4204) | data(security): add Cyberscope and Sayfer audit, pentest and KYC offers to all-networks | open |
 | [#4203](https://github.com/Chain-Love/chain-love/pull/4203) | data(analytics): add GeckoTerminal offer, listed on Filecoin and Somnia | open |
 | [#4202](https://github.com/Chain-Love/chain-love/pull/4202) | data(algorand): add wen.tools no-code platform | open |
 | [#4158](https://github.com/Chain-Love/chain-love/pull/4158) | data(algorand): add ASA Stats portfolio analytics (free tier and 4 subscription plans) | open |
