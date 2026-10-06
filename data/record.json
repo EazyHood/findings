@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-06",
-    "prsOpened": 259,
+    "prsOpened": 267,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,86 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4259,
+      "title": "data: correct stale prices for Aleph Cloud block storage, Livepeer Studio, Dfns and Tatum",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4259",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:36Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4258,
+      "title": "data(algorand): add the Algorand Randomness Beacon oracle (mainnet + testnet)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4258",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:33Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4257,
+      "title": "data(analytics): add Coinalyze free futures data API, listed on Filecoin, Algorand and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4257",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:27Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4256,
+      "title": "data(mcpservers): add official Santiment MCP connector and Token Terminal MCP server (Pro), listed on Algorand, Filecoin and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4256",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:24Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4255,
+      "title": "data(storages): add StorX decentralized storage plans to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4255",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:21Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4254,
+      "title": "data(security): add Auditware audits, Sentry, OpSec training and W3OS to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4254",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:18Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4253,
+      "title": "data(mcpservers): add official GitBook docs MCP servers for Filecoin, Tinyman, Glassnode, DEX Screener, CryptoQuant, GetBlock and Stork",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4253",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:14Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4252,
+      "title": "data(analytics): add CoinGlass API plans, listed on Filecoin, Algorand and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4252",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-06T07:08:11Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4230,

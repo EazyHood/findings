@@ -8,6 +8,14 @@ Generated automatically on 2026-10-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4259](https://github.com/Chain-Love/chain-love/pull/4259) | data: correct stale prices for Aleph Cloud block storage, Livepeer Studio, Dfns and Tatum | open |
+| [#4258](https://github.com/Chain-Love/chain-love/pull/4258) | data(algorand): add the Algorand Randomness Beacon oracle (mainnet + testnet) | open |
+| [#4257](https://github.com/Chain-Love/chain-love/pull/4257) | data(analytics): add Coinalyze free futures data API, listed on Filecoin, Algorand and Somnia | open |
+| [#4256](https://github.com/Chain-Love/chain-love/pull/4256) | data(mcpservers): add official Santiment MCP connector and Token Terminal MCP server (Pro), listed on Algorand, Filecoin and Somnia | open |
+| [#4255](https://github.com/Chain-Love/chain-love/pull/4255) | data(storages): add StorX decentralized storage plans to all-networks | open |
+| [#4254](https://github.com/Chain-Love/chain-love/pull/4254) | data(security): add Auditware audits, Sentry, OpSec training and W3OS to all-networks | open |
+| [#4253](https://github.com/Chain-Love/chain-love/pull/4253) | data(mcpservers): add official GitBook docs MCP servers for Filecoin, Tinyman, Glassnode, DEX Screener, CryptoQuant, GetBlock and Stork | open |
+| [#4252](https://github.com/Chain-Love/chain-love/pull/4252) | data(analytics): add CoinGlass API plans, listed on Filecoin, Algorand and Somnia | open |
 | [#4230](https://github.com/Chain-Love/chain-love/pull/4230) | data(providers): fix moved, dead or wrong links in 21 provider rows and add 6 GitHub orgs | open |
 | [#4229](https://github.com/Chain-Love/chain-love/pull/4229) | data: point action buttons at pages that moved or were retired | open |
 | [#4228](https://github.com/Chain-Love/chain-love/pull/4228) | data(algorand): add txnDuck transaction builder to services | open |
