@@ -2,12 +2,20 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-06. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-07. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4286](https://github.com/Chain-Love/chain-love/pull/4286) | data(providers): fill 14 missing social, docs and support-email fields for 13 providers | open |
+| [#4285](https://github.com/Chain-Love/chain-love/pull/4285) | data(sdks): add official Hardhat plugins documented for Somnia and Filecoin | open |
+| [#4284](https://github.com/Chain-Love/chain-love/pull/4284) | data(security): add Composable Security audit, threat modeling and consultation services to all-networks | open |
+| [#4283](https://github.com/Chain-Love/chain-love/pull/4283) | data(security): add Softstack audit, pentest and compliance security services to all-networks | open |
+| [#4282](https://github.com/Chain-Love/chain-love/pull/4282) | data(security): add iosiro smart contract audits, penetration testing and threat modeling | open |
+| [#4281](https://github.com/Chain-Love/chain-love/pull/4281) | data(security): add Neodyme smart contract, core blockchain and source code audits, design reviews, pentesting and training | open |
+| [#4280](https://github.com/Chain-Love/chain-love/pull/4280) | data(security): add Shieldify security reviews, audit subscription, off-chain audits, pentesting, fuzzing and formal verification | open |
+| [#4279](https://github.com/Chain-Love/chain-love/pull/4279) | data(security): add Olympix static analyzer, test generation, fuzzing and BugPoCer | open |
 | [#4259](https://github.com/Chain-Love/chain-love/pull/4259) | data: correct stale prices for Aleph Cloud block storage, Livepeer Studio, Dfns and Tatum | open |
 | [#4258](https://github.com/Chain-Love/chain-love/pull/4258) | data(algorand): add the Algorand Randomness Beacon oracle (mainnet + testnet) | open |
 | [#4257](https://github.com/Chain-Love/chain-love/pull/4257) | data(analytics): add Coinalyze free futures data API, listed on Filecoin, Algorand and Somnia | open |
@@ -418,7 +426,7 @@ Generated automatically on 2026-10-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#899](https://github.com/tscircuit/props/pull/899) | Trim resistor tolerance strings before parsing percentages | open |
+| [#899](https://github.com/tscircuit/props/pull/899) | Trim resistor tolerance strings before parsing percentages | closed unmerged |
 
 ## CALLE-AI/awesome-phone-call-agents
 

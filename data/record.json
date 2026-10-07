@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-06",
-    "prsOpened": 267,
+    "generatedAt": "2026-10-07",
+    "prsOpened": 275,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,86 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4286,
+      "title": "data(providers): fill 14 missing social, docs and support-email fields for 13 providers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4286",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T02:08:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4285,
+      "title": "data(sdks): add official Hardhat plugins documented for Somnia and Filecoin",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4285",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T02:08:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4284,
+      "title": "data(security): add Composable Security audit, threat modeling and consultation services to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4284",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T02:08:14Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4283,
+      "title": "data(security): add Softstack audit, pentest and compliance security services to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4283",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T02:08:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4282,
+      "title": "data(security): add iosiro smart contract audits, penetration testing and threat modeling",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4282",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T00:14:24Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4281,
+      "title": "data(security): add Neodyme smart contract, core blockchain and source code audits, design reviews, pentesting and training",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4281",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T00:14:21Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4280,
+      "title": "data(security): add Shieldify security reviews, audit subscription, off-chain audits, pentesting, fuzzing and formal verification",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4280",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T00:14:18Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4279,
+      "title": "data(security): add Olympix static analyzer, test generation, fuzzing and BugPoCer",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4279",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T00:14:16Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4259,
@@ -254,7 +334,7 @@
       "number": 899,
       "title": "Trim resistor tolerance strings before parsing percentages",
       "url": "https://github.com/tscircuit/props/pull/899",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-10-03T04:18:51Z"
