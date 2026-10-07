@@ -444,7 +444,7 @@
       "number": 57245,
       "title": "fix(quasar): step one ULP in nextafter instead of a fixed epsilon",
       "url": "https://github.com/tenstorrent/tt-metal/pull/57245",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-09-21T19:07:05Z"
