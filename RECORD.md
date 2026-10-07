@@ -8,6 +8,9 @@ Generated automatically on 2026-10-07. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4292](https://github.com/Chain-Love/chain-love/pull/4292) | data(security): add Security Alliance (SEAL) 911 hotline, frameworks and wargames | open |
+| [#4291](https://github.com/Chain-Love/chain-love/pull/4291) | data(security): add TrustSec and yAudit audits, retainers, boosted audits and consulting | open |
+| [#4290](https://github.com/Chain-Love/chain-love/pull/4290) | data(security): add zkSecurity audits, incident response and zkao AI bug detection | open |
 | [#4286](https://github.com/Chain-Love/chain-love/pull/4286) | data(providers): fill 14 missing social, docs and support-email fields for 13 providers | open |
 | [#4285](https://github.com/Chain-Love/chain-love/pull/4285) | data(sdks): add official Hardhat plugins documented for Somnia and Filecoin | open |
 | [#4284](https://github.com/Chain-Love/chain-love/pull/4284) | data(security): add Composable Security audit, threat modeling and consultation services to all-networks | open |

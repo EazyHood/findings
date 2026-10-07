@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-07",
-    "prsOpened": 275,
+    "prsOpened": 278,
     "prsMerged": 77,
     "issuesOpened": 66,
     "issuesClosed": 25,
@@ -9,6 +9,36 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4292,
+      "title": "data(security): add Security Alliance (SEAL) 911 hotline, frameworks and wargames",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4292",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T12:58:43Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4291,
+      "title": "data(security): add TrustSec and yAudit audits, retainers, boosted audits and consulting",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4291",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T12:58:39Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4290,
+      "title": "data(security): add zkSecurity audits, incident response and zkao AI bug detection",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4290",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-07T12:58:36Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4286,
