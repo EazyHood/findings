@@ -1,14 +1,34 @@
 {
   "totals": {
-    "generatedAt": "2026-10-07",
-    "prsOpened": 278,
+    "generatedAt": "2026-10-08",
+    "prsOpened": 279,
     "prsMerged": 77,
-    "issuesOpened": 66,
+    "issuesOpened": 67,
     "issuesClosed": 25,
     "organizations": 20,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 59763,
+      "title": "[Bug fix] pow/rpow (fp32): error no longer grows with |y·log2 x| (362 → 4 ULP)",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/59763",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-08T02:57:18Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 59761,
+      "title": "[ops]: fp32 ttnn.pow / ttnn.rpow error grows with |y * log2 x| (362 ULP on a random sweep)",
+      "url": "https://github.com/tenstorrent/tt-metal/issues/59761",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-08T02:55:49Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4292,

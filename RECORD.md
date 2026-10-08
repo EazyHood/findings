@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-07. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-08. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -251,6 +251,8 @@ Generated automatically on 2026-10-07. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |
+| [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | open |
 | [#57245](https://github.com/tenstorrent/tt-metal/pull/57245) | fix(quasar): step one ULP in nextafter instead of a fixed epsilon | closed unmerged |
 | [#55813](https://github.com/tenstorrent/tt-metal/pull/55813) | fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866) | closed unmerged |
 | [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | closed unmerged |
