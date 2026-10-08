@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-08",
-    "prsOpened": 279,
+    "prsOpened": 283,
     "prsMerged": 77,
     "issuesOpened": 67,
     "issuesClosed": 25,
@@ -9,6 +9,46 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4318,
+      "title": "data(services): add Cryptoworth crypto accounting on Algorand and Filecoin",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4318",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-08T22:03:38Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4317,
+      "title": "data(security): add HYDN smart contract audits, red team and pentest to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4317",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-08T22:03:34Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4316,
+      "title": "data(security): add Safe Edges smart contract, dApp, wallet, protocol and AI agent audits, pentesting, incident response and Bastion Security",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4316",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-08T22:03:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4315,
+      "title": "data(security): add ImmuneBytes Web3 security audits and fuzz testing consultancy to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4315",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-08T22:03:26Z"
+    },
     {
       "repo": "tenstorrent/tt-metal",
       "number": 59763,

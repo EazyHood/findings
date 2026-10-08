@@ -8,6 +8,10 @@ Generated automatically on 2026-10-08. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4318](https://github.com/Chain-Love/chain-love/pull/4318) | data(services): add Cryptoworth crypto accounting on Algorand and Filecoin | open |
+| [#4317](https://github.com/Chain-Love/chain-love/pull/4317) | data(security): add HYDN smart contract audits, red team and pentest to all-networks | open |
+| [#4316](https://github.com/Chain-Love/chain-love/pull/4316) | data(security): add Safe Edges smart contract, dApp, wallet, protocol and AI agent audits, pentesting, incident response and Bastion Security | open |
+| [#4315](https://github.com/Chain-Love/chain-love/pull/4315) | data(security): add ImmuneBytes Web3 security audits and fuzz testing consultancy to all-networks | open |
 | [#4292](https://github.com/Chain-Love/chain-love/pull/4292) | data(security): add Security Alliance (SEAL) 911 hotline, frameworks and wargames | open |
 | [#4291](https://github.com/Chain-Love/chain-love/pull/4291) | data(security): add TrustSec and yAudit audits, retainers, boosted audits and consulting | open |
 | [#4290](https://github.com/Chain-Love/chain-love/pull/4290) | data(security): add zkSecurity audits, incident response and zkao AI bug detection | open |
