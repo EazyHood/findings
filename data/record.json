@@ -3,12 +3,32 @@
     "generatedAt": "2026-10-09",
     "prsOpened": 283,
     "prsMerged": 77,
-    "issuesOpened": 67,
+    "issuesOpened": 69,
     "issuesClosed": 25,
-    "organizations": 20,
+    "organizations": 22,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "gonka-ai/gonka",
+      "number": 1965,
+      "title": "[BUG] Incomplete JSON clock timestamps produce a false divergence sample",
+      "url": "https://github.com/gonka-ai/gonka/issues/1965",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-09T21:02:23Z"
+    },
+    {
+      "repo": "worknenjoy/gitpay",
+      "number": 1599,
+      "title": "[Bug]: Organization task sorting is ignored before pagination",
+      "url": "https://github.com/worknenjoy/gitpay/issues/1599",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-09T21:00:38Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4318,

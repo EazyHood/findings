@@ -479,3 +479,15 @@ Generated automatically on 2026-10-09. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#611](https://github.com/arakoodev/EdgeChains/pull/611) | feat(comprehend): add Amazon Comprehend PII redaction utility | closed unmerged |
 
+## gonka-ai/gonka
+
+| | Title | State |
+| --- | --- | --- |
+| [#1965](https://github.com/gonka-ai/gonka/issues/1965) | [BUG] Incomplete JSON clock timestamps produce a false divergence sample | open |
+
+## worknenjoy/gitpay
+
+| | Title | State |
+| --- | --- | --- |
+| [#1599](https://github.com/worknenjoy/gitpay/issues/1599) | [Bug]: Organization task sorting is ignored before pagination | open |
+
