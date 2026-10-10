@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-09",
-    "prsOpened": 283,
+    "generatedAt": "2026-10-10",
+    "prsOpened": 284,
     "prsMerged": 77,
     "issuesOpened": 69,
     "issuesClosed": 25,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "gonka-ai/gonka",
+      "number": 1969,
+      "title": "fix(admin): fail setup report when cold funds cannot cover epoch fees",
+      "url": "https://github.com/gonka-ai/gonka/pull/1969",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-10T00:45:39Z"
+    },
     {
       "repo": "gonka-ai/gonka",
       "number": 1965,

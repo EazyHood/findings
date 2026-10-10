@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-09. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-10. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -411,6 +411,13 @@ Generated automatically on 2026-10-09. Do not edit by hand: `scripts/update.mjs`
 | [#16](https://github.com/Paritok-official/paritok-4b-v1/issues/16) | [hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15) | closed |
 | [#15](https://github.com/Paritok-official/paritok-4b-v1/pull/15) | fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs) | **merged** |
 
+## gonka-ai/gonka
+
+| | Title | State |
+| --- | --- | --- |
+| [#1969](https://github.com/gonka-ai/gonka/pull/1969) | fix(admin): fail setup report when cold funds cannot cover epoch fees | open |
+| [#1965](https://github.com/gonka-ai/gonka/issues/1965) | [BUG] Incomplete JSON clock timestamps produce a false divergence sample | open |
+
 ## iv-org/invidious
 
 | | Title | State |
@@ -478,12 +485,6 @@ Generated automatically on 2026-10-09. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#611](https://github.com/arakoodev/EdgeChains/pull/611) | feat(comprehend): add Amazon Comprehend PII redaction utility | closed unmerged |
-
-## gonka-ai/gonka
-
-| | Title | State |
-| --- | --- | --- |
-| [#1965](https://github.com/gonka-ai/gonka/issues/1965) | [BUG] Incomplete JSON clock timestamps produce a false divergence sample | open |
 
 ## worknenjoy/gitpay
 
