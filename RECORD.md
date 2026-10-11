@@ -2,12 +2,18 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-10. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-11. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4370](https://github.com/Chain-Love/chain-love/pull/4370) | data(security): add ChainGPT Smart Contract Auditor offers for Avalanche, Filecoin and Somnia | open |
+| [#4369](https://github.com/Chain-Love/chain-love/pull/4369) | data(security): add ExVul smart contract, chain and wallet audits and Web3 penetration testing to all-networks | open |
+| [#4368](https://github.com/Chain-Love/chain-love/pull/4368) | data(security): add SecureDApp Solidity Shield plans for Filecoin and Somnia | open |
+| [#4367](https://github.com/Chain-Love/chain-love/pull/4367) | data(security): add Formal Land formal verification services, rocq-of-rust and Garden | open |
+| [#4366](https://github.com/Chain-Love/chain-love/pull/4366) | data(security): add zeroShadow investigations, Torch packages and security consulting | open |
+| [#4365](https://github.com/Chain-Love/chain-love/pull/4365) | data(security): add Opsek operational security services and SEAL certification assessment | open |
 | [#4318](https://github.com/Chain-Love/chain-love/pull/4318) | data(services): add Cryptoworth crypto accounting on Algorand and Filecoin | open |
 | [#4317](https://github.com/Chain-Love/chain-love/pull/4317) | data(security): add HYDN smart contract audits, red team and pentest to all-networks | open |
 | [#4316](https://github.com/Chain-Love/chain-love/pull/4316) | data(security): add Safe Edges smart contract, dApp, wallet, protocol and AI agent audits, pentesting, incident response and Bastion Security | open |

@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-10",
-    "prsOpened": 284,
+    "generatedAt": "2026-10-11",
+    "prsOpened": 290,
     "prsMerged": 77,
     "issuesOpened": 69,
     "issuesClosed": 25,
@@ -9,6 +9,66 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4370,
+      "title": "data(security): add ChainGPT Smart Contract Auditor offers for Avalanche, Filecoin and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4370",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T04:39:44Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4369,
+      "title": "data(security): add ExVul smart contract, chain and wallet audits and Web3 penetration testing to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4369",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T04:39:41Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4368,
+      "title": "data(security): add SecureDApp Solidity Shield plans for Filecoin and Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4368",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T04:39:38Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4367,
+      "title": "data(security): add Formal Land formal verification services, rocq-of-rust and Garden",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4367",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T04:39:35Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4366,
+      "title": "data(security): add zeroShadow investigations, Torch packages and security consulting",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4366",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T04:39:32Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4365,
+      "title": "data(security): add Opsek operational security services and SEAL certification assessment",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4365",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T04:39:19Z"
+    },
     {
       "repo": "gonka-ai/gonka",
       "number": 1969,
