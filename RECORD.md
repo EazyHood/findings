@@ -8,6 +8,12 @@ Generated automatically on 2026-10-11. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4379](https://github.com/Chain-Love/chain-love/pull/4379) | fix(ci): remove the deleted enrich_verified_metrics.py from the JSON release workflow | open |
+| [#4377](https://github.com/Chain-Love/chain-love/pull/4377) | data(providers): add 11 missing provider logos for Avalanche-listed providers | open |
+| [#4376](https://github.com/Chain-Love/chain-love/pull/4376) | data(avalanche): list Avalanche Explorer and Routescan on Fuji testnet | open |
+| [#4375](https://github.com/Chain-Love/chain-love/pull/4375) | data(avalanche): list 8 security offers from 6 maintained EVM tools on Avalanche C-Chain | open |
+| [#4374](https://github.com/Chain-Love/chain-love/pull/4374) | data(avalanche): add the UMA oracle listing on Avalanche C-Chain | open |
+| [#4373](https://github.com/Chain-Love/chain-love/pull/4373) | data(avalanche): add AvaCloud Starter and Pro plans by Ava Labs | open |
 | [#4370](https://github.com/Chain-Love/chain-love/pull/4370) | data(security): add ChainGPT Smart Contract Auditor offers for Avalanche, Filecoin and Somnia | open |
 | [#4369](https://github.com/Chain-Love/chain-love/pull/4369) | data(security): add ExVul smart contract, chain and wallet audits and Web3 penetration testing to all-networks | open |
 | [#4368](https://github.com/Chain-Love/chain-love/pull/4368) | data(security): add SecureDApp Solidity Shield plans for Filecoin and Somnia | open |

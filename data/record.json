@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-11",
-    "prsOpened": 290,
+    "prsOpened": 296,
     "prsMerged": 77,
     "issuesOpened": 69,
     "issuesClosed": 25,
@@ -9,6 +9,66 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4379,
+      "title": "fix(ci): remove the deleted enrich_verified_metrics.py from the JSON release workflow",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4379",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T13:33:05Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4377,
+      "title": "data(providers): add 11 missing provider logos for Avalanche-listed providers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4377",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T13:05:43Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4376,
+      "title": "data(avalanche): list Avalanche Explorer and Routescan on Fuji testnet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4376",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T13:05:40Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4375,
+      "title": "data(avalanche): list 8 security offers from 6 maintained EVM tools on Avalanche C-Chain",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4375",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T13:05:37Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4374,
+      "title": "data(avalanche): add the UMA oracle listing on Avalanche C-Chain",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4374",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T13:05:33Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4373,
+      "title": "data(avalanche): add AvaCloud Starter and Pro plans by Ava Labs",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4373",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-11T13:05:31Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4370,
