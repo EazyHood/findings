@@ -8,7 +8,7 @@ Generated automatically on 2026-10-12. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#4379](https://github.com/Chain-Love/chain-love/pull/4379) | fix(ci): remove the deleted enrich_verified_metrics.py from the JSON release workflow | open |
+| [#4379](https://github.com/Chain-Love/chain-love/pull/4379) | fix(ci): remove the deleted enrich_verified_metrics.py from the JSON release workflow | **merged** |
 | [#4377](https://github.com/Chain-Love/chain-love/pull/4377) | data(providers): add 11 missing provider logos for Avalanche-listed providers | open |
 | [#4376](https://github.com/Chain-Love/chain-love/pull/4376) | data(avalanche): list Avalanche Explorer and Routescan on Fuji testnet | open |
 | [#4375](https://github.com/Chain-Love/chain-love/pull/4375) | data(avalanche): list 8 security offers from 6 maintained EVM tools on Avalanche C-Chain | open |

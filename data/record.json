@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-10-12",
     "prsOpened": 296,
-    "prsMerged": 77,
+    "prsMerged": 78,
     "issuesOpened": 69,
     "issuesClosed": 25,
     "organizations": 22,
@@ -14,8 +14,8 @@
       "number": 4379,
       "title": "fix(ci): remove the deleted enrich_verified_metrics.py from the JSON release workflow",
       "url": "https://github.com/Chain-Love/chain-love/pull/4379",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-11T13:33:05Z"
     },
