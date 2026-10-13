@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-13",
-    "prsOpened": 296,
+    "prsOpened": 306,
     "prsMerged": 78,
     "issuesOpened": 69,
     "issuesClosed": 25,
@@ -9,6 +9,106 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4430,
+      "title": "data(wallets): native=FALSE on 7 multichain wallet offers, evm=TRUE on Coinomi and Zypto (per #3042, #3064)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4430",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T12:55:13Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4429,
+      "title": "data(mcpservers): set planType to Public for 26 docs MCP servers that need no registration (2/2)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4429",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T12:53:52Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4428,
+      "title": "data(mcpservers): set planType to Public for 24 docs MCP servers that need no registration (1/2)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4428",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T12:53:48Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4422,
+      "title": "data(sdks): add Trust Wallet Core Swift, Android and WebAssembly libraries on Algorand, Filecoin and Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4422",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T03:58:39Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4421,
+      "title": "data(mcpservers): add official Etherscan keyless, Chainbase Tops and CryptoQuant MCP servers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4421",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T03:58:36Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4420,
+      "title": "data(wallets): add imKey Pro, Arculus, Hex Safe and Safeheron MPC Self-Custody",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4420",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T03:58:32Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4419,
+      "title": "data(mcpservers): add official Binance, Gate, Bybit and Kraken MCP servers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4419",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T03:58:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4418,
+      "title": "data(sdks): add Envio HyperSync Node.js, Python and Rust clients on Somnia and Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4418",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T03:58:27Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 60357,
+      "title": "[Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/60357",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T03:39:21Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4416,
+      "title": "data(bridges): add Frax Mesh (Frax Finance) with Somnia and Avalanche listings",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4416",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-13T01:04:11Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4379,

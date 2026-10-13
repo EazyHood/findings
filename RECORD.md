@@ -8,6 +8,15 @@ Generated automatically on 2026-10-13. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4430](https://github.com/Chain-Love/chain-love/pull/4430) | data(wallets): native=FALSE on 7 multichain wallet offers, evm=TRUE on Coinomi and Zypto (per #3042, #3064) | open |
+| [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 26 docs MCP servers that need no registration (2/2) | open |
+| [#4428](https://github.com/Chain-Love/chain-love/pull/4428) | data(mcpservers): set planType to Public for 24 docs MCP servers that need no registration (1/2) | open |
+| [#4422](https://github.com/Chain-Love/chain-love/pull/4422) | data(sdks): add Trust Wallet Core Swift, Android and WebAssembly libraries on Algorand, Filecoin and Avalanche | open |
+| [#4421](https://github.com/Chain-Love/chain-love/pull/4421) | data(mcpservers): add official Etherscan keyless, Chainbase Tops and CryptoQuant MCP servers | open |
+| [#4420](https://github.com/Chain-Love/chain-love/pull/4420) | data(wallets): add imKey Pro, Arculus, Hex Safe and Safeheron MPC Self-Custody | open |
+| [#4419](https://github.com/Chain-Love/chain-love/pull/4419) | data(mcpservers): add official Binance, Gate, Bybit and Kraken MCP servers | open |
+| [#4418](https://github.com/Chain-Love/chain-love/pull/4418) | data(sdks): add Envio HyperSync Node.js, Python and Rust clients on Somnia and Avalanche | open |
+| [#4416](https://github.com/Chain-Love/chain-love/pull/4416) | data(bridges): add Frax Mesh (Frax Finance) with Somnia and Avalanche listings | open |
 | [#4379](https://github.com/Chain-Love/chain-love/pull/4379) | fix(ci): remove the deleted enrich_verified_metrics.py from the JSON release workflow | **merged** |
 | [#4377](https://github.com/Chain-Love/chain-love/pull/4377) | data(providers): add 11 missing provider logos for Avalanche-listed providers | open |
 | [#4376](https://github.com/Chain-Love/chain-love/pull/4376) | data(avalanche): list Avalanche Explorer and Routescan on Fuji testnet | open |
@@ -267,6 +276,7 @@ Generated automatically on 2026-10-13. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | open |
 | [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |
 | [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | open |
 | [#57245](https://github.com/tenstorrent/tt-metal/pull/57245) | fix(quasar): step one ULP in nextafter instead of a fixed epsilon | closed unmerged |
