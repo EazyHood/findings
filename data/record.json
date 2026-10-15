@@ -3,12 +3,22 @@
     "generatedAt": "2026-10-15",
     "prsOpened": 308,
     "prsMerged": 78,
-    "issuesOpened": 69,
+    "issuesOpened": 70,
     "issuesClosed": 25,
-    "organizations": 23,
+    "organizations": 24,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Metaculus/metac-bot-template",
+      "number": 119,
+      "title": "Tournament mode targets the summer 2026 tournament (forecasting-tools 0.2.92 in poetry.lock)",
+      "url": "https://github.com/Metaculus/metac-bot-template/issues/119",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-15T16:41:31Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4435,

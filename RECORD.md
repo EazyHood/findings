@@ -515,6 +515,12 @@ Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#611](https://github.com/arakoodev/EdgeChains/pull/611) | feat(comprehend): add Amazon Comprehend PII redaction utility | closed unmerged |
 
+## Metaculus/metac-bot-template
+
+| | Title | State |
+| --- | --- | --- |
+| [#119](https://github.com/Metaculus/metac-bot-template/issues/119) | Tournament mode targets the summer 2026 tournament (forecasting-tools 0.2.92 in poetry.lock) | open |
+
 ## worknenjoy/gitpay
 
 | | Title | State |
