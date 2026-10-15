@@ -8,7 +8,7 @@ Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#4435](https://github.com/Chain-Love/chain-love/pull/4435) | Add registry rows for Harun's handed-over outreach and toolsdk-ai | open |
+| [#4435](https://github.com/Chain-Love/chain-love/pull/4435) | Add registry rows for Harun's handed-over outreach and toolsdk-ai | **merged** |
 | [#4430](https://github.com/Chain-Love/chain-love/pull/4430) | data(wallets): native=FALSE on 7 multichain wallet offers, evm=TRUE on Coinomi and Zypto (per #3042, #3064) | open |
 | [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 26 docs MCP servers that need no registration (2/2) | open |
 | [#4428](https://github.com/Chain-Love/chain-love/pull/4428) | data(mcpservers): set planType to Public for 24 docs MCP servers that need no registration (1/2) | open |
@@ -455,6 +455,18 @@ Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs`
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
 
+## ethereum-optimism/optimism
+
+| | Title | State |
+| --- | --- | --- |
+| [#23458](https://github.com/ethereum-optimism/optimism/pull/23458) | docs: link the Chain.Love directory from the RPC providers page | open |
+
+## mcpHQ/awesome-mcp-servers
+
+| | Title | State |
+| --- | --- | --- |
+| [#275](https://github.com/mcpHQ/awesome-mcp-servers/pull/275) | Add Chain.Love MCP to Developer Tools and Code Intelligence | open |
+
 ## toolsdk-ai/toolsdk-mcp-registry
 
 | | Title | State |
@@ -519,7 +531,7 @@ Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#119](https://github.com/Metaculus/metac-bot-template/issues/119) | Tournament mode targets the summer 2026 tournament (forecasting-tools 0.2.92 in poetry.lock) | open |
+| [#119](https://github.com/Metaculus/metac-bot-template/issues/119) | Tournament mode targets the summer 2026 tournament (forecasting-tools 0.2.92 in poetry.lock) | closed |
 
 ## worknenjoy/gitpay
 
