@@ -457,6 +457,12 @@ Generated automatically on 2026-10-16. Do not edit by hand: `scripts/update.mjs`
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
 
+## dagster-io/dagster
+
+| | Title | State |
+| --- | --- | --- |
+| [#34316](https://github.com/dagster-io/dagster/pull/34316) | Fix retries omitting unstarted dynamic steps | open |
+
 ## gristlabs/grist-core
 
 | | Title | State |

@@ -1,14 +1,24 @@
 {
   "totals": {
     "generatedAt": "2026-10-16",
-    "prsOpened": 314,
+    "prsOpened": 315,
     "prsMerged": 81,
     "issuesOpened": 70,
     "issuesClosed": 26,
-    "organizations": 28,
+    "organizations": 29,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "dagster-io/dagster",
+      "number": 34316,
+      "title": "Fix retries omitting unstarted dynamic steps",
+      "url": "https://github.com/dagster-io/dagster/pull/34316",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-16T05:12:53Z"
+    },
     {
       "repo": "gristlabs/grist-core",
       "number": 2660,
