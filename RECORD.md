@@ -436,6 +436,13 @@ Generated automatically on 2026-10-16. Do not edit by hand: `scripts/update.mjs`
 | [#16](https://github.com/Paritok-official/paritok-4b-v1/issues/16) | [hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15) | closed |
 | [#15](https://github.com/Paritok-official/paritok-4b-v1/pull/15) | fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs) | **merged** |
 
+## woocommerce/woocommerce
+
+| | Title | State |
+| --- | --- | --- |
+| [#69947](https://github.com/woocommerce/woocommerce/pull/69947) | Fix automatic mapping of exported product GTIN columns | open |
+| [#69887](https://github.com/woocommerce/woocommerce/pull/69887) | Fix keyboard focus in Product Filters overlays | closed unmerged |
+
 ## gonka-ai/gonka
 
 | | Title | State |
@@ -468,12 +475,6 @@ Generated automatically on 2026-10-16. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#2660](https://github.com/gristlabs/grist-core/pull/2660) | Fix renaming tables with two-way self-references | open |
-
-## woocommerce/woocommerce
-
-| | Title | State |
-| --- | --- | --- |
-| [#69887](https://github.com/woocommerce/woocommerce/pull/69887) | Fix keyboard focus in Product Filters overlays | open |
 
 ## ethereum-optimism/optimism
 

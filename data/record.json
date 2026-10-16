@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-16",
-    "prsOpened": 315,
+    "prsOpened": 316,
     "prsMerged": 81,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "woocommerce/woocommerce",
+      "number": 69947,
+      "title": "Fix automatic mapping of exported product GTIN columns",
+      "url": "https://github.com/woocommerce/woocommerce/pull/69947",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-16T16:21:33Z"
+    },
     {
       "repo": "dagster-io/dagster",
       "number": 34316,
@@ -34,7 +44,7 @@
       "number": 69887,
       "title": "Fix keyboard focus in Product Filters overlays",
       "url": "https://github.com/woocommerce/woocommerce/pull/69887",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-10-16T04:06:42Z"
