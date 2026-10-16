@@ -1,14 +1,54 @@
 {
   "totals": {
-    "generatedAt": "2026-10-15",
-    "prsOpened": 310,
-    "prsMerged": 79,
+    "generatedAt": "2026-10-16",
+    "prsOpened": 314,
+    "prsMerged": 81,
     "issuesOpened": 70,
     "issuesClosed": 26,
-    "organizations": 26,
+    "organizations": 28,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "gristlabs/grist-core",
+      "number": 2660,
+      "title": "Fix renaming tables with two-way self-references",
+      "url": "https://github.com/gristlabs/grist-core/pull/2660",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-16T04:36:06Z"
+    },
+    {
+      "repo": "woocommerce/woocommerce",
+      "number": 69887,
+      "title": "Fix keyboard focus in Product Filters overlays",
+      "url": "https://github.com/woocommerce/woocommerce/pull/69887",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-16T04:06:42Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4487,
+      "title": "Mark the toolsdk-ai outreach PR as merged in the registry",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4487",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-16T03:46:03Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4485,
+      "title": "Add registry rows for the mcpHQ and Optimism outreach PRs",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4485",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-16T00:00:17Z"
+    },
     {
       "repo": "ethereum-optimism/optimism",
       "number": 23458,
@@ -24,8 +64,8 @@
       "number": 275,
       "title": "Add Chain.Love MCP to Developer Tools and Code Intelligence",
       "url": "https://github.com/mcpHQ/awesome-mcp-servers/pull/275",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-15T19:30:22Z"
     },
@@ -54,8 +94,8 @@
       "number": 829,
       "title": "Add Chain.Love remote MCP gateway",
       "url": "https://github.com/toolsdk-ai/toolsdk-mcp-registry/pull/829",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-13T15:28:59Z"
     },
@@ -1032,7 +1072,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3326,
-      "title": "data(providers): fill 25 missing link cells for 19 providers",
+      "title": "data(providers): fill 13 missing link cells for 9 providers",
       "url": "https://github.com/Chain-Love/chain-love/pull/3326",
       "state": "open",
       "merged": false,

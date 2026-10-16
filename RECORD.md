@@ -2,12 +2,14 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-16. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4487](https://github.com/Chain-Love/chain-love/pull/4487) | Mark the toolsdk-ai outreach PR as merged in the registry | open |
+| [#4485](https://github.com/Chain-Love/chain-love/pull/4485) | Add registry rows for the mcpHQ and Optimism outreach PRs | open |
 | [#4435](https://github.com/Chain-Love/chain-love/pull/4435) | Add registry rows for Harun's handed-over outreach and toolsdk-ai | **merged** |
 | [#4430](https://github.com/Chain-Love/chain-love/pull/4430) | data(wallets): native=FALSE on 7 multichain wallet offers, evm=TRUE on Coinomi and Zypto (per #3042, #3064) | open |
 | [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 26 docs MCP servers that need no registration (2/2) | open |
@@ -88,7 +90,7 @@ Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs`
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
 | [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
-| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 25 missing link cells for 19 providers | open |
+| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 13 missing link cells for 9 providers | open |
 | [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 22 missing link cells for 21 providers (batch 3 of 4) | open |
 | [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 32 missing link cells for 26 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
@@ -455,6 +457,18 @@ Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs`
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
 
+## gristlabs/grist-core
+
+| | Title | State |
+| --- | --- | --- |
+| [#2660](https://github.com/gristlabs/grist-core/pull/2660) | Fix renaming tables with two-way self-references | open |
+
+## woocommerce/woocommerce
+
+| | Title | State |
+| --- | --- | --- |
+| [#69887](https://github.com/woocommerce/woocommerce/pull/69887) | Fix keyboard focus in Product Filters overlays | open |
+
 ## ethereum-optimism/optimism
 
 | | Title | State |
@@ -465,13 +479,13 @@ Generated automatically on 2026-10-15. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#275](https://github.com/mcpHQ/awesome-mcp-servers/pull/275) | Add Chain.Love MCP to Developer Tools and Code Intelligence | open |
+| [#275](https://github.com/mcpHQ/awesome-mcp-servers/pull/275) | Add Chain.Love MCP to Developer Tools and Code Intelligence | **merged** |
 
 ## toolsdk-ai/toolsdk-mcp-registry
 
 | | Title | State |
 | --- | --- | --- |
-| [#829](https://github.com/toolsdk-ai/toolsdk-mcp-registry/pull/829) | Add Chain.Love remote MCP gateway | open |
+| [#829](https://github.com/toolsdk-ai/toolsdk-mcp-registry/pull/829) | Add Chain.Love remote MCP gateway | **merged** |
 
 ## EazyHood/Lyrio
 
