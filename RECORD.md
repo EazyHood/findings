@@ -8,6 +8,12 @@ Generated automatically on 2026-10-17. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4520](https://github.com/Chain-Love/chain-love/pull/4520) | data(platforms): list Goldsky Compose on Avalanche and add Cogitus by Zeeve | open |
+| [#4519](https://github.com/Chain-Love/chain-love/pull/4519) | data(storages): add AIOZ Storage and AIOZ Pin from AIOZ Network to all-networks | open |
+| [#4518](https://github.com/Chain-Love/chain-love/pull/4518) | data(platforms): add Para embedded wallet plans on Avalanche | open |
+| [#4517](https://github.com/Chain-Love/chain-love/pull/4517) | data(storages): add Pinner IPFS pinning and hosting plans to all-networks | open |
+| [#4516](https://github.com/Chain-Love/chain-love/pull/4516) | data(analytics): add Cielo wallet tracker and Cielo API plans listed on Avalanche C-Chain | open |
+| [#4515](https://github.com/Chain-Love/chain-love/pull/4515) | data(analytics): add Birdeye with 11 Birdeye Data API plans listed on Avalanche C-Chain | open |
 | [#4487](https://github.com/Chain-Love/chain-love/pull/4487) | Mark the toolsdk-ai outreach PR as merged in the registry | open |
 | [#4485](https://github.com/Chain-Love/chain-love/pull/4485) | Add registry rows for the mcpHQ and Optimism outreach PRs | open |
 | [#4435](https://github.com/Chain-Love/chain-love/pull/4435) | Add registry rows for Harun's handed-over outreach and toolsdk-ai | **merged** |

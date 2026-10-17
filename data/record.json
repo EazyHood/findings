@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-17",
-    "prsOpened": 316,
+    "prsOpened": 322,
     "prsMerged": 81,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,66 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4520,
+      "title": "data(platforms): list Goldsky Compose on Avalanche and add Cogitus by Zeeve",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4520",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-17T04:51:37Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4519,
+      "title": "data(storages): add AIOZ Storage and AIOZ Pin from AIOZ Network to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4519",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-17T04:51:34Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4518,
+      "title": "data(platforms): add Para embedded wallet plans on Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4518",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-17T04:51:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4517,
+      "title": "data(storages): add Pinner IPFS pinning and hosting plans to all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4517",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-17T04:51:27Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4516,
+      "title": "data(analytics): add Cielo wallet tracker and Cielo API plans listed on Avalanche C-Chain",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4516",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-17T04:51:24Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4515,
+      "title": "data(analytics): add Birdeye with 11 Birdeye Data API plans listed on Avalanche C-Chain",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4515",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-17T04:51:21Z"
+    },
     {
       "repo": "woocommerce/woocommerce",
       "number": 69947,
