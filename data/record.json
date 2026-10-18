@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-18",
-    "prsOpened": 325,
+    "prsOpened": 326,
     "prsMerged": 81,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "zerocracy/fbe",
+      "number": 1621,
+      "title": "#1567: use the tracked quota when serving cached GitHub pages",
+      "url": "https://github.com/zerocracy/fbe/pull/1621",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-18T16:25:01Z"
+    },
     {
       "repo": "objectionary/jeo-maven-plugin",
       "number": 1912,

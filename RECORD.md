@@ -442,6 +442,13 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | [#16](https://github.com/Paritok-official/paritok-4b-v1/issues/16) | [hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15) | closed |
 | [#15](https://github.com/Paritok-official/paritok-4b-v1/pull/15) | fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs) | **merged** |
 
+## zerocracy/fbe
+
+| | Title | State |
+| --- | --- | --- |
+| [#1621](https://github.com/zerocracy/fbe/pull/1621) | #1567: use the tracked quota when serving cached GitHub pages | open |
+| [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
+
 ## woocommerce/woocommerce
 
 | | Title | State |
@@ -475,12 +482,6 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#1912](https://github.com/objectionary/jeo-maven-plugin/pull/1912) | #1873: preserve literal plus and percent signs in JVM names | open |
-
-## zerocracy/fbe
-
-| | Title | State |
-| --- | --- | --- |
-| [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
 
 ## yegor256/factbase
 
