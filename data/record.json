@@ -1,14 +1,44 @@
 {
   "totals": {
     "generatedAt": "2026-10-18",
-    "prsOpened": 322,
+    "prsOpened": 325,
     "prsMerged": 81,
     "issuesOpened": 70,
     "issuesClosed": 26,
-    "organizations": 29,
+    "organizations": 32,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "objectionary/jeo-maven-plugin",
+      "number": 1912,
+      "title": "#1873: preserve literal plus and percent signs in JVM names",
+      "url": "https://github.com/objectionary/jeo-maven-plugin/pull/1912",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-18T15:16:03Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 1611,
+      "title": "#1566: retry GET requests after connection and SSL failures",
+      "url": "https://github.com/zerocracy/fbe/pull/1611",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-18T15:09:49Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 1667,
+      "title": "#1647: validate imported fact properties before appending",
+      "url": "https://github.com/yegor256/factbase/pull/1667",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-18T15:09:23Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4520,
@@ -682,7 +712,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4230,
-      "title": "data(providers): fix moved, dead or wrong links in 21 provider rows and add 6 GitHub orgs",
+      "title": "data(providers): fix moved, dead or wrong links in 20 provider rows and add 6 GitHub orgs",
       "url": "https://github.com/Chain-Love/chain-love/pull/4230",
       "state": "open",
       "merged": false,
@@ -782,7 +812,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4203,
-      "title": "data(analytics): add GeckoTerminal offer, listed on Filecoin and Somnia",
+      "title": "data(analytics): list the GeckoTerminal offer on Filecoin and Somnia",
       "url": "https://github.com/Chain-Love/chain-love/pull/4203",
       "state": "open",
       "merged": false,
@@ -1052,7 +1082,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3849,
-      "title": "data(providers): fill 25 verified link cells across 24 providers",
+      "title": "data(providers): fill 23 verified link cells across 23 providers",
       "url": "https://github.com/Chain-Love/chain-love/pull/3849",
       "state": "open",
       "merged": false,
@@ -1102,7 +1132,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3577,
-      "title": "data(providers): fill 8 missing github organisations, matched by website domain (batch 1 of 1)",
+      "title": "data(providers): fill 6 missing github organisations, matched by website domain (batch 1 of 1)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3577",
       "state": "open",
       "merged": false,
@@ -1162,7 +1192,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3325,
-      "title": "data(providers): fill 22 missing link cells for 21 providers (batch 3 of 4)",
+      "title": "data(providers): fill 18 missing link cells for 18 providers (batch 3 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3325",
       "state": "open",
       "merged": false,
@@ -1172,7 +1202,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 32 missing link cells for 26 providers (batch 2 of 4)",
+      "title": "data(providers): fill 24 missing link cells for 20 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,
@@ -1392,7 +1422,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3251,
-      "title": "fix(offers): point 11 offer URLs at the destinations these providers moved to",
+      "title": "fix(offers): point 9 offer URLs at the destinations these providers moved to",
       "url": "https://github.com/Chain-Love/chain-love/pull/3251",
       "state": "open",
       "merged": false,
@@ -1402,7 +1432,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3250,
-      "title": "data(providers): consolidate 243 verified contact and social fields from five conflicting PRs",
+      "title": "data(providers): consolidate 216 verified contact and social fields from five conflicting PRs",
       "url": "https://github.com/Chain-Love/chain-love/pull/3250",
       "state": "open",
       "merged": false,

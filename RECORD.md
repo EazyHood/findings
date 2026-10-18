@@ -61,7 +61,7 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | [#4254](https://github.com/Chain-Love/chain-love/pull/4254) | data(security): add Auditware audits, Sentry, OpSec training and W3OS to all-networks | open |
 | [#4253](https://github.com/Chain-Love/chain-love/pull/4253) | data(mcpservers): add official GitBook docs MCP servers for Filecoin, Tinyman, Glassnode, DEX Screener, CryptoQuant, GetBlock and Stork | open |
 | [#4252](https://github.com/Chain-Love/chain-love/pull/4252) | data(analytics): add CoinGlass API plans, listed on Filecoin, Algorand and Somnia | open |
-| [#4230](https://github.com/Chain-Love/chain-love/pull/4230) | data(providers): fix moved, dead or wrong links in 21 provider rows and add 6 GitHub orgs | open |
+| [#4230](https://github.com/Chain-Love/chain-love/pull/4230) | data(providers): fix moved, dead or wrong links in 20 provider rows and add 6 GitHub orgs | open |
 | [#4229](https://github.com/Chain-Love/chain-love/pull/4229) | data: point action buttons at pages that moved or were retired | open |
 | [#4228](https://github.com/Chain-Love/chain-love/pull/4228) | data(algorand): add txnDuck transaction builder to services | open |
 | [#4227](https://github.com/Chain-Love/chain-love/pull/4227) | data(storages): add QuickNode IPFS plans to all-networks | open |
@@ -71,7 +71,7 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | [#4223](https://github.com/Chain-Love/chain-love/pull/4223) | data(security): add Adevar Labs audit, preaudit and security services to all-networks | open |
 | [#4222](https://github.com/Chain-Love/chain-love/pull/4222) | data(security): add Decurity and Pessimistic audit and security services to all-networks | open |
 | [#4204](https://github.com/Chain-Love/chain-love/pull/4204) | data(security): add Cyberscope and Sayfer audit, pentest and KYC offers to all-networks | open |
-| [#4203](https://github.com/Chain-Love/chain-love/pull/4203) | data(analytics): add GeckoTerminal offer, listed on Filecoin and Somnia | open |
+| [#4203](https://github.com/Chain-Love/chain-love/pull/4203) | data(analytics): list the GeckoTerminal offer on Filecoin and Somnia | open |
 | [#4202](https://github.com/Chain-Love/chain-love/pull/4202) | data(algorand): add wen.tools no-code platform | open |
 | [#4158](https://github.com/Chain-Love/chain-love/pull/4158) | data(algorand): add ASA Stats portfolio analytics (free tier and 4 subscription plans) | open |
 | [#4157](https://github.com/Chain-Love/chain-love/pull/4157) | data(storages): add Hippius S3 and Drive plans to all-networks | open |
@@ -90,15 +90,15 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | [#3852](https://github.com/Chain-Love/chain-love/issues/3852) | 18 provider rows carry a Discord invite that no longer resolves | open |
 | [#3851](https://github.com/Chain-Love/chain-love/pull/3851) | fix(hooks): look for the venv interpreter where Windows puts it | **merged** |
 | [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | **merged** |
-| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 25 verified link cells across 24 providers | open |
+| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 23 verified link cells across 23 providers | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | closed unmerged |
-| [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 8 missing github organisations, matched by website domain (batch 1 of 1) | open |
+| [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 6 missing github organisations, matched by website domain (batch 1 of 1) | open |
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
 | [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
 | [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 13 missing link cells for 9 providers | open |
-| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 22 missing link cells for 21 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 32 missing link cells for 26 providers (batch 2 of 4) | open |
+| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 18 missing link cells for 18 providers (batch 3 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 24 missing link cells for 20 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
@@ -112,8 +112,8 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | [#3291](https://github.com/Chain-Love/chain-love/issues/3291) | [DBIP] The worked example on 13 of 14 category pages is shifted one column: 12 share a single cause, and SDKs currently teaches `starred = TBD` | open |
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
 | [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
-| [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 11 offer URLs at the destinations these providers moved to | open |
-| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 243 verified contact and social fields from five conflicting PRs | open |
+| [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 9 offer URLs at the destinations these providers moved to | open |
+| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 216 verified contact and social fields from five conflicting PRs | open |
 | [#3240](https://github.com/Chain-Love/chain-love/issues/3240) | [DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16 | open |
 | [#3239](https://github.com/Chain-Love/chain-love/issues/3239) | [DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t | open |
 | [#3234](https://github.com/Chain-Love/chain-love/issues/3234) | [DBIP] `offer` is documented Blank: No but is empty in 1,228 of 1,460 canonical rows, leaving 138 providers with several unnamed offers | open |
@@ -469,6 +469,24 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## objectionary/jeo-maven-plugin
+
+| | Title | State |
+| --- | --- | --- |
+| [#1912](https://github.com/objectionary/jeo-maven-plugin/pull/1912) | #1873: preserve literal plus and percent signs in JVM names | open |
+
+## zerocracy/fbe
+
+| | Title | State |
+| --- | --- | --- |
+| [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
+
+## yegor256/factbase
+
+| | Title | State |
+| --- | --- | --- |
+| [#1667](https://github.com/yegor256/factbase/pull/1667) | #1647: validate imported fact properties before appending | open |
 
 ## dagster-io/dagster
 
