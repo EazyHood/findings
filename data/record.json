@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-18",
-    "prsOpened": 326,
+    "generatedAt": "2026-10-19",
+    "prsOpened": 327,
     "prsMerged": 81,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4633,
+      "title": "data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4633",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-19T02:15:45Z"
+    },
     {
       "repo": "zerocracy/fbe",
       "number": 1621,
@@ -1442,7 +1452,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3250,
-      "title": "data(providers): consolidate 216 verified contact and social fields from five conflicting PRs",
+      "title": "data(providers): consolidate 201 verified contact and social fields from five conflicting PRs",
       "url": "https://github.com/Chain-Love/chain-love/pull/3250",
       "state": "open",
       "merged": false,

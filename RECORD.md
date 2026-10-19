@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-19. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4633](https://github.com/Chain-Love/chain-love/pull/4633) | data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans | open |
 | [#4520](https://github.com/Chain-Love/chain-love/pull/4520) | data(platforms): list Goldsky Compose on Avalanche and add Cogitus by Zeeve | open |
 | [#4519](https://github.com/Chain-Love/chain-love/pull/4519) | data(storages): add AIOZ Storage and AIOZ Pin from AIOZ Network to all-networks | open |
 | [#4518](https://github.com/Chain-Love/chain-love/pull/4518) | data(platforms): add Para embedded wallet plans on Avalanche | open |
@@ -113,7 +114,7 @@ Generated automatically on 2026-10-18. Do not edit by hand: `scripts/update.mjs`
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
 | [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
 | [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 9 offer URLs at the destinations these providers moved to | open |
-| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 216 verified contact and social fields from five conflicting PRs | open |
+| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 201 verified contact and social fields from five conflicting PRs | open |
 | [#3240](https://github.com/Chain-Love/chain-love/issues/3240) | [DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16 | open |
 | [#3239](https://github.com/Chain-Love/chain-love/issues/3239) | [DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t | open |
 | [#3234](https://github.com/Chain-Love/chain-love/issues/3234) | [DBIP] `offer` is documented Blank: No but is empty in 1,228 of 1,460 canonical rows, leaving 138 providers with several unnamed offers | open |
