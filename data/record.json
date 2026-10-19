@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-10-19",
     "prsOpened": 327,
-    "prsMerged": 81,
+    "prsMerged": 82,
     "issuesOpened": 70,
     "issuesClosed": 26,
     "organizations": 32,
@@ -34,8 +34,8 @@
       "number": 1912,
       "title": "#1873: preserve literal plus and percent signs in JVM names",
       "url": "https://github.com/objectionary/jeo-maven-plugin/pull/1912",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-18T15:16:03Z"
     },

@@ -482,7 +482,7 @@ Generated automatically on 2026-10-19. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#1912](https://github.com/objectionary/jeo-maven-plugin/pull/1912) | #1873: preserve literal plus and percent signs in JVM names | open |
+| [#1912](https://github.com/objectionary/jeo-maven-plugin/pull/1912) | #1873: preserve literal plus and percent signs in JVM names | **merged** |
 
 ## yegor256/factbase
 
