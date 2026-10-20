@@ -1,8 +1,8 @@
 {
   "totals": {
-    "generatedAt": "2026-10-19",
+    "generatedAt": "2026-10-20",
     "prsOpened": 327,
-    "prsMerged": 82,
+    "prsMerged": 87,
     "issuesOpened": 70,
     "issuesClosed": 26,
     "organizations": 32,
@@ -14,8 +14,8 @@
       "number": 4633,
       "title": "data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans",
       "url": "https://github.com/Chain-Love/chain-love/pull/4633",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-19T02:15:45Z"
     },
@@ -164,8 +164,8 @@
       "number": 4487,
       "title": "Mark the toolsdk-ai outreach PR as merged in the registry",
       "url": "https://github.com/Chain-Love/chain-love/pull/4487",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-16T03:46:03Z"
     },
@@ -174,8 +174,8 @@
       "number": 4485,
       "title": "Add registry rows for the mcpHQ and Optimism outreach PRs",
       "url": "https://github.com/Chain-Love/chain-love/pull/4485",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-16T00:00:17Z"
     },
@@ -1454,7 +1454,7 @@
       "number": 3250,
       "title": "data(providers): consolidate 201 verified contact and social fields from five conflicting PRs",
       "url": "https://github.com/Chain-Love/chain-love/pull/3250",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-08-27T16:45:46Z"
@@ -1564,8 +1564,8 @@
       "number": 3152,
       "title": "data(filecoin): add Forest Explorer USDFC faucet",
       "url": "https://github.com/Chain-Love/chain-love/pull/3152",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-23T11:15:14Z"
     },
@@ -1792,7 +1792,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3136,
-      "title": "data(providers): fill 34 verified contact and social fields on 25 providers",
+      "title": "data(providers): fill 14 verified contact and social fields on 12 providers",
       "url": "https://github.com/Chain-Love/chain-love/pull/3136",
       "state": "open",
       "merged": false,
@@ -1814,8 +1814,8 @@
       "number": 2995,
       "title": "data(solana): correct `technology` on 18 rows that declare EVM on a non-EVM chain",
       "url": "https://github.com/Chain-Love/chain-love/pull/2995",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-17T01:07:23Z"
     },

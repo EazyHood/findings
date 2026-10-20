@@ -2,21 +2,21 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-19. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-20. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
-| [#4633](https://github.com/Chain-Love/chain-love/pull/4633) | data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans | open |
+| [#4633](https://github.com/Chain-Love/chain-love/pull/4633) | data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans | **merged** |
 | [#4520](https://github.com/Chain-Love/chain-love/pull/4520) | data(platforms): list Goldsky Compose on Avalanche and add Cogitus by Zeeve | open |
 | [#4519](https://github.com/Chain-Love/chain-love/pull/4519) | data(storages): add AIOZ Storage and AIOZ Pin from AIOZ Network to all-networks | open |
 | [#4518](https://github.com/Chain-Love/chain-love/pull/4518) | data(platforms): add Para embedded wallet plans on Avalanche | open |
 | [#4517](https://github.com/Chain-Love/chain-love/pull/4517) | data(storages): add Pinner IPFS pinning and hosting plans to all-networks | open |
 | [#4516](https://github.com/Chain-Love/chain-love/pull/4516) | data(analytics): add Cielo wallet tracker and Cielo API plans listed on Avalanche C-Chain | open |
 | [#4515](https://github.com/Chain-Love/chain-love/pull/4515) | data(analytics): add Birdeye with 11 Birdeye Data API plans listed on Avalanche C-Chain | open |
-| [#4487](https://github.com/Chain-Love/chain-love/pull/4487) | Mark the toolsdk-ai outreach PR as merged in the registry | open |
-| [#4485](https://github.com/Chain-Love/chain-love/pull/4485) | Add registry rows for the mcpHQ and Optimism outreach PRs | open |
+| [#4487](https://github.com/Chain-Love/chain-love/pull/4487) | Mark the toolsdk-ai outreach PR as merged in the registry | **merged** |
+| [#4485](https://github.com/Chain-Love/chain-love/pull/4485) | Add registry rows for the mcpHQ and Optimism outreach PRs | **merged** |
 | [#4435](https://github.com/Chain-Love/chain-love/pull/4435) | Add registry rows for Harun's handed-over outreach and toolsdk-ai | **merged** |
 | [#4430](https://github.com/Chain-Love/chain-love/pull/4430) | data(wallets): native=FALSE on 7 multichain wallet offers, evm=TRUE on Coinomi and Zypto (per #3042, #3064) | open |
 | [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 26 docs MCP servers that need no registration (2/2) | open |
@@ -114,19 +114,19 @@ Generated automatically on 2026-10-19. Do not edit by hand: `scripts/update.mjs`
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
 | [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
 | [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 9 offer URLs at the destinations these providers moved to | open |
-| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 201 verified contact and social fields from five conflicting PRs | open |
+| [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 201 verified contact and social fields from five conflicting PRs | closed unmerged |
 | [#3240](https://github.com/Chain-Love/chain-love/issues/3240) | [DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16 | open |
 | [#3239](https://github.com/Chain-Love/chain-love/issues/3239) | [DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t | open |
 | [#3234](https://github.com/Chain-Love/chain-love/issues/3234) | [DBIP] `offer` is documented Blank: No but is empty in 1,228 of 1,460 canonical rows, leaving 138 providers with several unnamed offers | open |
 | [#3212](https://github.com/Chain-Love/chain-love/issues/3212) | [DBIP] #584 was closed as completed in February; none of its four changes are in the tree | open |
 | [#3156](https://github.com/Chain-Love/chain-love/issues/3156) | [DBIP] oracles and ramps are the only categories with no price column at all | open |
 | [#3153](https://github.com/Chain-Love/chain-love/pull/3153) | data(algorand): add Biatec Scan explorer | open |
-| [#3152](https://github.com/Chain-Love/chain-love/pull/3152) | data(filecoin): add Forest Explorer USDFC faucet | open |
+| [#3152](https://github.com/Chain-Love/chain-love/pull/3152) | data(filecoin): add Forest Explorer USDFC faucet | **merged** |
 | [#3145](https://github.com/Chain-Love/chain-love/pull/3145) | Add Folks Feed Oracle price feeds for Algorand | closed unmerged |
 | [#3137](https://github.com/Chain-Love/chain-love/pull/3137) | List Dynamic's platform plans on Algorand | open |
-| [#3136](https://github.com/Chain-Love/chain-love/pull/3136) | data(providers): fill 34 verified contact and social fields on 25 providers | open |
+| [#3136](https://github.com/Chain-Love/chain-love/pull/3136) | data(providers): fill 14 verified contact and social fields on 12 providers | open |
 | [#3135](https://github.com/Chain-Love/chain-love/pull/3135) | Add Faucet Trade and ZalalenA testnet faucets for Somnia Shannon | open |
-| [#2995](https://github.com/Chain-Love/chain-love/pull/2995) | data(solana): correct `technology` on 18 rows that declare EVM on a non-EVM chain | open |
+| [#2995](https://github.com/Chain-Love/chain-love/pull/2995) | data(solana): correct `technology` on 18 rows that declare EVM on a non-EVM chain | **merged** |
 | [#2993](https://github.com/Chain-Love/chain-love/pull/2993) | data(providers): fill 97 verified contact and social fields on 50 providers | closed unmerged |
 | [#2685](https://github.com/Chain-Love/chain-love/issues/2685) | [DBIP] starred sits after pricing in 6 explorers.csv listings and after additionalFeatures in the master and the other 72 | closed |
 | [#2684](https://github.com/Chain-Love/chain-love/issues/2684) | [DBIP] 36 of 42 services.csv network listings order planName before planType, against the master and the byte-identical storages schema | closed |
