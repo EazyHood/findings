@@ -124,7 +124,7 @@ Generated automatically on 2026-10-20. Do not edit by hand: `scripts/update.mjs`
 | [#3152](https://github.com/Chain-Love/chain-love/pull/3152) | data(filecoin): add Forest Explorer USDFC faucet | **merged** |
 | [#3145](https://github.com/Chain-Love/chain-love/pull/3145) | Add Folks Feed Oracle price feeds for Algorand | closed unmerged |
 | [#3137](https://github.com/Chain-Love/chain-love/pull/3137) | List Dynamic's platform plans on Algorand | open |
-| [#3136](https://github.com/Chain-Love/chain-love/pull/3136) | data(providers): fill 14 verified contact and social fields on 12 providers | open |
+| [#3136](https://github.com/Chain-Love/chain-love/pull/3136) | data(providers): fill 14 verified contact and social fields on 12 providers | **merged** |
 | [#3135](https://github.com/Chain-Love/chain-love/pull/3135) | Add Faucet Trade and ZalalenA testnet faucets for Somnia Shannon | open |
 | [#2995](https://github.com/Chain-Love/chain-love/pull/2995) | data(solana): correct `technology` on 18 rows that declare EVM on a non-EVM chain | **merged** |
 | [#2993](https://github.com/Chain-Love/chain-love/pull/2993) | data(providers): fill 97 verified contact and social fields on 50 providers | closed unmerged |
@@ -454,7 +454,7 @@ Generated automatically on 2026-10-20. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#69947](https://github.com/woocommerce/woocommerce/pull/69947) | Fix automatic mapping of exported product GTIN columns | open |
+| [#69947](https://github.com/woocommerce/woocommerce/pull/69947) | Fix automatic mapping of exported product GTIN columns | **merged** |
 | [#69887](https://github.com/woocommerce/woocommerce/pull/69887) | Fix keyboard focus in Product Filters overlays | closed unmerged |
 
 ## gonka-ai/gonka

@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-10-20",
     "prsOpened": 327,
-    "prsMerged": 87,
+    "prsMerged": 89,
     "issuesOpened": 70,
     "issuesClosed": 26,
     "organizations": 32,
@@ -124,8 +124,8 @@
       "number": 69947,
       "title": "Fix automatic mapping of exported product GTIN columns",
       "url": "https://github.com/woocommerce/woocommerce/pull/69947",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-16T16:21:33Z"
     },
@@ -1794,8 +1794,8 @@
       "number": 3136,
       "title": "data(providers): fill 14 verified contact and social fields on 12 providers",
       "url": "https://github.com/Chain-Love/chain-love/pull/3136",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-22T00:07:55Z"
     },
