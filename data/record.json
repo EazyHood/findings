@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-21",
-    "prsOpened": 327,
+    "prsOpened": 328,
     "prsMerged": 89,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4740,
+      "title": "data(security): drop source-language tokens from executionEnvironment (#3825) and set Public on Gambit, Chimera, Halmos",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4740",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-21T21:25:11Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4633,
