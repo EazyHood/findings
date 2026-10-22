@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-22",
-    "prsOpened": 329,
+    "prsOpened": 330,
     "prsMerged": 89,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4750,
+      "title": "data(optimism): correct availableApis and inherited values on the GetBlock and NOWNodes rows",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4750",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T16:40:57Z"
+    },
     {
       "repo": "tenstorrent/tt-metal",
       "number": 61997,
@@ -22,7 +32,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4740,
-      "title": "data(security): drop source-language tokens from executionEnvironment (#3825) and set Public on Gambit, Chimera, Halmos",
+      "title": "data(security): drop source-language tokens from executionEnvironment (#3825) and set Public on Chimera",
       "url": "https://github.com/Chain-Love/chain-love/pull/4740",
       "state": "open",
       "merged": false,

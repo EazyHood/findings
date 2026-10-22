@@ -8,7 +8,8 @@ Generated automatically on 2026-10-22. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#4740](https://github.com/Chain-Love/chain-love/pull/4740) | data(security): drop source-language tokens from executionEnvironment (#3825) and set Public on Gambit, Chimera, Halmos | open |
+| [#4750](https://github.com/Chain-Love/chain-love/pull/4750) | data(optimism): correct availableApis and inherited values on the GetBlock and NOWNodes rows | open |
+| [#4740](https://github.com/Chain-Love/chain-love/pull/4740) | data(security): drop source-language tokens from executionEnvironment (#3825) and set Public on Chimera | open |
 | [#4633](https://github.com/Chain-Love/chain-love/pull/4633) | data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans | **merged** |
 | [#4520](https://github.com/Chain-Love/chain-love/pull/4520) | data(platforms): list Goldsky Compose on Avalanche and add Cogitus by Zeeve | open |
 | [#4519](https://github.com/Chain-Love/chain-love/pull/4519) | data(storages): add AIOZ Storage and AIOZ Pin from AIOZ Network to all-networks | open |
