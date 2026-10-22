@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-21",
-    "prsOpened": 328,
+    "generatedAt": "2026-10-22",
+    "prsOpened": 329,
     "prsMerged": 89,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 61997,
+      "title": "[Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/61997",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T03:38:29Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4740,

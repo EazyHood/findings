@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-21. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-22. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -287,6 +287,7 @@ Generated automatically on 2026-10-21. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | open |
 | [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | open |
 | [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |
 | [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | open |
