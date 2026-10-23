@@ -1,14 +1,124 @@
 {
   "totals": {
-    "generatedAt": "2026-10-22",
-    "prsOpened": 330,
-    "prsMerged": 89,
+    "generatedAt": "2026-10-23",
+    "prsOpened": 341,
+    "prsMerged": 90,
     "issuesOpened": 70,
     "issuesClosed": 26,
     "organizations": 32,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4764,
+      "title": "data(ramps): add Bitnovo Ramp on Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4764",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:54:24Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4763,
+      "title": "data(analytics): add Formo with Growth, Scale and Enterprise plans listed on Avalanche C-Chain and Fuji",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4763",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:54:22Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4762,
+      "title": "data(security): list MetaSleuth for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4762",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:48:07Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4761,
+      "title": "data(avalanche): list GeckoTerminal for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4761",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:48:00Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4760,
+      "title": "data(avalanche): add the Ultravioleta DAO x402 facilitator",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4760",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:47:49Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4759,
+      "title": "data(avalanche): add the Aave MCP server",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4759",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:47:41Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4758,
+      "title": "data(avalanche): add the KyberSwap MCP server",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4758",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:47:34Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4757,
+      "title": "data(storages): add ArDrive and its Turbo upload service",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4757",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:47:27Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4756,
+      "title": "data(storages): add the Lighthouse IPFS Walrus plans",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4756",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:47:18Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4755,
+      "title": "data(security): add MistTrack Premium plans for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4755",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:47:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4754,
+      "title": "data(avalanche): add Octav portfolio analytics with its five plans",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4754",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-22T22:47:04Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4750,
@@ -24,8 +134,8 @@
       "number": 61997,
       "title": "[Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch",
       "url": "https://github.com/tenstorrent/tt-metal/pull/61997",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-22T03:38:29Z"
     },

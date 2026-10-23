@@ -2,12 +2,23 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-22. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-23. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4764](https://github.com/Chain-Love/chain-love/pull/4764) | data(ramps): add Bitnovo Ramp on Avalanche | open |
+| [#4763](https://github.com/Chain-Love/chain-love/pull/4763) | data(analytics): add Formo with Growth, Scale and Enterprise plans listed on Avalanche C-Chain and Fuji | open |
+| [#4762](https://github.com/Chain-Love/chain-love/pull/4762) | data(security): list MetaSleuth for Avalanche | open |
+| [#4761](https://github.com/Chain-Love/chain-love/pull/4761) | data(avalanche): list GeckoTerminal for Avalanche | open |
+| [#4760](https://github.com/Chain-Love/chain-love/pull/4760) | data(avalanche): add the Ultravioleta DAO x402 facilitator | open |
+| [#4759](https://github.com/Chain-Love/chain-love/pull/4759) | data(avalanche): add the Aave MCP server | open |
+| [#4758](https://github.com/Chain-Love/chain-love/pull/4758) | data(avalanche): add the KyberSwap MCP server | open |
+| [#4757](https://github.com/Chain-Love/chain-love/pull/4757) | data(storages): add ArDrive and its Turbo upload service | open |
+| [#4756](https://github.com/Chain-Love/chain-love/pull/4756) | data(storages): add the Lighthouse IPFS Walrus plans | open |
+| [#4755](https://github.com/Chain-Love/chain-love/pull/4755) | data(security): add MistTrack Premium plans for Avalanche | open |
+| [#4754](https://github.com/Chain-Love/chain-love/pull/4754) | data(avalanche): add Octav portfolio analytics with its five plans | open |
 | [#4750](https://github.com/Chain-Love/chain-love/pull/4750) | data(optimism): correct availableApis and inherited values on the GetBlock and NOWNodes rows | open |
 | [#4740](https://github.com/Chain-Love/chain-love/pull/4740) | data(security): drop source-language tokens from executionEnvironment (#3825) and set Public on Chimera | open |
 | [#4633](https://github.com/Chain-Love/chain-love/pull/4633) | data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans | **merged** |
@@ -288,7 +299,7 @@ Generated automatically on 2026-10-22. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | open |
+| [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | **merged** |
 | [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | open |
 | [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |
 | [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | open |
