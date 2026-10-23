@@ -299,6 +299,7 @@ Generated automatically on 2026-10-23. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | open |
 | [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | **merged** |
 | [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | open |
 | [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |

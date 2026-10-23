@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-23",
-    "prsOpened": 341,
+    "prsOpened": 342,
     "prsMerged": 90,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 62227,
+      "title": "[Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac)",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/62227",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-23T09:22:19Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4764,
