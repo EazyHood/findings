@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-24",
-    "prsOpened": 343,
+    "prsOpened": 351,
     "prsMerged": 90,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,86 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4824,
+      "title": "docs(contributing): fix the dead pipx installation link",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4824",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T17:46:48Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4821,
+      "title": "data(filecoin): retire the ChainSafe Calibration DataCap faucet (FIP-0118)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4821",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T17:08:56Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 62397,
+      "title": "[skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/62397",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T16:37:51Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4820,
+      "title": "data(kaia): correct availableApis and inherited values on the GetBlock free plan",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4820",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T16:34:09Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4819,
+      "title": "data(algorand): correct availableApis on the Blockdaemon dedicated plans",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4819",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T16:10:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4818,
+      "title": "data(avalanche): correct availableApis on the NOWNodes free plan",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4818",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T16:10:17Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4817,
+      "title": "data(filecoin): correct tokensSupport and staking on the Atomic and MetaMask wallets",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4817",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T16:10:15Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4816,
+      "title": "data(somnia): correct tokensSupport on the MetaMask wallet",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4816",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-24T16:10:12Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4788,
@@ -1382,7 +1462,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 24 missing link cells for 20 providers (batch 2 of 4)",
+      "title": "data(providers): fill 20 missing link cells for 17 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,

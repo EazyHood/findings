@@ -8,6 +8,13 @@ Generated automatically on 2026-10-24. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4824](https://github.com/Chain-Love/chain-love/pull/4824) | docs(contributing): fix the dead pipx installation link | open |
+| [#4821](https://github.com/Chain-Love/chain-love/pull/4821) | data(filecoin): retire the ChainSafe Calibration DataCap faucet (FIP-0118) | open |
+| [#4820](https://github.com/Chain-Love/chain-love/pull/4820) | data(kaia): correct availableApis and inherited values on the GetBlock free plan | open |
+| [#4819](https://github.com/Chain-Love/chain-love/pull/4819) | data(algorand): correct availableApis on the Blockdaemon dedicated plans | open |
+| [#4818](https://github.com/Chain-Love/chain-love/pull/4818) | data(avalanche): correct availableApis on the NOWNodes free plan | open |
+| [#4817](https://github.com/Chain-Love/chain-love/pull/4817) | data(filecoin): correct tokensSupport and staking on the Atomic and MetaMask wallets | open |
+| [#4816](https://github.com/Chain-Love/chain-love/pull/4816) | data(somnia): correct tokensSupport on the MetaMask wallet | open |
 | [#4788](https://github.com/Chain-Love/chain-love/pull/4788) | data(xrpl): add the public XRPL servers listed on xrpl.org (Ripple, InFTF, Honeycluster, XRPL Labs) | closed unmerged |
 | [#4764](https://github.com/Chain-Love/chain-love/pull/4764) | data(ramps): add Bitnovo Ramp on Avalanche | open |
 | [#4763](https://github.com/Chain-Love/chain-love/pull/4763) | data(analytics): add Formo with Growth, Scale and Enterprise plans listed on Avalanche C-Chain and Fuji | open |
@@ -113,7 +120,7 @@ Generated automatically on 2026-10-24. Do not edit by hand: `scripts/update.mjs`
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
 | [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 13 missing link cells for 9 providers | open |
 | [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 18 missing link cells for 18 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 24 missing link cells for 20 providers (batch 2 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 20 missing link cells for 17 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
@@ -300,6 +307,7 @@ Generated automatically on 2026-10-24. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#62397](https://github.com/tenstorrent/tt-metal/pull/62397) | [skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops | open |
 | [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | open |
 | [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | **merged** |
 | [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | open |
