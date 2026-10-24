@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-23. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-24. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4788](https://github.com/Chain-Love/chain-love/pull/4788) | data(xrpl): add the public XRPL servers listed on xrpl.org (Ripple, InFTF, Honeycluster, XRPL Labs) | closed unmerged |
 | [#4764](https://github.com/Chain-Love/chain-love/pull/4764) | data(ramps): add Bitnovo Ramp on Avalanche | open |
 | [#4763](https://github.com/Chain-Love/chain-love/pull/4763) | data(analytics): add Formo with Growth, Scale and Enterprise plans listed on Avalanche C-Chain and Fuji | open |
 | [#4762](https://github.com/Chain-Love/chain-love/pull/4762) | data(security): list MetaSleuth for Avalanche | open |

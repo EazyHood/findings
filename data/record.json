@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-23",
-    "prsOpened": 342,
+    "generatedAt": "2026-10-24",
+    "prsOpened": 343,
     "prsMerged": 90,
     "issuesOpened": 70,
     "issuesClosed": 26,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4788,
+      "title": "data(xrpl): add the public XRPL servers listed on xrpl.org (Ripple, InFTF, Honeycluster, XRPL Labs)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4788",
+      "state": "closed",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-23T23:36:23Z"
+    },
     {
       "repo": "tenstorrent/tt-metal",
       "number": 62227,
