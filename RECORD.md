@@ -99,7 +99,7 @@ Generated automatically on 2026-10-26. Do not edit by hand: `scripts/update.mjs`
 | [#4157](https://github.com/Chain-Love/chain-love/pull/4157) | data(storages): add Hippius S3 and Drive plans to all-networks | open |
 | [#4156](https://github.com/Chain-Love/chain-love/pull/4156) | data(security): add Paladin, Zokyo and BailSec security services to all-networks | open |
 | [#4095](https://github.com/Chain-Love/chain-love/pull/4095) | data(analytics): add Coin Metrics, listed on Algorand, Filecoin and Somnia | open |
-| [#3980](https://github.com/Chain-Love/chain-love/issues/3980) | Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset | open |
+| [#3980](https://github.com/Chain-Love/chain-love/issues/3980) | Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset | closed |
 | [#3979](https://github.com/Chain-Love/chain-love/issues/3979) | [DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers | open |
 | [#3978](https://github.com/Chain-Love/chain-love/pull/3978) | data(faucets): remove the LearnWeb3 faucet, suspended since August | **merged** |
 | [#3977](https://github.com/Chain-Love/chain-love/pull/3977) | data(ramps): list Guardarian on Algorand and Filecoin | closed unmerged |

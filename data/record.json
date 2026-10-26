@@ -4,7 +4,7 @@
     "prsOpened": 351,
     "prsMerged": 90,
     "issuesOpened": 70,
-    "issuesClosed": 26,
+    "issuesClosed": 27,
     "organizations": 32,
     "truncated": false
   },
@@ -1164,7 +1164,7 @@
       "number": 3980,
       "title": "Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset",
       "url": "https://github.com/Chain-Love/chain-love/issues/3980",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-09-24T15:12:17Z"
