@@ -1,14 +1,24 @@
 {
   "totals": {
     "generatedAt": "2026-10-26",
-    "prsOpened": 351,
+    "prsOpened": 352,
     "prsMerged": 90,
     "issuesOpened": 70,
     "issuesClosed": 27,
-    "organizations": 32,
+    "organizations": 33,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Budibase/budibase",
+      "number": 19918,
+      "title": "[#19872] Keep explicit null values in JSON query fields",
+      "url": "https://github.com/Budibase/budibase/pull/19918",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-26T17:05:22Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4824,

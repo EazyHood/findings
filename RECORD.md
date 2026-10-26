@@ -502,6 +502,12 @@ Generated automatically on 2026-10-26. Do not edit by hand: `scripts/update.mjs`
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
 
+## Budibase/budibase
+
+| | Title | State |
+| --- | --- | --- |
+| [#19918](https://github.com/Budibase/budibase/pull/19918) | [#19872] Keep explicit null values in JSON query fields | open |
+
 ## objectionary/jeo-maven-plugin
 
 | | Title | State |
