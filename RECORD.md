@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-26. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-27. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -27,7 +27,7 @@ Generated automatically on 2026-10-26. Do not edit by hand: `scripts/update.mjs`
 | [#4756](https://github.com/Chain-Love/chain-love/pull/4756) | data(storages): add the Lighthouse IPFS Walrus plans | open |
 | [#4755](https://github.com/Chain-Love/chain-love/pull/4755) | data(security): add MistTrack Premium plans for Avalanche | open |
 | [#4754](https://github.com/Chain-Love/chain-love/pull/4754) | data(avalanche): add Octav portfolio analytics with its five plans | open |
-| [#4750](https://github.com/Chain-Love/chain-love/pull/4750) | data(optimism): correct availableApis and inherited values on the GetBlock and NOWNodes rows | open |
+| [#4750](https://github.com/Chain-Love/chain-love/pull/4750) | data(optimism): correct availableApis and inherited values on the GetBlock and NOWNodes rows | **merged** |
 | [#4740](https://github.com/Chain-Love/chain-love/pull/4740) | data(security): drop source-language tokens from executionEnvironment (#3825) and set Public on Chimera | open |
 | [#4633](https://github.com/Chain-Love/chain-love/pull/4633) | data(rootstock): correct availableApis on the GetBlock and NOWNodes free plans | **merged** |
 | [#4520](https://github.com/Chain-Love/chain-love/pull/4520) | data(platforms): list Goldsky Compose on Avalanche and add Cogitus by Zeeve | open |

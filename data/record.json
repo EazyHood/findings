@@ -1,8 +1,8 @@
 {
   "totals": {
-    "generatedAt": "2026-10-26",
+    "generatedAt": "2026-10-27",
     "prsOpened": 352,
-    "prsMerged": 90,
+    "prsMerged": 91,
     "issuesOpened": 70,
     "issuesClosed": 27,
     "organizations": 33,
@@ -234,8 +234,8 @@
       "number": 4750,
       "title": "data(optimism): correct availableApis and inherited values on the GetBlock and NOWNodes rows",
       "url": "https://github.com/Chain-Love/chain-love/pull/4750",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-22T16:40:57Z"
     },
