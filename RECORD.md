@@ -394,6 +394,18 @@ Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs`
 | [#547](https://github.com/StellarLend/Stellarlend-frontend/pull/547) | test: cover account export bundle scoping | closed unmerged |
 | [#546](https://github.com/StellarLend/Stellarlend-frontend/pull/546) | test: cover request id ULID helpers | closed unmerged |
 
+## objectionary/eoc
+
+| | Title | State |
+| --- | --- | --- |
+| [#1485](https://github.com/objectionary/eoc/pull/1485) | #1483: run npm test on Windows without breaking POSIX glob quoting | open |
+| [#1484](https://github.com/objectionary/eoc/pull/1484) | #1480: include API version in the default OpenAI URL | open |
+| [#1483](https://github.com/objectionary/eoc/issues/1483) | npm test passes a literal single-quoted glob to Mocha on Windows | open |
+| [#1482](https://github.com/objectionary/eoc/pull/1482) | #1427: document an executable single-test example | open |
+| [#1481](https://github.com/objectionary/eoc/pull/1481) | #1244: keep progress output out of redirected stdout | open |
+| [#1480](https://github.com/objectionary/eoc/issues/1480) | generate_comments uses an OpenAI base URL without /v1 by default | open |
+| [#1479](https://github.com/objectionary/eoc/pull/1479) | #1417: cache parser availability checks per process | open |
+
 ## sourcey/startup-credits
 
 | | Title | State |
@@ -405,6 +417,48 @@ Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs`
 | [#47](https://github.com/sourcey/startup-credits/pull/47) | catalog: add Kiro Startup Credits Program | closed unmerged |
 | [#41](https://github.com/sourcey/startup-credits/pull/41) | catalog: add Trigger.dev current YC deal | closed unmerged |
 | [#40](https://github.com/sourcey/startup-credits/pull/40) | catalog: add GitBook Startups Program | **merged** |
+
+## jcabi/jcabi-xml
+
+| | Title | State |
+| --- | --- | --- |
+| [#562](https://github.com/jcabi/jcabi-xml/pull/562) | Fix StrictXML fixtures that fail schema validation | open |
+| [#561](https://github.com/jcabi/jcabi-xml/issues/561) | Two StrictXML fixtures fail validation when their online checks allow tests to run | open |
+| [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | open |
+| [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | open |
+| [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | open |
+| [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | open |
+
+## cqfn/aibolit
+
+| | Title | State |
+| --- | --- | --- |
+| [#1423](https://github.com/cqfn/aibolit/issues/1423) | PublicStaticMethod misses implicitly public static interface methods | open |
+| [#1422](https://github.com/cqfn/aibolit/issues/1422) | ArrayAsArgument misses array-typed varargs parameters in methods and constructors | open |
+| [#1421](https://github.com/cqfn/aibolit/issues/1421) | MutableIndex raises AttributeError for valid loop bodies containing object construction | open |
+| [#1420](https://github.com/cqfn/aibolit/issues/1420) | MethodSiblings misses a sibling pair when an unrelated method comes first | open |
+| [#1419](https://github.com/cqfn/aibolit/issues/1419) | SendNull omits direct null arguments in superclass method and constructor calls | open |
+| [#1418](https://github.com/cqfn/aibolit/issues/1418) | ClassicGetter raises StopIteration for a valid return this statement | open |
+
+## jcabi/jcabi-urn
+
+| | Title | State |
+| --- | --- | --- |
+| [#120](https://github.com/jcabi/jcabi-urn/pull/120) | #117: report reserved namespaces as invalid without throwing | open |
+| [#119](https://github.com/jcabi/jcabi-urn/pull/119) | #116: preserve low bytes in escaped URN components | open |
+| [#118](https://github.com/jcabi/jcabi-urn/issues/118) | `param(name, value)` interprets delimiters in the name as additional query parameters | open |
+| [#117](https://github.com/jcabi/jcabi-urn/issues/117) | `URN.isValid` throws for the reserved `urn` namespace instead of returning false | open |
+| [#116](https://github.com/jcabi/jcabi-urn/issues/116) | `encode` omits the leading zero for bytes below 0x10, corrupting NSS round trips | open |
+
+## objectionary/eo-vscode
+
+| | Title | State |
+| --- | --- | --- |
+| [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | open |
+| [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | open |
+| [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | open |
+| [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | open |
+| [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | open |
 
 ## EazyHood/DealRift
 
@@ -442,6 +496,32 @@ Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs`
 | [#18820](https://github.com/datahub-project/datahub/issues/18820) | testIntegrationBatch1 segfaults on master after tests pass; exit 139 is reported as a test failure | open |
 | [#18819](https://github.com/datahub-project/datahub/issues/18819) | Three sources disagree on whether Python 3.12 is supported; python_requires has no upper bound so new Pythons fail opaquely | open |
 | [#18811](https://github.com/datahub-project/datahub/pull/18811) | fix(ingest): use tempfile.gettempdir() instead of hardcoded /tmp | **merged** |
+
+## objectionary/eo-lsp-server
+
+| | Title | State |
+| --- | --- | --- |
+| [#510](https://github.com/objectionary/eo-lsp-server/issues/510) | A delayed configuration response overwrites diagnostics computed with newer settings | open |
+| [#509](https://github.com/objectionary/eo-lsp-server/issues/509) | Document symbol names come from string contents and truncate valid Unicode identifiers | open |
+| [#508](https://github.com/objectionary/eo-lsp-server/issues/508) | Document symbols omit every descendant below a nested object | open |
+| [#507](https://github.com/objectionary/eo-lsp-server/issues/507) | Lexer recognition errors are discarded before diagnostics are published | open |
+
+## jcabi/jcabi-immutable
+
+| | Title | State |
+| --- | --- | --- |
+| [#134](https://github.com/jcabi/jcabi-immutable/issues/134) | ArraySortedSet membership ignores its comparator and disagrees with updates | open |
+| [#133](https://github.com/jcabi/jcabi-immutable/issues/133) | ArrayMap silently drops distinct Comparable keys that compare as zero | open |
+| [#132](https://github.com/jcabi/jcabi-immutable/issues/132) | Collection equality and hashing violate List, Set and Map contracts | open |
+| [#131](https://github.com/jcabi/jcabi-immutable/issues/131) | toArray(T[]) returns Object[] unless the supplied array has exactly the collection size | open |
+
+## jcabi/jcabi-manifests
+
+| | Title | State |
+| --- | --- | --- |
+| [#150](https://github.com/jcabi/jcabi-manifests/pull/150) | #117: make the manifest Javadoc example compile | open |
+| [#149](https://github.com/jcabi/jcabi-manifests/issues/149) | A null thread context class loader makes the first use of `Manifests` fail permanently for that defining class loader | open |
+| [#148](https://github.com/jcabi/jcabi-manifests/issues/148) | `Manifests.append()` leaves later streams open when an earlier manifest cannot be parsed | open |
 
 ## scipy/xsf
 
@@ -501,6 +581,24 @@ Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## jcabi/jcabi-http
+
+| | Title | State |
+| --- | --- | --- |
+| [#640](https://github.com/jcabi/jcabi-http/pull/640) | Allow custom multipart filenames and run OWASP on fork PRs | open |
+
+## jcabi/jcabi-dynamo
+
+| | Title | State |
+| --- | --- | --- |
+| [#589](https://github.com/jcabi/jcabi-dynamo/pull/589) | #519: count all pages in queries and scans | open |
+
+## zerocracy/pages-action
+
+| | Title | State |
+| --- | --- | --- |
+| [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | open |
 
 ## Budibase/budibase
 

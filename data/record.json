@@ -1,14 +1,444 @@
 {
   "totals": {
     "generatedAt": "2026-10-28",
-    "prsOpened": 352,
+    "prsOpened": 367,
     "prsMerged": 91,
-    "issuesOpened": 70,
+    "issuesOpened": 98,
     "issuesClosed": 27,
-    "organizations": 33,
+    "organizations": 35,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "jcabi/jcabi-urn",
+      "number": 120,
+      "title": "#117: report reserved namespaces as invalid without throwing",
+      "url": "https://github.com/jcabi/jcabi-urn/pull/120",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T19:45:14Z"
+    },
+    {
+      "repo": "jcabi/jcabi-urn",
+      "number": 119,
+      "title": "#116: preserve low bytes in escaped URN components",
+      "url": "https://github.com/jcabi/jcabi-urn/pull/119",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T19:45:00Z"
+    },
+    {
+      "repo": "objectionary/eo-vscode",
+      "number": 211,
+      "title": "#208: match the minimum VS Code version to the language client",
+      "url": "https://github.com/objectionary/eo-vscode/pull/211",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T19:43:12Z"
+    },
+    {
+      "repo": "objectionary/eo-vscode",
+      "number": 210,
+      "title": "#207: reject interrupted grammar downloads",
+      "url": "https://github.com/objectionary/eo-vscode/pull/210",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T19:42:57Z"
+    },
+    {
+      "repo": "objectionary/eoc",
+      "number": 1485,
+      "title": "#1483: run npm test on Windows without breaking POSIX glob quoting",
+      "url": "https://github.com/objectionary/eoc/pull/1485",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T19:38:46Z"
+    },
+    {
+      "repo": "objectionary/eoc",
+      "number": 1484,
+      "title": "#1480: include API version in the default OpenAI URL",
+      "url": "https://github.com/objectionary/eoc/pull/1484",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T19:38:34Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 562,
+      "title": "Fix StrictXML fixtures that fail schema validation",
+      "url": "https://github.com/jcabi/jcabi-xml/pull/562",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T19:23:13Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 561,
+      "title": "Two StrictXML fixtures fail validation when their online checks allow tests to run",
+      "url": "https://github.com/jcabi/jcabi-xml/issues/561",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:58:26Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 560,
+      "title": "Preserve terminating XSL message text in transformation exceptions",
+      "url": "https://github.com/jcabi/jcabi-xml/pull/560",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T18:50:03Z"
+    },
+    {
+      "repo": "jcabi/jcabi-http",
+      "number": 640,
+      "title": "Allow custom multipart filenames and run OWASP on fork PRs",
+      "url": "https://github.com/jcabi/jcabi-http/pull/640",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T18:40:28Z"
+    },
+    {
+      "repo": "cqfn/aibolit",
+      "number": 1423,
+      "title": "PublicStaticMethod misses implicitly public static interface methods",
+      "url": "https://github.com/cqfn/aibolit/issues/1423",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:32:29Z"
+    },
+    {
+      "repo": "cqfn/aibolit",
+      "number": 1422,
+      "title": "ArrayAsArgument misses array-typed varargs parameters in methods and constructors",
+      "url": "https://github.com/cqfn/aibolit/issues/1422",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:32:26Z"
+    },
+    {
+      "repo": "cqfn/aibolit",
+      "number": 1421,
+      "title": "MutableIndex raises AttributeError for valid loop bodies containing object construction",
+      "url": "https://github.com/cqfn/aibolit/issues/1421",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:32:24Z"
+    },
+    {
+      "repo": "cqfn/aibolit",
+      "number": 1420,
+      "title": "MethodSiblings misses a sibling pair when an unrelated method comes first",
+      "url": "https://github.com/cqfn/aibolit/issues/1420",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:32:21Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 510,
+      "title": "A delayed configuration response overwrites diagnostics computed with newer settings",
+      "url": "https://github.com/objectionary/eo-lsp-server/issues/510",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:32:08Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 559,
+      "title": "registerNs discards previously merged namespace contexts",
+      "url": "https://github.com/jcabi/jcabi-xml/issues/559",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:32:04Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 558,
+      "title": "XPath result subList rejects the valid exclusive upper bound size()",
+      "url": "https://github.com/jcabi/jcabi-xml/issues/558",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:32:01Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 557,
+      "title": "Equal XMLDocument instances have different hash codes and become duplicate HashSet entries",
+      "url": "https://github.com/jcabi/jcabi-xml/issues/557",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:31:58Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 509,
+      "title": "Document symbol names come from string contents and truncate valid Unicode identifiers",
+      "url": "https://github.com/objectionary/eo-lsp-server/issues/509",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T18:31:41Z"
+    },
+    {
+      "repo": "jcabi/jcabi-dynamo",
+      "number": 589,
+      "title": "#519: count all pages in queries and scans",
+      "url": "https://github.com/jcabi/jcabi-dynamo/pull/589",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T16:48:33Z"
+    },
+    {
+      "repo": "jcabi/jcabi-manifests",
+      "number": 150,
+      "title": "#117: make the manifest Javadoc example compile",
+      "url": "https://github.com/jcabi/jcabi-manifests/pull/150",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T16:35:22Z"
+    },
+    {
+      "repo": "jcabi/jcabi-urn",
+      "number": 118,
+      "title": "`param(name, value)` interprets delimiters in the name as additional query parameters",
+      "url": "https://github.com/jcabi/jcabi-urn/issues/118",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:24:54Z"
+    },
+    {
+      "repo": "jcabi/jcabi-urn",
+      "number": 117,
+      "title": "`URN.isValid` throws for the reserved `urn` namespace instead of returning false",
+      "url": "https://github.com/jcabi/jcabi-urn/issues/117",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:24:52Z"
+    },
+    {
+      "repo": "jcabi/jcabi-urn",
+      "number": 116,
+      "title": "`encode` omits the leading zero for bytes below 0x10, corrupting NSS round trips",
+      "url": "https://github.com/jcabi/jcabi-urn/issues/116",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:24:50Z"
+    },
+    {
+      "repo": "jcabi/jcabi-manifests",
+      "number": 149,
+      "title": "A null thread context class loader makes the first use of `Manifests` fail permanently for that defining class loader",
+      "url": "https://github.com/jcabi/jcabi-manifests/issues/149",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:24:32Z"
+    },
+    {
+      "repo": "jcabi/jcabi-manifests",
+      "number": 148,
+      "title": "`Manifests.append()` leaves later streams open when an earlier manifest cannot be parsed",
+      "url": "https://github.com/jcabi/jcabi-manifests/issues/148",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:24:30Z"
+    },
+    {
+      "repo": "objectionary/eo-vscode",
+      "number": 209,
+      "title": "Grammar URLs containing a query string fail on Windows because the query becomes part of the filename",
+      "url": "https://github.com/objectionary/eo-vscode/issues/209",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:23:11Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 508,
+      "title": "Document symbols omit every descendant below a nested object",
+      "url": "https://github.com/objectionary/eo-lsp-server/issues/508",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:23:09Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 507,
+      "title": "Lexer recognition errors are discarded before diagnostics are published",
+      "url": "https://github.com/objectionary/eo-lsp-server/issues/507",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T16:23:07Z"
+    },
+    {
+      "repo": "cqfn/aibolit",
+      "number": 1419,
+      "title": "SendNull omits direct null arguments in superclass method and constructor calls",
+      "url": "https://github.com/cqfn/aibolit/issues/1419",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T15:45:14Z"
+    },
+    {
+      "repo": "cqfn/aibolit",
+      "number": 1418,
+      "title": "ClassicGetter raises StopIteration for a valid return this statement",
+      "url": "https://github.com/cqfn/aibolit/issues/1418",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T15:45:13Z"
+    },
+    {
+      "repo": "jcabi/jcabi-immutable",
+      "number": 134,
+      "title": "ArraySortedSet membership ignores its comparator and disagrees with updates",
+      "url": "https://github.com/jcabi/jcabi-immutable/issues/134",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T15:44:44Z"
+    },
+    {
+      "repo": "jcabi/jcabi-immutable",
+      "number": 133,
+      "title": "ArrayMap silently drops distinct Comparable keys that compare as zero",
+      "url": "https://github.com/jcabi/jcabi-immutable/issues/133",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T15:44:43Z"
+    },
+    {
+      "repo": "jcabi/jcabi-immutable",
+      "number": 132,
+      "title": "Collection equality and hashing violate List, Set and Map contracts",
+      "url": "https://github.com/jcabi/jcabi-immutable/issues/132",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T15:44:19Z"
+    },
+    {
+      "repo": "jcabi/jcabi-immutable",
+      "number": 131,
+      "title": "toArray(T[]) returns Object[] unless the supplied array has exactly the collection size",
+      "url": "https://github.com/jcabi/jcabi-immutable/issues/131",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T15:44:18Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1361,
+      "title": "#1356: round decimal halves away from zero",
+      "url": "https://github.com/zerocracy/pages-action/pull/1361",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T14:35:46Z"
+    },
+    {
+      "repo": "objectionary/eo-vscode",
+      "number": 208,
+      "title": "Extension permits VS Code versions that the language client rejects at startup",
+      "url": "https://github.com/objectionary/eo-vscode/issues/208",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T14:21:37Z"
+    },
+    {
+      "repo": "objectionary/eoc",
+      "number": 1483,
+      "title": "npm test passes a literal single-quoted glob to Mocha on Windows",
+      "url": "https://github.com/objectionary/eoc/issues/1483",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T14:20:30Z"
+    },
+    {
+      "repo": "objectionary/eoc",
+      "number": 1482,
+      "title": "#1427: document an executable single-test example",
+      "url": "https://github.com/objectionary/eoc/pull/1482",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T14:20:22Z"
+    },
+    {
+      "repo": "objectionary/eo-vscode",
+      "number": 207,
+      "title": "Interrupted grammar download exits successfully without generating the syntax JSON",
+      "url": "https://github.com/objectionary/eo-vscode/issues/207",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T14:20:06Z"
+    },
+    {
+      "repo": "objectionary/eoc",
+      "number": 1481,
+      "title": "#1244: keep progress output out of redirected stdout",
+      "url": "https://github.com/objectionary/eoc/pull/1481",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T14:13:37Z"
+    },
+    {
+      "repo": "objectionary/eoc",
+      "number": 1480,
+      "title": "generate_comments uses an OpenAI base URL without /v1 by default",
+      "url": "https://github.com/objectionary/eoc/issues/1480",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-10-28T14:06:10Z"
+    },
+    {
+      "repo": "objectionary/eoc",
+      "number": 1479,
+      "title": "#1417: cache parser availability checks per process",
+      "url": "https://github.com/objectionary/eoc/pull/1479",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T14:04:00Z"
+    },
     {
       "repo": "Budibase/budibase",
       "number": 19918,
