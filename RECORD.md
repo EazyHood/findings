@@ -8,6 +8,7 @@ Generated automatically on 2026-10-29. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#4948](https://github.com/Chain-Love/chain-love/pull/4948) | Add the registry row for the Rootstock outreach PR | open |
 | [#4936](https://github.com/Chain-Love/chain-love/pull/4936) | data(gnosis): correct the GetBlock rows and remove shared archive plans | open |
 | [#4935](https://github.com/Chain-Love/chain-love/pull/4935) | data(storages): add Autonomi for all-networks | open |
 | [#4934](https://github.com/Chain-Love/chain-love/pull/4934) | data(storages): add Autonomys Auto Drive for all-networks | open |
@@ -589,6 +590,12 @@ Generated automatically on 2026-10-29. Do not edit by hand: `scripts/update.mjs`
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
 
+## rsksmart/devportal
+
+| | Title | State |
+| --- | --- | --- |
+| [#589](https://github.com/rsksmart/devportal/pull/589) | Docs: Add Chain.Love API directory to RPC Node Providers | open |
+
 ## jcabi/jcabi-http
 
 | | Title | State |
@@ -611,7 +618,7 @@ Generated automatically on 2026-10-29. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#19918](https://github.com/Budibase/budibase/pull/19918) | [#19872] Keep explicit null values in JSON query fields | open |
+| [#19918](https://github.com/Budibase/budibase/pull/19918) | [#19872] Keep explicit null values in JSON query fields | **merged** |
 
 ## objectionary/jeo-maven-plugin
 
