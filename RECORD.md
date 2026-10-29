@@ -2,12 +2,18 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-29. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4936](https://github.com/Chain-Love/chain-love/pull/4936) | data(gnosis): correct the GetBlock rows and remove shared archive plans | open |
+| [#4935](https://github.com/Chain-Love/chain-love/pull/4935) | data(storages): add Autonomi for all-networks | open |
+| [#4934](https://github.com/Chain-Love/chain-love/pull/4934) | data(storages): add Autonomys Auto Drive for all-networks | open |
+| [#4933](https://github.com/Chain-Love/chain-love/pull/4933) | data(faucets): add Chainlink CCIP Test Tokens for Avalanche Fuji | open |
+| [#4932](https://github.com/Chain-Love/chain-love/pull/4932) | data(services): add Chainlink CRE CLI for Avalanche | open |
+| [#4931](https://github.com/Chain-Love/chain-love/pull/4931) | data(services): add CreateX for Avalanche | open |
 | [#4824](https://github.com/Chain-Love/chain-love/pull/4824) | docs(contributing): fix the dead pipx installation link | open |
 | [#4821](https://github.com/Chain-Love/chain-love/pull/4821) | data(filecoin): retire the ChainSafe Calibration DataCap faucet (FIP-0118) | open |
 | [#4820](https://github.com/Chain-Love/chain-love/pull/4820) | data(kaia): correct availableApis and inherited values on the GetBlock free plan | open |
@@ -418,6 +424,17 @@ Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs`
 | [#41](https://github.com/sourcey/startup-credits/pull/41) | catalog: add Trigger.dev current YC deal | closed unmerged |
 | [#40](https://github.com/sourcey/startup-credits/pull/40) | catalog: add GitBook Startups Program | **merged** |
 
+## objectionary/eo-vscode
+
+| | Title | State |
+| --- | --- | --- |
+| [#212](https://github.com/objectionary/eo-vscode/pull/212) | Repair E2E fixtures and prepare grammar before testing | open |
+| [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | open |
+| [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | open |
+| [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | open |
+| [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | open |
+| [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | open |
+
 ## jcabi/jcabi-xml
 
 | | Title | State |
@@ -449,16 +466,6 @@ Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs`
 | [#118](https://github.com/jcabi/jcabi-urn/issues/118) | `param(name, value)` interprets delimiters in the name as additional query parameters | open |
 | [#117](https://github.com/jcabi/jcabi-urn/issues/117) | `URN.isValid` throws for the reserved `urn` namespace instead of returning false | open |
 | [#116](https://github.com/jcabi/jcabi-urn/issues/116) | `encode` omits the leading zero for bytes below 0x10, corrupting NSS round trips | open |
-
-## objectionary/eo-vscode
-
-| | Title | State |
-| --- | --- | --- |
-| [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | open |
-| [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | open |
-| [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | open |
-| [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | open |
-| [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | open |
 
 ## EazyHood/DealRift
 
@@ -586,7 +593,7 @@ Generated automatically on 2026-10-28. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#640](https://github.com/jcabi/jcabi-http/pull/640) | Allow custom multipart filenames and run OWASP on fork PRs | open |
+| [#640](https://github.com/jcabi/jcabi-http/pull/640) | Preserve multipart filenames and unblock dependency checks on fork PRs | open |
 
 ## jcabi/jcabi-dynamo
 

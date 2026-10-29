@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-28",
-    "prsOpened": 367,
+    "generatedAt": "2026-10-29",
+    "prsOpened": 374,
     "prsMerged": 91,
     "issuesOpened": 98,
     "issuesClosed": 27,
@@ -9,6 +9,76 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4936,
+      "title": "data(gnosis): correct the GetBlock rows and remove shared archive plans",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4936",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-29T05:04:48Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4935,
+      "title": "data(storages): add Autonomi for all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4935",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-29T04:22:56Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4934,
+      "title": "data(storages): add Autonomys Auto Drive for all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4934",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-29T04:20:07Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4933,
+      "title": "data(faucets): add Chainlink CCIP Test Tokens for Avalanche Fuji",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4933",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-29T04:19:52Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4932,
+      "title": "data(services): add Chainlink CRE CLI for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4932",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-29T04:19:48Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4931,
+      "title": "data(services): add CreateX for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4931",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-29T04:19:44Z"
+    },
+    {
+      "repo": "objectionary/eo-vscode",
+      "number": 212,
+      "title": "Repair E2E fixtures and prepare grammar before testing",
+      "url": "https://github.com/objectionary/eo-vscode/pull/212",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-28T23:13:41Z"
+    },
     {
       "repo": "jcabi/jcabi-urn",
       "number": 120,
@@ -102,7 +172,7 @@
     {
       "repo": "jcabi/jcabi-http",
       "number": 640,
-      "title": "Allow custom multipart filenames and run OWASP on fork PRs",
+      "title": "Preserve multipart filenames and unblock dependency checks on fork PRs",
       "url": "https://github.com/jcabi/jcabi-http/pull/640",
       "state": "open",
       "merged": false,
