@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-29",
-    "prsOpened": 376,
+    "generatedAt": "2026-10-30",
+    "prsOpened": 387,
     "prsMerged": 92,
     "issuesOpened": 98,
     "issuesClosed": 27,
@@ -9,6 +9,116 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4966,
+      "title": "data(services): add Everstake Staking for Somnia",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4966",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:50:22Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4965,
+      "title": "data(services): add Nodely AVAIL for Algorand",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4965",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:36Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4964,
+      "title": "data(services): add Nodely Archival Snapshots for Algorand",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4964",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:33Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4963,
+      "title": "data(storages): add Lumera Cascade for all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4963",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:29Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4962,
+      "title": "data(analytics): add CryptoSlam for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4962",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:25Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4961,
+      "title": "data(analytics): add Google Cloud Blockchain Analytics for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4961",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:21Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4960,
+      "title": "data(services): add Superfluid for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4960",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:16Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4959,
+      "title": "data(mcpservers): add Arkham MCP for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4959",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:12Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4958,
+      "title": "data(mcpservers): add SQD Portal MCP for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4958",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:08Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4957,
+      "title": "data(services): add Kiln Validators for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4957",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:04Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4956,
+      "title": "data(services): add Chorus One Public Nodes for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4956",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-30T02:02:00Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4948,

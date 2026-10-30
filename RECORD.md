@@ -2,12 +2,23 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-29. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-30. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4966](https://github.com/Chain-Love/chain-love/pull/4966) | data(services): add Everstake Staking for Somnia | open |
+| [#4965](https://github.com/Chain-Love/chain-love/pull/4965) | data(services): add Nodely AVAIL for Algorand | open |
+| [#4964](https://github.com/Chain-Love/chain-love/pull/4964) | data(services): add Nodely Archival Snapshots for Algorand | open |
+| [#4963](https://github.com/Chain-Love/chain-love/pull/4963) | data(storages): add Lumera Cascade for all-networks | open |
+| [#4962](https://github.com/Chain-Love/chain-love/pull/4962) | data(analytics): add CryptoSlam for Avalanche | open |
+| [#4961](https://github.com/Chain-Love/chain-love/pull/4961) | data(analytics): add Google Cloud Blockchain Analytics for Avalanche | open |
+| [#4960](https://github.com/Chain-Love/chain-love/pull/4960) | data(services): add Superfluid for Avalanche | open |
+| [#4959](https://github.com/Chain-Love/chain-love/pull/4959) | data(mcpservers): add Arkham MCP for Avalanche | open |
+| [#4958](https://github.com/Chain-Love/chain-love/pull/4958) | data(mcpservers): add SQD Portal MCP for Avalanche | open |
+| [#4957](https://github.com/Chain-Love/chain-love/pull/4957) | data(services): add Kiln Validators for Avalanche | open |
+| [#4956](https://github.com/Chain-Love/chain-love/pull/4956) | data(services): add Chorus One Public Nodes for Avalanche | open |
 | [#4948](https://github.com/Chain-Love/chain-love/pull/4948) | Add the registry row for the Rootstock outreach PR | open |
 | [#4936](https://github.com/Chain-Love/chain-love/pull/4936) | data(gnosis): correct the GetBlock rows and remove shared archive plans | open |
 | [#4935](https://github.com/Chain-Love/chain-love/pull/4935) | data(storages): add Autonomi for all-networks | open |
