@@ -8,6 +8,11 @@ Generated automatically on 2026-10-31. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5001](https://github.com/Chain-Love/chain-love/pull/5001) | data(services): add CertiK Skylens for Avalanche | open |
+| [#5000](https://github.com/Chain-Love/chain-love/pull/5000) | data(platforms): add AvaCloud Testnet Starter for Avalanche | open |
+| [#4999](https://github.com/Chain-Love/chain-love/pull/4999) | data(platforms): add AvaCloud Testnet Pro for Avalanche | open |
+| [#4998](https://github.com/Chain-Love/chain-love/pull/4998) | data(platforms): add AvaCloud Mainnet Starter for Avalanche | open |
+| [#4996](https://github.com/Chain-Love/chain-love/pull/4996) | data(platforms): add AvaCloud Mainnet Pro for Avalanche | open |
 | [#4980](https://github.com/Chain-Love/chain-love/pull/4980) | data(security): add Cyfrin smart contract audits for Avalanche | open |
 | [#4966](https://github.com/Chain-Love/chain-love/pull/4966) | data(services): add Everstake Staking for Somnia | open |
 | [#4965](https://github.com/Chain-Love/chain-love/pull/4965) | data(services): add Nodely AVAIL for Algorand | open |
@@ -72,7 +77,7 @@ Generated automatically on 2026-10-31. Do not edit by hand: `scripts/update.mjs`
 | [#4376](https://github.com/Chain-Love/chain-love/pull/4376) | data(avalanche): list Avalanche Explorer and Routescan on Fuji testnet | open |
 | [#4375](https://github.com/Chain-Love/chain-love/pull/4375) | data(avalanche): list 8 security offers from 6 maintained EVM tools on Avalanche C-Chain | open |
 | [#4374](https://github.com/Chain-Love/chain-love/pull/4374) | data(avalanche): add the UMA oracle listing on Avalanche C-Chain | open |
-| [#4373](https://github.com/Chain-Love/chain-love/pull/4373) | data(avalanche): add AvaCloud Starter and Pro plans by Ava Labs | open |
+| [#4373](https://github.com/Chain-Love/chain-love/pull/4373) | data(avalanche): add AvaCloud Starter and Pro plans by Ava Labs | closed unmerged |
 | [#4370](https://github.com/Chain-Love/chain-love/pull/4370) | data(security): add ChainGPT Smart Contract Auditor offers for Avalanche, Filecoin and Somnia | open |
 | [#4369](https://github.com/Chain-Love/chain-love/pull/4369) | data(security): add ExVul smart contract, chain and wallet audits and Web3 penetration testing to all-networks | open |
 | [#4368](https://github.com/Chain-Love/chain-love/pull/4368) | data(security): add SecureDApp Solidity Shield plans for Filecoin and Somnia | open |

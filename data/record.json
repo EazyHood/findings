@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-10-31",
-    "prsOpened": 388,
+    "prsOpened": 393,
     "prsMerged": 94,
     "issuesOpened": 98,
     "issuesClosed": 27,
@@ -9,6 +9,56 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5001,
+      "title": "data(services): add CertiK Skylens for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5001",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-31T21:24:51Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5000,
+      "title": "data(platforms): add AvaCloud Testnet Starter for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5000",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-31T20:10:30Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4999,
+      "title": "data(platforms): add AvaCloud Testnet Pro for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4999",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-31T20:10:22Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4998,
+      "title": "data(platforms): add AvaCloud Mainnet Starter for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4998",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-31T20:10:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4996,
+      "title": "data(platforms): add AvaCloud Mainnet Pro for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4996",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-31T18:48:10Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4980,
@@ -1274,7 +1324,7 @@
       "number": 4373,
       "title": "data(avalanche): add AvaCloud Starter and Pro plans by Ava Labs",
       "url": "https://github.com/Chain-Love/chain-love/pull/4373",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-10-11T13:05:31Z"
