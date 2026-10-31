@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-30. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-10-31. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#4980](https://github.com/Chain-Love/chain-love/pull/4980) | data(security): add Cyfrin smart contract audits for Avalanche | open |
 | [#4966](https://github.com/Chain-Love/chain-love/pull/4966) | data(services): add Everstake Staking for Somnia | open |
 | [#4965](https://github.com/Chain-Love/chain-love/pull/4965) | data(services): add Nodely AVAIL for Algorand | open |
 | [#4964](https://github.com/Chain-Love/chain-love/pull/4964) | data(services): add Nodely Archival Snapshots for Algorand | open |
@@ -538,7 +539,7 @@ Generated automatically on 2026-10-30. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#150](https://github.com/jcabi/jcabi-manifests/pull/150) | #117: make the manifest Javadoc example compile | open |
+| [#150](https://github.com/jcabi/jcabi-manifests/pull/150) | #117: make the manifest Javadoc example compile | **merged** |
 | [#149](https://github.com/jcabi/jcabi-manifests/issues/149) | A null thread context class loader makes the first use of `Manifests` fail permanently for that defining class loader | open |
 | [#148](https://github.com/jcabi/jcabi-manifests/issues/148) | `Manifests.append()` leaves later streams open when an earlier manifest cannot be parsed | open |
 

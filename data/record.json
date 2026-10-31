@@ -1,14 +1,24 @@
 {
   "totals": {
-    "generatedAt": "2026-10-30",
-    "prsOpened": 387,
-    "prsMerged": 92,
+    "generatedAt": "2026-10-31",
+    "prsOpened": 388,
+    "prsMerged": 93,
     "issuesOpened": 98,
     "issuesClosed": 27,
     "organizations": 36,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 4980,
+      "title": "data(security): add Cyfrin smart contract audits for Avalanche",
+      "url": "https://github.com/Chain-Love/chain-love/pull/4980",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-10-31T04:49:41Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 4966,
@@ -414,8 +424,8 @@
       "number": 150,
       "title": "#117: make the manifest Javadoc example compile",
       "url": "https://github.com/jcabi/jcabi-manifests/pull/150",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-28T16:35:22Z"
     },
