@@ -441,7 +441,7 @@ Generated automatically on 2026-10-31. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#212](https://github.com/objectionary/eo-vscode/pull/212) | Repair E2E fixtures and prepare grammar before testing | open |
+| [#212](https://github.com/objectionary/eo-vscode/pull/212) | Repair E2E fixtures and prepare grammar before testing | **merged** |
 | [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | open |
 | [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | open |
 | [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | open |

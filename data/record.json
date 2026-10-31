@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-10-31",
     "prsOpened": 388,
-    "prsMerged": 93,
+    "prsMerged": 94,
     "issuesOpened": 98,
     "issuesClosed": 27,
     "organizations": 36,
@@ -214,8 +214,8 @@
       "number": 212,
       "title": "Repair E2E fixtures and prepare grammar before testing",
       "url": "https://github.com/objectionary/eo-vscode/pull/212",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-28T23:13:41Z"
     },
