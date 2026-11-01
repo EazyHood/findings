@@ -94,7 +94,7 @@ Generated automatically on 2026-11-01. Do not edit by hand: `scripts/update.mjs`
 | [#4292](https://github.com/Chain-Love/chain-love/pull/4292) | data(security): add Security Alliance (SEAL) 911 hotline, frameworks and wargames | open |
 | [#4291](https://github.com/Chain-Love/chain-love/pull/4291) | data(security): add TrustSec and yAudit audits, retainers, boosted audits and consulting | open |
 | [#4290](https://github.com/Chain-Love/chain-love/pull/4290) | data(security): add zkSecurity audits, incident response and zkao AI bug detection | open |
-| [#4286](https://github.com/Chain-Love/chain-love/pull/4286) | data(providers): fill 14 missing social, docs and support-email fields for 13 providers | open |
+| [#4286](https://github.com/Chain-Love/chain-love/pull/4286) | data(providers): fill 14 missing social, docs and support-email fields for 13 providers | **merged** |
 | [#4285](https://github.com/Chain-Love/chain-love/pull/4285) | data(sdks): add official Hardhat plugins documented for Somnia and Filecoin | open |
 | [#4284](https://github.com/Chain-Love/chain-love/pull/4284) | data(security): add Composable Security audit, threat modeling and consultation services to all-networks | open |
 | [#4283](https://github.com/Chain-Love/chain-love/pull/4283) | data(security): add Softstack audit, pentest and compliance security services to all-networks | open |
@@ -504,7 +504,7 @@ Generated automatically on 2026-11-01. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#1585](https://github.com/ScrollPrize/villa/pull/1585) | get_ink_metrics: ask for fork only where fork exists | **merged** |
 | [#1584](https://github.com/ScrollPrize/villa/pull/1584) | spiral: the CUDA torch index is gated to Linux, so Windows installs a CPU-only build | **merged** |
-| [#1583](https://github.com/ScrollPrize/villa/issues/1583) | get_ink_metrics.py: the fork guard is dead code, and on Windows every fold dies after the expensive prep | open |
+| [#1583](https://github.com/ScrollPrize/villa/issues/1583) | get_ink_metrics.py: the fork guard is dead code, and on Windows every fold dies after the expensive prep | closed |
 | [#1581](https://github.com/ScrollPrize/villa/pull/1581) | Scroll 3 is catalogued under 54 keV but its only volume is the 53 keV… | **merged** |
 
 ## CALLE-AI/call-e-integrations
