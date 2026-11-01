@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-10-31",
-    "prsOpened": 393,
+    "generatedAt": "2026-11-01",
+    "prsOpened": 396,
     "prsMerged": 94,
     "issuesOpened": 98,
     "issuesClosed": 27,
@@ -9,6 +9,36 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5015,
+      "title": "data(security): add Sherlock Bug Bounties for all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5015",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-01T04:48:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5010,
+      "title": "data(security): add Immunefi Audit Competitions for all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5010",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-01T02:48:49Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5007,
+      "title": "data(security): add Solodit for all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5007",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-01T00:50:19Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5001,

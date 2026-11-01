@@ -2,12 +2,15 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-10-31. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-01. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5015](https://github.com/Chain-Love/chain-love/pull/5015) | data(security): add Sherlock Bug Bounties for all-networks | open |
+| [#5010](https://github.com/Chain-Love/chain-love/pull/5010) | data(security): add Immunefi Audit Competitions for all-networks | open |
+| [#5007](https://github.com/Chain-Love/chain-love/pull/5007) | data(security): add Solodit for all-networks | open |
 | [#5001](https://github.com/Chain-Love/chain-love/pull/5001) | data(services): add CertiK Skylens for Avalanche | open |
 | [#5000](https://github.com/Chain-Love/chain-love/pull/5000) | data(platforms): add AvaCloud Testnet Starter for Avalanche | open |
 | [#4999](https://github.com/Chain-Love/chain-love/pull/4999) | data(platforms): add AvaCloud Testnet Pro for Avalanche | open |
