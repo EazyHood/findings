@@ -460,9 +460,9 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#562](https://github.com/jcabi/jcabi-xml/pull/562) | Fix StrictXML fixtures that fail schema validation | open |
-| [#561](https://github.com/jcabi/jcabi-xml/issues/561) | Two StrictXML fixtures fail validation when their online checks allow tests to run | open |
-| [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | open |
+| [#562](https://github.com/jcabi/jcabi-xml/pull/562) | Fix StrictXML fixtures that fail schema validation | **merged** |
+| [#561](https://github.com/jcabi/jcabi-xml/issues/561) | Two StrictXML fixtures fail validation when their online checks allow tests to run | closed |
+| [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | **merged** |
 | [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | open |
 | [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | open |
 | [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | open |
@@ -555,7 +555,7 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#236](https://github.com/scipy/xsf/pull/236) | TST(kelvin): kelvin: add a Wronskian identity test | open |
+| [#236](https://github.com/scipy/xsf/pull/236) | TST: kelvin: add a Wronskian identity test | **merged** |
 | [#233](https://github.com/scipy/xsf/pull/233) | BUG(kelvin): ker/kei: fix across the whole subnormal range | open |
 | [#232](https://github.com/scipy/xsf/issues/232) | BUG: kelvin: the shared `\|x\| < 10` branch point costs `ber/bei/berp/beip` ~6 digits, and `ker/kei` return NaN at the domain edges | open |
 

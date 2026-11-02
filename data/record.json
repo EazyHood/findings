@@ -2,9 +2,9 @@
   "totals": {
     "generatedAt": "2026-11-02",
     "prsOpened": 396,
-    "prsMerged": 95,
+    "prsMerged": 98,
     "issuesOpened": 98,
-    "issuesClosed": 28,
+    "issuesClosed": 29,
     "organizations": 36,
     "truncated": false
   },
@@ -364,8 +364,8 @@
       "number": 562,
       "title": "Fix StrictXML fixtures that fail schema validation",
       "url": "https://github.com/jcabi/jcabi-xml/pull/562",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-28T19:23:13Z"
     },
@@ -374,7 +374,7 @@
       "number": 561,
       "title": "Two StrictXML fixtures fail validation when their online checks allow tests to run",
       "url": "https://github.com/jcabi/jcabi-xml/issues/561",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T18:58:26Z"
@@ -384,8 +384,8 @@
       "number": 560,
       "title": "Preserve terminating XSL message text in transformation exceptions",
       "url": "https://github.com/jcabi/jcabi-xml/pull/560",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-28T18:50:03Z"
     },
@@ -3192,10 +3192,10 @@
     {
       "repo": "scipy/xsf",
       "number": 236,
-      "title": "TST(kelvin): kelvin: add a Wronskian identity test",
+      "title": "TST: kelvin: add a Wronskian identity test",
       "url": "https://github.com/scipy/xsf/pull/236",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-04T00:07:40Z"
     },
