@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-11-03",
-    "prsOpened": 408,
+    "prsOpened": 410,
     "prsMerged": 98,
     "issuesOpened": 98,
     "issuesClosed": 29,
@@ -9,6 +9,26 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5060,
+      "title": "data(platforms): add Privy Core tier for all networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5060",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-03T12:46:12Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5056,
+      "title": "data(mcpservers): add UluCoreMCP for Algorand",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5056",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-03T10:48:00Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5052,

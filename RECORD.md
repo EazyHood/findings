@@ -8,6 +8,8 @@ Generated automatically on 2026-11-03. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5060](https://github.com/Chain-Love/chain-love/pull/5060) | data(platforms): add Privy Core tier for all networks | open |
+| [#5056](https://github.com/Chain-Love/chain-love/pull/5056) | data(mcpservers): add UluCoreMCP for Algorand | open |
 | [#5052](https://github.com/Chain-Love/chain-love/pull/5052) | assets: add missing DataCurve provider logo | open |
 | [#5051](https://github.com/Chain-Love/chain-love/pull/5051) | assets: add missing Nodies provider logo | open |
 | [#5050](https://github.com/Chain-Love/chain-love/pull/5050) | assets: add missing Tally (now Cactus) provider logo | open |
