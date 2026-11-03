@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-11-02",
-    "prsOpened": 396,
+    "generatedAt": "2026-11-03",
+    "prsOpened": 408,
     "prsMerged": 98,
     "issuesOpened": 98,
     "issuesClosed": 29,
@@ -9,6 +9,126 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5052,
+      "title": "assets: add missing DataCurve provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5052",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T23:56:47Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5051,
+      "title": "assets: add missing Nodies provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5051",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T23:32:04Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5050,
+      "title": "assets: add missing Tally (now Cactus) provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5050",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T23:07:02Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5049,
+      "title": "data(mcpservers): add GoPlausible Algorand Remote MCP for Algorand",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5049",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T22:48:58Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5047,
+      "title": "assets: add missing Sentry by Aleno provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5047",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T22:22:50Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5046,
+      "title": "assets: add missing Sprintcheckout provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5046",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T21:56:19Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5045,
+      "title": "assets: add missing WatchData provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5045",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T21:30:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5044,
+      "title": "assets: add missing Rivet provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5044",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T21:03:27Z"
+    },
+    {
+      "repo": "tenstorrent/tt-inference-server",
+      "number": 5521,
+      "title": "fix(forge): use resolved local weights when constructing the engine",
+      "url": "https://github.com/tenstorrent/tt-inference-server/pull/5521",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T20:20:55Z"
+    },
+    {
+      "repo": "tenstorrent/tt-inference-server",
+      "number": 5520,
+      "title": "fix(benchmarks): reject HTTP-200 streaming errors in the vLLM client",
+      "url": "https://github.com/tenstorrent/tt-inference-server/pull/5520",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T20:20:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5043,
+      "title": "assets: add missing Uniblock provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5043",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T19:16:15Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5042,
+      "title": "assets: add missing Multicall3 provider logo",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5042",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-02T18:54:39Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5015,
@@ -1212,7 +1332,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4429,
-      "title": "data(mcpservers): set planType to Public for 26 docs MCP servers that need no registration (2/2)",
+      "title": "data(mcpservers): set planType to Public for 25 docs MCP servers that need no registration (2/2)",
       "url": "https://github.com/Chain-Love/chain-love/pull/4429",
       "state": "open",
       "merged": false,
@@ -1222,7 +1342,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4428,
-      "title": "data(mcpservers): set planType to Public for 24 docs MCP servers that need no registration (1/2)",
+      "title": "data(mcpservers): set planType to Public for 20 docs MCP servers that need no registration (1/2)",
       "url": "https://github.com/Chain-Love/chain-love/pull/4428",
       "state": "open",
       "merged": false,
@@ -1462,7 +1582,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4317,
-      "title": "data(security): add HYDN smart contract audits, red team and pentest to all-networks",
+      "title": "data(security): add HYDN smart contract audits, red team and pentest",
       "url": "https://github.com/Chain-Love/chain-love/pull/4317",
       "state": "open",
       "merged": false,
@@ -1592,7 +1712,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4281,
-      "title": "data(security): add Neodyme smart contract, core blockchain and source code audits, design reviews, pentesting and training",
+      "title": "data(security): add Neodyme smart contract and core blockchain audits, protocol design reviews and blockchain training",
       "url": "https://github.com/Chain-Love/chain-love/pull/4281",
       "state": "open",
       "merged": false,
@@ -1602,7 +1722,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4280,
-      "title": "data(security): add Shieldify security reviews, audit subscription, off-chain audits, pentesting, fuzzing and formal verification",
+      "title": "data(security): add Shieldify security review and audit subscription",
       "url": "https://github.com/Chain-Love/chain-love/pull/4280",
       "state": "open",
       "merged": false,
@@ -1702,7 +1822,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4230,
-      "title": "data(providers): fix moved, dead or wrong links in 20 provider rows and add 6 GitHub orgs",
+      "title": "data(providers): fix moved, dead or wrong links in 18 provider rows and add 6 GitHub orgs",
       "url": "https://github.com/Chain-Love/chain-love/pull/4230",
       "state": "open",
       "merged": false,
@@ -1842,7 +1962,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4156,
-      "title": "data(security): add Paladin, Zokyo and BailSec security services to all-networks",
+      "title": "data(security): add Paladin and BailSec security services to all-networks",
       "url": "https://github.com/Chain-Love/chain-love/pull/4156",
       "state": "open",
       "merged": false,
@@ -1882,7 +2002,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4095,
-      "title": "data(analytics): add Coin Metrics, listed on Algorand, Filecoin and Somnia",
+      "title": "data(analytics): add Talos with its Coin Metrics data, listed on Algorand, Filecoin and Somnia",
       "url": "https://github.com/Chain-Love/chain-love/pull/4095",
       "state": "open",
       "merged": false,
@@ -2072,7 +2192,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3849,
-      "title": "data(providers): fill 23 verified link cells across 23 providers",
+      "title": "data(providers): fill 19 verified link cells and repoint one dead docs host",
       "url": "https://github.com/Chain-Love/chain-love/pull/3849",
       "state": "open",
       "merged": false,
@@ -2172,7 +2292,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3326,
-      "title": "data(providers): fill 13 missing link cells for 9 providers",
+      "title": "data(providers): fill 8 missing link cells for 6 providers and clear one dead docs link",
       "url": "https://github.com/Chain-Love/chain-love/pull/3326",
       "state": "open",
       "merged": false,
@@ -2182,7 +2302,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3325,
-      "title": "data(providers): fill 18 missing link cells for 18 providers (batch 3 of 4)",
+      "title": "data(providers): fill 16 missing link cells for 16 providers (batch 3 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3325",
       "state": "open",
       "merged": false,
@@ -2192,7 +2312,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 20 missing link cells for 17 providers (batch 2 of 4)",
+      "title": "data(providers): fill 15 missing link cells for 14 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,
@@ -2402,7 +2522,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3252,
-      "title": "Add Amberdata and Kaiko market data providers to analytics",
+      "title": "Add Kaiko market data provider to analytics",
       "url": "https://github.com/Chain-Love/chain-love/pull/3252",
       "state": "open",
       "merged": false,
@@ -2412,7 +2532,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3251,
-      "title": "fix(offers): point 9 offer URLs at the destinations these providers moved to",
+      "title": "fix(offers): point 10 offer URLs at current destinations",
       "url": "https://github.com/Chain-Love/chain-love/pull/3251",
       "state": "open",
       "merged": false,
@@ -3302,7 +3422,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 2453,
-      "title": "Add Sia, Walrus and Zus decentralized storage networks",
+      "title": "Add Sia and Walrus decentralized storage networks",
       "url": "https://github.com/Chain-Love/chain-love/pull/2453",
       "state": "open",
       "merged": false,

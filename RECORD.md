@@ -2,12 +2,22 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-03. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5052](https://github.com/Chain-Love/chain-love/pull/5052) | assets: add missing DataCurve provider logo | open |
+| [#5051](https://github.com/Chain-Love/chain-love/pull/5051) | assets: add missing Nodies provider logo | open |
+| [#5050](https://github.com/Chain-Love/chain-love/pull/5050) | assets: add missing Tally (now Cactus) provider logo | open |
+| [#5049](https://github.com/Chain-Love/chain-love/pull/5049) | data(mcpservers): add GoPlausible Algorand Remote MCP for Algorand | open |
+| [#5047](https://github.com/Chain-Love/chain-love/pull/5047) | assets: add missing Sentry by Aleno provider logo | open |
+| [#5046](https://github.com/Chain-Love/chain-love/pull/5046) | assets: add missing Sprintcheckout provider logo | open |
+| [#5045](https://github.com/Chain-Love/chain-love/pull/5045) | assets: add missing WatchData provider logo | open |
+| [#5044](https://github.com/Chain-Love/chain-love/pull/5044) | assets: add missing Rivet provider logo | open |
+| [#5043](https://github.com/Chain-Love/chain-love/pull/5043) | assets: add missing Uniblock provider logo | open |
+| [#5042](https://github.com/Chain-Love/chain-love/pull/5042) | assets: add missing Multicall3 provider logo | open |
 | [#5015](https://github.com/Chain-Love/chain-love/pull/5015) | data(security): add Sherlock Bug Bounties for all-networks | open |
 | [#5010](https://github.com/Chain-Love/chain-love/pull/5010) | data(security): add Immunefi Audit Competitions for all-networks | open |
 | [#5007](https://github.com/Chain-Love/chain-love/pull/5007) | data(security): add Solodit for all-networks | open |
@@ -67,8 +77,8 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#4485](https://github.com/Chain-Love/chain-love/pull/4485) | Add registry rows for the mcpHQ and Optimism outreach PRs | **merged** |
 | [#4435](https://github.com/Chain-Love/chain-love/pull/4435) | Add registry rows for Harun's handed-over outreach and toolsdk-ai | **merged** |
 | [#4430](https://github.com/Chain-Love/chain-love/pull/4430) | data(wallets): native=FALSE on 7 multichain wallet offers, evm=TRUE on Coinomi and Zypto (per #3042, #3064) | open |
-| [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 26 docs MCP servers that need no registration (2/2) | open |
-| [#4428](https://github.com/Chain-Love/chain-love/pull/4428) | data(mcpservers): set planType to Public for 24 docs MCP servers that need no registration (1/2) | open |
+| [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 25 docs MCP servers that need no registration (2/2) | open |
+| [#4428](https://github.com/Chain-Love/chain-love/pull/4428) | data(mcpservers): set planType to Public for 20 docs MCP servers that need no registration (1/2) | open |
 | [#4422](https://github.com/Chain-Love/chain-love/pull/4422) | data(sdks): add Trust Wallet Core Swift, Android and WebAssembly libraries on Algorand, Filecoin and Avalanche | open |
 | [#4421](https://github.com/Chain-Love/chain-love/pull/4421) | data(mcpservers): add official Etherscan keyless, Chainbase Tops and CryptoQuant MCP servers | open |
 | [#4420](https://github.com/Chain-Love/chain-love/pull/4420) | data(wallets): add imKey Pro, Arculus, Hex Safe and Safeheron MPC Self-Custody | open |
@@ -88,7 +98,7 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#4366](https://github.com/Chain-Love/chain-love/pull/4366) | data(security): add zeroShadow investigations, Torch packages and security consulting | open |
 | [#4365](https://github.com/Chain-Love/chain-love/pull/4365) | data(security): add Opsek operational security services and SEAL certification assessment | open |
 | [#4318](https://github.com/Chain-Love/chain-love/pull/4318) | data(services): add Cryptoworth crypto accounting on Algorand and Filecoin | open |
-| [#4317](https://github.com/Chain-Love/chain-love/pull/4317) | data(security): add HYDN smart contract audits, red team and pentest to all-networks | open |
+| [#4317](https://github.com/Chain-Love/chain-love/pull/4317) | data(security): add HYDN smart contract audits, red team and pentest | open |
 | [#4316](https://github.com/Chain-Love/chain-love/pull/4316) | data(security): add Safe Edges smart contract, dApp, wallet, protocol and AI agent audits, pentesting, incident response and Bastion Security | open |
 | [#4315](https://github.com/Chain-Love/chain-love/pull/4315) | data(security): add ImmuneBytes Web3 security audits and fuzz testing consultancy to all-networks | open |
 | [#4292](https://github.com/Chain-Love/chain-love/pull/4292) | data(security): add Security Alliance (SEAL) 911 hotline, frameworks and wargames | open |
@@ -99,8 +109,8 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#4284](https://github.com/Chain-Love/chain-love/pull/4284) | data(security): add Composable Security audit, threat modeling and consultation services to all-networks | open |
 | [#4283](https://github.com/Chain-Love/chain-love/pull/4283) | data(security): add Softstack audit, pentest and compliance security services to all-networks | open |
 | [#4282](https://github.com/Chain-Love/chain-love/pull/4282) | data(security): add iosiro smart contract audits, penetration testing and threat modeling | open |
-| [#4281](https://github.com/Chain-Love/chain-love/pull/4281) | data(security): add Neodyme smart contract, core blockchain and source code audits, design reviews, pentesting and training | open |
-| [#4280](https://github.com/Chain-Love/chain-love/pull/4280) | data(security): add Shieldify security reviews, audit subscription, off-chain audits, pentesting, fuzzing and formal verification | open |
+| [#4281](https://github.com/Chain-Love/chain-love/pull/4281) | data(security): add Neodyme smart contract and core blockchain audits, protocol design reviews and blockchain training | open |
+| [#4280](https://github.com/Chain-Love/chain-love/pull/4280) | data(security): add Shieldify security review and audit subscription | open |
 | [#4279](https://github.com/Chain-Love/chain-love/pull/4279) | data(security): add Olympix static analyzer, test generation, fuzzing and BugPoCer | open |
 | [#4259](https://github.com/Chain-Love/chain-love/pull/4259) | data: correct stale prices for Aleph Cloud block storage, Livepeer Studio, Dfns and Tatum | open |
 | [#4258](https://github.com/Chain-Love/chain-love/pull/4258) | data(algorand): add the Algorand Randomness Beacon oracle (mainnet + testnet) | open |
@@ -110,7 +120,7 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#4254](https://github.com/Chain-Love/chain-love/pull/4254) | data(security): add Auditware audits, Sentry, OpSec training and W3OS to all-networks | open |
 | [#4253](https://github.com/Chain-Love/chain-love/pull/4253) | data(mcpservers): add official GitBook docs MCP servers for Filecoin, Tinyman, Glassnode, DEX Screener, CryptoQuant, GetBlock and Stork | open |
 | [#4252](https://github.com/Chain-Love/chain-love/pull/4252) | data(analytics): add CoinGlass API plans, listed on Filecoin, Algorand and Somnia | open |
-| [#4230](https://github.com/Chain-Love/chain-love/pull/4230) | data(providers): fix moved, dead or wrong links in 20 provider rows and add 6 GitHub orgs | open |
+| [#4230](https://github.com/Chain-Love/chain-love/pull/4230) | data(providers): fix moved, dead or wrong links in 18 provider rows and add 6 GitHub orgs | open |
 | [#4229](https://github.com/Chain-Love/chain-love/pull/4229) | data: point action buttons at pages that moved or were retired | open |
 | [#4228](https://github.com/Chain-Love/chain-love/pull/4228) | data(algorand): add txnDuck transaction builder to services | open |
 | [#4227](https://github.com/Chain-Love/chain-love/pull/4227) | data(storages): add QuickNode IPFS plans to all-networks | open |
@@ -124,8 +134,8 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#4202](https://github.com/Chain-Love/chain-love/pull/4202) | data(algorand): add wen.tools no-code platform | open |
 | [#4158](https://github.com/Chain-Love/chain-love/pull/4158) | data(algorand): add ASA Stats portfolio analytics (free tier and 4 subscription plans) | open |
 | [#4157](https://github.com/Chain-Love/chain-love/pull/4157) | data(storages): add Hippius S3 and Drive plans to all-networks | open |
-| [#4156](https://github.com/Chain-Love/chain-love/pull/4156) | data(security): add Paladin, Zokyo and BailSec security services to all-networks | open |
-| [#4095](https://github.com/Chain-Love/chain-love/pull/4095) | data(analytics): add Coin Metrics, listed on Algorand, Filecoin and Somnia | open |
+| [#4156](https://github.com/Chain-Love/chain-love/pull/4156) | data(security): add Paladin and BailSec security services to all-networks | open |
+| [#4095](https://github.com/Chain-Love/chain-love/pull/4095) | data(analytics): add Talos with its Coin Metrics data, listed on Algorand, Filecoin and Somnia | open |
 | [#3980](https://github.com/Chain-Love/chain-love/issues/3980) | Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset | closed |
 | [#3979](https://github.com/Chain-Love/chain-love/issues/3979) | [DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers | open |
 | [#3978](https://github.com/Chain-Love/chain-love/pull/3978) | data(faucets): remove the LearnWeb3 faucet, suspended since August | **merged** |
@@ -139,15 +149,15 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#3852](https://github.com/Chain-Love/chain-love/issues/3852) | 18 provider rows carry a Discord invite that no longer resolves | open |
 | [#3851](https://github.com/Chain-Love/chain-love/pull/3851) | fix(hooks): look for the venv interpreter where Windows puts it | **merged** |
 | [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | **merged** |
-| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 23 verified link cells across 23 providers | open |
+| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 19 verified link cells and repoint one dead docs host | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | closed unmerged |
 | [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 6 missing github organisations, matched by website domain (batch 1 of 1) | open |
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
 | [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
-| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 13 missing link cells for 9 providers | open |
-| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 18 missing link cells for 18 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 20 missing link cells for 17 providers (batch 2 of 4) | open |
+| [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 8 missing link cells for 6 providers and clear one dead docs link | open |
+| [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 16 missing link cells for 16 providers (batch 3 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 15 missing link cells for 14 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
@@ -160,8 +170,8 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#3292](https://github.com/Chain-Love/chain-love/issues/3292) | [DBIP] `tag` is defined on only 6 of the 14 category pages — the other 8 carry the column and 4 tagged offers out of 802 | open |
 | [#3291](https://github.com/Chain-Love/chain-love/issues/3291) | [DBIP] The worked example on 13 of 14 category pages is shifted one column: 12 share a single cause, and SDKs currently teaches `starred = TBD` | open |
 | [#3254](https://github.com/Chain-Love/chain-love/issues/3254) | [DBIP] Storage columns for `storages` (answering RFDBIP #433): it is the only category besides `services` with no columns of its own, and `toolType` reads `Storage` in all 41 rows | open |
-| [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Amberdata and Kaiko market data providers to analytics | open |
-| [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 9 offer URLs at the destinations these providers moved to | open |
+| [#3252](https://github.com/Chain-Love/chain-love/pull/3252) | Add Kaiko market data provider to analytics | open |
+| [#3251](https://github.com/Chain-Love/chain-love/pull/3251) | fix(offers): point 10 offer URLs at current destinations | open |
 | [#3250](https://github.com/Chain-Love/chain-love/pull/3250) | data(providers): consolidate 201 verified contact and social fields from five conflicting PRs | closed unmerged |
 | [#3240](https://github.com/Chain-Love/chain-love/issues/3240) | [DBIP] `planType` asks contributors to open a DBIP before adding a value; 13 arrived without one, and the undocumented spelling of `Pay-As-You-Go` now outnumbers the documented one 51 to 16 | open |
 | [#3239](https://github.com/Chain-Love/chain-love/issues/3239) | [DBIP] The classification guide defines 13 of 14 categories; the missing one is `services`, which Services.md calls the purgatory the guide is supposed to route t | open |
@@ -199,7 +209,7 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#2456](https://github.com/Chain-Love/chain-love/pull/2456) | Add Ripio and Bitnob to ramps (LATAM / Africa) | open |
 | [#2455](https://github.com/Chain-Love/chain-love/pull/2455) | Add Flipside, Amberdata and Kaiko analytics providers | closed unmerged |
 | [#2454](https://github.com/Chain-Love/chain-love/pull/2454) | Add Solscan, Starkscan and Voyager block explorers | open |
-| [#2453](https://github.com/Chain-Love/chain-love/pull/2453) | Add Sia, Walrus and Zus decentralized storage networks | open |
+| [#2453](https://github.com/Chain-Love/chain-love/pull/2453) | Add Sia and Walrus decentralized storage networks | open |
 | [#2452](https://github.com/Chain-Love/chain-love/pull/2452) | Add Code4rena, Sherlock and Immunefi audit platforms | **merged** |
 | [#2451](https://github.com/Chain-Love/chain-love/pull/2451) | Add Certora and Dedaub formal-verification and analysis tooling | **merged** |
 | [#2448](https://github.com/Chain-Love/chain-love/pull/2448) | Remove ERCx: product discontinued, domain no longer resolves | **merged** |
@@ -574,6 +584,13 @@ Generated automatically on 2026-11-02. Do not edit by hand: `scripts/update.mjs`
 | [#17](https://github.com/Paritok-official/paritok-4b-v1/pull/17) | fix(compress): key the result cache on intent, not content alone (query and level are silently ignored) | closed unmerged |
 | [#16](https://github.com/Paritok-official/paritok-4b-v1/issues/16) | [hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15) | closed |
 | [#15](https://github.com/Paritok-official/paritok-4b-v1/pull/15) | fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs) | **merged** |
+
+## tenstorrent/tt-inference-server
+
+| | Title | State |
+| --- | --- | --- |
+| [#5521](https://github.com/tenstorrent/tt-inference-server/pull/5521) | fix(forge): use resolved local weights when constructing the engine | open |
+| [#5520](https://github.com/tenstorrent/tt-inference-server/pull/5520) | fix(benchmarks): reject HTTP-200 streaming errors in the vLLM client | open |
 
 ## zerocracy/fbe
 
