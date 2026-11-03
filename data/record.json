@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-11-03",
-    "prsOpened": 410,
+    "prsOpened": 413,
     "prsMerged": 98,
     "issuesOpened": 98,
     "issuesClosed": 29,
@@ -9,6 +9,36 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5067,
+      "title": "data(security): add Revoke.cash for Fuse",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5067",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-03T22:46:13Z"
+    },
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 64094,
+      "title": "[Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/64094",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-03T22:32:40Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5063,
+      "title": "data(analytics): add CoinMarketCap Keyless Public API for Filecoin",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5063",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-03T20:46:17Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5060,
