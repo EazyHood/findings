@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-03. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-04. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5068](https://github.com/Chain-Love/chain-love/pull/5068) | Mark the Optimism outreach PR as rejected in the registry | open |
 | [#5067](https://github.com/Chain-Love/chain-love/pull/5067) | data(security): add Revoke.cash for Fuse | open |
 | [#5063](https://github.com/Chain-Love/chain-love/pull/5063) | data(analytics): add CoinMarketCap Keyless Public API for Filecoin | open |
 | [#5060](https://github.com/Chain-Love/chain-love/pull/5060) | data(platforms): add Privy Core tier for all networks | open |
@@ -690,7 +691,7 @@ Generated automatically on 2026-11-03. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#23458](https://github.com/ethereum-optimism/optimism/pull/23458) | docs: link the Chain.Love directory from the RPC providers page | open |
+| [#23458](https://github.com/ethereum-optimism/optimism/pull/23458) | docs: link the Chain.Love directory from the RPC providers page | closed unmerged |
 
 ## mcpHQ/awesome-mcp-servers
 
