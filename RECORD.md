@@ -313,7 +313,7 @@ Generated automatically on 2026-11-05. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#64094](https://github.com/tenstorrent/tt-metal/pull/64094) | [Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a | open |
+| [#64094](https://github.com/tenstorrent/tt-metal/pull/64094) | [Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a | **merged** |
 | [#62397](https://github.com/tenstorrent/tt-metal/pull/62397) | [skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops | open |
 | [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | open |
 | [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | **merged** |
@@ -467,10 +467,10 @@ Generated automatically on 2026-11-05. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#212](https://github.com/objectionary/eo-vscode/pull/212) | Repair E2E fixtures and prepare grammar before testing | **merged** |
 | [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | open |
-| [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | open |
+| [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | **merged** |
 | [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | open |
 | [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | open |
-| [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | open |
+| [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | closed |
 
 ## jcabi/jcabi-xml
 
@@ -559,6 +559,14 @@ Generated automatically on 2026-11-05. Do not edit by hand: `scripts/update.mjs`
 | [#132](https://github.com/jcabi/jcabi-immutable/issues/132) | Collection equality and hashing violate List, Set and Map contracts | open |
 | [#131](https://github.com/jcabi/jcabi-immutable/issues/131) | toArray(T[]) returns Object[] unless the supplied array has exactly the collection size | open |
 
+## gonka-ai/gonka
+
+| | Title | State |
+| --- | --- | --- |
+| [#2222](https://github.com/gonka-ai/gonka/pull/2222) | fix(poc): bound validation_sample_size by the proof request limit | open |
+| [#1969](https://github.com/gonka-ai/gonka/pull/1969) | fix(admin): fail setup report when cold funds cannot cover epoch fees | open |
+| [#1965](https://github.com/gonka-ai/gonka/issues/1965) | [BUG] Incomplete JSON clock timestamps produce a false divergence sample | open |
+
 ## jcabi/jcabi-manifests
 
 | | Title | State |
@@ -612,13 +620,6 @@ Generated automatically on 2026-11-05. Do not edit by hand: `scripts/update.mjs`
 | [#69947](https://github.com/woocommerce/woocommerce/pull/69947) | Fix automatic mapping of exported product GTIN columns | **merged** |
 | [#69887](https://github.com/woocommerce/woocommerce/pull/69887) | Fix keyboard focus in Product Filters overlays | closed unmerged |
 
-## gonka-ai/gonka
-
-| | Title | State |
-| --- | --- | --- |
-| [#1969](https://github.com/gonka-ai/gonka/pull/1969) | fix(admin): fail setup report when cold funds cannot cover epoch fees | open |
-| [#1965](https://github.com/gonka-ai/gonka/issues/1965) | [BUG] Incomplete JSON clock timestamps produce a false divergence sample | open |
-
 ## iv-org/invidious
 
 | | Title | State |
@@ -632,6 +633,18 @@ Generated automatically on 2026-11-05. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## MagneticResonanceImaging/MRIReco.jl
+
+| | Title | State |
+| --- | --- | --- |
+| [#337](https://github.com/MagneticResonanceImaging/MRIReco.jl/pull/337) | Fix oneLine2dDensity allocation in MRIBase | open |
+
+## limitlessprojects/Go-Hybrid
+
+| | Title | State |
+| --- | --- | --- |
+| [#3755](https://github.com/limitlessprojects/Go-Hybrid/pull/3755) | fix(job): watch heavy workflow runs by default | open |
 
 ## rsksmart/devportal
 

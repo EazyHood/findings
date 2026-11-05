@@ -1,14 +1,44 @@
 {
   "totals": {
     "generatedAt": "2026-11-05",
-    "prsOpened": 414,
-    "prsMerged": 98,
+    "prsOpened": 417,
+    "prsMerged": 100,
     "issuesOpened": 98,
-    "issuesClosed": 29,
-    "organizations": 36,
+    "issuesClosed": 30,
+    "organizations": 38,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "gonka-ai/gonka",
+      "number": 2222,
+      "title": "fix(poc): bound validation_sample_size by the proof request limit",
+      "url": "https://github.com/gonka-ai/gonka/pull/2222",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-05T17:12:56Z"
+    },
+    {
+      "repo": "MagneticResonanceImaging/MRIReco.jl",
+      "number": 337,
+      "title": "Fix oneLine2dDensity allocation in MRIBase",
+      "url": "https://github.com/MagneticResonanceImaging/MRIReco.jl/pull/337",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-05T13:59:47Z"
+    },
+    {
+      "repo": "limitlessprojects/Go-Hybrid",
+      "number": 3755,
+      "title": "fix(job): watch heavy workflow runs by default",
+      "url": "https://github.com/limitlessprojects/Go-Hybrid/pull/3755",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-05T13:59:41Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5068,
@@ -34,8 +64,8 @@
       "number": 64094,
       "title": "[Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a",
       "url": "https://github.com/tenstorrent/tt-metal/pull/64094",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-03T22:32:40Z"
     },
@@ -514,8 +544,8 @@
       "number": 210,
       "title": "#207: reject interrupted grammar downloads",
       "url": "https://github.com/objectionary/eo-vscode/pull/210",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-28T19:42:57Z"
     },
@@ -874,7 +904,7 @@
       "number": 207,
       "title": "Interrupted grammar download exits successfully without generating the syntax JSON",
       "url": "https://github.com/objectionary/eo-vscode/issues/207",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T14:20:06Z"
