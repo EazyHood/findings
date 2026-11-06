@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-05. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -342,7 +342,7 @@ Generated automatically on 2026-11-05. Do not edit by hand: `scripts/update.mjs`
 | [#52037](https://github.com/tenstorrent/tt-metal/issues/52037) | [Bounty $1500] logaddexp / logaddexp2: overflow-safe reformulation | closed |
 | [#52036](https://github.com/tenstorrent/tt-metal/issues/52036) | [kernels]: xlogy NaN guard is dead code — `in1 == nan` can never be true, so xlogy(x, NaN) returns ~89 | open |
 | [#51976](https://github.com/tenstorrent/tt-metal/issues/51976) | [kernels]: lgamma (fp32) returns one identical value for all 167,773 floats in [0.5, 0.51], then jumps 0.071 | open |
-| [#51866](https://github.com/tenstorrent/tt-metal/issues/51866) | [kernels]: softplus (bf16) returns exactly 0 for x < -5, breaking the (0, inf) range | open |
+| [#51866](https://github.com/tenstorrent/tt-metal/issues/51866) | [kernels]: softplus (bf16) returns exactly 0 for x < -5, breaking the (0, inf) range | closed |
 | [#51845](https://github.com/tenstorrent/tt-metal/issues/51845) | [kernels]: sin/cos lose all accuracy past \|x\| ~1.04e5 and return \|result\| > 1 past ~1.68e7 (Cody-Waite reduction limit) | open |
 
 ## Disciplr-Org/Disciplr-backend

@@ -1,10 +1,10 @@
 {
   "totals": {
-    "generatedAt": "2026-11-05",
+    "generatedAt": "2026-11-06",
     "prsOpened": 417,
     "prsMerged": 100,
     "issuesOpened": 98,
-    "issuesClosed": 30,
+    "issuesClosed": 31,
     "organizations": 38,
     "truncated": false
   },
@@ -3744,7 +3744,7 @@
       "number": 51866,
       "title": "[kernels]: softplus (bf16) returns exactly 0 for x < -5, breaking the (0, inf) range",
       "url": "https://github.com/tenstorrent/tt-metal/issues/51866",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-02T16:32:28Z"
