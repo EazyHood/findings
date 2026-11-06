@@ -8,7 +8,10 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#5068](https://github.com/Chain-Love/chain-love/pull/5068) | Mark the Optimism outreach PR as rejected in the registry | open |
+| [#5146](https://github.com/Chain-Love/chain-love/pull/5146) | Add outreach registry rows for VoltAgent, Sagargupta16, yjjnls and AlexMili | open |
+| [#5128](https://github.com/Chain-Love/chain-love/pull/5128) | feat(validate): limit actionButtons to two per row | open |
+| [#5116](https://github.com/Chain-Love/chain-love/pull/5116) | docs: add a before-you-submit checklist to AGENTS.md and CONTRIBUTING.md | open |
+| [#5068](https://github.com/Chain-Love/chain-love/pull/5068) | Mark the Optimism outreach PR as rejected in the registry | **merged** |
 | [#5067](https://github.com/Chain-Love/chain-love/pull/5067) | data(security): add Revoke.cash for Fuse | open |
 | [#5063](https://github.com/Chain-Love/chain-love/pull/5063) | data(analytics): add CoinMarketCap Keyless Public API for Filecoin | open |
 | [#5060](https://github.com/Chain-Love/chain-love/pull/5060) | data(platforms): add Privy Core tier for all networks | open |
@@ -43,7 +46,7 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#4958](https://github.com/Chain-Love/chain-love/pull/4958) | data(mcpservers): add SQD Portal MCP for Avalanche | open |
 | [#4957](https://github.com/Chain-Love/chain-love/pull/4957) | data(services): add Kiln Validators for Avalanche | open |
 | [#4956](https://github.com/Chain-Love/chain-love/pull/4956) | data(services): add Chorus One Public Nodes for Avalanche | open |
-| [#4948](https://github.com/Chain-Love/chain-love/pull/4948) | Add the registry row for the Rootstock outreach PR | open |
+| [#4948](https://github.com/Chain-Love/chain-love/pull/4948) | Add the registry row for the Rootstock outreach PR | **merged** |
 | [#4936](https://github.com/Chain-Love/chain-love/pull/4936) | data(gnosis): correct the GetBlock rows and remove shared archive plans | open |
 | [#4935](https://github.com/Chain-Love/chain-love/pull/4935) | data(storages): add Autonomi for all-networks | open |
 | [#4934](https://github.com/Chain-Love/chain-love/pull/4934) | data(storages): add Autonomys Auto Drive for all-networks | open |
@@ -441,13 +444,13 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#1485](https://github.com/objectionary/eoc/pull/1485) | #1483: run npm test on Windows without breaking POSIX glob quoting | open |
-| [#1484](https://github.com/objectionary/eoc/pull/1484) | #1480: include API version in the default OpenAI URL | open |
-| [#1483](https://github.com/objectionary/eoc/issues/1483) | npm test passes a literal single-quoted glob to Mocha on Windows | open |
-| [#1482](https://github.com/objectionary/eoc/pull/1482) | #1427: document an executable single-test example | open |
-| [#1481](https://github.com/objectionary/eoc/pull/1481) | #1244: keep progress output out of redirected stdout | open |
-| [#1480](https://github.com/objectionary/eoc/issues/1480) | generate_comments uses an OpenAI base URL without /v1 by default | open |
-| [#1479](https://github.com/objectionary/eoc/pull/1479) | #1417: cache parser availability checks per process | open |
+| [#1485](https://github.com/objectionary/eoc/pull/1485) | #1483: run npm test on Windows without breaking POSIX glob quoting | **merged** |
+| [#1484](https://github.com/objectionary/eoc/pull/1484) | #1480: include API version in the default OpenAI URL | **merged** |
+| [#1483](https://github.com/objectionary/eoc/issues/1483) | npm test passes a literal single-quoted glob to Mocha on Windows | closed |
+| [#1482](https://github.com/objectionary/eoc/pull/1482) | #1427: document an executable single-test example | **merged** |
+| [#1481](https://github.com/objectionary/eoc/pull/1481) | #1244: keep progress output out of redirected stdout | **merged** |
+| [#1480](https://github.com/objectionary/eoc/issues/1480) | generate_comments uses an OpenAI base URL without /v1 by default | closed |
+| [#1479](https://github.com/objectionary/eoc/pull/1479) | #1417: cache parser availability checks per process | **merged** |
 
 ## sourcey/startup-credits
 
@@ -466,10 +469,10 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#212](https://github.com/objectionary/eo-vscode/pull/212) | Repair E2E fixtures and prepare grammar before testing | **merged** |
-| [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | open |
+| [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | closed unmerged |
 | [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | **merged** |
 | [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | open |
-| [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | open |
+| [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | closed |
 | [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | closed |
 
 ## jcabi/jcabi-xml
@@ -498,11 +501,11 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#120](https://github.com/jcabi/jcabi-urn/pull/120) | #117: report reserved namespaces as invalid without throwing | open |
-| [#119](https://github.com/jcabi/jcabi-urn/pull/119) | #116: preserve low bytes in escaped URN components | open |
+| [#120](https://github.com/jcabi/jcabi-urn/pull/120) | #117: report reserved namespaces as invalid without throwing | **merged** |
+| [#119](https://github.com/jcabi/jcabi-urn/pull/119) | #116: preserve low bytes in escaped URN components | **merged** |
 | [#118](https://github.com/jcabi/jcabi-urn/issues/118) | `param(name, value)` interprets delimiters in the name as additional query parameters | open |
 | [#117](https://github.com/jcabi/jcabi-urn/issues/117) | `URN.isValid` throws for the reserved `urn` namespace instead of returning false | open |
-| [#116](https://github.com/jcabi/jcabi-urn/issues/116) | `encode` omits the leading zero for bytes below 0x10, corrupting NSS round trips | open |
+| [#116](https://github.com/jcabi/jcabi-urn/issues/116) | `encode` omits the leading zero for bytes below 0x10, corrupting NSS round trips | closed |
 
 ## EazyHood/DealRift
 
@@ -555,7 +558,7 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#134](https://github.com/jcabi/jcabi-immutable/issues/134) | ArraySortedSet membership ignores its comparator and disagrees with updates | open |
-| [#133](https://github.com/jcabi/jcabi-immutable/issues/133) | ArrayMap silently drops distinct Comparable keys that compare as zero | open |
+| [#133](https://github.com/jcabi/jcabi-immutable/issues/133) | ArrayMap silently drops distinct Comparable keys that compare as zero | closed |
 | [#132](https://github.com/jcabi/jcabi-immutable/issues/132) | Collection equality and hashing violate List, Set and Map contracts | open |
 | [#131](https://github.com/jcabi/jcabi-immutable/issues/131) | toArray(T[]) returns Object[] unless the supplied array has exactly the collection size | open |
 
@@ -573,7 +576,7 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#150](https://github.com/jcabi/jcabi-manifests/pull/150) | #117: make the manifest Javadoc example compile | **merged** |
 | [#149](https://github.com/jcabi/jcabi-manifests/issues/149) | A null thread context class loader makes the first use of `Manifests` fail permanently for that defining class loader | open |
-| [#148](https://github.com/jcabi/jcabi-manifests/issues/148) | `Manifests.append()` leaves later streams open when an earlier manifest cannot be parsed | open |
+| [#148](https://github.com/jcabi/jcabi-manifests/issues/148) | `Manifests.append()` leaves later streams open when an earlier manifest cannot be parsed | closed |
 
 ## scipy/xsf
 
@@ -634,17 +637,41 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
 
+## AlexMili/Awesome-MCP
+
+| | Title | State |
+| --- | --- | --- |
+| [#392](https://github.com/AlexMili/Awesome-MCP/pull/392) | Add Chain.Love MCP to Finance & Crypto | open |
+
+## yjjnls/awesome-blockchain
+
+| | Title | State |
+| --- | --- | --- |
+| [#162](https://github.com/yjjnls/awesome-blockchain/pull/162) | Add Chain.Love to Tools Directory | open |
+
+## Sagargupta16/awesome-mcp-servers
+
+| | Title | State |
+| --- | --- | --- |
+| [#321](https://github.com/Sagargupta16/awesome-mcp-servers/pull/321) | Add Chain.Love MCP to Developer Tools | **merged** |
+
+## VoltAgent/official-mcp-servers
+
+| | Title | State |
+| --- | --- | --- |
+| [#81](https://github.com/VoltAgent/official-mcp-servers/pull/81) | Add server: Chain.Love | open |
+
 ## MagneticResonanceImaging/MRIReco.jl
 
 | | Title | State |
 | --- | --- | --- |
-| [#337](https://github.com/MagneticResonanceImaging/MRIReco.jl/pull/337) | Fix oneLine2dDensity allocation in MRIBase | open |
+| [#337](https://github.com/MagneticResonanceImaging/MRIReco.jl/pull/337) | Fix oneLine2dDensity allocation in MRIBase | **merged** |
 
 ## limitlessprojects/Go-Hybrid
 
 | | Title | State |
 | --- | --- | --- |
-| [#3755](https://github.com/limitlessprojects/Go-Hybrid/pull/3755) | fix(job): watch heavy workflow runs by default | open |
+| [#3755](https://github.com/limitlessprojects/Go-Hybrid/pull/3755) | fix(job): watch heavy workflow runs by default | **merged** |
 
 ## rsksmart/devportal
 
@@ -662,13 +689,13 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#589](https://github.com/jcabi/jcabi-dynamo/pull/589) | #519: count all pages in queries and scans | open |
+| [#589](https://github.com/jcabi/jcabi-dynamo/pull/589) | #519: count all pages in queries and scans | **merged** |
 
 ## zerocracy/pages-action
 
 | | Title | State |
 | --- | --- | --- |
-| [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | open |
+| [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | **merged** |
 
 ## Budibase/budibase
 
