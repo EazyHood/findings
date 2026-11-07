@@ -1,7 +1,7 @@
 {
   "totals": {
     "generatedAt": "2026-11-07",
-    "prsOpened": 463,
+    "prsOpened": 464,
     "prsMerged": 114,
     "issuesOpened": 99,
     "issuesClosed": 37,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "tenstorrent/tt-metal",
+      "number": 64803,
+      "title": "[Bug fix] ttnn graph capture: label ND-sharded buffers ND_SHARDED instead of UNKNOWN",
+      "url": "https://github.com/tenstorrent/tt-metal/pull/64803",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T17:25:46Z"
+    },
     {
       "repo": "zerocracy/fbe",
       "number": 2013,
@@ -2872,7 +2882,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 15 missing link cells for 14 providers (batch 2 of 4)",
+      "title": "data(providers): fill 14 missing link cells for 13 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,

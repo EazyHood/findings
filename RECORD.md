@@ -165,7 +165,7 @@ Generated automatically on 2026-11-07. Do not edit by hand: `scripts/update.mjs`
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
 | [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 8 missing link cells for 6 providers and clear one dead docs link | open |
 | [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 16 missing link cells for 16 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 15 missing link cells for 14 providers (batch 2 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 14 missing link cells for 13 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
@@ -316,6 +316,7 @@ Generated automatically on 2026-11-07. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#64803](https://github.com/tenstorrent/tt-metal/pull/64803) | [Bug fix] ttnn graph capture: label ND-sharded buffers ND_SHARDED instead of UNKNOWN | open |
 | [#64094](https://github.com/tenstorrent/tt-metal/pull/64094) | [Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a | **merged** |
 | [#62397](https://github.com/tenstorrent/tt-metal/pull/62397) | [skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops | open |
 | [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | open |
