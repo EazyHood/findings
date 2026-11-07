@@ -1,14 +1,414 @@
 {
   "totals": {
-    "generatedAt": "2026-11-06",
-    "prsOpened": 424,
+    "generatedAt": "2026-11-07",
+    "prsOpened": 463,
     "prsMerged": 114,
-    "issuesOpened": 98,
+    "issuesOpened": 99,
     "issuesClosed": 37,
     "organizations": 42,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2013,
+      "title": "#1556: Retry transient GraphQL query failures without replaying mutations",
+      "url": "https://github.com/zerocracy/fbe/pull/2013",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T04:22:50Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2012,
+      "title": "#1380: expose review authors and states",
+      "url": "https://github.com/zerocracy/fbe/pull/2012",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T04:22:05Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 585,
+      "title": "Reject non-regular files before durable_save uploads",
+      "url": "https://github.com/zerocracy/baza.rb/pull/585",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T04:05:03Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 584,
+      "title": "Assemble encoded download ranges before decompressing gzip",
+      "url": "https://github.com/zerocracy/baza.rb/pull/584",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T04:04:34Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 1969,
+      "title": "#1947: skip incompatible encodings while comparing remaining values",
+      "url": "https://github.com/yegor256/factbase/pull/1969",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T04:01:23Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 1968,
+      "title": "#1943: detach query text from the memoized cache identity",
+      "url": "https://github.com/yegor256/factbase/pull/1968",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T04:00:55Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 1967,
+      "title": "Publish benchmark results only from the canonical repository",
+      "url": "https://github.com/yegor256/factbase/pull/1967",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:55:47Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 1966,
+      "title": "Benchmark workflow tries to publish maintenance pull requests from contributor forks",
+      "url": "https://github.com/yegor256/factbase/issues/1966",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-07T03:55:19Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 583,
+      "title": "Validate partial download ranges before appending bytes",
+      "url": "https://github.com/zerocracy/baza.rb/pull/583",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:42:35Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3138,
+      "title": "#2845: leave terrain metrics pending after server errors",
+      "url": "https://github.com/zerocracy/judges-action/pull/3138",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:36:47Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3137,
+      "title": "#2860: retry incomplete QoS metrics after forbidden lookups",
+      "url": "https://github.com/zerocracy/judges-action/pull/3137",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:36:31Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3136,
+      "title": "#2853: treat the shared ghost account as a missing author",
+      "url": "https://github.com/zerocracy/judges-action/pull/3136",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:36:14Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3135,
+      "title": "#2852: verify the identity returned for a missing issue",
+      "url": "https://github.com/zerocracy/judges-action/pull/3135",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:35:58Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3134,
+      "title": "#2934: verify processed pulls do not trigger another lookup",
+      "url": "https://github.com/zerocracy/judges-action/pull/3134",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:35:43Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3133,
+      "title": "#2923: exercise the token trace in the masking regression",
+      "url": "https://github.com/zerocracy/judges-action/pull/3133",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:35:24Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3132,
+      "title": "#3080: order parallel Make consumers before cleanup",
+      "url": "https://github.com/zerocracy/judges-action/pull/3132",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:35:10Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 1965,
+      "title": "#894: document how to read YAML timestamps safely",
+      "url": "https://github.com/yegor256/factbase/pull/1965",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:34:54Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 48,
+      "title": "Refresh shared logo and palette before building the pitch PDFs",
+      "url": "https://github.com/zerocracy/sales-deck/pull/48",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:34:38Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 47,
+      "title": "#39: let latexmk check dependencies on every make invocation",
+      "url": "https://github.com/zerocracy/sales-deck/pull/47",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:34:22Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 46,
+      "title": "Remove both generated PDFs during make clean",
+      "url": "https://github.com/zerocracy/sales-deck/pull/46",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:34:06Z"
+    },
+    {
+      "repo": "zerocracy/brand-book",
+      "number": 89,
+      "title": "Refresh logo and palette before deciding whether to rebuild the PDF",
+      "url": "https://github.com/zerocracy/brand-book/pull/89",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:33:51Z"
+    },
+    {
+      "repo": "zerocracy/brand-book",
+      "number": 88,
+      "title": "Run PDD on all pushes to master",
+      "url": "https://github.com/zerocracy/brand-book/pull/88",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:33:33Z"
+    },
+    {
+      "repo": "zerocracy/brand-book",
+      "number": 87,
+      "title": "#79: discard failed font downloads before retrying",
+      "url": "https://github.com/zerocracy/brand-book/pull/87",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:33:17Z"
+    },
+    {
+      "repo": "zerocracy/brand-book",
+      "number": 86,
+      "title": "Rebuild the brand book when latexmk configuration changes",
+      "url": "https://github.com/zerocracy/brand-book/pull/86",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:33:02Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1462,
+      "title": "#1433: invalidate the Docker image when a source is deleted",
+      "url": "https://github.com/zerocracy/pages-action/pull/1462",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:32:46Z"
+    },
+    {
+      "repo": "zerocracy/swarm-template",
+      "number": 322,
+      "title": "#296: remove the unsupported Docker build instruction",
+      "url": "https://github.com/zerocracy/swarm-template/pull/322",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:32:29Z"
+    },
+    {
+      "repo": "zerocracy/swarm-template",
+      "number": 321,
+      "title": "#295: pass an explicit summary mode to judges update",
+      "url": "https://github.com/zerocracy/swarm-template/pull/321",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:32:15Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 582,
+      "title": "Replace partial downloads when the server returns a complete response",
+      "url": "https://github.com/zerocracy/baza.rb/pull/582",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:31:59Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 581,
+      "title": "Truncate payment amounts consistently before sending them",
+      "url": "https://github.com/zerocracy/baza.rb/pull/581",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:31:43Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 580,
+      "title": "Validate durable placement response identifiers",
+      "url": "https://github.com/zerocracy/baza.rb/pull/580",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:31:28Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3130,
+      "title": "Populate the default project name for valve operations",
+      "url": "https://github.com/zerocracy/judges-action/pull/3130",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:31:14Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2009,
+      "title": "#1912: validate the project name before entering a valve",
+      "url": "https://github.com/zerocracy/fbe/pull/2009",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:30:58Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 168,
+      "title": "#129: package the TypeScript runtime and launch it independently of the working directory",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/168",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:30:40Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 167,
+      "title": "#139: reject empty results in mocked resource-list tests",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/167",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:30:25Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 166,
+      "title": "#132: deduplicate product resources after normalizing names",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/166",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:30:10Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 165,
+      "title": "#130, #152: Bound Baza requests by deadlines and MCP cancellation",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/165",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:29:53Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 164,
+      "title": "#128: accept a trailing slash in ZEROCRACY_HOST",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/164",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:29:38Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 163,
+      "title": "#127: make the example MCP configuration valid JSON",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/163",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:29:14Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 579,
+      "title": "Reject malformed recent job IDs and exit-code responses",
+      "url": "https://github.com/zerocracy/baza.rb/pull/579",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-07T03:28:37Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 577,
+      "title": "#559: Keep merged namespace contexts in registerNs",
+      "url": "https://github.com/jcabi/jcabi-xml/pull/577",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-06T21:24:43Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5146,
@@ -24,7 +424,7 @@
       "number": 392,
       "title": "Add Chain.Love MCP to Finance & Crypto",
       "url": "https://github.com/AlexMili/Awesome-MCP/pull/392",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-11-06T18:32:03Z"

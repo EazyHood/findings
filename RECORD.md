@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-07. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -440,6 +440,43 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#547](https://github.com/StellarLend/Stellarlend-frontend/pull/547) | test: cover account export bundle scoping | closed unmerged |
 | [#546](https://github.com/StellarLend/Stellarlend-frontend/pull/546) | test: cover request id ULID helpers | closed unmerged |
 
+## zerocracy/judges-action
+
+| | Title | State |
+| --- | --- | --- |
+| [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
+| [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
+| [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
+| [#3135](https://github.com/zerocracy/judges-action/pull/3135) | #2852: verify the identity returned for a missing issue | open |
+| [#3134](https://github.com/zerocracy/judges-action/pull/3134) | #2934: verify processed pulls do not trigger another lookup | open |
+| [#3133](https://github.com/zerocracy/judges-action/pull/3133) | #2923: exercise the token trace in the masking regression | open |
+| [#3132](https://github.com/zerocracy/judges-action/pull/3132) | #3080: order parallel Make consumers before cleanup | open |
+| [#3130](https://github.com/zerocracy/judges-action/pull/3130) | Populate the default project name for valve operations | open |
+
+## zerocracy/baza.rb
+
+| | Title | State |
+| --- | --- | --- |
+| [#585](https://github.com/zerocracy/baza.rb/pull/585) | Reject non-regular files before durable_save uploads | open |
+| [#584](https://github.com/zerocracy/baza.rb/pull/584) | Assemble encoded download ranges before decompressing gzip | open |
+| [#583](https://github.com/zerocracy/baza.rb/pull/583) | Validate partial download ranges before appending bytes | open |
+| [#582](https://github.com/zerocracy/baza.rb/pull/582) | Replace partial downloads when the server returns a complete response | open |
+| [#581](https://github.com/zerocracy/baza.rb/pull/581) | Truncate payment amounts consistently before sending them | open |
+| [#580](https://github.com/zerocracy/baza.rb/pull/580) | Validate durable placement response identifiers | open |
+| [#579](https://github.com/zerocracy/baza.rb/pull/579) | Reject malformed recent job IDs and exit-code responses | open |
+
+## jcabi/jcabi-xml
+
+| | Title | State |
+| --- | --- | --- |
+| [#577](https://github.com/jcabi/jcabi-xml/pull/577) | #559: Keep merged namespace contexts in registerNs | open |
+| [#562](https://github.com/jcabi/jcabi-xml/pull/562) | Fix StrictXML fixtures that fail schema validation | **merged** |
+| [#561](https://github.com/jcabi/jcabi-xml/issues/561) | Two StrictXML fixtures fail validation when their online checks allow tests to run | closed |
+| [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | **merged** |
+| [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | open |
+| [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | open |
+| [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | open |
+
 ## objectionary/eoc
 
 | | Title | State |
@@ -464,6 +501,28 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#41](https://github.com/sourcey/startup-credits/pull/41) | catalog: add Trigger.dev current YC deal | closed unmerged |
 | [#40](https://github.com/sourcey/startup-credits/pull/40) | catalog: add GitBook Startups Program | **merged** |
 
+## yegor256/factbase
+
+| | Title | State |
+| --- | --- | --- |
+| [#1969](https://github.com/yegor256/factbase/pull/1969) | #1947: skip incompatible encodings while comparing remaining values | open |
+| [#1968](https://github.com/yegor256/factbase/pull/1968) | #1943: detach query text from the memoized cache identity | open |
+| [#1967](https://github.com/yegor256/factbase/pull/1967) | Publish benchmark results only from the canonical repository | open |
+| [#1966](https://github.com/yegor256/factbase/issues/1966) | Benchmark workflow tries to publish maintenance pull requests from contributor forks | open |
+| [#1965](https://github.com/yegor256/factbase/pull/1965) | #894: document how to read YAML timestamps safely | open |
+| [#1667](https://github.com/yegor256/factbase/pull/1667) | #1647: validate imported fact properties before appending | open |
+
+## zerocracy/zerocracy-mcp-server
+
+| | Title | State |
+| --- | --- | --- |
+| [#168](https://github.com/zerocracy/zerocracy-mcp-server/pull/168) | #129: package the TypeScript runtime and launch it independently of the working directory | open |
+| [#167](https://github.com/zerocracy/zerocracy-mcp-server/pull/167) | #139: reject empty results in mocked resource-list tests | open |
+| [#166](https://github.com/zerocracy/zerocracy-mcp-server/pull/166) | #132: deduplicate product resources after normalizing names | open |
+| [#165](https://github.com/zerocracy/zerocracy-mcp-server/pull/165) | #130, #152: Bound Baza requests by deadlines and MCP cancellation | open |
+| [#164](https://github.com/zerocracy/zerocracy-mcp-server/pull/164) | #128: accept a trailing slash in ZEROCRACY_HOST | open |
+| [#163](https://github.com/zerocracy/zerocracy-mcp-server/pull/163) | #127: make the example MCP configuration valid JSON | open |
+
 ## objectionary/eo-vscode
 
 | | Title | State |
@@ -475,17 +534,6 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | closed |
 | [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | closed |
 
-## jcabi/jcabi-xml
-
-| | Title | State |
-| --- | --- | --- |
-| [#562](https://github.com/jcabi/jcabi-xml/pull/562) | Fix StrictXML fixtures that fail schema validation | **merged** |
-| [#561](https://github.com/jcabi/jcabi-xml/issues/561) | Two StrictXML fixtures fail validation when their online checks allow tests to run | closed |
-| [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | **merged** |
-| [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | open |
-| [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | open |
-| [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | open |
-
 ## cqfn/aibolit
 
 | | Title | State |
@@ -496,6 +544,16 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#1420](https://github.com/cqfn/aibolit/issues/1420) | MethodSiblings misses a sibling pair when an unrelated method comes first | open |
 | [#1419](https://github.com/cqfn/aibolit/issues/1419) | SendNull omits direct null arguments in superclass method and constructor calls | open |
 | [#1418](https://github.com/cqfn/aibolit/issues/1418) | ClassicGetter raises StopIteration for a valid return this statement | open |
+
+## zerocracy/fbe
+
+| | Title | State |
+| --- | --- | --- |
+| [#2013](https://github.com/zerocracy/fbe/pull/2013) | #1556: Retry transient GraphQL query failures without replaying mutations | open |
+| [#2012](https://github.com/zerocracy/fbe/pull/2012) | #1380: expose review authors and states | open |
+| [#2009](https://github.com/zerocracy/fbe/pull/2009) | #1912: validate the project name before entering a valve | open |
+| [#1621](https://github.com/zerocracy/fbe/pull/1621) | #1567: use the tracked quota when serving cached GitHub pages | open |
+| [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
 
 ## jcabi/jcabi-urn
 
@@ -516,6 +574,15 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#25](https://github.com/EazyHood/DealRift/pull/25) | Añadir PlayStation y Xbox con filtros, catálogo gratuito y seguimiento | **merged** |
 | [#23](https://github.com/EazyHood/DealRift/pull/23) | Añadir biblioteca persistente, alertas de precio y asistente de compra | **merged** |
 | [#22](https://github.com/EazyHood/DealRift/pull/22) | fix: make Windows executable downloads visible | **merged** |
+
+## zerocracy/brand-book
+
+| | Title | State |
+| --- | --- | --- |
+| [#89](https://github.com/zerocracy/brand-book/pull/89) | Refresh logo and palette before deciding whether to rebuild the PDF | open |
+| [#88](https://github.com/zerocracy/brand-book/pull/88) | Run PDD on all pushes to master | open |
+| [#87](https://github.com/zerocracy/brand-book/pull/87) | #79: discard failed font downloads before retrying | open |
+| [#86](https://github.com/zerocracy/brand-book/pull/86) | Rebuild the brand book when latexmk configuration changes | open |
 
 ## ScrollPrize/villa
 
@@ -562,6 +629,14 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#132](https://github.com/jcabi/jcabi-immutable/issues/132) | Collection equality and hashing violate List, Set and Map contracts | open |
 | [#131](https://github.com/jcabi/jcabi-immutable/issues/131) | toArray(T[]) returns Object[] unless the supplied array has exactly the collection size | open |
 
+## zerocracy/sales-deck
+
+| | Title | State |
+| --- | --- | --- |
+| [#48](https://github.com/zerocracy/sales-deck/pull/48) | Refresh shared logo and palette before building the pitch PDFs | open |
+| [#47](https://github.com/zerocracy/sales-deck/pull/47) | #39: let latexmk check dependencies on every make invocation | open |
+| [#46](https://github.com/zerocracy/sales-deck/pull/46) | Remove both generated PDFs during make clean | open |
+
 ## gonka-ai/gonka
 
 | | Title | State |
@@ -602,19 +677,26 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | [#16](https://github.com/Paritok-official/paritok-4b-v1/issues/16) | [hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15) | closed |
 | [#15](https://github.com/Paritok-official/paritok-4b-v1/pull/15) | fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs) | **merged** |
 
+## zerocracy/pages-action
+
+| | Title | State |
+| --- | --- | --- |
+| [#1462](https://github.com/zerocracy/pages-action/pull/1462) | #1433: invalidate the Docker image when a source is deleted | open |
+| [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | **merged** |
+
+## zerocracy/swarm-template
+
+| | Title | State |
+| --- | --- | --- |
+| [#322](https://github.com/zerocracy/swarm-template/pull/322) | #296: remove the unsupported Docker build instruction | open |
+| [#321](https://github.com/zerocracy/swarm-template/pull/321) | #295: pass an explicit summary mode to judges update | open |
+
 ## tenstorrent/tt-inference-server
 
 | | Title | State |
 | --- | --- | --- |
 | [#5521](https://github.com/tenstorrent/tt-inference-server/pull/5521) | fix(forge): use resolved local weights when constructing the engine | open |
 | [#5520](https://github.com/tenstorrent/tt-inference-server/pull/5520) | fix(benchmarks): reject HTTP-200 streaming errors in the vLLM client | open |
-
-## zerocracy/fbe
-
-| | Title | State |
-| --- | --- | --- |
-| [#1621](https://github.com/zerocracy/fbe/pull/1621) | #1567: use the tracked quota when serving cached GitHub pages | open |
-| [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
 
 ## woocommerce/woocommerce
 
@@ -641,7 +723,7 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#392](https://github.com/AlexMili/Awesome-MCP/pull/392) | Add Chain.Love MCP to Finance & Crypto | open |
+| [#392](https://github.com/AlexMili/Awesome-MCP/pull/392) | Add Chain.Love MCP to Finance & Crypto | closed unmerged |
 
 ## yjjnls/awesome-blockchain
 
@@ -691,12 +773,6 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#589](https://github.com/jcabi/jcabi-dynamo/pull/589) | #519: count all pages in queries and scans | **merged** |
 
-## zerocracy/pages-action
-
-| | Title | State |
-| --- | --- | --- |
-| [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | **merged** |
-
 ## Budibase/budibase
 
 | | Title | State |
@@ -708,12 +784,6 @@ Generated automatically on 2026-11-06. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#1912](https://github.com/objectionary/jeo-maven-plugin/pull/1912) | #1873: preserve literal plus and percent signs in JVM names | **merged** |
-
-## yegor256/factbase
-
-| | Title | State |
-| --- | --- | --- |
-| [#1667](https://github.com/yegor256/factbase/pull/1667) | #1647: validate imported fact properties before appending | open |
 
 ## dagster-io/dagster
 
