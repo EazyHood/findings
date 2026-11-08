@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-11-07",
-    "prsOpened": 464,
+    "generatedAt": "2026-11-08",
+    "prsOpened": 465,
     "prsMerged": 114,
     "issuesOpened": 99,
     "issuesClosed": 37,
@@ -9,6 +9,16 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5273,
+      "title": "data(services): correct AlgoKit LocalNet access to Public",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5273",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-08T03:51:50Z"
+    },
     {
       "repo": "tenstorrent/tt-metal",
       "number": 64803,

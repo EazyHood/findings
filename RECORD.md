@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-07. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-08. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5273](https://github.com/Chain-Love/chain-love/pull/5273) | data(services): correct AlgoKit LocalNet access to Public | open |
 | [#5146](https://github.com/Chain-Love/chain-love/pull/5146) | Add outreach registry rows for VoltAgent, Sagargupta16, yjjnls and AlexMili | open |
 | [#5128](https://github.com/Chain-Love/chain-love/pull/5128) | feat(validate): limit actionButtons to two per row | open |
 | [#5116](https://github.com/Chain-Love/chain-love/pull/5116) | docs: add a before-you-submit checklist to AGENTS.md and CONTRIBUTING.md | open |
