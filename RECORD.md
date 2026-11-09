@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-08. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-09. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -160,7 +160,7 @@ Generated automatically on 2026-11-08. Do not edit by hand: `scripts/update.mjs`
 | [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | **merged** |
 | [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 19 verified link cells and repoint one dead docs host | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | closed unmerged |
-| [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 6 missing github organisations, matched by website domain (batch 1 of 1) | open |
+| [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 6 missing github organisations, matched by website domain (batch 1 of 1) | **merged** |
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
 | [#3557](https://github.com/Chain-Love/chain-love/issues/3557) | [DBIP] `TBD` acts as a missing-value sentinel in 685 cells across five categories; the Style Guide reserves it for internal use and three wiki examples teach it anyway | open |
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
@@ -313,43 +313,6 @@ Generated automatically on 2026-11-08. Do not edit by hand: `scripts/update.mjs`
 | [#1867](https://github.com/Chain-Love/chain-love/pull/1867) | Update SDK release metadata | closed unmerged |
 | [#1866](https://github.com/Chain-Love/chain-love/pull/1866) | Fix stale Meld, Moralis, and LunarCrush links | **merged** |
 
-## tenstorrent/tt-metal
-
-| | Title | State |
-| --- | --- | --- |
-| [#64803](https://github.com/tenstorrent/tt-metal/pull/64803) | [Bug fix] ttnn graph capture: label ND-sharded buffers ND_SHARDED instead of UNKNOWN | open |
-| [#64094](https://github.com/tenstorrent/tt-metal/pull/64094) | [Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a | **merged** |
-| [#62397](https://github.com/tenstorrent/tt-metal/pull/62397) | [skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops | open |
-| [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | open |
-| [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | **merged** |
-| [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | open |
-| [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |
-| [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | open |
-| [#57245](https://github.com/tenstorrent/tt-metal/pull/57245) | fix(quasar): step one ULP in nextafter instead of a fixed epsilon | closed unmerged |
-| [#55813](https://github.com/tenstorrent/tt-metal/pull/55813) | fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866) | closed unmerged |
-| [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | closed unmerged |
-| [#52856](https://github.com/tenstorrent/tt-metal/pull/52856) | [ttnn] logaddexp: overflow-safe fused SFPU implementation | **merged** |
-| [#52668](https://github.com/tenstorrent/tt-metal/pull/52668) | fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it | closed unmerged |
-| [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): rescale before squaring in std_hw, var_hw and normalize_hw | open |
-| [#52614](https://github.com/tenstorrent/tt-metal/issues/52614) | normalize_hw / std_hw / var_hw: the variance composite returns an exact 0 below \|x-mean\| ~1e-19 and saturates above ~1.8e19 | open |
-| [#52613](https://github.com/tenstorrent/tt-metal/pull/52613) | fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call) | **merged** |
-| [#52612](https://github.com/tenstorrent/tt-metal/issues/52612) | [ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite | closed |
-| [#52611](https://github.com/tenstorrent/tt-metal/pull/52611) | fix(eltwise): invert the divisor instead of its square in three backward composites (same op count) | **merged** |
-| [#52376](https://github.com/tenstorrent/tt-metal/issues/52376) | [ttnn]: backward composites invert the divisor's square, losing the gradient for \|x\| < 1.08e-19 and again for \|x\| > 2^63 | closed |
-| [#52375](https://github.com/tenstorrent/tt-metal/pull/52375) | fix(ttnn): softplus golden drops beta and threshold | closed unmerged |
-| [#52326](https://github.com/tenstorrent/tt-metal/pull/52326) | [Bug fix] fix(data_movement): pad packs a float32 pad value as two bfloat16 halves | open |
-| [#52145](https://github.com/tenstorrent/tt-metal/pull/52145) | [Bug fix] tril/triu: float32 returns NaN in the masked triangle for non-finite inputs | open |
-| [#52144](https://github.com/tenstorrent/tt-metal/pull/52144) | [Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x | open |
-| [#52131](https://github.com/tenstorrent/tt-metal/issues/52131) | The four tickets that blocked numeric_stable in #27995 are all closed; two of the four excepted softmax entry points still default to false and return all zeros above \|x\| ~85 | open |
-| [#52124](https://github.com/tenstorrent/tt-metal/pull/52124) | [kernels] Clamp sin/cos results to [-1, 1] | closed unmerged |
-| [#52094](https://github.com/tenstorrent/tt-metal/issues/52094) | ttnn.div returns 0 for large denominators — a/a is 0 instead of 1 | open |
-| [#52038](https://github.com/tenstorrent/tt-metal/issues/52038) | [ttnn]: tril/triu are composed as a mask multiply, so an inf in the masked region becomes NaN instead of 0 (fp32) | open |
-| [#52037](https://github.com/tenstorrent/tt-metal/issues/52037) | [Bounty $1500] logaddexp / logaddexp2: overflow-safe reformulation | closed |
-| [#52036](https://github.com/tenstorrent/tt-metal/issues/52036) | [kernels]: xlogy NaN guard is dead code — `in1 == nan` can never be true, so xlogy(x, NaN) returns ~89 | open |
-| [#51976](https://github.com/tenstorrent/tt-metal/issues/51976) | [kernels]: lgamma (fp32) returns one identical value for all 167,773 floats in [0.5, 0.51], then jumps 0.071 | open |
-| [#51866](https://github.com/tenstorrent/tt-metal/issues/51866) | [kernels]: softplus (bf16) returns exactly 0 for x < -5, breaking the (0, inf) range | closed |
-| [#51845](https://github.com/tenstorrent/tt-metal/issues/51845) | [kernels]: sin/cos lose all accuracy past \|x\| ~1.04e5 and return \|result\| > 1 past ~1.68e7 (Cody-Waite reduction limit) | open |
-
 ## Disciplr-Org/Disciplr-backend
 
 | | Title | State |
@@ -385,6 +348,34 @@ Generated automatically on 2026-11-08. Do not edit by hand: `scripts/update.mjs`
 | [#769](https://github.com/Disciplr-Org/Disciplr-backend/pull/769) | docs: add on-call SLO runbook | closed unmerged |
 | [#768](https://github.com/Disciplr-Org/Disciplr-backend/pull/768) | docs: add configuration reference | closed unmerged |
 | [#767](https://github.com/Disciplr-Org/Disciplr-backend/pull/767) | test: email provider injection guards | closed unmerged |
+
+## tenstorrent/tt-metal
+
+| | Title | State |
+| --- | --- | --- |
+| [#64803](https://github.com/tenstorrent/tt-metal/pull/64803) | [Bug fix] ttnn graph capture: label ND-sharded buffers ND_SHARDED instead of UNKNOWN | open |
+| [#64094](https://github.com/tenstorrent/tt-metal/pull/64094) | [Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a | **merged** |
+| [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | open |
+| [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |
+| [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | open |
+| [#55813](https://github.com/tenstorrent/tt-metal/pull/55813) | fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866) | closed unmerged |
+| [#52668](https://github.com/tenstorrent/tt-metal/pull/52668) | fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it | closed unmerged |
+| [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): rescale before squaring in std_hw, var_hw and normalize_hw | open |
+| [#52614](https://github.com/tenstorrent/tt-metal/issues/52614) | normalize_hw / std_hw / var_hw: the variance composite returns an exact 0 below \|x-mean\| ~1e-19 and saturates above ~1.8e19 | open |
+| [#52613](https://github.com/tenstorrent/tt-metal/pull/52613) | fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call) | **merged** |
+| [#52612](https://github.com/tenstorrent/tt-metal/issues/52612) | [ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite | closed |
+| [#52376](https://github.com/tenstorrent/tt-metal/issues/52376) | [ttnn]: backward composites invert the divisor's square, losing the gradient for \|x\| < 1.08e-19 and again for \|x\| > 2^63 | closed |
+| [#52145](https://github.com/tenstorrent/tt-metal/pull/52145) | [Bug fix] tril/triu: float32 returns NaN in the masked triangle for non-finite inputs | open |
+| [#52144](https://github.com/tenstorrent/tt-metal/pull/52144) | [Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x | open |
+| [#52131](https://github.com/tenstorrent/tt-metal/issues/52131) | The four tickets that blocked numeric_stable in #27995 are all closed; two of the four excepted softmax entry points still default to false and return all zeros above \|x\| ~85 | open |
+| [#52124](https://github.com/tenstorrent/tt-metal/pull/52124) | [kernels] Clamp sin/cos results to [-1, 1] | closed unmerged |
+| [#52094](https://github.com/tenstorrent/tt-metal/issues/52094) | ttnn.div returns 0 for large denominators — a/a is 0 instead of 1 | open |
+| [#52038](https://github.com/tenstorrent/tt-metal/issues/52038) | [ttnn]: tril/triu are composed as a mask multiply, so an inf in the masked region becomes NaN instead of 0 (fp32) | open |
+| [#52037](https://github.com/tenstorrent/tt-metal/issues/52037) | [Bounty $1500] logaddexp / logaddexp2: overflow-safe reformulation | closed |
+| [#52036](https://github.com/tenstorrent/tt-metal/issues/52036) | [kernels]: xlogy NaN guard is dead code — `in1 == nan` can never be true, so xlogy(x, NaN) returns ~89 | open |
+| [#51976](https://github.com/tenstorrent/tt-metal/issues/51976) | [kernels]: lgamma (fp32) returns one identical value for all 167,773 floats in [0.5, 0.51], then jumps 0.071 | open |
+| [#51866](https://github.com/tenstorrent/tt-metal/issues/51866) | [kernels]: softplus (bf16) returns exactly 0 for x < -5, breaking the (0, inf) range | closed |
+| [#51845](https://github.com/tenstorrent/tt-metal/issues/51845) | [kernels]: sin/cos lose all accuracy past \|x\| ~1.04e5 and return \|result\| > 1 past ~1.68e7 (Cody-Waite reduction limit) | open |
 
 ## Hazyshades/Sendly-Test-Repo
 

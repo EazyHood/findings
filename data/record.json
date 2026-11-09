@@ -1,8 +1,8 @@
 {
   "totals": {
-    "generatedAt": "2026-11-08",
-    "prsOpened": 465,
-    "prsMerged": 114,
+    "generatedAt": "2026-11-09",
+    "prsOpened": 456,
+    "prsMerged": 112,
     "issuesOpened": 99,
     "issuesClosed": 37,
     "organizations": 42,
@@ -1460,16 +1460,6 @@
       "createdAt": "2026-10-24T17:08:56Z"
     },
     {
-      "repo": "tenstorrent/tt-metal",
-      "number": 62397,
-      "title": "[skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/62397",
-      "state": "open",
-      "merged": false,
-      "isPullRequest": true,
-      "createdAt": "2026-10-24T16:37:51Z"
-    },
-    {
       "repo": "Chain-Love/chain-love",
       "number": 4820,
       "title": "data(kaia): correct availableApis and inherited values on the GetBlock free plan",
@@ -1658,16 +1648,6 @@
       "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-22T16:40:57Z"
-    },
-    {
-      "repo": "tenstorrent/tt-metal",
-      "number": 61997,
-      "title": "[Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/61997",
-      "state": "closed",
-      "merged": true,
-      "isPullRequest": true,
-      "createdAt": "2026-10-22T03:38:29Z"
     },
     {
       "repo": "Chain-Love/chain-love",
@@ -1978,16 +1958,6 @@
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-10-13T03:58:27Z"
-    },
-    {
-      "repo": "tenstorrent/tt-metal",
-      "number": 60357,
-      "title": "[Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/60357",
-      "state": "open",
-      "merged": false,
-      "isPullRequest": true,
-      "createdAt": "2026-10-13T03:39:21Z"
     },
     {
       "repo": "Chain-Love/chain-love",
@@ -2640,16 +2610,6 @@
       "createdAt": "2026-09-23T05:01:10Z"
     },
     {
-      "repo": "tenstorrent/tt-metal",
-      "number": 57245,
-      "title": "fix(quasar): step one ULP in nextafter instead of a fixed epsilon",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/57245",
-      "state": "closed",
-      "merged": false,
-      "isPullRequest": true,
-      "createdAt": "2026-09-21T19:07:05Z"
-    },
-    {
       "repo": "EazyHood/DealRift",
       "number": 25,
       "title": "Añadir PlayStation y Xbox con filtros, catálogo gratuito y seguimiento",
@@ -2824,8 +2784,8 @@
       "number": 3577,
       "title": "data(providers): fill 6 missing github organisations, matched by website domain (batch 1 of 1)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3577",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-09-03T03:34:12Z"
     },
@@ -2838,16 +2798,6 @@
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-09-03T03:12:11Z"
-    },
-    {
-      "repo": "tenstorrent/tt-metal",
-      "number": 55288,
-      "title": "[ttnn] logaddexp2: overflow-safe fused SFPU implementation",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/55288",
-      "state": "closed",
-      "merged": false,
-      "isPullRequest": true,
-      "createdAt": "2026-09-02T23:00:19Z"
     },
     {
       "repo": "Chain-Love/chain-love",
@@ -3550,16 +3500,6 @@
       "createdAt": "2026-08-12T04:39:47Z"
     },
     {
-      "repo": "tenstorrent/tt-metal",
-      "number": 52856,
-      "title": "[ttnn] logaddexp: overflow-safe fused SFPU implementation",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/52856",
-      "state": "closed",
-      "merged": true,
-      "isPullRequest": true,
-      "createdAt": "2026-08-11T16:31:43Z"
-    },
-    {
       "repo": "Chain-Love/chain-love",
       "number": 2638,
       "title": "data(providers): fill missing contact and social fields (batch 4)",
@@ -3731,16 +3671,6 @@
     },
     {
       "repo": "tenstorrent/tt-metal",
-      "number": 52611,
-      "title": "fix(eltwise): invert the divisor instead of its square in three backward composites (same op count)",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/52611",
-      "state": "closed",
-      "merged": true,
-      "isPullRequest": true,
-      "createdAt": "2026-08-08T14:23:58Z"
-    },
-    {
-      "repo": "tenstorrent/tt-metal",
       "number": 52376,
       "title": "[ttnn]: backward composites invert the divisor's square, losing the gradient for |x| < 1.08e-19 and again for |x| > 2^63",
       "url": "https://github.com/tenstorrent/tt-metal/issues/52376",
@@ -3748,26 +3678,6 @@
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-08-07T00:00:05Z"
-    },
-    {
-      "repo": "tenstorrent/tt-metal",
-      "number": 52375,
-      "title": "fix(ttnn): softplus golden drops beta and threshold",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/52375",
-      "state": "closed",
-      "merged": false,
-      "isPullRequest": true,
-      "createdAt": "2026-08-06T23:43:39Z"
-    },
-    {
-      "repo": "tenstorrent/tt-metal",
-      "number": 52326,
-      "title": "[Bug fix] fix(data_movement): pad packs a float32 pad value as two bfloat16 halves",
-      "url": "https://github.com/tenstorrent/tt-metal/pull/52326",
-      "state": "open",
-      "merged": false,
-      "isPullRequest": true,
-      "createdAt": "2026-08-06T15:22:43Z"
     },
     {
       "repo": "Chain-Love/chain-love",
