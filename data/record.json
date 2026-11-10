@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-11-10",
     "prsOpened": 465,
-    "prsMerged": 118,
+    "prsMerged": 119,
     "issuesOpened": 99,
     "issuesClosed": 37,
     "organizations": 42,
@@ -454,8 +454,8 @@
       "number": 162,
       "title": "Add Chain.Love to Tools Directory",
       "url": "https://github.com/yjjnls/awesome-blockchain/pull/162",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-06T18:31:52Z"
     },

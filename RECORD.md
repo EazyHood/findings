@@ -731,7 +731,7 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#162](https://github.com/yjjnls/awesome-blockchain/pull/162) | Add Chain.Love to Tools Directory | open |
+| [#162](https://github.com/yjjnls/awesome-blockchain/pull/162) | Add Chain.Love to Tools Directory | **merged** |
 
 ## Sagargupta16/awesome-mcp-servers
 
