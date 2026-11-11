@@ -1,14 +1,24 @@
 {
   "totals": {
     "generatedAt": "2026-11-11",
-    "prsOpened": 465,
+    "prsOpened": 466,
     "prsMerged": 131,
     "issuesOpened": 99,
-    "issuesClosed": 40,
+    "issuesClosed": 41,
     "organizations": 42,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5286,
+      "title": "Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5286",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-11T11:43:23Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5273,
@@ -1164,7 +1174,7 @@
       "number": 558,
       "title": "XPath result subList rejects the valid exclusive upper bound size()",
       "url": "https://github.com/jcabi/jcabi-xml/issues/558",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T18:32:01Z"
@@ -2542,7 +2552,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4156,
-      "title": "data(security): add Paladin and BailSec security services to all-networks",
+      "title": "data(security): add Paladin and BailSec security services",
       "url": "https://github.com/Chain-Love/chain-love/pull/4156",
       "state": "open",
       "merged": false,

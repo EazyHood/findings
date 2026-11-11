@@ -8,6 +8,7 @@ Generated automatically on 2026-11-11. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5286](https://github.com/Chain-Love/chain-love/pull/5286) | Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry | open |
 | [#5273](https://github.com/Chain-Love/chain-love/pull/5273) | data(services): correct AlgoKit LocalNet access to Public | open |
 | [#5146](https://github.com/Chain-Love/chain-love/pull/5146) | Add outreach registry rows for VoltAgent, Sagargupta16, yjjnls and AlexMili | **merged** |
 | [#5128](https://github.com/Chain-Love/chain-love/pull/5128) | feat(validate): limit actionButtons to two per row | **merged** |
@@ -143,7 +144,7 @@ Generated automatically on 2026-11-11. Do not edit by hand: `scripts/update.mjs`
 | [#4202](https://github.com/Chain-Love/chain-love/pull/4202) | data(algorand): add wen.tools no-code platform | open |
 | [#4158](https://github.com/Chain-Love/chain-love/pull/4158) | data(algorand): add ASA Stats portfolio analytics (free tier and 4 subscription plans) | open |
 | [#4157](https://github.com/Chain-Love/chain-love/pull/4157) | data(storages): add Hippius S3 and Drive plans to all-networks | open |
-| [#4156](https://github.com/Chain-Love/chain-love/pull/4156) | data(security): add Paladin and BailSec security services to all-networks | open |
+| [#4156](https://github.com/Chain-Love/chain-love/pull/4156) | data(security): add Paladin and BailSec security services | open |
 | [#4095](https://github.com/Chain-Love/chain-love/pull/4095) | data(analytics): add Talos with its Coin Metrics data, listed on Algorand, Filecoin and Somnia | open |
 | [#3980](https://github.com/Chain-Love/chain-love/issues/3980) | Ramp Network is listed on Algorand and Mercuryo on Filecoin, but neither sells that network's asset | closed |
 | [#3979](https://github.com/Chain-Love/chain-love/issues/3979) | [DBIP] explorers mixes eight kinds of product with no field to tell them apart: 120 of 410 listings are not block explorers | open |
@@ -476,7 +477,7 @@ Generated automatically on 2026-11-11. Do not edit by hand: `scripts/update.mjs`
 | [#561](https://github.com/jcabi/jcabi-xml/issues/561) | Two StrictXML fixtures fail validation when their online checks allow tests to run | closed |
 | [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | **merged** |
 | [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | closed |
-| [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | open |
+| [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | closed |
 | [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | open |
 
 ## objectionary/eoc
