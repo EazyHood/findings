@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-11. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -121,7 +121,7 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 | [#4281](https://github.com/Chain-Love/chain-love/pull/4281) | data(security): add Neodyme smart contract and core blockchain audits, protocol design reviews and blockchain training | open |
 | [#4280](https://github.com/Chain-Love/chain-love/pull/4280) | data(security): add Shieldify security review and audit subscription | open |
 | [#4279](https://github.com/Chain-Love/chain-love/pull/4279) | data(security): add Olympix static analyzer, test generation, fuzzing and BugPoCer | open |
-| [#4259](https://github.com/Chain-Love/chain-love/pull/4259) | data: correct stale prices for Aleph Cloud block storage, Livepeer Studio, Dfns and Tatum | open |
+| [#4259](https://github.com/Chain-Love/chain-love/pull/4259) | data: correct Aleph, Livepeer and Dfns prices and complete Dfns SDK sources | open |
 | [#4258](https://github.com/Chain-Love/chain-love/pull/4258) | data(algorand): add the Algorand Randomness Beacon oracle (mainnet + testnet) | open |
 | [#4257](https://github.com/Chain-Love/chain-love/pull/4257) | data(analytics): add Coinalyze free futures data API, listed on Filecoin, Algorand and Somnia | open |
 | [#4256](https://github.com/Chain-Love/chain-love/pull/4256) | data(mcpservers): add official Santiment MCP connector and Token Terminal MCP server (Pro), listed on Algorand, Filecoin and Somnia | open |
@@ -462,20 +462,20 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 | [#585](https://github.com/zerocracy/baza.rb/pull/585) | Reject non-regular files before durable_save uploads | open |
 | [#584](https://github.com/zerocracy/baza.rb/pull/584) | Assemble encoded download ranges before decompressing gzip | open |
 | [#583](https://github.com/zerocracy/baza.rb/pull/583) | Validate partial download ranges before appending bytes | open |
-| [#582](https://github.com/zerocracy/baza.rb/pull/582) | Replace partial downloads when the server returns a complete response | open |
-| [#581](https://github.com/zerocracy/baza.rb/pull/581) | Truncate payment amounts consistently before sending them | open |
+| [#582](https://github.com/zerocracy/baza.rb/pull/582) | Replace partial downloads when the server returns a complete response | **merged** |
+| [#581](https://github.com/zerocracy/baza.rb/pull/581) | Truncate payment amounts consistently before sending them | **merged** |
 | [#580](https://github.com/zerocracy/baza.rb/pull/580) | Validate durable placement response identifiers | open |
-| [#579](https://github.com/zerocracy/baza.rb/pull/579) | Reject malformed recent job IDs and exit-code responses | open |
+| [#579](https://github.com/zerocracy/baza.rb/pull/579) | Reject malformed recent job IDs and exit-code responses | **merged** |
 
 ## jcabi/jcabi-xml
 
 | | Title | State |
 | --- | --- | --- |
-| [#577](https://github.com/jcabi/jcabi-xml/pull/577) | #559: Keep merged namespace contexts in registerNs | open |
+| [#577](https://github.com/jcabi/jcabi-xml/pull/577) | #559: Keep merged namespace contexts in registerNs | **merged** |
 | [#562](https://github.com/jcabi/jcabi-xml/pull/562) | Fix StrictXML fixtures that fail schema validation | **merged** |
 | [#561](https://github.com/jcabi/jcabi-xml/issues/561) | Two StrictXML fixtures fail validation when their online checks allow tests to run | closed |
 | [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | **merged** |
-| [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | open |
+| [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | closed |
 | [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | open |
 | [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | open |
 
@@ -551,9 +551,9 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#2013](https://github.com/zerocracy/fbe/pull/2013) | #1556: Retry transient GraphQL query failures without replaying mutations | open |
-| [#2012](https://github.com/zerocracy/fbe/pull/2012) | #1380: expose review authors and states | open |
-| [#2009](https://github.com/zerocracy/fbe/pull/2009) | #1912: validate the project name before entering a valve | open |
+| [#2013](https://github.com/zerocracy/fbe/pull/2013) | #1556: Retry transient GraphQL query failures without replaying mutations | **merged** |
+| [#2012](https://github.com/zerocracy/fbe/pull/2012) | #1380: expose review authors and states | **merged** |
+| [#2009](https://github.com/zerocracy/fbe/pull/2009) | #1912: validate the project name before entering a valve | **merged** |
 | [#1621](https://github.com/zerocracy/fbe/pull/1621) | #1567: use the tracked quota when serving cached GitHub pages | open |
 | [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
 
@@ -563,7 +563,7 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#120](https://github.com/jcabi/jcabi-urn/pull/120) | #117: report reserved namespaces as invalid without throwing | **merged** |
 | [#119](https://github.com/jcabi/jcabi-urn/pull/119) | #116: preserve low bytes in escaped URN components | **merged** |
-| [#118](https://github.com/jcabi/jcabi-urn/issues/118) | `param(name, value)` interprets delimiters in the name as additional query parameters | open |
+| [#118](https://github.com/jcabi/jcabi-urn/issues/118) | `param(name, value)` interprets delimiters in the name as additional query parameters | closed |
 | [#117](https://github.com/jcabi/jcabi-urn/issues/117) | `URN.isValid` throws for the reserved `urn` namespace instead of returning false | open |
 | [#116](https://github.com/jcabi/jcabi-urn/issues/116) | `encode` omits the leading zero for bytes below 0x10, corrupting NSS round trips | closed |
 
@@ -582,9 +582,9 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#89](https://github.com/zerocracy/brand-book/pull/89) | Refresh logo and palette before deciding whether to rebuild the PDF | open |
-| [#88](https://github.com/zerocracy/brand-book/pull/88) | Run PDD on all pushes to master | open |
-| [#87](https://github.com/zerocracy/brand-book/pull/87) | #79: discard failed font downloads before retrying | open |
-| [#86](https://github.com/zerocracy/brand-book/pull/86) | Rebuild the brand book when latexmk configuration changes | open |
+| [#88](https://github.com/zerocracy/brand-book/pull/88) | Run PDD on all pushes to master | **merged** |
+| [#87](https://github.com/zerocracy/brand-book/pull/87) | #79: discard failed font downloads before retrying | **merged** |
+| [#86](https://github.com/zerocracy/brand-book/pull/86) | Rebuild the brand book when latexmk configuration changes | **merged** |
 
 ## ScrollPrize/villa
 
@@ -626,7 +626,7 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#134](https://github.com/jcabi/jcabi-immutable/issues/134) | ArraySortedSet membership ignores its comparator and disagrees with updates | open |
+| [#134](https://github.com/jcabi/jcabi-immutable/issues/134) | ArraySortedSet membership ignores its comparator and disagrees with updates | closed |
 | [#133](https://github.com/jcabi/jcabi-immutable/issues/133) | ArrayMap silently drops distinct Comparable keys that compare as zero | closed |
 | [#132](https://github.com/jcabi/jcabi-immutable/issues/132) | Collection equality and hashing violate List, Set and Map contracts | open |
 | [#131](https://github.com/jcabi/jcabi-immutable/issues/131) | toArray(T[]) returns Object[] unless the supplied array has exactly the collection size | open |
@@ -635,9 +635,9 @@ Generated automatically on 2026-11-10. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#48](https://github.com/zerocracy/sales-deck/pull/48) | Refresh shared logo and palette before building the pitch PDFs | open |
+| [#48](https://github.com/zerocracy/sales-deck/pull/48) | Refresh shared logo and palette before building the pitch PDFs | **merged** |
 | [#47](https://github.com/zerocracy/sales-deck/pull/47) | #39: let latexmk check dependencies on every make invocation | open |
-| [#46](https://github.com/zerocracy/sales-deck/pull/46) | Remove both generated PDFs during make clean | open |
+| [#46](https://github.com/zerocracy/sales-deck/pull/46) | Remove both generated PDFs during make clean | **merged** |
 
 ## gonka-ai/gonka
 

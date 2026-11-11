@@ -1,10 +1,10 @@
 {
   "totals": {
-    "generatedAt": "2026-11-10",
+    "generatedAt": "2026-11-11",
     "prsOpened": 465,
-    "prsMerged": 119,
+    "prsMerged": 131,
     "issuesOpened": 99,
-    "issuesClosed": 37,
+    "issuesClosed": 40,
     "organizations": 42,
     "truncated": false
   },
@@ -34,8 +34,8 @@
       "number": 2013,
       "title": "#1556: Retry transient GraphQL query failures without replaying mutations",
       "url": "https://github.com/zerocracy/fbe/pull/2013",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T04:22:50Z"
     },
@@ -44,8 +44,8 @@
       "number": 2012,
       "title": "#1380: expose review authors and states",
       "url": "https://github.com/zerocracy/fbe/pull/2012",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T04:22:05Z"
     },
@@ -204,8 +204,8 @@
       "number": 48,
       "title": "Refresh shared logo and palette before building the pitch PDFs",
       "url": "https://github.com/zerocracy/sales-deck/pull/48",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:34:38Z"
     },
@@ -224,8 +224,8 @@
       "number": 46,
       "title": "Remove both generated PDFs during make clean",
       "url": "https://github.com/zerocracy/sales-deck/pull/46",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:34:06Z"
     },
@@ -244,8 +244,8 @@
       "number": 88,
       "title": "Run PDD on all pushes to master",
       "url": "https://github.com/zerocracy/brand-book/pull/88",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:33:33Z"
     },
@@ -254,8 +254,8 @@
       "number": 87,
       "title": "#79: discard failed font downloads before retrying",
       "url": "https://github.com/zerocracy/brand-book/pull/87",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:33:17Z"
     },
@@ -264,8 +264,8 @@
       "number": 86,
       "title": "Rebuild the brand book when latexmk configuration changes",
       "url": "https://github.com/zerocracy/brand-book/pull/86",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:33:02Z"
     },
@@ -304,8 +304,8 @@
       "number": 582,
       "title": "Replace partial downloads when the server returns a complete response",
       "url": "https://github.com/zerocracy/baza.rb/pull/582",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:31:59Z"
     },
@@ -314,8 +314,8 @@
       "number": 581,
       "title": "Truncate payment amounts consistently before sending them",
       "url": "https://github.com/zerocracy/baza.rb/pull/581",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:31:43Z"
     },
@@ -344,8 +344,8 @@
       "number": 2009,
       "title": "#1912: validate the project name before entering a valve",
       "url": "https://github.com/zerocracy/fbe/pull/2009",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:30:58Z"
     },
@@ -414,8 +414,8 @@
       "number": 579,
       "title": "Reject malformed recent job IDs and exit-code responses",
       "url": "https://github.com/zerocracy/baza.rb/pull/579",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:28:37Z"
     },
@@ -424,8 +424,8 @@
       "number": 577,
       "title": "#559: Keep merged namespace contexts in registerNs",
       "url": "https://github.com/jcabi/jcabi-xml/pull/577",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-06T21:24:43Z"
     },
@@ -1154,7 +1154,7 @@
       "number": 559,
       "title": "registerNs discards previously merged namespace contexts",
       "url": "https://github.com/jcabi/jcabi-xml/issues/559",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T18:32:04Z"
@@ -1214,7 +1214,7 @@
       "number": 118,
       "title": "`param(name, value)` interprets delimiters in the name as additional query parameters",
       "url": "https://github.com/jcabi/jcabi-urn/issues/118",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T16:24:54Z"
@@ -1314,7 +1314,7 @@
       "number": 134,
       "title": "ArraySortedSet membership ignores its comparator and disagrees with updates",
       "url": "https://github.com/jcabi/jcabi-immutable/issues/134",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T15:44:44Z"
@@ -2322,7 +2322,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4259,
-      "title": "data: correct stale prices for Aleph Cloud block storage, Livepeer Studio, Dfns and Tatum",
+      "title": "data: correct Aleph, Livepeer and Dfns prices and complete Dfns SDK sources",
       "url": "https://github.com/Chain-Love/chain-love/pull/4259",
       "state": "open",
       "merged": false,
