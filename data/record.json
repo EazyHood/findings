@@ -1,8 +1,8 @@
 {
   "totals": {
     "generatedAt": "2026-11-12",
-    "prsOpened": 466,
-    "prsMerged": 131,
+    "prsOpened": 566,
+    "prsMerged": 132,
     "issuesOpened": 99,
     "issuesClosed": 41,
     "organizations": 42,
@@ -10,12 +10,1012 @@
   },
   "items": [
     {
+      "repo": "objectionary/eo",
+      "number": 9930,
+      "title": "fix(#8613): share identifier and fragile-dispatch checks",
+      "url": "https://github.com/objectionary/eo/pull/9930",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:28:49Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9929,
+      "title": "fix(#8604): reuse chain emission and suffix marks",
+      "url": "https://github.com/objectionary/eo/pull/9929",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:27:46Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9928,
+      "title": "fix(#8713): remove the unused before-stars transformation",
+      "url": "https://github.com/objectionary/eo/pull/9928",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:26:32Z"
+    },
+    {
+      "repo": "objectionary/xax",
+      "number": 276,
+      "title": "#217: Evaluate false skip flags normally",
+      "url": "https://github.com/objectionary/xax/pull/276",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:26:10Z"
+    },
+    {
+      "repo": "objectionary/xax",
+      "number": 275,
+      "title": "#216: Evaluate the decorated story output",
+      "url": "https://github.com/objectionary/xax/pull/275",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:25:56Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 551,
+      "title": "Track text blocks even when the opener indentation is invalid",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/551",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:22:54Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 124,
+      "title": "Preserve zero-weight and lightest parallel edges in C++ Prim",
+      "url": "https://github.com/objectionary/eo-graphs/pull/124",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:22:43Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 550,
+      "title": "Report trailing whitespace in source and text-block lines",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/550",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:22:29Z"
+    },
+    {
+      "repo": "objectionary/xax",
+      "number": 274,
+      "title": "#245: Reject stories without XPath assertions",
+      "url": "https://github.com/objectionary/xax/pull/274",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:22:07Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 549,
+      "title": "Accept one trailing blank line after the top-level object",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/549",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:21:41Z"
+    },
+    {
+      "repo": "objectionary/jucs",
+      "number": 168,
+      "title": "#89: Report fixture expectations in the correct assertion order",
+      "url": "https://github.com/objectionary/jucs/pull/168",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:21:29Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 548,
+      "title": "Read CRLF source lines without including the terminator",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/548",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:20:39Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 547,
+      "title": "Emit the final source token once when no newline follows",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/547",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:20:03Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 123,
+      "title": "Link GraphGenerator in the canonical repository",
+      "url": "https://github.com/objectionary/eo-graphs/pull/123",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:19:30Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 122,
+      "title": "Report invalid vertex IDs in the Java graph commands",
+      "url": "https://github.com/objectionary/eo-graphs/pull/122",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:19:20Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 121,
+      "title": "Validate the vertex count before using fixed flow storage",
+      "url": "https://github.com/objectionary/eo-graphs/pull/121",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:18:43Z"
+    },
+    {
+      "repo": "objectionary/xax",
+      "number": 273,
+      "title": "#224: Handle fresh descriptions and incompatible matcher values",
+      "url": "https://github.com/objectionary/xax/pull/273",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:18:33Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 120,
+      "title": "Reject negative edge weights before running Dijkstra",
+      "url": "https://github.com/objectionary/eo-graphs/pull/120",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:18:09Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 119,
+      "title": "Reject disconnected graphs in Java PrimMST",
+      "url": "https://github.com/objectionary/eo-graphs/pull/119",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:17:35Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 118,
+      "title": "Keep Dijkstra distances in a wide integer type",
+      "url": "https://github.com/objectionary/eo-graphs/pull/118",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:17:05Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9927,
+      "title": "fix(#8579): avoid redundant scans during placement and unplacement",
+      "url": "https://github.com/objectionary/eo/pull/9927",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:16:32Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9926,
+      "title": "fix(#8600): reuse dispatch parsing and argument emission",
+      "url": "https://github.com/objectionary/eo/pull/9926",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:16:06Z"
+    },
+    {
+      "repo": "objectionary/jucs",
+      "number": 167,
+      "title": "#142: Traverse directories before applying resource globs",
+      "url": "https://github.com/objectionary/jucs/pull/167",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:15:45Z"
+    },
+    {
+      "repo": "objectionary/xax",
+      "number": 272,
+      "title": "#215: Interpret stylesheet locations as file URIs",
+      "url": "https://github.com/objectionary/xax/pull/272",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:15:38Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9925,
+      "title": "fix(#9915): reject noninteger tuple indexes before traversal",
+      "url": "https://github.com/objectionary/eo/pull/9925",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T17:15:29Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 546,
+      "title": "Discard diagnostics computed with superseded settings",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/546",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:59:54Z"
+    },
+    {
+      "repo": "objectionary/wpa",
+      "number": 127,
+      "title": "fix(#86): discover only XMIR source files",
+      "url": "https://github.com/objectionary/wpa/pull/127",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:59:39Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 545,
+      "title": "Clear diagnostics when a document closes",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/545",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:59:35Z"
+    },
+    {
+      "repo": "objectionary/wpa",
+      "number": 126,
+      "title": "fix(#88): snapshot caller-owned source maps",
+      "url": "https://github.com/objectionary/wpa/pull/126",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:59:25Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 544,
+      "title": "Recover diagnostics after a configuration request fails",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/544",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:59:20Z"
+    },
+    {
+      "repo": "objectionary/game-of-life",
+      "number": 94,
+      "title": "Accept slow CLI arguments without the optional batch flag",
+      "url": "https://github.com/objectionary/game-of-life/pull/94",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:59:19Z"
+    },
+    {
+      "repo": "objectionary/game-of-life",
+      "number": 93,
+      "title": "Return failure for invalid fast CLI arguments",
+      "url": "https://github.com/objectionary/game-of-life/pull/93",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:59:08Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 117,
+      "title": "Normalize sparse vertex labels in Java spanning trees",
+      "url": "https://github.com/objectionary/eo-graphs/pull/117",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:58:55Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 543,
+      "title": "Map the current PHI token for semantic highlighting",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/543",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:58:50Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 116,
+      "title": "Normalize sparse vertex labels in C++ spanning trees",
+      "url": "https://github.com/objectionary/eo-graphs/pull/116",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:58:43Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 542,
+      "title": "Negotiate semantic token registration with client capabilities",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/542",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:58:32Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 115,
+      "title": "Save algorithm output from every run fixture",
+      "url": "https://github.com/objectionary/eo-graphs/pull/115",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:58:07Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 541,
+      "title": "Extract symbol names from their declaration tokens",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/541",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:58:03Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 540,
+      "title": "Keep descendants of nested document symbols",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/540",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:56:58Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9924,
+      "title": "fix(#9912): terminate invalid chunk slot operations",
+      "url": "https://github.com/objectionary/eo/pull/9924",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:56:31Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 539,
+      "title": "Publish lexer recognition errors as diagnostics",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/539",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:56:30Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9923,
+      "title": "fix(#9914): document the message argument of fallback callbacks",
+      "url": "https://github.com/objectionary/eo/pull/9923",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:56:01Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 538,
+      "title": "Fall back to the default for invalid diagnostic limits",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/538",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:55:53Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 114,
+      "title": "Build Java classes at their declared Makefile targets",
+      "url": "https://github.com/objectionary/eo-graphs/pull/114",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:55:33Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 537,
+      "title": "Retry grammar token loading after a failed read",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/537",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:55:03Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 113,
+      "title": "Reject invalid GraphGenerator command-line arguments",
+      "url": "https://github.com/objectionary/eo-graphs/pull/113",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:54:40Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 112,
+      "title": "Report an unrepresentable Prim spanning-tree weight",
+      "url": "https://github.com/objectionary/eo-graphs/pull/112",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:54:32Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 111,
+      "title": "Compare Kruskal edge weights without subtraction overflow",
+      "url": "https://github.com/objectionary/eo-graphs/pull/111",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:54:21Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 110,
+      "title": "Preserve parallel capacities and large maximum flows",
+      "url": "https://github.com/objectionary/eo-graphs/pull/110",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:54:09Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 109,
+      "title": "Keep the lightest parallel edge in C++ Dijkstra",
+      "url": "https://github.com/objectionary/eo-graphs/pull/109",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:53:58Z"
+    },
+    {
+      "repo": "objectionary/eo",
+      "number": 9922,
+      "title": "fix(#9913): preserve exact dividends in zero-division diagnostics",
+      "url": "https://github.com/objectionary/eo/pull/9922",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:52:03Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 223,
+      "title": "Preserve literal TeX examples when replacing formulas",
+      "url": "https://github.com/objectionary/eolang.sty/pull/223",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:50:12Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 222,
+      "title": "Load generated fragments from percent-containing paths",
+      "url": "https://github.com/objectionary/eolang.sty/pull/222",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:49:45Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 606,
+      "title": "Reject fake payments below the supported decimal precision",
+      "url": "https://github.com/zerocracy/baza.rb/pull/606",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:47:08Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2038,
+      "title": "#1818: Cover Octokit quota diagnostics and repository failures",
+      "url": "https://github.com/zerocracy/fbe/pull/2038",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:46:06Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2037,
+      "title": "#1731: Cover partial GitHub review-thread responses",
+      "url": "https://github.com/zerocracy/fbe/pull/2037",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:45:59Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2036,
+      "title": "#1874: Cover default repository discovery budgets",
+      "url": "https://github.com/zerocracy/fbe/pull/2036",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:45:44Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1477,
+      "title": "fix(#1178): track pinned npm build tools with Renovate",
+      "url": "https://github.com/zerocracy/pages-action/pull/1477",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:45:24Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2042,
+      "title": "Check parser diagnostics for empty and non-term queries",
+      "url": "https://github.com/yegor256/factbase/pull/2042",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:43:23Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2035,
+      "title": "#1744: Cover award diagnostics and remaining rendering operators",
+      "url": "https://github.com/zerocracy/fbe/pull/2035",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:42:32Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2034,
+      "title": "#1785: Cover periodic execution defaults and boundary conditions",
+      "url": "https://github.com/zerocracy/fbe/pull/2034",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:42:27Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2033,
+      "title": "#1854: Cover GraphQL factory caching and option interpretation",
+      "url": "https://github.com/zerocracy/fbe/pull/2033",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:42:21Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2041,
+      "title": "Test cache invalidation after inserting an empty fact",
+      "url": "https://github.com/yegor256/factbase/pull/2041",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:42:20Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2040,
+      "title": "Keep transaction decorators covered through their public entry points",
+      "url": "https://github.com/yegor256/factbase/pull/2040",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:42:10Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2039,
+      "title": "Test computed operands in inclusive range indexes",
+      "url": "https://github.com/yegor256/factbase/pull/2039",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:42:01Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3180,
+      "title": "#2745: Remember failed revival checks for five days",
+      "url": "https://github.com/zerocracy/judges-action/pull/3180",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:41:51Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2038,
+      "title": "Exercise the closing anchor after a negated Unicode property",
+      "url": "https://github.com/yegor256/factbase/pull/2038",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:41:48Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2037,
+      "title": "Resolve transaction journal entries with one lookup",
+      "url": "https://github.com/yegor256/factbase/pull/2037",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:41:35Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 221,
+      "title": "Recognize CRLF equation environments and closing tags at EOF",
+      "url": "https://github.com/objectionary/eolang.sty/pull/221",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:41:15Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 220,
+      "title": "Match whitespace after TeX control words",
+      "url": "https://github.com/objectionary/eolang.sty/pull/220",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:41:05Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2036,
+      "title": "Bound cached complements across distinct query literals",
+      "url": "https://github.com/yegor256/factbase/pull/2036",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T16:40:28Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 219,
+      "title": "Read generated fragments from literal directory paths",
+      "url": "https://github.com/objectionary/eolang.sty/pull/219",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:57:12Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2035,
+      "title": "Explain index selection and invalidation in the architecture guide",
+      "url": "https://github.com/yegor256/factbase/pull/2035",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:56:44Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 218,
+      "title": "Reject extra positional file paths",
+      "url": "https://github.com/objectionary/eolang.sty/pull/218",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:56:31Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 217,
+      "title": "Use the requested release date when tagging",
+      "url": "https://github.com/objectionary/eolang.sty/pull/217",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:55:53Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 216,
+      "title": "Run each CTAN pre-action test once",
+      "url": "https://github.com/objectionary/eolang.sty/pull/216",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:54:48Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3179,
+      "title": "#2494: Cover the changed-file count of recovered merged pulls",
+      "url": "https://github.com/zerocracy/judges-action/pull/3179",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:53:27Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3178,
+      "title": "#2487: Cover the attributes recorded by GitHub events",
+      "url": "https://github.com/zerocracy/judges-action/pull/3178",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:51:39Z"
+    },
+    {
+      "repo": "objectionary/home",
+      "number": 469,
+      "title": "Use correct runtime versions when selecting library releases",
+      "url": "https://github.com/objectionary/home/pull/469",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:51:05Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2034,
+      "title": "Check imported invariants without running an always query",
+      "url": "https://github.com/yegor256/factbase/pull/2034",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:50:20Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2033,
+      "title": "Document repeated property values and append semantics",
+      "url": "https://github.com/yegor256/factbase/pull/2033",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:45:24Z"
+    },
+    {
+      "repo": "objectionary/eolang.sty",
+      "number": 215,
+      "title": "Fail when the rewritten output cannot be saved",
+      "url": "https://github.com/objectionary/eolang.sty/pull/215",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:45:10Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3177,
+      "title": "#2493: Cover milestone source and descriptive details",
+      "url": "https://github.com/zerocracy/judges-action/pull/3177",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:43:07Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2032,
+      "title": "Build query tokens without copying each prefix",
+      "url": "https://github.com/yegor256/factbase/pull/2032",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:42:39Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2031,
+      "title": "Check reserved property names without enumerating methods",
+      "url": "https://github.com/yegor256/factbase/pull/2031",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:42:02Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3176,
+      "title": "#2491: Cover issue-opening details for existing and deleted authors",
+      "url": "https://github.com/zerocracy/judges-action/pull/3176",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:41:17Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3175,
+      "title": "#2738: Cache user classifications within each judge run",
+      "url": "https://github.com/zerocracy/judges-action/pull/3175",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:41:00Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3174,
+      "title": "#2492: Cover label event filtering and attachment time",
+      "url": "https://github.com/zerocracy/judges-action/pull/3174",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:38:15Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2030,
+      "title": "Document query literals and executable parameter examples",
+      "url": "https://github.com/yegor256/factbase/pull/2030",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:35:03Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1476,
+      "title": "Append the published vitals figures to the Actions summary",
+      "url": "https://github.com/zerocracy/pages-action/pull/1476",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:34:25Z"
+    },
+    {
+      "repo": "yegor256/factbase",
+      "number": 2029,
+      "title": "Show query parameters in single-result logs",
+      "url": "https://github.com/yegor256/factbase/pull/2029",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:34:05Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1475,
+      "title": "Publish the vitals figures as a JSON summary",
+      "url": "https://github.com/zerocracy/pages-action/pull/1475",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:33:31Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 605,
+      "title": "Reject upload hints that skip unattempted chunks",
+      "url": "https://github.com/zerocracy/baza.rb/pull/605",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:32:27Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 604,
+      "title": "Validate upload chunk sizes in the fake client",
+      "url": "https://github.com/zerocracy/baza.rb/pull/604",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:32:00Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 603,
+      "title": "Create parent directories for fake durable downloads",
+      "url": "https://github.com/zerocracy/baza.rb/pull/603",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:31:42Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3173,
+      "title": "#2349: pin the reusable workflow example to a release commit",
+      "url": "https://github.com/zerocracy/judges-action/pull/3173",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:28:12Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1474,
+      "title": "Use the published vitals report as its canonical URL",
+      "url": "https://github.com/zerocracy/pages-action/pull/1474",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:25:42Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1473,
+      "title": "Use the project logo for adless social previews",
+      "url": "https://github.com/zerocracy/pages-action/pull/1473",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:25:27Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1472,
+      "title": "Limit contributor-name writes to awards and reconciliations",
+      "url": "https://github.com/zerocracy/pages-action/pull/1472",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:21:39Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1471,
+      "title": "Test bylaws selection with a non-HR PMP before HR",
+      "url": "https://github.com/zerocracy/pages-action/pull/1471",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-12T15:21:11Z"
+    },
+    {
       "repo": "Chain-Love/chain-love",
       "number": 5286,
       "title": "Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry",
       "url": "https://github.com/Chain-Love/chain-love/pull/5286",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-11T11:43:23Z"
     },
@@ -222,7 +1222,7 @@
     {
       "repo": "zerocracy/sales-deck",
       "number": 47,
-      "title": "#39: let latexmk check dependencies on every make invocation",
+      "title": "#39 Rebuild both pitch documents when the shared class changes",
       "url": "https://github.com/zerocracy/sales-deck/pull/47",
       "state": "open",
       "merged": false,
@@ -2322,7 +3322,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4279,
-      "title": "data(security): add Olympix static analyzer, test generation, fuzzing and BugPoCer",
+      "title": "data(security): add Olympix static analyzer, test generation, BugScout and BugPoCer",
       "url": "https://github.com/Chain-Love/chain-love/pull/4279",
       "state": "open",
       "merged": false,

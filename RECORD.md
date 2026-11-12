@@ -8,7 +8,7 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#5286](https://github.com/Chain-Love/chain-love/pull/5286) | Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry | open |
+| [#5286](https://github.com/Chain-Love/chain-love/pull/5286) | Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry | **merged** |
 | [#5273](https://github.com/Chain-Love/chain-love/pull/5273) | data(services): correct AlgoKit LocalNet access to Public | open |
 | [#5146](https://github.com/Chain-Love/chain-love/pull/5146) | Add outreach registry rows for VoltAgent, Sagargupta16, yjjnls and AlexMili | **merged** |
 | [#5128](https://github.com/Chain-Love/chain-love/pull/5128) | feat(validate): limit actionButtons to two per row | **merged** |
@@ -121,7 +121,7 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#4282](https://github.com/Chain-Love/chain-love/pull/4282) | data(security): add iosiro smart contract audits, penetration testing and threat modeling | open |
 | [#4281](https://github.com/Chain-Love/chain-love/pull/4281) | data(security): add Neodyme smart contract and core blockchain audits, protocol design reviews and blockchain training | open |
 | [#4280](https://github.com/Chain-Love/chain-love/pull/4280) | data(security): add Shieldify security review and audit subscription | open |
-| [#4279](https://github.com/Chain-Love/chain-love/pull/4279) | data(security): add Olympix static analyzer, test generation, fuzzing and BugPoCer | open |
+| [#4279](https://github.com/Chain-Love/chain-love/pull/4279) | data(security): add Olympix static analyzer, test generation, BugScout and BugPoCer | open |
 | [#4259](https://github.com/Chain-Love/chain-love/pull/4259) | data: correct Aleph, Livepeer and Dfns prices and complete Dfns SDK sources | open |
 | [#4258](https://github.com/Chain-Love/chain-love/pull/4258) | data(algorand): add the Algorand Randomness Beacon oracle (mainnet + testnet) | open |
 | [#4257](https://github.com/Chain-Love/chain-love/pull/4257) | data(analytics): add Coinalyze free futures data API, listed on Filecoin, Algorand and Somnia | open |
@@ -387,6 +387,31 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#768](https://github.com/Disciplr-Org/Disciplr-backend/pull/768) | docs: add configuration reference | closed unmerged |
 | [#767](https://github.com/Disciplr-Org/Disciplr-backend/pull/767) | test: email provider injection guards | closed unmerged |
 
+## yegor256/factbase
+
+| | Title | State |
+| --- | --- | --- |
+| [#2042](https://github.com/yegor256/factbase/pull/2042) | Check parser diagnostics for empty and non-term queries | open |
+| [#2041](https://github.com/yegor256/factbase/pull/2041) | Test cache invalidation after inserting an empty fact | open |
+| [#2040](https://github.com/yegor256/factbase/pull/2040) | Keep transaction decorators covered through their public entry points | open |
+| [#2039](https://github.com/yegor256/factbase/pull/2039) | Test computed operands in inclusive range indexes | open |
+| [#2038](https://github.com/yegor256/factbase/pull/2038) | Exercise the closing anchor after a negated Unicode property | open |
+| [#2037](https://github.com/yegor256/factbase/pull/2037) | Resolve transaction journal entries with one lookup | open |
+| [#2036](https://github.com/yegor256/factbase/pull/2036) | Bound cached complements across distinct query literals | open |
+| [#2035](https://github.com/yegor256/factbase/pull/2035) | Explain index selection and invalidation in the architecture guide | open |
+| [#2034](https://github.com/yegor256/factbase/pull/2034) | Check imported invariants without running an always query | open |
+| [#2033](https://github.com/yegor256/factbase/pull/2033) | Document repeated property values and append semantics | open |
+| [#2032](https://github.com/yegor256/factbase/pull/2032) | Build query tokens without copying each prefix | open |
+| [#2031](https://github.com/yegor256/factbase/pull/2031) | Check reserved property names without enumerating methods | open |
+| [#2030](https://github.com/yegor256/factbase/pull/2030) | Document query literals and executable parameter examples | open |
+| [#2029](https://github.com/yegor256/factbase/pull/2029) | Show query parameters in single-result logs | open |
+| [#1969](https://github.com/yegor256/factbase/pull/1969) | #1947: skip incompatible encodings while comparing remaining values | open |
+| [#1968](https://github.com/yegor256/factbase/pull/1968) | #1943: detach query text from the memoized cache identity | open |
+| [#1967](https://github.com/yegor256/factbase/pull/1967) | Publish benchmark results only from the canonical repository | open |
+| [#1966](https://github.com/yegor256/factbase/issues/1966) | Benchmark workflow tries to publish maintenance pull requests from contributor forks | open |
+| [#1965](https://github.com/yegor256/factbase/pull/1965) | #894: document how to read YAML timestamps safely | open |
+| [#1667](https://github.com/yegor256/factbase/pull/1667) | #1647: validate imported fact properties before appending | open |
+
 ## Hazyshades/Sendly-Test-Repo
 
 | | Title | State |
@@ -411,6 +436,104 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#140](https://github.com/Hazyshades/Sendly-Test-Repo/pull/140) | fix(test): discover all Node test files automatically | closed unmerged |
 | [#139](https://github.com/Hazyshades/Sendly-Test-Repo/pull/139) | fix: abort uploads safely on unmount | **merged** |
 | [#138](https://github.com/Hazyshades/Sendly-Test-Repo/pull/138) | fix(test): repair and deduplicate file upload suite | **merged** |
+
+## objectionary/eo-lsp-server
+
+| | Title | State |
+| --- | --- | --- |
+| [#551](https://github.com/objectionary/eo-lsp-server/pull/551) | Track text blocks even when the opener indentation is invalid | open |
+| [#550](https://github.com/objectionary/eo-lsp-server/pull/550) | Report trailing whitespace in source and text-block lines | open |
+| [#549](https://github.com/objectionary/eo-lsp-server/pull/549) | Accept one trailing blank line after the top-level object | open |
+| [#548](https://github.com/objectionary/eo-lsp-server/pull/548) | Read CRLF source lines without including the terminator | open |
+| [#547](https://github.com/objectionary/eo-lsp-server/pull/547) | Emit the final source token once when no newline follows | open |
+| [#546](https://github.com/objectionary/eo-lsp-server/pull/546) | Discard diagnostics computed with superseded settings | open |
+| [#545](https://github.com/objectionary/eo-lsp-server/pull/545) | Clear diagnostics when a document closes | open |
+| [#544](https://github.com/objectionary/eo-lsp-server/pull/544) | Recover diagnostics after a configuration request fails | open |
+| [#543](https://github.com/objectionary/eo-lsp-server/pull/543) | Map the current PHI token for semantic highlighting | open |
+| [#542](https://github.com/objectionary/eo-lsp-server/pull/542) | Negotiate semantic token registration with client capabilities | open |
+| [#541](https://github.com/objectionary/eo-lsp-server/pull/541) | Extract symbol names from their declaration tokens | open |
+| [#540](https://github.com/objectionary/eo-lsp-server/pull/540) | Keep descendants of nested document symbols | open |
+| [#539](https://github.com/objectionary/eo-lsp-server/pull/539) | Publish lexer recognition errors as diagnostics | open |
+| [#538](https://github.com/objectionary/eo-lsp-server/pull/538) | Fall back to the default for invalid diagnostic limits | open |
+| [#537](https://github.com/objectionary/eo-lsp-server/pull/537) | Retry grammar token loading after a failed read | open |
+| [#510](https://github.com/objectionary/eo-lsp-server/issues/510) | A delayed configuration response overwrites diagnostics computed with newer settings | open |
+| [#509](https://github.com/objectionary/eo-lsp-server/issues/509) | Document symbol names come from string contents and truncate valid Unicode identifiers | open |
+| [#508](https://github.com/objectionary/eo-lsp-server/issues/508) | Document symbols omit every descendant below a nested object | open |
+| [#507](https://github.com/objectionary/eo-lsp-server/issues/507) | Lexer recognition errors are discarded before diagnostics are published | open |
+
+## objectionary/eo-graphs
+
+| | Title | State |
+| --- | --- | --- |
+| [#124](https://github.com/objectionary/eo-graphs/pull/124) | Preserve zero-weight and lightest parallel edges in C++ Prim | open |
+| [#123](https://github.com/objectionary/eo-graphs/pull/123) | Link GraphGenerator in the canonical repository | open |
+| [#122](https://github.com/objectionary/eo-graphs/pull/122) | Report invalid vertex IDs in the Java graph commands | open |
+| [#121](https://github.com/objectionary/eo-graphs/pull/121) | Validate the vertex count before using fixed flow storage | open |
+| [#120](https://github.com/objectionary/eo-graphs/pull/120) | Reject negative edge weights before running Dijkstra | open |
+| [#119](https://github.com/objectionary/eo-graphs/pull/119) | Reject disconnected graphs in Java PrimMST | open |
+| [#118](https://github.com/objectionary/eo-graphs/pull/118) | Keep Dijkstra distances in a wide integer type | open |
+| [#117](https://github.com/objectionary/eo-graphs/pull/117) | Normalize sparse vertex labels in Java spanning trees | open |
+| [#116](https://github.com/objectionary/eo-graphs/pull/116) | Normalize sparse vertex labels in C++ spanning trees | open |
+| [#115](https://github.com/objectionary/eo-graphs/pull/115) | Save algorithm output from every run fixture | open |
+| [#114](https://github.com/objectionary/eo-graphs/pull/114) | Build Java classes at their declared Makefile targets | open |
+| [#113](https://github.com/objectionary/eo-graphs/pull/113) | Reject invalid GraphGenerator command-line arguments | open |
+| [#112](https://github.com/objectionary/eo-graphs/pull/112) | Report an unrepresentable Prim spanning-tree weight | open |
+| [#111](https://github.com/objectionary/eo-graphs/pull/111) | Compare Kruskal edge weights without subtraction overflow | open |
+| [#110](https://github.com/objectionary/eo-graphs/pull/110) | Preserve parallel capacities and large maximum flows | open |
+| [#109](https://github.com/objectionary/eo-graphs/pull/109) | Keep the lightest parallel edge in C++ Dijkstra | open |
+
+## zerocracy/judges-action
+
+| | Title | State |
+| --- | --- | --- |
+| [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | open |
+| [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | open |
+| [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | open |
+| [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | open |
+| [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | open |
+| [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | open |
+| [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | open |
+| [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | open |
+| [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
+| [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
+| [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
+| [#3135](https://github.com/zerocracy/judges-action/pull/3135) | #2852: verify the identity returned for a missing issue | open |
+| [#3134](https://github.com/zerocracy/judges-action/pull/3134) | #2934: verify processed pulls do not trigger another lookup | open |
+| [#3133](https://github.com/zerocracy/judges-action/pull/3133) | #2923: exercise the token trace in the masking regression | open |
+| [#3132](https://github.com/zerocracy/judges-action/pull/3132) | #3080: order parallel Make consumers before cleanup | open |
+| [#3130](https://github.com/zerocracy/judges-action/pull/3130) | Populate the default project name for valve operations | open |
+
+## zerocracy/baza.rb
+
+| | Title | State |
+| --- | --- | --- |
+| [#606](https://github.com/zerocracy/baza.rb/pull/606) | Reject fake payments below the supported decimal precision | open |
+| [#605](https://github.com/zerocracy/baza.rb/pull/605) | Reject upload hints that skip unattempted chunks | open |
+| [#604](https://github.com/zerocracy/baza.rb/pull/604) | Validate upload chunk sizes in the fake client | open |
+| [#603](https://github.com/zerocracy/baza.rb/pull/603) | Create parent directories for fake durable downloads | open |
+| [#585](https://github.com/zerocracy/baza.rb/pull/585) | Reject non-regular files before durable_save uploads | open |
+| [#584](https://github.com/zerocracy/baza.rb/pull/584) | Assemble encoded download ranges before decompressing gzip | open |
+| [#583](https://github.com/zerocracy/baza.rb/pull/583) | Validate partial download ranges before appending bytes | open |
+| [#582](https://github.com/zerocracy/baza.rb/pull/582) | Replace partial downloads when the server returns a complete response | **merged** |
+| [#581](https://github.com/zerocracy/baza.rb/pull/581) | Truncate payment amounts consistently before sending them | **merged** |
+| [#580](https://github.com/zerocracy/baza.rb/pull/580) | Validate durable placement response identifiers | open |
+| [#579](https://github.com/zerocracy/baza.rb/pull/579) | Reject malformed recent job IDs and exit-code responses | **merged** |
+
+## zerocracy/fbe
+
+| | Title | State |
+| --- | --- | --- |
+| [#2038](https://github.com/zerocracy/fbe/pull/2038) | #1818: Cover Octokit quota diagnostics and repository failures | open |
+| [#2037](https://github.com/zerocracy/fbe/pull/2037) | #1731: Cover partial GitHub review-thread responses | open |
+| [#2036](https://github.com/zerocracy/fbe/pull/2036) | #1874: Cover default repository discovery budgets | open |
+| [#2035](https://github.com/zerocracy/fbe/pull/2035) | #1744: Cover award diagnostics and remaining rendering operators | open |
+| [#2034](https://github.com/zerocracy/fbe/pull/2034) | #1785: Cover periodic execution defaults and boundary conditions | open |
+| [#2033](https://github.com/zerocracy/fbe/pull/2033) | #1854: Cover GraphQL factory caching and option interpretation | open |
+| [#2013](https://github.com/zerocracy/fbe/pull/2013) | #1556: Retry transient GraphQL query failures without replaying mutations | **merged** |
+| [#2012](https://github.com/zerocracy/fbe/pull/2012) | #1380: expose review authors and states | **merged** |
+| [#2009](https://github.com/zerocracy/fbe/pull/2009) | #1912: validate the project name before entering a valve | **merged** |
+| [#1621](https://github.com/zerocracy/fbe/pull/1621) | #1567: use the tracked quota when serving cached GitHub pages | open |
+| [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
 
 ## APN-Network/bugs
 
@@ -443,30 +566,47 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#547](https://github.com/StellarLend/Stellarlend-frontend/pull/547) | test: cover account export bundle scoping | closed unmerged |
 | [#546](https://github.com/StellarLend/Stellarlend-frontend/pull/546) | test: cover request id ULID helpers | closed unmerged |
 
-## zerocracy/judges-action
+## objectionary/eo
 
 | | Title | State |
 | --- | --- | --- |
-| [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
-| [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
-| [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
-| [#3135](https://github.com/zerocracy/judges-action/pull/3135) | #2852: verify the identity returned for a missing issue | open |
-| [#3134](https://github.com/zerocracy/judges-action/pull/3134) | #2934: verify processed pulls do not trigger another lookup | open |
-| [#3133](https://github.com/zerocracy/judges-action/pull/3133) | #2923: exercise the token trace in the masking regression | open |
-| [#3132](https://github.com/zerocracy/judges-action/pull/3132) | #3080: order parallel Make consumers before cleanup | open |
-| [#3130](https://github.com/zerocracy/judges-action/pull/3130) | Populate the default project name for valve operations | open |
+| [#9930](https://github.com/objectionary/eo/pull/9930) | fix(#8613): share identifier and fragile-dispatch checks | open |
+| [#9929](https://github.com/objectionary/eo/pull/9929) | fix(#8604): reuse chain emission and suffix marks | open |
+| [#9928](https://github.com/objectionary/eo/pull/9928) | fix(#8713): remove the unused before-stars transformation | open |
+| [#9927](https://github.com/objectionary/eo/pull/9927) | fix(#8579): avoid redundant scans during placement and unplacement | open |
+| [#9926](https://github.com/objectionary/eo/pull/9926) | fix(#8600): reuse dispatch parsing and argument emission | open |
+| [#9925](https://github.com/objectionary/eo/pull/9925) | fix(#9915): reject noninteger tuple indexes before traversal | open |
+| [#9924](https://github.com/objectionary/eo/pull/9924) | fix(#9912): terminate invalid chunk slot operations | open |
+| [#9923](https://github.com/objectionary/eo/pull/9923) | fix(#9914): document the message argument of fallback callbacks | open |
+| [#9922](https://github.com/objectionary/eo/pull/9922) | fix(#9913): preserve exact dividends in zero-division diagnostics | open |
 
-## zerocracy/baza.rb
+## objectionary/eolang.sty
 
 | | Title | State |
 | --- | --- | --- |
-| [#585](https://github.com/zerocracy/baza.rb/pull/585) | Reject non-regular files before durable_save uploads | open |
-| [#584](https://github.com/zerocracy/baza.rb/pull/584) | Assemble encoded download ranges before decompressing gzip | open |
-| [#583](https://github.com/zerocracy/baza.rb/pull/583) | Validate partial download ranges before appending bytes | open |
-| [#582](https://github.com/zerocracy/baza.rb/pull/582) | Replace partial downloads when the server returns a complete response | **merged** |
-| [#581](https://github.com/zerocracy/baza.rb/pull/581) | Truncate payment amounts consistently before sending them | **merged** |
-| [#580](https://github.com/zerocracy/baza.rb/pull/580) | Validate durable placement response identifiers | open |
-| [#579](https://github.com/zerocracy/baza.rb/pull/579) | Reject malformed recent job IDs and exit-code responses | **merged** |
+| [#223](https://github.com/objectionary/eolang.sty/pull/223) | Preserve literal TeX examples when replacing formulas | open |
+| [#222](https://github.com/objectionary/eolang.sty/pull/222) | Load generated fragments from percent-containing paths | open |
+| [#221](https://github.com/objectionary/eolang.sty/pull/221) | Recognize CRLF equation environments and closing tags at EOF | open |
+| [#220](https://github.com/objectionary/eolang.sty/pull/220) | Match whitespace after TeX control words | open |
+| [#219](https://github.com/objectionary/eolang.sty/pull/219) | Read generated fragments from literal directory paths | open |
+| [#218](https://github.com/objectionary/eolang.sty/pull/218) | Reject extra positional file paths | open |
+| [#217](https://github.com/objectionary/eolang.sty/pull/217) | Use the requested release date when tagging | open |
+| [#216](https://github.com/objectionary/eolang.sty/pull/216) | Run each CTAN pre-action test once | open |
+| [#215](https://github.com/objectionary/eolang.sty/pull/215) | Fail when the rewritten output cannot be saved | open |
+
+## zerocracy/pages-action
+
+| | Title | State |
+| --- | --- | --- |
+| [#1477](https://github.com/zerocracy/pages-action/pull/1477) | fix(#1178): track pinned npm build tools with Renovate | open |
+| [#1476](https://github.com/zerocracy/pages-action/pull/1476) | Append the published vitals figures to the Actions summary | open |
+| [#1475](https://github.com/zerocracy/pages-action/pull/1475) | Publish the vitals figures as a JSON summary | open |
+| [#1474](https://github.com/zerocracy/pages-action/pull/1474) | Use the published vitals report as its canonical URL | open |
+| [#1473](https://github.com/zerocracy/pages-action/pull/1473) | Use the project logo for adless social previews | open |
+| [#1472](https://github.com/zerocracy/pages-action/pull/1472) | Limit contributor-name writes to awards and reconciliations | open |
+| [#1471](https://github.com/zerocracy/pages-action/pull/1471) | Test bylaws selection with a non-HR PMP before HR | open |
+| [#1462](https://github.com/zerocracy/pages-action/pull/1462) | #1433: invalidate the Docker image when a source is deleted | open |
+| [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | **merged** |
 
 ## jcabi/jcabi-xml
 
@@ -504,17 +644,6 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#41](https://github.com/sourcey/startup-credits/pull/41) | catalog: add Trigger.dev current YC deal | closed unmerged |
 | [#40](https://github.com/sourcey/startup-credits/pull/40) | catalog: add GitBook Startups Program | **merged** |
 
-## yegor256/factbase
-
-| | Title | State |
-| --- | --- | --- |
-| [#1969](https://github.com/yegor256/factbase/pull/1969) | #1947: skip incompatible encodings while comparing remaining values | open |
-| [#1968](https://github.com/yegor256/factbase/pull/1968) | #1943: detach query text from the memoized cache identity | open |
-| [#1967](https://github.com/yegor256/factbase/pull/1967) | Publish benchmark results only from the canonical repository | open |
-| [#1966](https://github.com/yegor256/factbase/issues/1966) | Benchmark workflow tries to publish maintenance pull requests from contributor forks | open |
-| [#1965](https://github.com/yegor256/factbase/pull/1965) | #894: document how to read YAML timestamps safely | open |
-| [#1667](https://github.com/yegor256/factbase/pull/1667) | #1647: validate imported fact properties before appending | open |
-
 ## zerocracy/zerocracy-mcp-server
 
 | | Title | State |
@@ -548,15 +677,15 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#1419](https://github.com/cqfn/aibolit/issues/1419) | SendNull omits direct null arguments in superclass method and constructor calls | open |
 | [#1418](https://github.com/cqfn/aibolit/issues/1418) | ClassicGetter raises StopIteration for a valid return this statement | open |
 
-## zerocracy/fbe
+## objectionary/xax
 
 | | Title | State |
 | --- | --- | --- |
-| [#2013](https://github.com/zerocracy/fbe/pull/2013) | #1556: Retry transient GraphQL query failures without replaying mutations | **merged** |
-| [#2012](https://github.com/zerocracy/fbe/pull/2012) | #1380: expose review authors and states | **merged** |
-| [#2009](https://github.com/zerocracy/fbe/pull/2009) | #1912: validate the project name before entering a valve | **merged** |
-| [#1621](https://github.com/zerocracy/fbe/pull/1621) | #1567: use the tracked quota when serving cached GitHub pages | open |
-| [#1611](https://github.com/zerocracy/fbe/pull/1611) | #1566: retry GET requests after connection and SSL failures | open |
+| [#276](https://github.com/objectionary/xax/pull/276) | #217: Evaluate false skip flags normally | open |
+| [#275](https://github.com/objectionary/xax/pull/275) | #216: Evaluate the decorated story output | open |
+| [#274](https://github.com/objectionary/xax/pull/274) | #245: Reject stories without XPath assertions | open |
+| [#273](https://github.com/objectionary/xax/pull/273) | #224: Handle fresh descriptions and incompatible matcher values | open |
+| [#272](https://github.com/objectionary/xax/pull/272) | #215: Interpret stylesheet locations as file URIs | open |
 
 ## jcabi/jcabi-urn
 
@@ -614,15 +743,6 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#18819](https://github.com/datahub-project/datahub/issues/18819) | Three sources disagree on whether Python 3.12 is supported; python_requires has no upper bound so new Pythons fail opaquely | open |
 | [#18811](https://github.com/datahub-project/datahub/pull/18811) | fix(ingest): use tempfile.gettempdir() instead of hardcoded /tmp | **merged** |
 
-## objectionary/eo-lsp-server
-
-| | Title | State |
-| --- | --- | --- |
-| [#510](https://github.com/objectionary/eo-lsp-server/issues/510) | A delayed configuration response overwrites diagnostics computed with newer settings | open |
-| [#509](https://github.com/objectionary/eo-lsp-server/issues/509) | Document symbol names come from string contents and truncate valid Unicode identifiers | open |
-| [#508](https://github.com/objectionary/eo-lsp-server/issues/508) | Document symbols omit every descendant below a nested object | open |
-| [#507](https://github.com/objectionary/eo-lsp-server/issues/507) | Lexer recognition errors are discarded before diagnostics are published | open |
-
 ## jcabi/jcabi-immutable
 
 | | Title | State |
@@ -637,7 +757,7 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#48](https://github.com/zerocracy/sales-deck/pull/48) | Refresh shared logo and palette before building the pitch PDFs | **merged** |
-| [#47](https://github.com/zerocracy/sales-deck/pull/47) | #39: let latexmk check dependencies on every make invocation | open |
+| [#47](https://github.com/zerocracy/sales-deck/pull/47) | #39 Rebuild both pitch documents when the shared class changes | open |
 | [#46](https://github.com/zerocracy/sales-deck/pull/46) | Remove both generated PDFs during make clean | **merged** |
 
 ## gonka-ai/gonka
@@ -680,12 +800,26 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | [#16](https://github.com/Paritok-official/paritok-4b-v1/issues/16) | [hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15) | closed |
 | [#15](https://github.com/Paritok-official/paritok-4b-v1/pull/15) | fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs) | **merged** |
 
-## zerocracy/pages-action
+## objectionary/jucs
 
 | | Title | State |
 | --- | --- | --- |
-| [#1462](https://github.com/zerocracy/pages-action/pull/1462) | #1433: invalidate the Docker image when a source is deleted | open |
-| [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | **merged** |
+| [#168](https://github.com/objectionary/jucs/pull/168) | #89: Report fixture expectations in the correct assertion order | open |
+| [#167](https://github.com/objectionary/jucs/pull/167) | #142: Traverse directories before applying resource globs | open |
+
+## objectionary/wpa
+
+| | Title | State |
+| --- | --- | --- |
+| [#127](https://github.com/objectionary/wpa/pull/127) | fix(#86): discover only XMIR source files | open |
+| [#126](https://github.com/objectionary/wpa/pull/126) | fix(#88): snapshot caller-owned source maps | open |
+
+## objectionary/game-of-life
+
+| | Title | State |
+| --- | --- | --- |
+| [#94](https://github.com/objectionary/game-of-life/pull/94) | Accept slow CLI arguments without the optional batch flag | open |
+| [#93](https://github.com/objectionary/game-of-life/pull/93) | Return failure for invalid fast CLI arguments | open |
 
 ## zerocracy/swarm-template
 
@@ -721,6 +855,12 @@ Generated automatically on 2026-11-12. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## objectionary/home
+
+| | Title | State |
+| --- | --- | --- |
+| [#469](https://github.com/objectionary/home/pull/469) | Use correct runtime versions when selecting library releases | open |
 
 ## AlexMili/Awesome-MCP
 
