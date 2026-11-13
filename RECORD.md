@@ -391,6 +391,8 @@ Generated automatically on 2026-11-13. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#2044](https://github.com/yegor256/factbase/pull/2044) | #1356: show effective fact values in rule failure diagnostics | open |
+| [#2043](https://github.com/yegor256/factbase/pull/2043) | #1350: log failed transactions and queries while preserving their exceptions | open |
 | [#2042](https://github.com/yegor256/factbase/pull/2042) | Check parser diagnostics for empty and non-term queries | open |
 | [#2041](https://github.com/yegor256/factbase/pull/2041) | Test cache invalidation after inserting an empty fact | open |
 | [#2040](https://github.com/yegor256/factbase/pull/2040) | Keep transaction decorators covered through their public entry points | open |
@@ -461,6 +463,29 @@ Generated automatically on 2026-11-13. Do not edit by hand: `scripts/update.mjs`
 | [#508](https://github.com/objectionary/eo-lsp-server/issues/508) | Document symbols omit every descendant below a nested object | open |
 | [#507](https://github.com/objectionary/eo-lsp-server/issues/507) | Lexer recognition errors are discarded before diagnostics are published | open |
 
+## zerocracy/judges-action
+
+| | Title | State |
+| --- | --- | --- |
+| [#3184](https://github.com/zerocracy/judges-action/pull/3184) | #2732: Cover retirement of missing issues in six judges | open |
+| [#3183](https://github.com/zerocracy/judges-action/pull/3183) | #2483: Cover exhausted quota in cleanup and discovery judges | open |
+| [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | open |
+| [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | open |
+| [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | open |
+| [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | open |
+| [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | open |
+| [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | open |
+| [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | open |
+| [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | open |
+| [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
+| [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
+| [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
+| [#3135](https://github.com/zerocracy/judges-action/pull/3135) | #2852: verify the identity returned for a missing issue | open |
+| [#3134](https://github.com/zerocracy/judges-action/pull/3134) | #2934: verify processed pulls do not trigger another lookup | open |
+| [#3133](https://github.com/zerocracy/judges-action/pull/3133) | #2923: exercise the token trace in the masking regression | open |
+| [#3132](https://github.com/zerocracy/judges-action/pull/3132) | #3080: order parallel Make consumers before cleanup | open |
+| [#3130](https://github.com/zerocracy/judges-action/pull/3130) | Populate the default project name for valve operations | open |
+
 ## objectionary/eo-graphs
 
 | | Title | State |
@@ -481,27 +506,6 @@ Generated automatically on 2026-11-13. Do not edit by hand: `scripts/update.mjs`
 | [#111](https://github.com/objectionary/eo-graphs/pull/111) | Compare Kruskal edge weights without subtraction overflow | open |
 | [#110](https://github.com/objectionary/eo-graphs/pull/110) | Preserve parallel capacities and large maximum flows | open |
 | [#109](https://github.com/objectionary/eo-graphs/pull/109) | Keep the lightest parallel edge in C++ Dijkstra | open |
-
-## zerocracy/judges-action
-
-| | Title | State |
-| --- | --- | --- |
-| [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | open |
-| [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | open |
-| [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | open |
-| [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | open |
-| [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | open |
-| [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | open |
-| [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | open |
-| [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | open |
-| [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
-| [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
-| [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
-| [#3135](https://github.com/zerocracy/judges-action/pull/3135) | #2852: verify the identity returned for a missing issue | open |
-| [#3134](https://github.com/zerocracy/judges-action/pull/3134) | #2934: verify processed pulls do not trigger another lookup | open |
-| [#3133](https://github.com/zerocracy/judges-action/pull/3133) | #2923: exercise the token trace in the masking regression | open |
-| [#3132](https://github.com/zerocracy/judges-action/pull/3132) | #3080: order parallel Make consumers before cleanup | open |
-| [#3130](https://github.com/zerocracy/judges-action/pull/3130) | Populate the default project name for valve operations | open |
 
 ## zerocracy/baza.rb
 
@@ -811,8 +815,8 @@ Generated automatically on 2026-11-13. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#127](https://github.com/objectionary/wpa/pull/127) | fix(#86): discover only XMIR source files | open |
-| [#126](https://github.com/objectionary/wpa/pull/126) | fix(#88): snapshot caller-owned source maps | open |
+| [#127](https://github.com/objectionary/wpa/pull/127) | fix(#86): discover only XMIR source files | **merged** |
+| [#126](https://github.com/objectionary/wpa/pull/126) | fix(#88): snapshot caller-owned source maps | **merged** |
 
 ## objectionary/game-of-life
 
@@ -855,6 +859,12 @@ Generated automatically on 2026-11-13. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## yegor256/judges
+
+| | Title | State |
+| --- | --- | --- |
+| [#1300](https://github.com/yegor256/judges/pull/1300) | #196: Exercise printed reports in headless Chromium | open |
 
 ## objectionary/home
 
