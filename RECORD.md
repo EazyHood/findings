@@ -698,7 +698,7 @@ Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs`
 | [#120](https://github.com/jcabi/jcabi-urn/pull/120) | #117: report reserved namespaces as invalid without throwing | **merged** |
 | [#119](https://github.com/jcabi/jcabi-urn/pull/119) | #116: preserve low bytes in escaped URN components | **merged** |
 | [#118](https://github.com/jcabi/jcabi-urn/issues/118) | `param(name, value)` interprets delimiters in the name as additional query parameters | closed |
-| [#117](https://github.com/jcabi/jcabi-urn/issues/117) | `URN.isValid` throws for the reserved `urn` namespace instead of returning false | open |
+| [#117](https://github.com/jcabi/jcabi-urn/issues/117) | `URN.isValid` throws for the reserved `urn` namespace instead of returning false | closed |
 | [#116](https://github.com/jcabi/jcabi-urn/issues/116) | `encode` omits the leading zero for bytes below 0x10, corrupting NSS round trips | closed |
 
 ## EazyHood/DealRift

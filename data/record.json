@@ -4,7 +4,7 @@
     "prsOpened": 571,
     "prsMerged": 138,
     "issuesOpened": 99,
-    "issuesClosed": 41,
+    "issuesClosed": 42,
     "organizations": 42,
     "truncated": false
   },
@@ -2284,7 +2284,7 @@
       "number": 117,
       "title": "`URN.isValid` throws for the reserved `urn` namespace instead of returning false",
       "url": "https://github.com/jcabi/jcabi-urn/issues/117",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T16:24:52Z"
