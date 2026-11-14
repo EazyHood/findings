@@ -4,7 +4,7 @@
     "prsOpened": 571,
     "prsMerged": 138,
     "issuesOpened": 99,
-    "issuesClosed": 42,
+    "issuesClosed": 43,
     "organizations": 42,
     "truncated": false
   },
@@ -2304,7 +2304,7 @@
       "number": 149,
       "title": "A null thread context class loader makes the first use of `Manifests` fail permanently for that defining class loader",
       "url": "https://github.com/jcabi/jcabi-manifests/issues/149",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T16:24:32Z"

@@ -777,7 +777,7 @@ Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#150](https://github.com/jcabi/jcabi-manifests/pull/150) | #117: make the manifest Javadoc example compile | **merged** |
-| [#149](https://github.com/jcabi/jcabi-manifests/issues/149) | A null thread context class loader makes the first use of `Manifests` fail permanently for that defining class loader | open |
+| [#149](https://github.com/jcabi/jcabi-manifests/issues/149) | A null thread context class loader makes the first use of `Manifests` fail permanently for that defining class loader | closed |
 | [#148](https://github.com/jcabi/jcabi-manifests/issues/148) | `Manifests.append()` leaves later streams open when an earlier manifest cannot be parsed | closed |
 
 ## scipy/xsf
