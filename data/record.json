@@ -1,8 +1,8 @@
 {
   "totals": {
-    "generatedAt": "2026-11-13",
+    "generatedAt": "2026-11-14",
     "prsOpened": 571,
-    "prsMerged": 134,
+    "prsMerged": 138,
     "issuesOpened": 99,
     "issuesClosed": 41,
     "organizations": 42,
@@ -714,8 +714,8 @@
       "number": 3180,
       "title": "#2745: Remember failed revival checks for five days",
       "url": "https://github.com/zerocracy/judges-action/pull/3180",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:41:51Z"
     },
@@ -824,8 +824,8 @@
       "number": 3179,
       "title": "#2494: Cover the changed-file count of recovered merged pulls",
       "url": "https://github.com/zerocracy/judges-action/pull/3179",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:53:27Z"
     },
@@ -934,8 +934,8 @@
       "number": 3174,
       "title": "#2492: Cover label event filtering and attachment time",
       "url": "https://github.com/zerocracy/judges-action/pull/3174",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:38:15Z"
     },
@@ -1014,8 +1014,8 @@
       "number": 3173,
       "title": "#2349: pin the reusable workflow example to a release commit",
       "url": "https://github.com/zerocracy/judges-action/pull/3173",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:28:12Z"
     },

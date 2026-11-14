@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-13. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -469,14 +469,14 @@ Generated automatically on 2026-11-13. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#3184](https://github.com/zerocracy/judges-action/pull/3184) | #2732: Cover retirement of missing issues in six judges | open |
 | [#3183](https://github.com/zerocracy/judges-action/pull/3183) | #2483: Cover exhausted quota in cleanup and discovery judges | open |
-| [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | open |
-| [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | open |
+| [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | **merged** |
+| [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | **merged** |
 | [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | open |
 | [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | open |
 | [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | open |
 | [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | open |
-| [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | open |
-| [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | open |
+| [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | **merged** |
+| [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | **merged** |
 | [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
 | [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
 | [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
