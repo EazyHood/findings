@@ -1,8 +1,8 @@
 {
   "totals": {
-    "generatedAt": "2026-11-14",
+    "generatedAt": "2026-11-15",
     "prsOpened": 571,
-    "prsMerged": 138,
+    "prsMerged": 142,
     "issuesOpened": 99,
     "issuesClosed": 43,
     "organizations": 42,
@@ -194,8 +194,8 @@
       "number": 123,
       "title": "Link GraphGenerator in the canonical repository",
       "url": "https://github.com/objectionary/eo-graphs/pull/123",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:19:30Z"
     },
@@ -554,8 +554,8 @@
       "number": 109,
       "title": "Keep the lightest parallel edge in C++ Dijkstra",
       "url": "https://github.com/objectionary/eo-graphs/pull/109",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:53:58Z"
     },
@@ -804,8 +804,8 @@
       "number": 217,
       "title": "Use the requested release date when tagging",
       "url": "https://github.com/objectionary/eolang.sty/pull/217",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:55:53Z"
     },
@@ -1414,8 +1414,8 @@
       "number": 168,
       "title": "#129: package the TypeScript runtime and launch it independently of the working directory",
       "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/168",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:30:40Z"
     },

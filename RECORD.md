@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -491,7 +491,7 @@ Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#124](https://github.com/objectionary/eo-graphs/pull/124) | Preserve zero-weight and lightest parallel edges in C++ Prim | open |
-| [#123](https://github.com/objectionary/eo-graphs/pull/123) | Link GraphGenerator in the canonical repository | open |
+| [#123](https://github.com/objectionary/eo-graphs/pull/123) | Link GraphGenerator in the canonical repository | **merged** |
 | [#122](https://github.com/objectionary/eo-graphs/pull/122) | Report invalid vertex IDs in the Java graph commands | open |
 | [#121](https://github.com/objectionary/eo-graphs/pull/121) | Validate the vertex count before using fixed flow storage | open |
 | [#120](https://github.com/objectionary/eo-graphs/pull/120) | Reject negative edge weights before running Dijkstra | open |
@@ -505,7 +505,7 @@ Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs`
 | [#112](https://github.com/objectionary/eo-graphs/pull/112) | Report an unrepresentable Prim spanning-tree weight | open |
 | [#111](https://github.com/objectionary/eo-graphs/pull/111) | Compare Kruskal edge weights without subtraction overflow | open |
 | [#110](https://github.com/objectionary/eo-graphs/pull/110) | Preserve parallel capacities and large maximum flows | open |
-| [#109](https://github.com/objectionary/eo-graphs/pull/109) | Keep the lightest parallel edge in C++ Dijkstra | open |
+| [#109](https://github.com/objectionary/eo-graphs/pull/109) | Keep the lightest parallel edge in C++ Dijkstra | **merged** |
 
 ## zerocracy/baza.rb
 
@@ -594,7 +594,7 @@ Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs`
 | [#220](https://github.com/objectionary/eolang.sty/pull/220) | Match whitespace after TeX control words | open |
 | [#219](https://github.com/objectionary/eolang.sty/pull/219) | Read generated fragments from literal directory paths | open |
 | [#218](https://github.com/objectionary/eolang.sty/pull/218) | Reject extra positional file paths | open |
-| [#217](https://github.com/objectionary/eolang.sty/pull/217) | Use the requested release date when tagging | open |
+| [#217](https://github.com/objectionary/eolang.sty/pull/217) | Use the requested release date when tagging | **merged** |
 | [#216](https://github.com/objectionary/eolang.sty/pull/216) | Run each CTAN pre-action test once | open |
 | [#215](https://github.com/objectionary/eolang.sty/pull/215) | Fail when the rewritten output cannot be saved | open |
 
@@ -652,7 +652,7 @@ Generated automatically on 2026-11-14. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#168](https://github.com/zerocracy/zerocracy-mcp-server/pull/168) | #129: package the TypeScript runtime and launch it independently of the working directory | open |
+| [#168](https://github.com/zerocracy/zerocracy-mcp-server/pull/168) | #129: package the TypeScript runtime and launch it independently of the working directory | **merged** |
 | [#167](https://github.com/zerocracy/zerocracy-mcp-server/pull/167) | #139: reject empty results in mocked resource-list tests | open |
 | [#166](https://github.com/zerocracy/zerocracy-mcp-server/pull/166) | #132: deduplicate product resources after normalizing names | open |
 | [#165](https://github.com/zerocracy/zerocracy-mcp-server/pull/165) | #130, #152: Bound Baza requests by deadlines and MCP cancellation | open |
