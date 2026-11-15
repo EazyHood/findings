@@ -1,14 +1,44 @@
 {
   "totals": {
     "generatedAt": "2026-11-15",
-    "prsOpened": 571,
-    "prsMerged": 142,
+    "prsOpened": 574,
+    "prsMerged": 144,
     "issuesOpened": 99,
     "issuesClosed": 43,
     "organizations": 42,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5359,
+      "title": "Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5359",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-15T18:46:38Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5351,
+      "title": "feat(validate-csv): check the link format in providers.csv",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5351",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-15T14:46:11Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5350,
+      "title": "feat(validate-csv): require uppercase TRUE/FALSE in boolean columns",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5350",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-15T14:46:03Z"
+    },
     {
       "repo": "yegor256/judges",
       "number": 1300,
@@ -814,8 +844,8 @@
       "number": 216,
       "title": "Run each CTAN pre-action test once",
       "url": "https://github.com/objectionary/eolang.sty/pull/216",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:54:48Z"
     },
@@ -874,8 +904,8 @@
       "number": 215,
       "title": "Fail when the rewritten output cannot be saved",
       "url": "https://github.com/objectionary/eolang.sty/pull/215",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:45:10Z"
     },
@@ -1534,7 +1564,7 @@
       "number": 81,
       "title": "Add server: Chain.Love",
       "url": "https://github.com/VoltAgent/official-mcp-servers/pull/81",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-11-06T18:31:24Z"

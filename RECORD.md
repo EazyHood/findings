@@ -8,6 +8,9 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5359](https://github.com/Chain-Love/chain-love/pull/5359) | Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry | open |
+| [#5351](https://github.com/Chain-Love/chain-love/pull/5351) | feat(validate-csv): check the link format in providers.csv | open |
+| [#5350](https://github.com/Chain-Love/chain-love/pull/5350) | feat(validate-csv): require uppercase TRUE/FALSE in boolean columns | open |
 | [#5286](https://github.com/Chain-Love/chain-love/pull/5286) | Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry | **merged** |
 | [#5273](https://github.com/Chain-Love/chain-love/pull/5273) | data(services): correct AlgoKit LocalNet access to Public | open |
 | [#5146](https://github.com/Chain-Love/chain-love/pull/5146) | Add outreach registry rows for VoltAgent, Sagargupta16, yjjnls and AlexMili | **merged** |
@@ -595,8 +598,8 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 | [#219](https://github.com/objectionary/eolang.sty/pull/219) | Read generated fragments from literal directory paths | open |
 | [#218](https://github.com/objectionary/eolang.sty/pull/218) | Reject extra positional file paths | open |
 | [#217](https://github.com/objectionary/eolang.sty/pull/217) | Use the requested release date when tagging | **merged** |
-| [#216](https://github.com/objectionary/eolang.sty/pull/216) | Run each CTAN pre-action test once | open |
-| [#215](https://github.com/objectionary/eolang.sty/pull/215) | Fail when the rewritten output cannot be saved | open |
+| [#216](https://github.com/objectionary/eolang.sty/pull/216) | Run each CTAN pre-action test once | **merged** |
+| [#215](https://github.com/objectionary/eolang.sty/pull/215) | Fail when the rewritten output cannot be saved | **merged** |
 
 ## zerocracy/pages-action
 
@@ -894,7 +897,7 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#81](https://github.com/VoltAgent/official-mcp-servers/pull/81) | Add server: Chain.Love | open |
+| [#81](https://github.com/VoltAgent/official-mcp-servers/pull/81) | Add server: Chain.Love | closed unmerged |
 
 ## MagneticResonanceImaging/MRIReco.jl
 
