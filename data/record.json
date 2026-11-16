@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-11-16",
     "prsOpened": 577,
-    "prsMerged": 151,
+    "prsMerged": 154,
     "issuesOpened": 99,
     "issuesClosed": 47,
     "organizations": 42,
@@ -144,8 +144,8 @@
       "number": 9928,
       "title": "fix(#8713): remove the unused before-stars transformation",
       "url": "https://github.com/objectionary/eo/pull/9928",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:26:32Z"
     },
@@ -334,8 +334,8 @@
       "number": 9926,
       "title": "fix(#8600): reuse dispatch parsing and argument emission",
       "url": "https://github.com/objectionary/eo/pull/9926",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:16:06Z"
     },
@@ -434,8 +434,8 @@
       "number": 93,
       "title": "Return failure for invalid fast CLI arguments",
       "url": "https://github.com/objectionary/game-of-life/pull/93",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:59:08Z"
     },

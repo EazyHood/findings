@@ -581,9 +581,9 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#9930](https://github.com/objectionary/eo/pull/9930) | fix(#8613): share identifier and fragile-dispatch checks | open |
 | [#9929](https://github.com/objectionary/eo/pull/9929) | fix(#8604): reuse chain emission and suffix marks | open |
-| [#9928](https://github.com/objectionary/eo/pull/9928) | fix(#8713): remove the unused before-stars transformation | open |
+| [#9928](https://github.com/objectionary/eo/pull/9928) | fix(#8713): remove the unused before-stars transformation | **merged** |
 | [#9927](https://github.com/objectionary/eo/pull/9927) | fix(#8579): avoid redundant scans during placement and unplacement | open |
-| [#9926](https://github.com/objectionary/eo/pull/9926) | fix(#8600): reuse dispatch parsing and argument emission | open |
+| [#9926](https://github.com/objectionary/eo/pull/9926) | fix(#8600): reuse dispatch parsing and argument emission | **merged** |
 | [#9925](https://github.com/objectionary/eo/pull/9925) | fix(#9915): reject noninteger tuple indexes before traversal | open |
 | [#9924](https://github.com/objectionary/eo/pull/9924) | fix(#9912): terminate invalid chunk slot operations | open |
 | [#9923](https://github.com/objectionary/eo/pull/9923) | fix(#9914): document the message argument of fallback callbacks | open |
@@ -835,7 +835,7 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#94](https://github.com/objectionary/game-of-life/pull/94) | Accept slow CLI arguments without the optional batch flag | open |
-| [#93](https://github.com/objectionary/game-of-life/pull/93) | Return failure for invalid fast CLI arguments | open |
+| [#93](https://github.com/objectionary/game-of-life/pull/93) | Return failure for invalid fast CLI arguments | **merged** |
 
 ## zerocracy/swarm-template
 
