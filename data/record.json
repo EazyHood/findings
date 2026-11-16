@@ -1,14 +1,44 @@
 {
   "totals": {
-    "generatedAt": "2026-11-15",
-    "prsOpened": 574,
-    "prsMerged": 144,
+    "generatedAt": "2026-11-16",
+    "prsOpened": 577,
+    "prsMerged": 151,
     "issuesOpened": 99,
-    "issuesClosed": 43,
+    "issuesClosed": 47,
     "organizations": 42,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3191,
+      "title": "#2484: Test that find-all-issues, find-earliest-issue and find-latest-issue skip buried issues",
+      "url": "https://github.com/zerocracy/judges-action/pull/3191",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-16T01:12:47Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3190,
+      "title": "#2485: Cover the stale branch path in five judges",
+      "url": "https://github.com/zerocracy/judges-action/pull/3190",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-16T01:12:45Z"
+    },
+    {
+      "repo": "jcabi/jcabi-dynamo",
+      "number": 622,
+      "title": "#614: reject second AwsIterator.remove() until next() succeeds",
+      "url": "https://github.com/jcabi/jcabi-dynamo/pull/622",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-16T01:12:43Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5359,
@@ -344,8 +374,8 @@
       "number": 546,
       "title": "Discard diagnostics computed with superseded settings",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/546",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:59:54Z"
     },
@@ -364,8 +394,8 @@
       "number": 545,
       "title": "Clear diagnostics when a document closes",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/545",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:59:35Z"
     },
@@ -444,8 +474,8 @@
       "number": 542,
       "title": "Negotiate semantic token registration with client capabilities",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/542",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:58:32Z"
     },
@@ -464,8 +494,8 @@
       "number": 541,
       "title": "Extract symbol names from their declaration tokens",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/541",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:58:03Z"
     },
@@ -474,8 +504,8 @@
       "number": 540,
       "title": "Keep descendants of nested document symbols",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/540",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:56:58Z"
     },
@@ -514,8 +544,8 @@
       "number": 538,
       "title": "Fall back to the default for invalid diagnostic limits",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/538",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:55:53Z"
     },
@@ -534,8 +564,8 @@
       "number": 537,
       "title": "Retry grammar token loading after a failed read",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/537",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:55:03Z"
     },
@@ -2234,7 +2264,7 @@
       "number": 510,
       "title": "A delayed configuration response overwrites diagnostics computed with newer settings",
       "url": "https://github.com/objectionary/eo-lsp-server/issues/510",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T18:32:08Z"
@@ -2264,7 +2294,7 @@
       "number": 557,
       "title": "Equal XMLDocument instances have different hash codes and become duplicate HashSet entries",
       "url": "https://github.com/jcabi/jcabi-xml/issues/557",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T18:31:58Z"
@@ -2274,7 +2304,7 @@
       "number": 509,
       "title": "Document symbol names come from string contents and truncate valid Unicode identifiers",
       "url": "https://github.com/objectionary/eo-lsp-server/issues/509",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T18:31:41Z"
@@ -2364,7 +2394,7 @@
       "number": 508,
       "title": "Document symbols omit every descendant below a nested object",
       "url": "https://github.com/objectionary/eo-lsp-server/issues/508",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T16:23:09Z"

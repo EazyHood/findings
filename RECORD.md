@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -417,6 +417,31 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 | [#1965](https://github.com/yegor256/factbase/pull/1965) | #894: document how to read YAML timestamps safely | open |
 | [#1667](https://github.com/yegor256/factbase/pull/1667) | #1647: validate imported fact properties before appending | open |
 
+## zerocracy/judges-action
+
+| | Title | State |
+| --- | --- | --- |
+| [#3191](https://github.com/zerocracy/judges-action/pull/3191) | #2484: Test that find-all-issues, find-earliest-issue and find-latest-issue skip buried issues | open |
+| [#3190](https://github.com/zerocracy/judges-action/pull/3190) | #2485: Cover the stale branch path in five judges | open |
+| [#3184](https://github.com/zerocracy/judges-action/pull/3184) | #2732: Cover retirement of missing issues in six judges | open |
+| [#3183](https://github.com/zerocracy/judges-action/pull/3183) | #2483: Cover exhausted quota in cleanup and discovery judges | open |
+| [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | **merged** |
+| [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | **merged** |
+| [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | open |
+| [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | open |
+| [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | open |
+| [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | open |
+| [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | **merged** |
+| [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | **merged** |
+| [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
+| [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
+| [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
+| [#3135](https://github.com/zerocracy/judges-action/pull/3135) | #2852: verify the identity returned for a missing issue | open |
+| [#3134](https://github.com/zerocracy/judges-action/pull/3134) | #2934: verify processed pulls do not trigger another lookup | open |
+| [#3133](https://github.com/zerocracy/judges-action/pull/3133) | #2923: exercise the token trace in the masking regression | open |
+| [#3132](https://github.com/zerocracy/judges-action/pull/3132) | #3080: order parallel Make consumers before cleanup | open |
+| [#3130](https://github.com/zerocracy/judges-action/pull/3130) | Populate the default project name for valve operations | open |
+
 ## Hazyshades/Sendly-Test-Repo
 
 | | Title | State |
@@ -451,43 +476,20 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 | [#549](https://github.com/objectionary/eo-lsp-server/pull/549) | Accept one trailing blank line after the top-level object | open |
 | [#548](https://github.com/objectionary/eo-lsp-server/pull/548) | Read CRLF source lines without including the terminator | open |
 | [#547](https://github.com/objectionary/eo-lsp-server/pull/547) | Emit the final source token once when no newline follows | open |
-| [#546](https://github.com/objectionary/eo-lsp-server/pull/546) | Discard diagnostics computed with superseded settings | open |
-| [#545](https://github.com/objectionary/eo-lsp-server/pull/545) | Clear diagnostics when a document closes | open |
+| [#546](https://github.com/objectionary/eo-lsp-server/pull/546) | Discard diagnostics computed with superseded settings | **merged** |
+| [#545](https://github.com/objectionary/eo-lsp-server/pull/545) | Clear diagnostics when a document closes | **merged** |
 | [#544](https://github.com/objectionary/eo-lsp-server/pull/544) | Recover diagnostics after a configuration request fails | open |
 | [#543](https://github.com/objectionary/eo-lsp-server/pull/543) | Map the current PHI token for semantic highlighting | open |
-| [#542](https://github.com/objectionary/eo-lsp-server/pull/542) | Negotiate semantic token registration with client capabilities | open |
-| [#541](https://github.com/objectionary/eo-lsp-server/pull/541) | Extract symbol names from their declaration tokens | open |
-| [#540](https://github.com/objectionary/eo-lsp-server/pull/540) | Keep descendants of nested document symbols | open |
+| [#542](https://github.com/objectionary/eo-lsp-server/pull/542) | Negotiate semantic token registration with client capabilities | **merged** |
+| [#541](https://github.com/objectionary/eo-lsp-server/pull/541) | Extract symbol names from their declaration tokens | **merged** |
+| [#540](https://github.com/objectionary/eo-lsp-server/pull/540) | Keep descendants of nested document symbols | **merged** |
 | [#539](https://github.com/objectionary/eo-lsp-server/pull/539) | Publish lexer recognition errors as diagnostics | open |
-| [#538](https://github.com/objectionary/eo-lsp-server/pull/538) | Fall back to the default for invalid diagnostic limits | open |
-| [#537](https://github.com/objectionary/eo-lsp-server/pull/537) | Retry grammar token loading after a failed read | open |
-| [#510](https://github.com/objectionary/eo-lsp-server/issues/510) | A delayed configuration response overwrites diagnostics computed with newer settings | open |
-| [#509](https://github.com/objectionary/eo-lsp-server/issues/509) | Document symbol names come from string contents and truncate valid Unicode identifiers | open |
-| [#508](https://github.com/objectionary/eo-lsp-server/issues/508) | Document symbols omit every descendant below a nested object | open |
+| [#538](https://github.com/objectionary/eo-lsp-server/pull/538) | Fall back to the default for invalid diagnostic limits | **merged** |
+| [#537](https://github.com/objectionary/eo-lsp-server/pull/537) | Retry grammar token loading after a failed read | **merged** |
+| [#510](https://github.com/objectionary/eo-lsp-server/issues/510) | A delayed configuration response overwrites diagnostics computed with newer settings | closed |
+| [#509](https://github.com/objectionary/eo-lsp-server/issues/509) | Document symbol names come from string contents and truncate valid Unicode identifiers | closed |
+| [#508](https://github.com/objectionary/eo-lsp-server/issues/508) | Document symbols omit every descendant below a nested object | closed |
 | [#507](https://github.com/objectionary/eo-lsp-server/issues/507) | Lexer recognition errors are discarded before diagnostics are published | open |
-
-## zerocracy/judges-action
-
-| | Title | State |
-| --- | --- | --- |
-| [#3184](https://github.com/zerocracy/judges-action/pull/3184) | #2732: Cover retirement of missing issues in six judges | open |
-| [#3183](https://github.com/zerocracy/judges-action/pull/3183) | #2483: Cover exhausted quota in cleanup and discovery judges | open |
-| [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | **merged** |
-| [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | **merged** |
-| [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | open |
-| [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | open |
-| [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | open |
-| [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | open |
-| [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | **merged** |
-| [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | **merged** |
-| [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
-| [#3137](https://github.com/zerocracy/judges-action/pull/3137) | #2860: retry incomplete QoS metrics after forbidden lookups | open |
-| [#3136](https://github.com/zerocracy/judges-action/pull/3136) | #2853: treat the shared ghost account as a missing author | open |
-| [#3135](https://github.com/zerocracy/judges-action/pull/3135) | #2852: verify the identity returned for a missing issue | open |
-| [#3134](https://github.com/zerocracy/judges-action/pull/3134) | #2934: verify processed pulls do not trigger another lookup | open |
-| [#3133](https://github.com/zerocracy/judges-action/pull/3133) | #2923: exercise the token trace in the masking regression | open |
-| [#3132](https://github.com/zerocracy/judges-action/pull/3132) | #3080: order parallel Make consumers before cleanup | open |
-| [#3130](https://github.com/zerocracy/judges-action/pull/3130) | Populate the default project name for valve operations | open |
 
 ## objectionary/eo-graphs
 
@@ -625,7 +627,7 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 | [#560](https://github.com/jcabi/jcabi-xml/pull/560) | Preserve terminating XSL message text in transformation exceptions | **merged** |
 | [#559](https://github.com/jcabi/jcabi-xml/issues/559) | registerNs discards previously merged namespace contexts | closed |
 | [#558](https://github.com/jcabi/jcabi-xml/issues/558) | XPath result subList rejects the valid exclusive upper bound size() | closed |
-| [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | open |
+| [#557](https://github.com/jcabi/jcabi-xml/issues/557) | Equal XMLDocument instances have different hash codes and become duplicate HashSet entries | closed |
 
 ## objectionary/eoc
 
@@ -807,6 +809,13 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 | [#16](https://github.com/Paritok-official/paritok-4b-v1/issues/16) | [hackathon-feedback] Three findings from auditing 1.2.8 on real agent traffic (one already fixed in #15) | closed |
 | [#15](https://github.com/Paritok-official/paritok-4b-v1/pull/15) | fix(chunking): split a single line larger than CHUNK_SIZE (fixes HTTP 400 on one-line inputs) | **merged** |
 
+## jcabi/jcabi-dynamo
+
+| | Title | State |
+| --- | --- | --- |
+| [#622](https://github.com/jcabi/jcabi-dynamo/pull/622) | #614: reject second AwsIterator.remove() until next() succeeds | open |
+| [#589](https://github.com/jcabi/jcabi-dynamo/pull/589) | #519: count all pages in queries and scans | **merged** |
+
 ## objectionary/jucs
 
 | | Title | State |
@@ -922,12 +931,6 @@ Generated automatically on 2026-11-15. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#640](https://github.com/jcabi/jcabi-http/pull/640) | Preserve multipart filenames and unblock dependency checks on fork PRs | open |
-
-## jcabi/jcabi-dynamo
-
-| | Title | State |
-| --- | --- | --- |
-| [#589](https://github.com/jcabi/jcabi-dynamo/pull/589) | #519: count all pages in queries and scans | **merged** |
 
 ## Budibase/budibase
 
