@@ -2,12 +2,13 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5402](https://github.com/Chain-Love/chain-love/pull/5402) | Add outreach registry rows for public-apis and marcelscruz | open |
 | [#5359](https://github.com/Chain-Love/chain-love/pull/5359) | Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry | open |
 | [#5351](https://github.com/Chain-Love/chain-love/pull/5351) | feat(validate-csv): check the link format in providers.csv | open |
 | [#5350](https://github.com/Chain-Love/chain-love/pull/5350) | feat(validate-csv): require uppercase TRUE/FALSE in boolean columns | open |
@@ -397,7 +398,7 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 | [#2044](https://github.com/yegor256/factbase/pull/2044) | #1356: show effective fact values in rule failure diagnostics | open |
 | [#2043](https://github.com/yegor256/factbase/pull/2043) | #1350: log failed transactions and queries while preserving their exceptions | open |
 | [#2042](https://github.com/yegor256/factbase/pull/2042) | Check parser diagnostics for empty and non-term queries | open |
-| [#2041](https://github.com/yegor256/factbase/pull/2041) | Test cache invalidation after inserting an empty fact | open |
+| [#2041](https://github.com/yegor256/factbase/pull/2041) | Test cache invalidation after inserting an empty fact | **merged** |
 | [#2040](https://github.com/yegor256/factbase/pull/2040) | Keep transaction decorators covered through their public entry points | open |
 | [#2039](https://github.com/yegor256/factbase/pull/2039) | Test computed operands in inclusive range indexes | open |
 | [#2038](https://github.com/yegor256/factbase/pull/2038) | Exercise the closing anchor after a negated Unicode property | open |
@@ -411,10 +412,10 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 | [#2030](https://github.com/yegor256/factbase/pull/2030) | Document query literals and executable parameter examples | open |
 | [#2029](https://github.com/yegor256/factbase/pull/2029) | Show query parameters in single-result logs | open |
 | [#1969](https://github.com/yegor256/factbase/pull/1969) | #1947: skip incompatible encodings while comparing remaining values | open |
-| [#1968](https://github.com/yegor256/factbase/pull/1968) | #1943: detach query text from the memoized cache identity | open |
-| [#1967](https://github.com/yegor256/factbase/pull/1967) | Publish benchmark results only from the canonical repository | open |
-| [#1966](https://github.com/yegor256/factbase/issues/1966) | Benchmark workflow tries to publish maintenance pull requests from contributor forks | open |
-| [#1965](https://github.com/yegor256/factbase/pull/1965) | #894: document how to read YAML timestamps safely | open |
+| [#1968](https://github.com/yegor256/factbase/pull/1968) | #1943: detach query text from the memoized cache identity | **merged** |
+| [#1967](https://github.com/yegor256/factbase/pull/1967) | Publish benchmark results only from the canonical repository | **merged** |
+| [#1966](https://github.com/yegor256/factbase/issues/1966) | Benchmark workflow tries to publish maintenance pull requests from contributor forks | closed |
+| [#1965](https://github.com/yegor256/factbase/pull/1965) | #894: document how to read YAML timestamps safely | **merged** |
 | [#1667](https://github.com/yegor256/factbase/pull/1667) | #1647: validate imported fact properties before appending | open |
 
 ## zerocracy/judges-action
@@ -471,7 +472,7 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#551](https://github.com/objectionary/eo-lsp-server/pull/551) | Track text blocks even when the opener indentation is invalid | open |
+| [#551](https://github.com/objectionary/eo-lsp-server/pull/551) | Track text blocks even when the opener indentation is invalid | **merged** |
 | [#550](https://github.com/objectionary/eo-lsp-server/pull/550) | Report trailing whitespace in source and text-block lines | open |
 | [#549](https://github.com/objectionary/eo-lsp-server/pull/549) | Accept one trailing blank line after the top-level object | open |
 | [#548](https://github.com/objectionary/eo-lsp-server/pull/548) | Read CRLF source lines without including the terminator | open |
@@ -594,11 +595,11 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#223](https://github.com/objectionary/eolang.sty/pull/223) | Preserve literal TeX examples when replacing formulas | open |
-| [#222](https://github.com/objectionary/eolang.sty/pull/222) | Load generated fragments from percent-containing paths | open |
+| [#222](https://github.com/objectionary/eolang.sty/pull/222) | Load generated fragments from percent-containing paths | **merged** |
 | [#221](https://github.com/objectionary/eolang.sty/pull/221) | Recognize CRLF equation environments and closing tags at EOF | open |
-| [#220](https://github.com/objectionary/eolang.sty/pull/220) | Match whitespace after TeX control words | open |
-| [#219](https://github.com/objectionary/eolang.sty/pull/219) | Read generated fragments from literal directory paths | open |
-| [#218](https://github.com/objectionary/eolang.sty/pull/218) | Reject extra positional file paths | open |
+| [#220](https://github.com/objectionary/eolang.sty/pull/220) | Match whitespace after TeX control words | **merged** |
+| [#219](https://github.com/objectionary/eolang.sty/pull/219) | Read generated fragments from literal directory paths | **merged** |
+| [#218](https://github.com/objectionary/eolang.sty/pull/218) | Reject extra positional file paths | **merged** |
 | [#217](https://github.com/objectionary/eolang.sty/pull/217) | Use the requested release date when tagging | **merged** |
 | [#216](https://github.com/objectionary/eolang.sty/pull/216) | Run each CTAN pre-action test once | **merged** |
 | [#215](https://github.com/objectionary/eolang.sty/pull/215) | Fail when the rewritten output cannot be saved | **merged** |
@@ -820,8 +821,8 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#168](https://github.com/objectionary/jucs/pull/168) | #89: Report fixture expectations in the correct assertion order | open |
-| [#167](https://github.com/objectionary/jucs/pull/167) | #142: Traverse directories before applying resource globs | open |
+| [#168](https://github.com/objectionary/jucs/pull/168) | #89: Report fixture expectations in the correct assertion order | **merged** |
+| [#167](https://github.com/objectionary/jucs/pull/167) | #142: Traverse directories before applying resource globs | **merged** |
 
 ## objectionary/wpa
 
@@ -871,6 +872,18 @@ Generated automatically on 2026-11-16. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## marcelscruz/dev-resources
+
+| | Title | State |
+| --- | --- | --- |
+| [#1568](https://github.com/marcelscruz/dev-resources/pull/1568) | Add Chain.Love | **merged** |
+
+## public-apis/public-apis
+
+| | Title | State |
+| --- | --- | --- |
+| [#9151](https://github.com/public-apis/public-apis/pull/9151) | Add Chain.Love MCP server | open |
 
 ## yegor256/judges
 

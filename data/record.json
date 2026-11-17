@@ -1,14 +1,44 @@
 {
   "totals": {
-    "generatedAt": "2026-11-16",
-    "prsOpened": 577,
-    "prsMerged": 154,
+    "generatedAt": "2026-11-17",
+    "prsOpened": 580,
+    "prsMerged": 166,
     "issuesOpened": 99,
-    "issuesClosed": 47,
-    "organizations": 42,
+    "issuesClosed": 48,
+    "organizations": 44,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5402,
+      "title": "Add outreach registry rows for public-apis and marcelscruz",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5402",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-16T23:48:35Z"
+    },
+    {
+      "repo": "marcelscruz/dev-resources",
+      "number": 1568,
+      "title": "Add Chain.Love",
+      "url": "https://github.com/marcelscruz/dev-resources/pull/1568",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-11-16T23:44:30Z"
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "number": 9151,
+      "title": "Add Chain.Love MCP server",
+      "url": "https://github.com/public-apis/public-apis/pull/9151",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-16T23:44:01Z"
+    },
     {
       "repo": "zerocracy/judges-action",
       "number": 3191,
@@ -174,8 +204,8 @@
       "number": 551,
       "title": "Track text blocks even when the opener indentation is invalid",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/551",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:22:54Z"
     },
@@ -224,8 +254,8 @@
       "number": 168,
       "title": "#89: Report fixture expectations in the correct assertion order",
       "url": "https://github.com/objectionary/jucs/pull/168",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:21:29Z"
     },
@@ -344,8 +374,8 @@
       "number": 167,
       "title": "#142: Traverse directories before applying resource globs",
       "url": "https://github.com/objectionary/jucs/pull/167",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:15:45Z"
     },
@@ -644,8 +674,8 @@
       "number": 222,
       "title": "Load generated fragments from percent-containing paths",
       "url": "https://github.com/objectionary/eolang.sty/pull/222",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:49:45Z"
     },
@@ -744,8 +774,8 @@
       "number": 2041,
       "title": "Test cache invalidation after inserting an empty fact",
       "url": "https://github.com/yegor256/factbase/pull/2041",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:42:20Z"
     },
@@ -814,8 +844,8 @@
       "number": 220,
       "title": "Match whitespace after TeX control words",
       "url": "https://github.com/objectionary/eolang.sty/pull/220",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:41:05Z"
     },
@@ -834,8 +864,8 @@
       "number": 219,
       "title": "Read generated fragments from literal directory paths",
       "url": "https://github.com/objectionary/eolang.sty/pull/219",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:57:12Z"
     },
@@ -854,8 +884,8 @@
       "number": 218,
       "title": "Reject extra positional file paths",
       "url": "https://github.com/objectionary/eolang.sty/pull/218",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:56:31Z"
     },
@@ -1204,8 +1234,8 @@
       "number": 1968,
       "title": "#1943: detach query text from the memoized cache identity",
       "url": "https://github.com/yegor256/factbase/pull/1968",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T04:00:55Z"
     },
@@ -1214,8 +1244,8 @@
       "number": 1967,
       "title": "Publish benchmark results only from the canonical repository",
       "url": "https://github.com/yegor256/factbase/pull/1967",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:55:47Z"
     },
@@ -1224,7 +1254,7 @@
       "number": 1966,
       "title": "Benchmark workflow tries to publish maintenance pull requests from contributor forks",
       "url": "https://github.com/yegor256/factbase/issues/1966",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-11-07T03:55:19Z"
@@ -1314,8 +1344,8 @@
       "number": 1965,
       "title": "#894: document how to read YAML timestamps safely",
       "url": "https://github.com/yegor256/factbase/pull/1965",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:34:54Z"
     },
