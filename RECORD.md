@@ -411,7 +411,7 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 | [#2031](https://github.com/yegor256/factbase/pull/2031) | Check reserved property names without enumerating methods | open |
 | [#2030](https://github.com/yegor256/factbase/pull/2030) | Document query literals and executable parameter examples | open |
 | [#2029](https://github.com/yegor256/factbase/pull/2029) | Show query parameters in single-result logs | open |
-| [#1969](https://github.com/yegor256/factbase/pull/1969) | #1947: skip incompatible encodings while comparing remaining values | open |
+| [#1969](https://github.com/yegor256/factbase/pull/1969) | #1947: skip incompatible encodings while comparing remaining values | **merged** |
 | [#1968](https://github.com/yegor256/factbase/pull/1968) | #1943: detach query text from the memoized cache identity | **merged** |
 | [#1967](https://github.com/yegor256/factbase/pull/1967) | Publish benchmark results only from the canonical repository | **merged** |
 | [#1966](https://github.com/yegor256/factbase/issues/1966) | Benchmark workflow tries to publish maintenance pull requests from contributor forks | closed |
@@ -476,21 +476,21 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 | [#550](https://github.com/objectionary/eo-lsp-server/pull/550) | Report trailing whitespace in source and text-block lines | open |
 | [#549](https://github.com/objectionary/eo-lsp-server/pull/549) | Accept one trailing blank line after the top-level object | open |
 | [#548](https://github.com/objectionary/eo-lsp-server/pull/548) | Read CRLF source lines without including the terminator | open |
-| [#547](https://github.com/objectionary/eo-lsp-server/pull/547) | Emit the final source token once when no newline follows | open |
+| [#547](https://github.com/objectionary/eo-lsp-server/pull/547) | Emit the final source token once when no newline follows | **merged** |
 | [#546](https://github.com/objectionary/eo-lsp-server/pull/546) | Discard diagnostics computed with superseded settings | **merged** |
 | [#545](https://github.com/objectionary/eo-lsp-server/pull/545) | Clear diagnostics when a document closes | **merged** |
-| [#544](https://github.com/objectionary/eo-lsp-server/pull/544) | Recover diagnostics after a configuration request fails | open |
-| [#543](https://github.com/objectionary/eo-lsp-server/pull/543) | Map the current PHI token for semantic highlighting | open |
+| [#544](https://github.com/objectionary/eo-lsp-server/pull/544) | Recover diagnostics after a configuration request fails | **merged** |
+| [#543](https://github.com/objectionary/eo-lsp-server/pull/543) | Map the current PHI token for semantic highlighting | **merged** |
 | [#542](https://github.com/objectionary/eo-lsp-server/pull/542) | Negotiate semantic token registration with client capabilities | **merged** |
 | [#541](https://github.com/objectionary/eo-lsp-server/pull/541) | Extract symbol names from their declaration tokens | **merged** |
 | [#540](https://github.com/objectionary/eo-lsp-server/pull/540) | Keep descendants of nested document symbols | **merged** |
-| [#539](https://github.com/objectionary/eo-lsp-server/pull/539) | Publish lexer recognition errors as diagnostics | open |
+| [#539](https://github.com/objectionary/eo-lsp-server/pull/539) | Publish lexer recognition errors as diagnostics | **merged** |
 | [#538](https://github.com/objectionary/eo-lsp-server/pull/538) | Fall back to the default for invalid diagnostic limits | **merged** |
 | [#537](https://github.com/objectionary/eo-lsp-server/pull/537) | Retry grammar token loading after a failed read | **merged** |
 | [#510](https://github.com/objectionary/eo-lsp-server/issues/510) | A delayed configuration response overwrites diagnostics computed with newer settings | closed |
 | [#509](https://github.com/objectionary/eo-lsp-server/issues/509) | Document symbol names come from string contents and truncate valid Unicode identifiers | closed |
 | [#508](https://github.com/objectionary/eo-lsp-server/issues/508) | Document symbols omit every descendant below a nested object | closed |
-| [#507](https://github.com/objectionary/eo-lsp-server/issues/507) | Lexer recognition errors are discarded before diagnostics are published | open |
+| [#507](https://github.com/objectionary/eo-lsp-server/issues/507) | Lexer recognition errors are discarded before diagnostics are published | closed |
 
 ## objectionary/eo-graphs
 
@@ -506,7 +506,7 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 | [#117](https://github.com/objectionary/eo-graphs/pull/117) | Normalize sparse vertex labels in Java spanning trees | open |
 | [#116](https://github.com/objectionary/eo-graphs/pull/116) | Normalize sparse vertex labels in C++ spanning trees | open |
 | [#115](https://github.com/objectionary/eo-graphs/pull/115) | Save algorithm output from every run fixture | open |
-| [#114](https://github.com/objectionary/eo-graphs/pull/114) | Build Java classes at their declared Makefile targets | open |
+| [#114](https://github.com/objectionary/eo-graphs/pull/114) | Build Java classes at their declared Makefile targets | **merged** |
 | [#113](https://github.com/objectionary/eo-graphs/pull/113) | Reject invalid GraphGenerator command-line arguments | open |
 | [#112](https://github.com/objectionary/eo-graphs/pull/112) | Report an unrepresentable Prim spanning-tree weight | open |
 | [#111](https://github.com/objectionary/eo-graphs/pull/111) | Compare Kruskal edge weights without subtraction overflow | open |
@@ -580,21 +580,21 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#9930](https://github.com/objectionary/eo/pull/9930) | fix(#8613): share identifier and fragile-dispatch checks | open |
-| [#9929](https://github.com/objectionary/eo/pull/9929) | fix(#8604): reuse chain emission and suffix marks | open |
+| [#9930](https://github.com/objectionary/eo/pull/9930) | fix(#8613): share identifier and fragile-dispatch checks | **merged** |
+| [#9929](https://github.com/objectionary/eo/pull/9929) | fix(#8604): reuse chain emission and suffix marks | **merged** |
 | [#9928](https://github.com/objectionary/eo/pull/9928) | fix(#8713): remove the unused before-stars transformation | **merged** |
 | [#9927](https://github.com/objectionary/eo/pull/9927) | fix(#8579): avoid redundant scans during placement and unplacement | open |
 | [#9926](https://github.com/objectionary/eo/pull/9926) | fix(#8600): reuse dispatch parsing and argument emission | **merged** |
-| [#9925](https://github.com/objectionary/eo/pull/9925) | fix(#9915): reject noninteger tuple indexes before traversal | open |
-| [#9924](https://github.com/objectionary/eo/pull/9924) | fix(#9912): terminate invalid chunk slot operations | open |
-| [#9923](https://github.com/objectionary/eo/pull/9923) | fix(#9914): document the message argument of fallback callbacks | open |
+| [#9925](https://github.com/objectionary/eo/pull/9925) | fix(#9915): reject noninteger tuple indexes before traversal | **merged** |
+| [#9924](https://github.com/objectionary/eo/pull/9924) | fix(#9912): terminate invalid chunk slot operations | **merged** |
+| [#9923](https://github.com/objectionary/eo/pull/9923) | fix(#9914): document the message argument of fallback callbacks | **merged** |
 | [#9922](https://github.com/objectionary/eo/pull/9922) | fix(#9913): preserve exact dividends in zero-division diagnostics | open |
 
 ## objectionary/eolang.sty
 
 | | Title | State |
 | --- | --- | --- |
-| [#223](https://github.com/objectionary/eolang.sty/pull/223) | Preserve literal TeX examples when replacing formulas | open |
+| [#223](https://github.com/objectionary/eolang.sty/pull/223) | Preserve literal TeX examples when replacing formulas | **merged** |
 | [#222](https://github.com/objectionary/eolang.sty/pull/222) | Load generated fragments from percent-containing paths | **merged** |
 | [#221](https://github.com/objectionary/eolang.sty/pull/221) | Recognize CRLF equation environments and closing tags at EOF | open |
 | [#220](https://github.com/objectionary/eolang.sty/pull/220) | Match whitespace after TeX control words | **merged** |
@@ -693,9 +693,9 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#276](https://github.com/objectionary/xax/pull/276) | #217: Evaluate false skip flags normally | open |
 | [#275](https://github.com/objectionary/xax/pull/275) | #216: Evaluate the decorated story output | open |
-| [#274](https://github.com/objectionary/xax/pull/274) | #245: Reject stories without XPath assertions | open |
-| [#273](https://github.com/objectionary/xax/pull/273) | #224: Handle fresh descriptions and incompatible matcher values | open |
-| [#272](https://github.com/objectionary/xax/pull/272) | #215: Interpret stylesheet locations as file URIs | open |
+| [#274](https://github.com/objectionary/xax/pull/274) | #245: Reject stories without XPath assertions | **merged** |
+| [#273](https://github.com/objectionary/xax/pull/273) | #224: Handle fresh descriptions and incompatible matcher values | **merged** |
+| [#272](https://github.com/objectionary/xax/pull/272) | #215: Interpret stylesheet locations as file URIs | **merged** |
 
 ## jcabi/jcabi-urn
 
@@ -835,7 +835,7 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#94](https://github.com/objectionary/game-of-life/pull/94) | Accept slow CLI arguments without the optional batch flag | open |
+| [#94](https://github.com/objectionary/game-of-life/pull/94) | Accept slow CLI arguments without the optional batch flag | **merged** |
 | [#93](https://github.com/objectionary/game-of-life/pull/93) | Return failure for invalid fast CLI arguments | **merged** |
 
 ## zerocracy/swarm-template
@@ -895,7 +895,7 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#469](https://github.com/objectionary/home/pull/469) | Use correct runtime versions when selecting library releases | open |
+| [#469](https://github.com/objectionary/home/pull/469) | Use correct runtime versions when selecting library releases | **merged** |
 
 ## AlexMili/Awesome-MCP
 
@@ -1051,5 +1051,5 @@ Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#1599](https://github.com/worknenjoy/gitpay/issues/1599) | [Bug]: Organization task sorting is ignored before pagination | open |
+| [#1599](https://github.com/worknenjoy/gitpay/issues/1599) | [Bug]: Organization task sorting is ignored before pagination | closed |
 
