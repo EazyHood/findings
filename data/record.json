@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-11-17",
-    "prsOpened": 580,
+    "generatedAt": "2026-11-18",
+    "prsOpened": 582,
     "prsMerged": 183,
     "issuesOpened": 99,
     "issuesClosed": 50,
@@ -9,6 +9,26 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5420,
+      "title": "data(security): add Quantstamp Penetration Testing for all-networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5420",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T00:50:03Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5419,
+      "title": "data(services): add Fireblocks Wallets-as-a-Service for Algorand",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5419",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-17T21:28:48Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5402,

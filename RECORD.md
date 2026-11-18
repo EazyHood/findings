@@ -2,12 +2,14 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-17. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5420](https://github.com/Chain-Love/chain-love/pull/5420) | data(security): add Quantstamp Penetration Testing for all-networks | open |
+| [#5419](https://github.com/Chain-Love/chain-love/pull/5419) | data(services): add Fireblocks Wallets-as-a-Service for Algorand | open |
 | [#5402](https://github.com/Chain-Love/chain-love/pull/5402) | Add outreach registry rows for public-apis and marcelscruz | open |
 | [#5359](https://github.com/Chain-Love/chain-love/pull/5359) | Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry | open |
 | [#5351](https://github.com/Chain-Love/chain-love/pull/5351) | feat(validate-csv): check the link format in providers.csv | open |
