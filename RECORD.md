@@ -8,6 +8,10 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5426](https://github.com/Chain-Love/chain-love/pull/5426) | data(providers): clear dead Discord invites for Fireblocks and Rainbow | open |
+| [#5425](https://github.com/Chain-Love/chain-love/pull/5425) | data(bsc): remove duplicate Binance Wallet listing | open |
+| [#5423](https://github.com/Chain-Love/chain-love/pull/5423) | data(ramps): point Alix Pay docs at its public developer portal | open |
+| [#5422](https://github.com/Chain-Love/chain-love/pull/5422) | data(security): add Contact Sales to Dedaub Security Suite Team and Enterprise | open |
 | [#5420](https://github.com/Chain-Love/chain-love/pull/5420) | data(security): add Quantstamp Penetration Testing for all-networks | open |
 | [#5419](https://github.com/Chain-Love/chain-love/pull/5419) | data(services): add Fireblocks Wallets-as-a-Service for Algorand | open |
 | [#5402](https://github.com/Chain-Love/chain-love/pull/5402) | Add outreach registry rows for public-apis and marcelscruz | open |
@@ -124,7 +128,7 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 | [#4285](https://github.com/Chain-Love/chain-love/pull/4285) | data(sdks): add official Hardhat plugins documented for Somnia and Filecoin | open |
 | [#4284](https://github.com/Chain-Love/chain-love/pull/4284) | data(security): add Composable Security audit, threat modeling and consultation services to all-networks | open |
 | [#4283](https://github.com/Chain-Love/chain-love/pull/4283) | data(security): add Softstack audit, pentest and compliance security services to all-networks | open |
-| [#4282](https://github.com/Chain-Love/chain-love/pull/4282) | data(security): add iosiro smart contract audits, penetration testing and threat modeling | open |
+| [#4282](https://github.com/Chain-Love/chain-love/pull/4282) | data(security): add iosiro smart contract audits, penetration testing and threat modeling | **merged** |
 | [#4281](https://github.com/Chain-Love/chain-love/pull/4281) | data(security): add Neodyme smart contract and core blockchain audits, protocol design reviews and blockchain training | open |
 | [#4280](https://github.com/Chain-Love/chain-love/pull/4280) | data(security): add Shieldify security review and audit subscription | open |
 | [#4279](https://github.com/Chain-Love/chain-love/pull/4279) | data(security): add Olympix static analyzer, test generation, BugScout and BugPoCer | open |
@@ -475,9 +479,9 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 | | Title | State |
 | --- | --- | --- |
 | [#551](https://github.com/objectionary/eo-lsp-server/pull/551) | Track text blocks even when the opener indentation is invalid | **merged** |
-| [#550](https://github.com/objectionary/eo-lsp-server/pull/550) | Report trailing whitespace in source and text-block lines | open |
-| [#549](https://github.com/objectionary/eo-lsp-server/pull/549) | Accept one trailing blank line after the top-level object | open |
-| [#548](https://github.com/objectionary/eo-lsp-server/pull/548) | Read CRLF source lines without including the terminator | open |
+| [#550](https://github.com/objectionary/eo-lsp-server/pull/550) | Report trailing whitespace in source and text-block lines | **merged** |
+| [#549](https://github.com/objectionary/eo-lsp-server/pull/549) | Accept one trailing blank line after the top-level object | **merged** |
+| [#548](https://github.com/objectionary/eo-lsp-server/pull/548) | Read CRLF source lines without including the terminator | **merged** |
 | [#547](https://github.com/objectionary/eo-lsp-server/pull/547) | Emit the final source token once when no newline follows | **merged** |
 | [#546](https://github.com/objectionary/eo-lsp-server/pull/546) | Discard diagnostics computed with superseded settings | **merged** |
 | [#545](https://github.com/objectionary/eo-lsp-server/pull/545) | Clear diagnostics when a document closes | **merged** |
@@ -498,10 +502,10 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#124](https://github.com/objectionary/eo-graphs/pull/124) | Preserve zero-weight and lightest parallel edges in C++ Prim | open |
+| [#124](https://github.com/objectionary/eo-graphs/pull/124) | Preserve zero-weight and lightest parallel edges in C++ Prim | **merged** |
 | [#123](https://github.com/objectionary/eo-graphs/pull/123) | Link GraphGenerator in the canonical repository | **merged** |
 | [#122](https://github.com/objectionary/eo-graphs/pull/122) | Report invalid vertex IDs in the Java graph commands | open |
-| [#121](https://github.com/objectionary/eo-graphs/pull/121) | Validate the vertex count before using fixed flow storage | open |
+| [#121](https://github.com/objectionary/eo-graphs/pull/121) | Validate the vertex count before using fixed flow storage | **merged** |
 | [#120](https://github.com/objectionary/eo-graphs/pull/120) | Reject negative edge weights before running Dijkstra | open |
 | [#119](https://github.com/objectionary/eo-graphs/pull/119) | Reject disconnected graphs in Java PrimMST | open |
 | [#118](https://github.com/objectionary/eo-graphs/pull/118) | Keep Dijkstra distances in a wide integer type | open |
@@ -598,7 +602,7 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#223](https://github.com/objectionary/eolang.sty/pull/223) | Preserve literal TeX examples when replacing formulas | **merged** |
 | [#222](https://github.com/objectionary/eolang.sty/pull/222) | Load generated fragments from percent-containing paths | **merged** |
-| [#221](https://github.com/objectionary/eolang.sty/pull/221) | Recognize CRLF equation environments and closing tags at EOF | open |
+| [#221](https://github.com/objectionary/eolang.sty/pull/221) | Recognize CRLF equation environments and closing tags at EOF | **merged** |
 | [#220](https://github.com/objectionary/eolang.sty/pull/220) | Match whitespace after TeX control words | **merged** |
 | [#219](https://github.com/objectionary/eolang.sty/pull/219) | Read generated fragments from literal directory paths | **merged** |
 | [#218](https://github.com/objectionary/eolang.sty/pull/218) | Reject extra positional file paths | **merged** |
@@ -674,7 +678,7 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 | [#212](https://github.com/objectionary/eo-vscode/pull/212) | Repair E2E fixtures and prepare grammar before testing | **merged** |
 | [#211](https://github.com/objectionary/eo-vscode/pull/211) | #208: match the minimum VS Code version to the language client | closed unmerged |
 | [#210](https://github.com/objectionary/eo-vscode/pull/210) | #207: reject interrupted grammar downloads | **merged** |
-| [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | open |
+| [#209](https://github.com/objectionary/eo-vscode/issues/209) | Grammar URLs containing a query string fail on Windows because the query becomes part of the filename | closed |
 | [#208](https://github.com/objectionary/eo-vscode/issues/208) | Extension permits VS Code versions that the language client rejects at startup | closed |
 | [#207](https://github.com/objectionary/eo-vscode/issues/207) | Interrupted grammar download exits successfully without generating the syntax JSON | closed |
 
@@ -693,8 +697,8 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#276](https://github.com/objectionary/xax/pull/276) | #217: Evaluate false skip flags normally | open |
-| [#275](https://github.com/objectionary/xax/pull/275) | #216: Evaluate the decorated story output | open |
+| [#276](https://github.com/objectionary/xax/pull/276) | #217: Evaluate false skip flags normally | **merged** |
+| [#275](https://github.com/objectionary/xax/pull/275) | #216: Evaluate the decorated story output | **merged** |
 | [#274](https://github.com/objectionary/xax/pull/274) | #245: Reject stories without XPath assertions | **merged** |
 | [#273](https://github.com/objectionary/xax/pull/273) | #224: Handle fresh descriptions and incompatible matcher values | **merged** |
 | [#272](https://github.com/objectionary/xax/pull/272) | #215: Interpret stylesheet locations as file URIs | **merged** |

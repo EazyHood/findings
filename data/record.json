@@ -1,14 +1,54 @@
 {
   "totals": {
     "generatedAt": "2026-11-18",
-    "prsOpened": 582,
-    "prsMerged": 183,
+    "prsOpened": 586,
+    "prsMerged": 192,
     "issuesOpened": 99,
-    "issuesClosed": 50,
+    "issuesClosed": 51,
     "organizations": 44,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5426,
+      "title": "data(providers): clear dead Discord invites for Fireblocks and Rainbow",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5426",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T20:34:20Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5425,
+      "title": "data(bsc): remove duplicate Binance Wallet listing",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5425",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T19:41:04Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5423,
+      "title": "data(ramps): point Alix Pay docs at its public developer portal",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5423",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T19:00:53Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5422,
+      "title": "data(security): add Contact Sales to Dedaub Security Suite Team and Enterprise",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5422",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T18:34:59Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5420,
@@ -204,8 +244,8 @@
       "number": 276,
       "title": "#217: Evaluate false skip flags normally",
       "url": "https://github.com/objectionary/xax/pull/276",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:26:10Z"
     },
@@ -214,8 +254,8 @@
       "number": 275,
       "title": "#216: Evaluate the decorated story output",
       "url": "https://github.com/objectionary/xax/pull/275",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:25:56Z"
     },
@@ -234,8 +274,8 @@
       "number": 124,
       "title": "Preserve zero-weight and lightest parallel edges in C++ Prim",
       "url": "https://github.com/objectionary/eo-graphs/pull/124",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:22:43Z"
     },
@@ -244,8 +284,8 @@
       "number": 550,
       "title": "Report trailing whitespace in source and text-block lines",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/550",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:22:29Z"
     },
@@ -264,8 +304,8 @@
       "number": 549,
       "title": "Accept one trailing blank line after the top-level object",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/549",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:21:41Z"
     },
@@ -284,8 +324,8 @@
       "number": 548,
       "title": "Read CRLF source lines without including the terminator",
       "url": "https://github.com/objectionary/eo-lsp-server/pull/548",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:20:39Z"
     },
@@ -324,8 +364,8 @@
       "number": 121,
       "title": "Validate the vertex count before using fixed flow storage",
       "url": "https://github.com/objectionary/eo-graphs/pull/121",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:18:43Z"
     },
@@ -854,8 +894,8 @@
       "number": 221,
       "title": "Recognize CRLF equation environments and closing tags at EOF",
       "url": "https://github.com/objectionary/eolang.sty/pull/221",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:41:15Z"
     },
@@ -2434,7 +2474,7 @@
       "number": 209,
       "title": "Grammar URLs containing a query string fail on Windows because the query becomes part of the filename",
       "url": "https://github.com/objectionary/eo-vscode/issues/209",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-28T16:23:11Z"
@@ -3454,8 +3494,8 @@
       "number": 4282,
       "title": "data(security): add iosiro smart contract audits, penetration testing and threat modeling",
       "url": "https://github.com/Chain-Love/chain-love/pull/4282",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-07T00:14:24Z"
     },
