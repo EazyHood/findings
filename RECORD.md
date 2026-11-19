@@ -2,12 +2,15 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5429](https://github.com/Chain-Love/chain-love/pull/5429) | data(ton): remove OpenMask, unmaintained and its domain has lapsed | open |
+| [#5428](https://github.com/Chain-Love/chain-love/pull/5428) | data(storages): remove Tableland, now redirecting to the Recall Labs wind-down notice | open |
+| [#5427](https://github.com/Chain-Love/chain-love/pull/5427) | data(sui): correct BlockVision's Sui rows to gRPC and drop plans that lack the service | open |
 | [#5426](https://github.com/Chain-Love/chain-love/pull/5426) | data(providers): clear dead Discord invites for Fireblocks and Rainbow | open |
 | [#5425](https://github.com/Chain-Love/chain-love/pull/5425) | data(bsc): remove duplicate Binance Wallet listing | open |
 | [#5423](https://github.com/Chain-Love/chain-love/pull/5423) | data(ramps): point Alix Pay docs at its public developer portal | open |
@@ -16,8 +19,8 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 | [#5419](https://github.com/Chain-Love/chain-love/pull/5419) | data(services): add Fireblocks Wallets-as-a-Service for Algorand | open |
 | [#5402](https://github.com/Chain-Love/chain-love/pull/5402) | Add outreach registry rows for public-apis and marcelscruz | open |
 | [#5359](https://github.com/Chain-Love/chain-love/pull/5359) | Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry | open |
-| [#5351](https://github.com/Chain-Love/chain-love/pull/5351) | feat(validate-csv): check the link format in providers.csv | open |
-| [#5350](https://github.com/Chain-Love/chain-love/pull/5350) | feat(validate-csv): require uppercase TRUE/FALSE in boolean columns | open |
+| [#5351](https://github.com/Chain-Love/chain-love/pull/5351) | feat(validate-csv): check the link format in providers.csv | **merged** |
+| [#5350](https://github.com/Chain-Love/chain-love/pull/5350) | feat(validate-csv): require uppercase TRUE/FALSE in boolean columns | **merged** |
 | [#5286](https://github.com/Chain-Love/chain-love/pull/5286) | Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry | **merged** |
 | [#5273](https://github.com/Chain-Love/chain-love/pull/5273) | data(services): correct AlgoKit LocalNet access to Public | open |
 | [#5146](https://github.com/Chain-Love/chain-love/pull/5146) | Add outreach registry rows for VoltAgent, Sagargupta16, yjjnls and AlexMili | **merged** |
@@ -97,7 +100,7 @@ Generated automatically on 2026-11-18. Do not edit by hand: `scripts/update.mjs`
 | [#4485](https://github.com/Chain-Love/chain-love/pull/4485) | Add registry rows for the mcpHQ and Optimism outreach PRs | **merged** |
 | [#4435](https://github.com/Chain-Love/chain-love/pull/4435) | Add registry rows for Harun's handed-over outreach and toolsdk-ai | **merged** |
 | [#4430](https://github.com/Chain-Love/chain-love/pull/4430) | data(wallets): native=FALSE on 7 multichain wallet offers, evm=TRUE on Coinomi and Zypto (per #3042, #3064) | open |
-| [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 25 docs MCP servers that need no registration (2/2) | open |
+| [#4429](https://github.com/Chain-Love/chain-love/pull/4429) | data(mcpservers): set planType to Public for 23 docs MCP servers that need no registration (2/2) | open |
 | [#4428](https://github.com/Chain-Love/chain-love/pull/4428) | data(mcpservers): set planType to Public for 20 docs MCP servers that need no registration (1/2) | open |
 | [#4422](https://github.com/Chain-Love/chain-love/pull/4422) | data(sdks): add Trust Wallet Core Swift, Android and WebAssembly libraries on Algorand, Filecoin and Avalanche | open |
 | [#4421](https://github.com/Chain-Love/chain-love/pull/4421) | data(mcpservers): add official Etherscan keyless, Chainbase Tops and CryptoQuant MCP servers | open |

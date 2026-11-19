@@ -1,14 +1,44 @@
 {
   "totals": {
-    "generatedAt": "2026-11-18",
-    "prsOpened": 586,
-    "prsMerged": 192,
+    "generatedAt": "2026-11-19",
+    "prsOpened": 589,
+    "prsMerged": 194,
     "issuesOpened": 99,
     "issuesClosed": 51,
     "organizations": 44,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5429,
+      "title": "data(ton): remove OpenMask, unmaintained and its domain has lapsed",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5429",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T22:45:32Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5428,
+      "title": "data(storages): remove Tableland, now redirecting to the Recall Labs wind-down notice",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5428",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T22:43:10Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5427,
+      "title": "data(sui): correct BlockVision's Sui rows to gRPC and drop plans that lack the service",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5427",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-18T21:12:24Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5426,
@@ -144,8 +174,8 @@
       "number": 5351,
       "title": "feat(validate-csv): check the link format in providers.csv",
       "url": "https://github.com/Chain-Love/chain-love/pull/5351",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-15T14:46:11Z"
     },
@@ -154,8 +184,8 @@
       "number": 5350,
       "title": "feat(validate-csv): require uppercase TRUE/FALSE in boolean columns",
       "url": "https://github.com/Chain-Love/chain-love/pull/5350",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-15T14:46:03Z"
     },
@@ -3122,7 +3152,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 4429,
-      "title": "data(mcpservers): set planType to Public for 25 docs MCP servers that need no registration (2/2)",
+      "title": "data(mcpservers): set planType to Public for 23 docs MCP servers that need no registration (2/2)",
       "url": "https://github.com/Chain-Love/chain-love/pull/4429",
       "state": "open",
       "merged": false,
