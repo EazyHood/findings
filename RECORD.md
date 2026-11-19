@@ -8,6 +8,7 @@ Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5443](https://github.com/Chain-Love/chain-love/pull/5443) | Reuse successful schema checks across network listings | open |
 | [#5429](https://github.com/Chain-Love/chain-love/pull/5429) | data(ton): remove OpenMask, unmaintained and its domain has lapsed | open |
 | [#5428](https://github.com/Chain-Love/chain-love/pull/5428) | data(storages): remove Tableland, now redirecting to the Recall Labs wind-down notice | open |
 | [#5427](https://github.com/Chain-Love/chain-love/pull/5427) | data(sui): correct BlockVision's Sui rows to gRPC and drop plans that lack the service | open |
@@ -331,6 +332,7 @@ Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#66422](https://github.com/tenstorrent/tt-metal/pull/66422) | [Bug fix] Rescale before squaring in std_hw, var_hw and normalize_hw | open |
 | [#64803](https://github.com/tenstorrent/tt-metal/pull/64803) | [Bug fix] ttnn graph capture: label ND-sharded buffers ND_SHARDED instead of UNKNOWN | open |
 | [#64094](https://github.com/tenstorrent/tt-metal/pull/64094) | [Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a | **merged** |
 | [#62397](https://github.com/tenstorrent/tt-metal/pull/62397) | [skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops | open |
@@ -881,6 +883,12 @@ Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## Chain-Love/widget
+
+| | Title | State |
+| --- | --- | --- |
+| [#4](https://github.com/Chain-Love/widget/pull/4) | Restore the widget’s default feeds from published JSON releases | open |
 
 ## marcelscruz/dev-resources
 
