@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-20. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -521,7 +521,7 @@ Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs`
 | [#113](https://github.com/objectionary/eo-graphs/pull/113) | Reject invalid GraphGenerator command-line arguments | open |
 | [#112](https://github.com/objectionary/eo-graphs/pull/112) | Report an unrepresentable Prim spanning-tree weight | open |
 | [#111](https://github.com/objectionary/eo-graphs/pull/111) | Compare Kruskal edge weights without subtraction overflow | open |
-| [#110](https://github.com/objectionary/eo-graphs/pull/110) | Preserve parallel capacities and large maximum flows | open |
+| [#110](https://github.com/objectionary/eo-graphs/pull/110) | Preserve parallel capacities and large maximum flows | **merged** |
 | [#109](https://github.com/objectionary/eo-graphs/pull/109) | Keep the lightest parallel edge in C++ Dijkstra | **merged** |
 
 ## zerocracy/baza.rb
@@ -572,6 +572,21 @@ Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs`
 | [#144](https://github.com/APN-Network/bugs/issues/144) | Public bug page uses bug@apn.tech while reward docs use bugs@apn.tech | closed |
 | [#143](https://github.com/APN-Network/bugs/issues/143) | README tells testers to sign in even though APN advertises no signup/no email | open |
 
+## objectionary/eo
+
+| | Title | State |
+| --- | --- | --- |
+| [#10017](https://github.com/objectionary/eo/pull/10017) | fix(#8582): avoid redundant scans during unplacement | **merged** |
+| [#9930](https://github.com/objectionary/eo/pull/9930) | fix(#8613): share identifier and fragile-dispatch checks | **merged** |
+| [#9929](https://github.com/objectionary/eo/pull/9929) | fix(#8604): reuse chain emission and suffix marks | **merged** |
+| [#9928](https://github.com/objectionary/eo/pull/9928) | fix(#8713): remove the unused before-stars transformation | **merged** |
+| [#9927](https://github.com/objectionary/eo/pull/9927) | fix(#8579): avoid redundant scans during placement | open |
+| [#9926](https://github.com/objectionary/eo/pull/9926) | fix(#8600): reuse dispatch parsing and argument emission | **merged** |
+| [#9925](https://github.com/objectionary/eo/pull/9925) | fix(#9915): reject noninteger tuple indexes before traversal | **merged** |
+| [#9924](https://github.com/objectionary/eo/pull/9924) | fix(#9912): terminate invalid chunk slot operations | **merged** |
+| [#9923](https://github.com/objectionary/eo/pull/9923) | fix(#9914): document the message argument of fallback callbacks | **merged** |
+| [#9922](https://github.com/objectionary/eo/pull/9922) | fix(#9913): preserve exact dividends in zero-division diagnostics | open |
+
 ## StellarLend/Stellarlend-frontend
 
 | | Title | State |
@@ -586,20 +601,6 @@ Generated automatically on 2026-11-19. Do not edit by hand: `scripts/update.mjs`
 | [#548](https://github.com/StellarLend/Stellarlend-frontend/pull/548) | test: cover transaction validator clamping | closed unmerged |
 | [#547](https://github.com/StellarLend/Stellarlend-frontend/pull/547) | test: cover account export bundle scoping | closed unmerged |
 | [#546](https://github.com/StellarLend/Stellarlend-frontend/pull/546) | test: cover request id ULID helpers | closed unmerged |
-
-## objectionary/eo
-
-| | Title | State |
-| --- | --- | --- |
-| [#9930](https://github.com/objectionary/eo/pull/9930) | fix(#8613): share identifier and fragile-dispatch checks | **merged** |
-| [#9929](https://github.com/objectionary/eo/pull/9929) | fix(#8604): reuse chain emission and suffix marks | **merged** |
-| [#9928](https://github.com/objectionary/eo/pull/9928) | fix(#8713): remove the unused before-stars transformation | **merged** |
-| [#9927](https://github.com/objectionary/eo/pull/9927) | fix(#8579): avoid redundant scans during placement and unplacement | open |
-| [#9926](https://github.com/objectionary/eo/pull/9926) | fix(#8600): reuse dispatch parsing and argument emission | **merged** |
-| [#9925](https://github.com/objectionary/eo/pull/9925) | fix(#9915): reject noninteger tuple indexes before traversal | **merged** |
-| [#9924](https://github.com/objectionary/eo/pull/9924) | fix(#9912): terminate invalid chunk slot operations | **merged** |
-| [#9923](https://github.com/objectionary/eo/pull/9923) | fix(#9914): document the message argument of fallback callbacks | **merged** |
-| [#9922](https://github.com/objectionary/eo/pull/9922) | fix(#9913): preserve exact dividends in zero-division diagnostics | open |
 
 ## objectionary/eolang.sty
 

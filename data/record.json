@@ -1,14 +1,24 @@
 {
   "totals": {
-    "generatedAt": "2026-11-19",
-    "prsOpened": 592,
-    "prsMerged": 194,
+    "generatedAt": "2026-11-20",
+    "prsOpened": 593,
+    "prsMerged": 196,
     "issuesOpened": 99,
     "issuesClosed": 51,
     "organizations": 44,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "objectionary/eo",
+      "number": 10017,
+      "title": "fix(#8582): avoid redundant scans during unplacement",
+      "url": "https://github.com/objectionary/eo/pull/10017",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-11-20T01:59:41Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5443,
@@ -472,7 +482,7 @@
     {
       "repo": "objectionary/eo",
       "number": 9927,
-      "title": "fix(#8579): avoid redundant scans during placement and unplacement",
+      "title": "fix(#8579): avoid redundant scans during placement",
       "url": "https://github.com/objectionary/eo/pull/9927",
       "state": "open",
       "merged": false,
@@ -754,8 +764,8 @@
       "number": 110,
       "title": "Preserve parallel capacities and large maximum flows",
       "url": "https://github.com/objectionary/eo-graphs/pull/110",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T16:54:09Z"
     },
