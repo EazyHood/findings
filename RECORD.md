@@ -346,7 +346,7 @@ Generated automatically on 2026-11-20. Do not edit by hand: `scripts/update.mjs`
 | [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | closed unmerged |
 | [#52856](https://github.com/tenstorrent/tt-metal/pull/52856) | [ttnn] logaddexp: overflow-safe fused SFPU implementation | **merged** |
 | [#52668](https://github.com/tenstorrent/tt-metal/pull/52668) | fix(eltwise): step one ULP toward the target in nextafter, not a fixed epsilon away from it | closed unmerged |
-| [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): rescale before squaring in std_hw, var_hw and normalize_hw | open |
+| [#52615](https://github.com/tenstorrent/tt-metal/pull/52615) | fix(eltwise): rescale before squaring in std_hw, var_hw and normalize_hw | closed unmerged |
 | [#52614](https://github.com/tenstorrent/tt-metal/issues/52614) | normalize_hw / std_hw / var_hw: the variance composite returns an exact 0 below \|x-mean\| ~1e-19 and saturates above ~1.8e19 | open |
 | [#52613](https://github.com/tenstorrent/tt-metal/pull/52613) | fix(eltwise): drop the stale input-domain guard from sinh_bw and cosh_bw (6 and 8 fewer ops per call) | **merged** |
 | [#52612](https://github.com/tenstorrent/tt-metal/issues/52612) | [ttnn]: sinh_bw / cosh_bw pay for a redundant input-domain guard that also returns inf where the forward op is finite | closed |

@@ -4974,7 +4974,7 @@
       "number": 52615,
       "title": "fix(eltwise): rescale before squaring in std_hw, var_hw and normalize_hw",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52615",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": true,
       "createdAt": "2026-08-08T14:47:33Z"
