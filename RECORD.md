@@ -433,16 +433,16 @@ Generated automatically on 2026-11-21. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#3191](https://github.com/zerocracy/judges-action/pull/3191) | #2484: Test that find-all-issues, find-earliest-issue and find-latest-issue skip buried issues | open |
-| [#3190](https://github.com/zerocracy/judges-action/pull/3190) | #2485: Cover the stale branch path in five judges | open |
-| [#3184](https://github.com/zerocracy/judges-action/pull/3184) | #2732: Cover retirement of missing issues in six judges | open |
-| [#3183](https://github.com/zerocracy/judges-action/pull/3183) | #2483: Cover exhausted quota in cleanup and discovery judges | open |
+| [#3191](https://github.com/zerocracy/judges-action/pull/3191) | #2484: Test that find-all-issues, find-earliest-issue and find-latest-issue skip buried issues | **merged** |
+| [#3190](https://github.com/zerocracy/judges-action/pull/3190) | #2485: Cover the stale branch path in five judges | **merged** |
+| [#3184](https://github.com/zerocracy/judges-action/pull/3184) | #2732: Cover retirement of missing issues in six judges | **merged** |
+| [#3183](https://github.com/zerocracy/judges-action/pull/3183) | #2483: Cover exhausted quota in cleanup and discovery judges | **merged** |
 | [#3180](https://github.com/zerocracy/judges-action/pull/3180) | #2745: Remember failed revival checks for five days | **merged** |
 | [#3179](https://github.com/zerocracy/judges-action/pull/3179) | #2494: Cover the changed-file count of recovered merged pulls | **merged** |
-| [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | open |
-| [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | open |
-| [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | open |
-| [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | open |
+| [#3178](https://github.com/zerocracy/judges-action/pull/3178) | #2487: Cover the attributes recorded by GitHub events | **merged** |
+| [#3177](https://github.com/zerocracy/judges-action/pull/3177) | #2493: Cover milestone source and descriptive details | **merged** |
+| [#3176](https://github.com/zerocracy/judges-action/pull/3176) | #2491: Cover issue-opening details for existing and deleted authors | **merged** |
+| [#3175](https://github.com/zerocracy/judges-action/pull/3175) | #2738: Cache user classifications within each judge run | **merged** |
 | [#3174](https://github.com/zerocracy/judges-action/pull/3174) | #2492: Cover label event filtering and attachment time | **merged** |
 | [#3173](https://github.com/zerocracy/judges-action/pull/3173) | #2349: pin the reusable workflow example to a release commit | **merged** |
 | [#3138](https://github.com/zerocracy/judges-action/pull/3138) | #2845: leave terrain metrics pending after server errors | open |
