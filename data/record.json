@@ -1,14 +1,54 @@
 {
   "totals": {
     "generatedAt": "2026-11-22",
-    "prsOpened": 593,
-    "prsMerged": 208,
+    "prsOpened": 597,
+    "prsMerged": 209,
     "issuesOpened": 99,
     "issuesClosed": 52,
     "organizations": 44,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5580,
+      "title": "data(zcash): remove Zecwallet Lite, sunset by its developer",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5580",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T18:22:06Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5579,
+      "title": "feat(csv-to-json): skip all-networks EVM API rows on non-EVM networks",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5579",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T17:55:43Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5577,
+      "title": "data(platforms): remove THX Network, shut down on 1 February 2025",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5577",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T17:47:52Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5569,
+      "title": "data(sui): correct Nodit's Sui rows to gRPC and drop the archive rows",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5569",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T13:33:55Z"
+    },
     {
       "repo": "objectionary/eo",
       "number": 10017,
@@ -464,8 +504,8 @@
       "number": 119,
       "title": "Reject disconnected graphs in Java PrimMST",
       "url": "https://github.com/objectionary/eo-graphs/pull/119",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T17:17:35Z"
     },
@@ -4052,7 +4092,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3849,
-      "title": "data(providers): fill 19 verified link cells and repoint one dead docs host",
+      "title": "data(providers): fill 18 verified link cells and repoint one dead docs host",
       "url": "https://github.com/Chain-Love/chain-love/pull/3849",
       "state": "open",
       "merged": false,

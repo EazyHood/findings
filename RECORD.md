@@ -8,6 +8,10 @@ Generated automatically on 2026-11-22. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5580](https://github.com/Chain-Love/chain-love/pull/5580) | data(zcash): remove Zecwallet Lite, sunset by its developer | open |
+| [#5579](https://github.com/Chain-Love/chain-love/pull/5579) | feat(csv-to-json): skip all-networks EVM API rows on non-EVM networks | open |
+| [#5577](https://github.com/Chain-Love/chain-love/pull/5577) | data(platforms): remove THX Network, shut down on 1 February 2025 | open |
+| [#5569](https://github.com/Chain-Love/chain-love/pull/5569) | data(sui): correct Nodit's Sui rows to gRPC and drop the archive rows | open |
 | [#5443](https://github.com/Chain-Love/chain-love/pull/5443) | Reuse successful schema checks across network listings | open |
 | [#5429](https://github.com/Chain-Love/chain-love/pull/5429) | data(ton): remove OpenMask, unmaintained and its domain has lapsed | open |
 | [#5428](https://github.com/Chain-Love/chain-love/pull/5428) | data(storages): remove Tableland, now redirecting to the Recall Labs wind-down notice | open |
@@ -173,7 +177,7 @@ Generated automatically on 2026-11-22. Do not edit by hand: `scripts/update.mjs`
 | [#3852](https://github.com/Chain-Love/chain-love/issues/3852) | 18 provider rows carry a Discord invite that no longer resolves | open |
 | [#3851](https://github.com/Chain-Love/chain-love/pull/3851) | fix(hooks): look for the venv interpreter where Windows puts it | **merged** |
 | [#3850](https://github.com/Chain-Love/chain-love/pull/3850) | data(providers): repair two dead Discord invites and normalise eleven link values | **merged** |
-| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 19 verified link cells and repoint one dead docs host | open |
+| [#3849](https://github.com/Chain-Love/chain-love/pull/3849) | data(providers): fill 18 verified link cells and repoint one dead docs host | open |
 | [#3687](https://github.com/Chain-Love/chain-love/pull/3687) | data(sui): add Walrus decentralized storage | closed unmerged |
 | [#3577](https://github.com/Chain-Love/chain-love/pull/3577) | data(providers): fill 6 missing github organisations, matched by website domain (batch 1 of 1) | **merged** |
 | [#3574](https://github.com/Chain-Love/chain-love/issues/3574) | [DBIP] Seven columns are reserved for the team's automation and hold 0–13% real data; run the scripts, open the fields, or drop the columns | open |
@@ -512,7 +516,7 @@ Generated automatically on 2026-11-22. Do not edit by hand: `scripts/update.mjs`
 | [#122](https://github.com/objectionary/eo-graphs/pull/122) | Report invalid vertex IDs in the Java graph commands | open |
 | [#121](https://github.com/objectionary/eo-graphs/pull/121) | Validate the vertex count before using fixed flow storage | **merged** |
 | [#120](https://github.com/objectionary/eo-graphs/pull/120) | Reject negative edge weights before running Dijkstra | open |
-| [#119](https://github.com/objectionary/eo-graphs/pull/119) | Reject disconnected graphs in Java PrimMST | open |
+| [#119](https://github.com/objectionary/eo-graphs/pull/119) | Reject disconnected graphs in Java PrimMST | **merged** |
 | [#118](https://github.com/objectionary/eo-graphs/pull/118) | Keep Dijkstra distances in a wide integer type | open |
 | [#117](https://github.com/objectionary/eo-graphs/pull/117) | Normalize sparse vertex labels in Java spanning trees | open |
 | [#116](https://github.com/objectionary/eo-graphs/pull/116) | Normalize sparse vertex labels in C++ spanning trees | open |
