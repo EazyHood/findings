@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-21. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-22. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -336,11 +336,11 @@ Generated automatically on 2026-11-21. Do not edit by hand: `scripts/update.mjs`
 | [#64803](https://github.com/tenstorrent/tt-metal/pull/64803) | [Bug fix] ttnn graph capture: label ND-sharded buffers ND_SHARDED instead of UNKNOWN | open |
 | [#64094](https://github.com/tenstorrent/tt-metal/pull/64094) | [Bug fix] matmul with a sharded in0: zero K padding on the Reuse path, reject multi-tile transpose_a | **merged** |
 | [#62397](https://github.com/tenstorrent/tt-metal/pull/62397) | [skip ci] Document the supported input range of ttnn.sin, ttnn.cos and their backward ops | open |
-| [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | open |
+| [#62227](https://github.com/tenstorrent/tt-metal/pull/62227) | [Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac) | **merged** |
 | [#61997](https://github.com/tenstorrent/tt-metal/pull/61997) | [Bug fix] Qwen3-Embedding: embed each request from its own last real token in a padded batch | **merged** |
-| [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | open |
-| [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | open |
-| [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | open |
+| [#60357](https://github.com/tenstorrent/tt-metal/pull/60357) | [Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies | **merged** |
+| [#59763](https://github.com/tenstorrent/tt-metal/pull/59763) | [Bug fix] pow/rpow (fp32): error no longer grows with \|y·log2 x\| (362 → 4 ULP) | **merged** |
+| [#59761](https://github.com/tenstorrent/tt-metal/issues/59761) | [ops]: fp32 ttnn.pow / ttnn.rpow error grows with \|y * log2 x\| (362 ULP on a random sweep) | closed |
 | [#57245](https://github.com/tenstorrent/tt-metal/pull/57245) | fix(quasar): step one ULP in nextafter instead of a fixed epsilon | closed unmerged |
 | [#55813](https://github.com/tenstorrent/tt-metal/pull/55813) | fix(sfpu): compute softplus bf16 tail so softplus(t) is nonzero for t < -5 (#51866) | closed unmerged |
 | [#55288](https://github.com/tenstorrent/tt-metal/pull/55288) | [ttnn] logaddexp2: overflow-safe fused SFPU implementation | closed unmerged |
@@ -355,7 +355,7 @@ Generated automatically on 2026-11-21. Do not edit by hand: `scripts/update.mjs`
 | [#52375](https://github.com/tenstorrent/tt-metal/pull/52375) | fix(ttnn): softplus golden drops beta and threshold | closed unmerged |
 | [#52326](https://github.com/tenstorrent/tt-metal/pull/52326) | [Bug fix] fix(data_movement): pad packs a float32 pad value as two bfloat16 halves | open |
 | [#52145](https://github.com/tenstorrent/tt-metal/pull/52145) | [Bug fix] tril/triu: float32 returns NaN in the masked triangle for non-finite inputs | open |
-| [#52144](https://github.com/tenstorrent/tt-metal/pull/52144) | [Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x | open |
+| [#52144](https://github.com/tenstorrent/tt-metal/pull/52144) | [Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x | **merged** |
 | [#52131](https://github.com/tenstorrent/tt-metal/issues/52131) | The four tickets that blocked numeric_stable in #27995 are all closed; two of the four excepted softmax entry points still default to false and return all zeros above \|x\| ~85 | open |
 | [#52124](https://github.com/tenstorrent/tt-metal/pull/52124) | [kernels] Clamp sin/cos results to [-1, 1] | closed unmerged |
 | [#52094](https://github.com/tenstorrent/tt-metal/issues/52094) | ttnn.div returns 0 for large denominators — a/a is 0 instead of 1 | open |

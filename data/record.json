@@ -1,10 +1,10 @@
 {
   "totals": {
-    "generatedAt": "2026-11-21",
+    "generatedAt": "2026-11-22",
     "prsOpened": 593,
-    "prsMerged": 204,
+    "prsMerged": 208,
     "issuesOpened": 99,
-    "issuesClosed": 51,
+    "issuesClosed": 52,
     "organizations": 44,
     "truncated": false
   },
@@ -2814,8 +2814,8 @@
       "number": 62227,
       "title": "[Bug fix] ternary: broadcast a rank-1 operand across rows (where, addcmul, addcdiv, lerp, mac)",
       "url": "https://github.com/tenstorrent/tt-metal/pull/62227",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-23T09:22:19Z"
     },
@@ -3264,8 +3264,8 @@
       "number": 60357,
       "title": "[Performance] binary_ng/ternary: replicate the bfloat16 broadcast row with local NoC copies",
       "url": "https://github.com/tenstorrent/tt-metal/pull/60357",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-13T03:39:21Z"
     },
@@ -3474,8 +3474,8 @@
       "number": 59763,
       "title": "[Bug fix] pow/rpow (fp32): error no longer grows with |y·log2 x| (362 → 4 ULP)",
       "url": "https://github.com/tenstorrent/tt-metal/pull/59763",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-08T02:57:18Z"
     },
@@ -3484,7 +3484,7 @@
       "number": 59761,
       "title": "[ops]: fp32 ttnn.pow / ttnn.rpow error grows with |y * log2 x| (362 ULP on a random sweep)",
       "url": "https://github.com/tenstorrent/tt-metal/issues/59761",
-      "state": "open",
+      "state": "closed",
       "merged": false,
       "isPullRequest": false,
       "createdAt": "2026-10-08T02:55:49Z"
@@ -5084,8 +5084,8 @@
       "number": 52144,
       "title": "[Bug fix] fix(eltwise): rpow_bw differentiates x**e instead of e**x",
       "url": "https://github.com/tenstorrent/tt-metal/pull/52144",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-05T03:47:00Z"
     },
