@@ -1,7 +1,7 @@
 {
   "totals": {
-    "generatedAt": "2026-11-22",
-    "prsOpened": 597,
+    "generatedAt": "2026-11-23",
+    "prsOpened": 601,
     "prsMerged": 209,
     "issuesOpened": 99,
     "issuesClosed": 52,
@@ -9,6 +9,46 @@
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5597,
+      "title": "docs: add two Before you submit checks, link the provider logo guide, refresh the PR template",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5597",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T22:38:53Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5596,
+      "title": "feat(validate-csv): require a unique website, X and LinkedIn per provider",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5596",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T22:30:22Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5588,
+      "title": "fix(sdks): write only the npm username to sdks.maintainer",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5588",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T21:21:40Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5587,
+      "title": "data(starknet): remove discontinued Lava public RPC listing (endpoint 410 Gone)",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5587",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-22T20:02:15Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5580,
@@ -4212,7 +4252,7 @@
     {
       "repo": "Chain-Love/chain-love",
       "number": 3324,
-      "title": "data(providers): fill 14 missing link cells for 13 providers (batch 2 of 4)",
+      "title": "data(providers): fill 12 missing link cells for 11 providers (batch 2 of 4)",
       "url": "https://github.com/Chain-Love/chain-love/pull/3324",
       "state": "open",
       "merged": false,

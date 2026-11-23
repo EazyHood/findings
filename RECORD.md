@@ -2,12 +2,16 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-22. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-23. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
 | | Title | State |
 | --- | --- | --- |
+| [#5597](https://github.com/Chain-Love/chain-love/pull/5597) | docs: add two Before you submit checks, link the provider logo guide, refresh the PR template | open |
+| [#5596](https://github.com/Chain-Love/chain-love/pull/5596) | feat(validate-csv): require a unique website, X and LinkedIn per provider | open |
+| [#5588](https://github.com/Chain-Love/chain-love/pull/5588) | fix(sdks): write only the npm username to sdks.maintainer | open |
+| [#5587](https://github.com/Chain-Love/chain-love/pull/5587) | data(starknet): remove discontinued Lava public RPC listing (endpoint 410 Gone) | open |
 | [#5580](https://github.com/Chain-Love/chain-love/pull/5580) | data(zcash): remove Zecwallet Lite, sunset by its developer | open |
 | [#5579](https://github.com/Chain-Love/chain-love/pull/5579) | feat(csv-to-json): skip all-networks EVM API rows on non-EVM networks | open |
 | [#5577](https://github.com/Chain-Love/chain-love/pull/5577) | data(platforms): remove THX Network, shut down on 1 February 2025 | open |
@@ -185,7 +189,7 @@ Generated automatically on 2026-11-22. Do not edit by hand: `scripts/update.mjs`
 | [#3347](https://github.com/Chain-Love/chain-love/issues/3347) | [DBIP] The link check cannot validate the x and linkedin columns: 60% of its errors are X and LinkedIn refusing CI, not broken links | open |
 | [#3326](https://github.com/Chain-Love/chain-love/pull/3326) | data(providers): fill 8 missing link cells for 6 providers and clear one dead docs link | open |
 | [#3325](https://github.com/Chain-Love/chain-love/pull/3325) | data(providers): fill 16 missing link cells for 16 providers (batch 3 of 4) | open |
-| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 14 missing link cells for 13 providers (batch 2 of 4) | open |
+| [#3324](https://github.com/Chain-Love/chain-love/pull/3324) | data(providers): fill 12 missing link cells for 11 providers (batch 2 of 4) | open |
 | [#3323](https://github.com/Chain-Love/chain-love/pull/3323) | data(providers): fill 32 missing link cells for 23 providers (batch 1 of 4) | **merged** |
 | [#3322](https://github.com/Chain-Love/chain-love/issues/3322) | [DBIP] 154 of 720 providers name a logoPath file that does not exist, and nothing validates it | open |
 | [#3304](https://github.com/Chain-Love/chain-love/issues/3304) | [DBIP] The converter warns six times that three networks lose all their all-networks apis and analytics offers, then exits 0 | open |
