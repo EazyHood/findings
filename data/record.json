@@ -1,8 +1,8 @@
 {
   "totals": {
-    "generatedAt": "2026-11-23",
+    "generatedAt": "2026-11-24",
     "prsOpened": 601,
-    "prsMerged": 209,
+    "prsMerged": 211,
     "issuesOpened": 99,
     "issuesClosed": 52,
     "organizations": 44,
@@ -1344,8 +1344,8 @@
       "number": 1472,
       "title": "Limit contributor-name writes to awards and reconciliations",
       "url": "https://github.com/zerocracy/pages-action/pull/1472",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:21:39Z"
     },
@@ -1354,8 +1354,8 @@
       "number": 1471,
       "title": "Test bylaws selection with a non-HR PMP before HR",
       "url": "https://github.com/zerocracy/pages-action/pull/1471",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:21:11Z"
     },

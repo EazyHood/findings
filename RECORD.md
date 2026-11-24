@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-23. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-24. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -633,8 +633,8 @@ Generated automatically on 2026-11-23. Do not edit by hand: `scripts/update.mjs`
 | [#1475](https://github.com/zerocracy/pages-action/pull/1475) | Publish the vitals figures as a JSON summary | open |
 | [#1474](https://github.com/zerocracy/pages-action/pull/1474) | Use the published vitals report as its canonical URL | open |
 | [#1473](https://github.com/zerocracy/pages-action/pull/1473) | Use the project logo for adless social previews | open |
-| [#1472](https://github.com/zerocracy/pages-action/pull/1472) | Limit contributor-name writes to awards and reconciliations | open |
-| [#1471](https://github.com/zerocracy/pages-action/pull/1471) | Test bylaws selection with a non-HR PMP before HR | open |
+| [#1472](https://github.com/zerocracy/pages-action/pull/1472) | Limit contributor-name writes to awards and reconciliations | **merged** |
+| [#1471](https://github.com/zerocracy/pages-action/pull/1471) | Test bylaws selection with a non-HR PMP before HR | **merged** |
 | [#1462](https://github.com/zerocracy/pages-action/pull/1462) | #1433: invalidate the Docker image when a source is deleted | open |
 | [#1361](https://github.com/zerocracy/pages-action/pull/1361) | #1356: round decimal halves away from zero | **merged** |
 
