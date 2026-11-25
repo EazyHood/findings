@@ -2,7 +2,7 @@
 
 Every public issue and pull request authored by [@EazyHood](https://github.com/EazyHood), newest first within each project.
 
-Generated automatically on 2026-11-24. Do not edit by hand: `scripts/update.mjs` overwrites this file.
+Generated automatically on 2026-11-25. Do not edit by hand: `scripts/update.mjs` overwrites this file.
 
 ## Chain-Love/chain-love
 
@@ -674,12 +674,23 @@ Generated automatically on 2026-11-24. Do not edit by hand: `scripts/update.mjs`
 | [#41](https://github.com/sourcey/startup-credits/pull/41) | catalog: add Trigger.dev current YC deal | closed unmerged |
 | [#40](https://github.com/sourcey/startup-credits/pull/40) | catalog: add GitBook Startups Program | **merged** |
 
+## gonka-ai/gonka
+
+| | Title | State |
+| --- | --- | --- |
+| [#2327](https://github.com/gonka-ai/gonka/pull/2327) | docs: set decode PoC alpha to 0.01 and drop signer counters from cleanup comments | open |
+| [#2326](https://github.com/gonka-ai/gonka/pull/2326) | fix(fees): reject fee rules that no charge path reads | open |
+| [#2325](https://github.com/gonka-ai/gonka/pull/2325) | fix(params): reserve EpochValidationParams field 3 and move the acceptance floor to 4 | open |
+| [#2222](https://github.com/gonka-ai/gonka/pull/2222) | fix(poc): bound validation_sample_size by the proof request limit | open |
+| [#1969](https://github.com/gonka-ai/gonka/pull/1969) | fix(admin): fail setup report when cold funds cannot cover epoch fees | open |
+| [#1965](https://github.com/gonka-ai/gonka/issues/1965) | [BUG] Incomplete JSON clock timestamps produce a false divergence sample | open |
+
 ## zerocracy/zerocracy-mcp-server
 
 | | Title | State |
 | --- | --- | --- |
 | [#168](https://github.com/zerocracy/zerocracy-mcp-server/pull/168) | #129: package the TypeScript runtime and launch it independently of the working directory | **merged** |
-| [#167](https://github.com/zerocracy/zerocracy-mcp-server/pull/167) | #139: reject empty results in mocked resource-list tests | open |
+| [#167](https://github.com/zerocracy/zerocracy-mcp-server/pull/167) | #139: reject empty results in mocked resource-list tests | **merged** |
 | [#166](https://github.com/zerocracy/zerocracy-mcp-server/pull/166) | #132: deduplicate product resources after normalizing names | open |
 | [#165](https://github.com/zerocracy/zerocracy-mcp-server/pull/165) | #130, #152: Bound Baza requests by deadlines and MCP cancellation | open |
 | [#164](https://github.com/zerocracy/zerocracy-mcp-server/pull/164) | #128: accept a trailing slash in ZEROCRACY_HOST | open |
@@ -789,14 +800,6 @@ Generated automatically on 2026-11-24. Do not edit by hand: `scripts/update.mjs`
 | [#48](https://github.com/zerocracy/sales-deck/pull/48) | Refresh shared logo and palette before building the pitch PDFs | **merged** |
 | [#47](https://github.com/zerocracy/sales-deck/pull/47) | #39 Rebuild both pitch documents when the shared class changes | open |
 | [#46](https://github.com/zerocracy/sales-deck/pull/46) | Remove both generated PDFs during make clean | **merged** |
-
-## gonka-ai/gonka
-
-| | Title | State |
-| --- | --- | --- |
-| [#2222](https://github.com/gonka-ai/gonka/pull/2222) | fix(poc): bound validation_sample_size by the proof request limit | open |
-| [#1969](https://github.com/gonka-ai/gonka/pull/1969) | fix(admin): fail setup report when cold funds cannot cover epoch fees | open |
-| [#1965](https://github.com/gonka-ai/gonka/issues/1965) | [BUG] Incomplete JSON clock timestamps produce a false divergence sample | open |
 
 ## jcabi/jcabi-manifests
 

@@ -1,14 +1,44 @@
 {
   "totals": {
-    "generatedAt": "2026-11-24",
-    "prsOpened": 601,
-    "prsMerged": 211,
+    "generatedAt": "2026-11-25",
+    "prsOpened": 604,
+    "prsMerged": 212,
     "issuesOpened": 99,
     "issuesClosed": 52,
     "organizations": 44,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "gonka-ai/gonka",
+      "number": 2327,
+      "title": "docs: set decode PoC alpha to 0.01 and drop signer counters from cleanup comments",
+      "url": "https://github.com/gonka-ai/gonka/pull/2327",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-25T01:37:50Z"
+    },
+    {
+      "repo": "gonka-ai/gonka",
+      "number": 2326,
+      "title": "fix(fees): reject fee rules that no charge path reads",
+      "url": "https://github.com/gonka-ai/gonka/pull/2326",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-25T01:37:47Z"
+    },
+    {
+      "repo": "gonka-ai/gonka",
+      "number": 2325,
+      "title": "fix(params): reserve EpochValidationParams field 3 and move the acceptance floor to 4",
+      "url": "https://github.com/gonka-ai/gonka/pull/2325",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-25T01:37:43Z"
+    },
     {
       "repo": "Chain-Love/chain-love",
       "number": 5597,
@@ -1724,8 +1754,8 @@
       "number": 167,
       "title": "#139: reject empty results in mocked resource-list tests",
       "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/167",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-07T03:30:25Z"
     },
