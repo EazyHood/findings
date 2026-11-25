@@ -2,7 +2,7 @@
   "totals": {
     "generatedAt": "2026-11-25",
     "prsOpened": 604,
-    "prsMerged": 212,
+    "prsMerged": 214,
     "issuesOpened": 99,
     "issuesClosed": 52,
     "organizations": 44,
@@ -1364,8 +1364,8 @@
       "number": 1473,
       "title": "Use the project logo for adless social previews",
       "url": "https://github.com/zerocracy/pages-action/pull/1473",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:25:27Z"
     },
@@ -5394,8 +5394,8 @@
       "number": 2453,
       "title": "Add Sia and Walrus decentralized storage networks",
       "url": "https://github.com/Chain-Love/chain-love/pull/2453",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-08-03T01:34:41Z"
     },

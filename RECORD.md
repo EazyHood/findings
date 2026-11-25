@@ -241,7 +241,7 @@ Generated automatically on 2026-11-25. Do not edit by hand: `scripts/update.mjs`
 | [#2456](https://github.com/Chain-Love/chain-love/pull/2456) | Add Ripio and Bitnob to ramps (LATAM / Africa) | open |
 | [#2455](https://github.com/Chain-Love/chain-love/pull/2455) | Add Flipside, Amberdata and Kaiko analytics providers | closed unmerged |
 | [#2454](https://github.com/Chain-Love/chain-love/pull/2454) | Add Solscan, Starkscan and Voyager block explorers | open |
-| [#2453](https://github.com/Chain-Love/chain-love/pull/2453) | Add Sia and Walrus decentralized storage networks | open |
+| [#2453](https://github.com/Chain-Love/chain-love/pull/2453) | Add Sia and Walrus decentralized storage networks | **merged** |
 | [#2452](https://github.com/Chain-Love/chain-love/pull/2452) | Add Code4rena, Sherlock and Immunefi audit platforms | **merged** |
 | [#2451](https://github.com/Chain-Love/chain-love/pull/2451) | Add Certora and Dedaub formal-verification and analysis tooling | **merged** |
 | [#2448](https://github.com/Chain-Love/chain-love/pull/2448) | Remove ERCx: product discontinued, domain no longer resolves | **merged** |
@@ -632,7 +632,7 @@ Generated automatically on 2026-11-25. Do not edit by hand: `scripts/update.mjs`
 | [#1476](https://github.com/zerocracy/pages-action/pull/1476) | Append the published vitals figures to the Actions summary | open |
 | [#1475](https://github.com/zerocracy/pages-action/pull/1475) | Publish the vitals figures as a JSON summary | open |
 | [#1474](https://github.com/zerocracy/pages-action/pull/1474) | Use the published vitals report as its canonical URL | open |
-| [#1473](https://github.com/zerocracy/pages-action/pull/1473) | Use the project logo for adless social previews | open |
+| [#1473](https://github.com/zerocracy/pages-action/pull/1473) | Use the project logo for adless social previews | **merged** |
 | [#1472](https://github.com/zerocracy/pages-action/pull/1472) | Limit contributor-name writes to awards and reconciliations | **merged** |
 | [#1471](https://github.com/zerocracy/pages-action/pull/1471) | Test bylaws selection with a non-HR PMP before HR | **merged** |
 | [#1462](https://github.com/zerocracy/pages-action/pull/1462) | #1433: invalidate the Docker image when a source is deleted | open |
