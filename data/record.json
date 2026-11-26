@@ -1,14 +1,1364 @@
 {
   "totals": {
     "generatedAt": "2026-11-26",
-    "prsOpened": 604,
-    "prsMerged": 214,
-    "issuesOpened": 99,
+    "prsOpened": 705,
+    "prsMerged": 216,
+    "issuesOpened": 133,
     "issuesClosed": 52,
     "organizations": 44,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "gonka-ai/gonka",
+      "number": 2342,
+      "title": "fix(rehearsal): resolve the previous release images from the v0.2.16 join compose",
+      "url": "https://github.com/gonka-ai/gonka/pull/2342",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T19:42:50Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2085,
+      "title": "#2078 Honor quoted Cache-Control age arguments",
+      "url": "https://github.com/zerocracy/fbe/pull/2085",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:42:47Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1541,
+      "title": "#1537 Keep a known login when a later identity has no name",
+      "url": "https://github.com/zerocracy/pages-action/pull/1541",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:41:00Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 57,
+      "title": "#55 Include the build and SVG tools in the Linux setup command",
+      "url": "https://github.com/zerocracy/sales-deck/pull/57",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:37:14Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2084,
+      "title": "#2075 Filter and paginate simulated repository workflow runs",
+      "url": "https://github.com/zerocracy/fbe/pull/2084",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:37:04Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2083,
+      "title": "#2080 Log decoded JSON forbidden responses at the warning level",
+      "url": "https://github.com/zerocracy/fbe/pull/2083",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:36:53Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2082,
+      "title": "#2077 Apply the review cutoff to simulated pull request discovery",
+      "url": "https://github.com/zerocracy/fbe/pull/2082",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:36:39Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2081,
+      "title": "#2076 Scope the resolved conversation fixture to its owning pull request",
+      "url": "https://github.com/zerocracy/fbe/pull/2081",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:36:28Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1540,
+      "title": "#1536 Count complete UTC months independently of the viewer time zone",
+      "url": "https://github.com/zerocracy/pages-action/pull/1540",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:36:16Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1539,
+      "title": "#1535 Record the image ID during the build that tags pages-action",
+      "url": "https://github.com/zerocracy/pages-action/pull/1539",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:36:02Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1538,
+      "title": "#1530 Trim newline whitespace around comma-separated dump columns",
+      "url": "https://github.com/zerocracy/pages-action/pull/1538",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:35:47Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3247,
+      "title": "Explain unexpected terrain measurements in failing assertions",
+      "url": "https://github.com/zerocracy/judges-action/pull/3247",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:35:36Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1537,
+      "title": "A nameless identity record erases a known contributor login in the awards table",
+      "url": "https://github.com/zerocracy/pages-action/issues/1537",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:35:18Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 56,
+      "title": "#53 Keep the cached asset when a successful download is empty",
+      "url": "https://github.com/zerocracy/sales-deck/pull/56",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:30:01Z"
+    },
+    {
+      "repo": "zerocracy/pgtk",
+      "number": 14,
+      "title": "#13 Validate the selected local backend before preparing PostgreSQL",
+      "url": "https://github.com/zerocracy/pgtk/pull/14",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:29:52Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2080,
+      "title": "Decoded JSON 403 responses are reported as errors instead of warnings",
+      "url": "https://github.com/zerocracy/fbe/issues/2080",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:29:52Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1536,
+      "title": "The month-end relative-time example from #969 still miscounts west of UTC",
+      "url": "https://github.com/zerocracy/pages-action/issues/1536",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:29:42Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 199,
+      "title": "#196 Preserve the exact product name when building MCP text",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/199",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:29:39Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 198,
+      "title": "#197 Document a working Node version for the development checks",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/198",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:29:27Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1535,
+      "title": "The Docker recipe builds the image twice just to record the image ID",
+      "url": "https://github.com/zerocracy/pages-action/issues/1535",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:29:26Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2079,
+      "title": "#2073 Filter simulated milestones by the requested state",
+      "url": "https://github.com/zerocracy/fbe/pull/2079",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:29:17Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 642,
+      "title": "#639 Honor longer Retry-After cooldowns for transient responses",
+      "url": "https://github.com/zerocracy/baza.rb/pull/642",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:29:09Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1534,
+      "title": "#1529 Check publication destinations before replacing the previous report",
+      "url": "https://github.com/zerocracy/pages-action/pull/1534",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:28:57Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1533,
+      "title": "#1528 Verify all six documented Docker outputs",
+      "url": "https://github.com/zerocracy/pages-action/pull/1533",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:28:45Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2078,
+      "title": "Quoted cache ages bypass the configured minimum freshness",
+      "url": "https://github.com/zerocracy/fbe/issues/2078",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:28:40Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1532,
+      "title": "#1526 Omit unavailable repository figures from the vitals list",
+      "url": "https://github.com/zerocracy/pages-action/pull/1532",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:28:36Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1531,
+      "title": "#1522 Keep equal instants in one weekly chart bucket",
+      "url": "https://github.com/zerocracy/pages-action/pull/1531",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:28:20Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3246,
+      "title": "Limit README version updates to the exact action reference",
+      "url": "https://github.com/zerocracy/judges-action/pull/3246",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:28:02Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2077,
+      "title": "Fake review discovery includes pull requests last reviewed before the cutoff",
+      "url": "https://github.com/zerocracy/fbe/issues/2077",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:27:54Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3245,
+      "title": "Check the first occurrence of each pattern within a shared log line",
+      "url": "https://github.com/zerocracy/judges-action/pull/3245",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:27:49Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2076,
+      "title": "The fake assigns the same resolved thread to unrelated pull requests",
+      "url": "https://github.com/zerocracy/fbe/issues/2076",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:27:38Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3244,
+      "title": "Lint both shell extensions watched by the Bashate workflow",
+      "url": "https://github.com/zerocracy/judges-action/pull/3244",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:27:18Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3243,
+      "title": "Write the Docker image ID as part of the successful build",
+      "url": "https://github.com/zerocracy/judges-action/pull/3243",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:27:02Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3242,
+      "title": "Fail negative log assertions when grep cannot read the log",
+      "url": "https://github.com/zerocracy/judges-action/pull/3242",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:26:31Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3241,
+      "title": "Use the entry process status when checking an integration run",
+      "url": "https://github.com/zerocracy/judges-action/pull/3241",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:26:12Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 55,
+      "title": "Linux installation instructions omit four commands used to build the decks",
+      "url": "https://github.com/zerocracy/sales-deck/issues/55",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:25:55Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1530,
+      "title": "A multiline comma-separated columns list passes a newline as part of a property name",
+      "url": "https://github.com/zerocracy/pages-action/issues/1530",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:25:31Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 197,
+      "title": "The documented Node 18 contributor setup fails before Jest can load its config",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/issues/197",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:21:04Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2075,
+      "title": "The simulated workflow listing counts runs outside the requested creation window",
+      "url": "https://github.com/zerocracy/fbe/issues/2075",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:20:29Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3240,
+      "title": "log_precedes accepts reversed patterns on the same log line",
+      "url": "https://github.com/zerocracy/judges-action/issues/3240",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:20:12Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2074,
+      "title": "#1835 Exercise the request counter and cached response headers",
+      "url": "https://github.com/zerocracy/fbe/pull/2074",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:20:05Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 54,
+      "title": "#52 Rebuild both decks when the latexmk configuration changes",
+      "url": "https://github.com/zerocracy/sales-deck/pull/54",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:19:52Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1529,
+      "title": "A directory in place of an output file leaves a partially replaced report",
+      "url": "https://github.com/zerocracy/pages-action/issues/1529",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:19:46Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 196,
+      "title": "Generated prompt and resource descriptions alter the quoted product name",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/issues/196",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:19:43Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 641,
+      "title": "#638 Allow recovery at the terminating upload chunk",
+      "url": "https://github.com/zerocracy/baza.rb/pull/641",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:19:38Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2073,
+      "title": "The simulated closed-milestone listing returns open milestones",
+      "url": "https://github.com/zerocracy/fbe/issues/2073",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:19:34Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 640,
+      "title": "#637 Request identity encoding for downloads when compression is disabled",
+      "url": "https://github.com/zerocracy/baza.rb/pull/640",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:19:27Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1528,
+      "title": "make verify succeeds when the Docker run omits its documented SVG badge",
+      "url": "https://github.com/zerocracy/pages-action/issues/1528",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:19:22Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2072,
+      "title": "#1844 Cover SQLite cache version and recovery boundaries",
+      "url": "https://github.com/zerocracy/fbe/pull/2072",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:19:12Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2071,
+      "title": "#1763 Cover the cap and deductions in bug-fix bills",
+      "url": "https://github.com/zerocracy/fbe/pull/2071",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:19:03Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3239,
+      "title": "The README version updater rewrites unrelated owners and removes trailing Markdown",
+      "url": "https://github.com/zerocracy/judges-action/issues/3239",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:18:40Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3238,
+      "title": "Bashate reports success without checking .bash files that trigger its workflow",
+      "url": "https://github.com/zerocracy/judges-action/issues/3238",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:18:28Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2070,
+      "title": "#1730 Cover the empty repository option and wildcard boundaries",
+      "url": "https://github.com/zerocracy/fbe/pull/2070",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:18:19Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 53,
+      "title": "An empty successful asset download replaces the cached logo or palette",
+      "url": "https://github.com/zerocracy/sales-deck/issues/53",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:18:14Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2069,
+      "title": "#1729 Exercise iteration stops and duplicate progress markers across passes",
+      "url": "https://github.com/zerocracy/fbe/pull/2069",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:18:10Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2068,
+      "title": "#1725 Cover float PMP values and properties of XML-defined areas",
+      "url": "https://github.com/zerocracy/fbe/pull/2068",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:18:02Z"
+    },
+    {
+      "repo": "zerocracy/fbe",
+      "number": 2067,
+      "title": "#896 Make copy return nil after mutating its target",
+      "url": "https://github.com/zerocracy/fbe/pull/2067",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:17:53Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1527,
+      "title": "Handle overflow when computing earned-value ratios",
+      "url": "https://github.com/zerocracy/pages-action/pull/1527",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:17:42Z"
+    },
+    {
+      "repo": "zerocracy/pgtk",
+      "number": 13,
+      "title": "Disabling Docker passes preflight when only Docker is available",
+      "url": "https://github.com/zerocracy/pgtk/issues/13",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:17:42Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1526,
+      "title": "Repositories with partial metadata show empty star, fork and issue counts",
+      "url": "https://github.com/zerocracy/pages-action/issues/1526",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:17:40Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1525,
+      "title": "Keep valid timestamps when a fact has an invalid when value",
+      "url": "https://github.com/zerocracy/pages-action/pull/1525",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:17:33Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1524,
+      "title": "#909 Track Saxon-HE as a Maven dependency in Renovate",
+      "url": "https://github.com/zerocracy/pages-action/pull/1524",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:17:24Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1523,
+      "title": "#700 Keep the awards week headers visible on scroll",
+      "url": "https://github.com/zerocracy/pages-action/pull/1523",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:17:15Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3237,
+      "title": "The Docker image marker can remain empty after the second Make build fails",
+      "url": "https://github.com/zerocracy/judges-action/issues/3237",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:17:12Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3236,
+      "title": "#2181 Check restored issues independently of fact insertion order",
+      "url": "https://github.com/zerocracy/judges-action/pull/3236",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:17:04Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1522,
+      "title": "The QoS chart puts equal instants into different weeks when their offsets differ",
+      "url": "https://github.com/zerocracy/pages-action/issues/1522",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:17:04Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3235,
+      "title": "log_not_contains passes when the integration log is missing",
+      "url": "https://github.com/zerocracy/judges-action/issues/3235",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:17:03Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3234,
+      "title": "run_entry_script reports a failed entry as successful when pipefail is disabled",
+      "url": "https://github.com/zerocracy/judges-action/issues/3234",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:16:52Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3233,
+      "title": "Discover metric scripts relative to the literal judge directory",
+      "url": "https://github.com/zerocracy/judges-action/pull/3233",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:16:49Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3232,
+      "title": "Restore WebMock connection settings when a fake GitHub scope ends",
+      "url": "https://github.com/zerocracy/judges-action/pull/3232",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:16:40Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3231,
+      "title": "Record successful empty metrics returned under a string key",
+      "url": "https://github.com/zerocracy/judges-action/pull/3231",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:16:31Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3230,
+      "title": "Verify lost issue and pull discoveries mark stale facts and tombstones",
+      "url": "https://github.com/zerocracy/judges-action/pull/3230",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:16:20Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 639,
+      "title": "HTTP retries ignore the server's Retry-After cooldown",
+      "url": "https://github.com/zerocracy/baza.rb/issues/639",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:16:20Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3229,
+      "title": "Cover empty issue ranges, known openings, and new issue details",
+      "url": "https://github.com/zerocracy/judges-action/pull/3229",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:16:10Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3228,
+      "title": "Exercise mixed, missing, and unavailable pull review threads",
+      "url": "https://github.com/zerocracy/judges-action/pull/3228",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:15:58Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3227,
+      "title": "Skip enrichment for a pull closure already recorded in the factbase",
+      "url": "https://github.com/zerocracy/judges-action/pull/3227",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T16:15:49Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1521,
+      "title": "Finite earned-value amounts can overflow the CPI or SPI and abort vitals rendering",
+      "url": "https://github.com/zerocracy/pages-action/issues/1521",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:14:14Z"
+    },
+    {
+      "repo": "zerocracy/pages-action",
+      "number": 1520,
+      "title": "A mixed valid and malformed when property aborts the vitals transform",
+      "url": "https://github.com/zerocracy/pages-action/issues/1520",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:12:58Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3226,
+      "title": "Metric discovery silently skips scripts when the judge directory contains brackets",
+      "url": "https://github.com/zerocracy/judges-action/issues/3226",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:12:00Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3225,
+      "title": "FakeGitHub discards caller WebMock host permissions when its block returns",
+      "url": "https://github.com/zerocracy/judges-action/issues/3225",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:09:49Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 638,
+      "title": "Chunk recovery rejects the valid terminator after the server has accepted the last data chunk",
+      "url": "https://github.com/zerocracy/baza.rb/issues/638",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:09:45Z"
+    },
+    {
+      "repo": "zerocracy/baza.rb",
+      "number": 637,
+      "title": "Downloads still advertise gzip when the client is configured with compress: false",
+      "url": "https://github.com/zerocracy/baza.rb/issues/637",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:09:44Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3224,
+      "title": "Completed metrics with an empty string-keyed result run again on every cycle",
+      "url": "https://github.com/zerocracy/judges-action/issues/3224",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:08:05Z"
+    },
+    {
+      "repo": "zerocracy/sales-deck",
+      "number": 52,
+      "title": "Both PDFs remain stale after the latexmk engine configuration changes",
+      "url": "https://github.com/zerocracy/sales-deck/issues/52",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": false,
+      "createdAt": "2026-11-26T16:07:09Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3223,
+      "title": "#3166 Migrate four judge and workflow tests to the fake GitHub server",
+      "url": "https://github.com/zerocracy/judges-action/pull/3223",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T15:54:50Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5876,
+      "title": "data(fuse): list the ConnectKit wallet connection library",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5876",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:27:16Z"
+    },
+    {
+      "repo": "zerocracy/judges-action",
+      "number": 3222,
+      "title": "#1878: record closed issue assignments on merged pull facts",
+      "url": "https://github.com/zerocracy/judges-action/pull/3222",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:25:24Z"
+    },
+    {
+      "repo": "objectionary/jucs",
+      "number": 171,
+      "title": "#114: cover fixture discovery inside a directory containing a dot",
+      "url": "https://github.com/objectionary/jucs/pull/171",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:24:00Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5874,
+      "title": "data(filecoin): add the Rust SIMD piece commitment library",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5874",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:20:36Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5873,
+      "title": "data(filecoin): add the go-libipni storage-provider discovery library",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5873",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:20:21Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5872,
+      "title": "data(fuse): add the LayerZero Solidity SDK and its mainnet deployment",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5872",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:20:07Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5871,
+      "title": "data(sdks): list RainbowKit for Filecoin EVM and Fuse",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5871",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:20:06Z"
+    },
+    {
+      "repo": "objectionary/jeo-maven-plugin",
+      "number": 2077,
+      "title": "#716: document the XMIR method body and opcode layout",
+      "url": "https://github.com/objectionary/jeo-maven-plugin/pull/2077",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:19:55Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5870,
+      "title": "data(sdks): add Safe-eth-py for Filecoin and Fuse",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5870",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:19:55Z"
+    },
+    {
+      "repo": "objectionary/reo",
+      "number": 298,
+      "title": "#270: embed snapshot templates for library consumers",
+      "url": "https://github.com/objectionary/reo/pull/298",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:19:41Z"
+    },
+    {
+      "repo": "jcabi/jcabi-github",
+      "number": 2040,
+      "title": "#2032: keep mock milestone numbers distinct after deletion",
+      "url": "https://github.com/jcabi/jcabi-github/pull/2040",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:16:41Z"
+    },
+    {
+      "repo": "jcabi/jcabi-latex-maven-plugin",
+      "number": 101,
+      "title": "#98: rebuild LaTeX images from the current source and closures",
+      "url": "https://github.com/jcabi/jcabi-latex-maven-plugin/pull/101",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:16:27Z"
+    },
+    {
+      "repo": "jcabi/jcabi-dynamodb-maven-plugin",
+      "number": 382,
+      "title": "#358: reject a second DynamoDB Local launch on an owned port",
+      "url": "https://github.com/jcabi/jcabi-dynamodb-maven-plugin/pull/382",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:16:24Z"
+    },
+    {
+      "repo": "objectionary/lints",
+      "number": 1833,
+      "title": "#1831: keep shared objects outside repeatedly applied formations",
+      "url": "https://github.com/objectionary/lints/pull/1833",
+      "state": "closed",
+      "merged": true,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:16:05Z"
+    },
+    {
+      "repo": "jcabi/jcabi-github",
+      "number": 2039,
+      "title": "#1664: return independent repository creation settings",
+      "url": "https://github.com/jcabi/jcabi-github/pull/2039",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:15:55Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 134,
+      "title": "#80: select Prim edges across the full int weight range",
+      "url": "https://github.com/objectionary/eo-graphs/pull/134",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:15:47Z"
+    },
+    {
+      "repo": "objectionary/jeo-maven-plugin",
+      "number": 2076,
+      "title": "#1625: exercise format listing overrides and invalid properties",
+      "url": "https://github.com/objectionary/jeo-maven-plugin/pull/2076",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:15:40Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 133,
+      "title": "#41: spell Ford-Fulkerson consistently in Java and C++",
+      "url": "https://github.com/objectionary/eo-graphs/pull/133",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:15:33Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 584,
+      "title": "#472: recognize compact and throwing test attribute markers",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/584",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:15:21Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 583,
+      "title": "#471: recognize auto-named body bindings and their handles",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/583",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:15:10Z"
+    },
+    {
+      "repo": "objectionary/jeo-maven-plugin",
+      "number": 2075,
+      "title": "#1627: remove the unused stack-size property from Maven projects",
+      "url": "https://github.com/objectionary/jeo-maven-plugin/pull/2075",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:14:56Z"
+    },
+    {
+      "repo": "objectionary/jeo-maven-plugin",
+      "number": 2074,
+      "title": "#1619: name URL encoder and decoder while retaining the original API",
+      "url": "https://github.com/objectionary/jeo-maven-plugin/pull/2074",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:14:42Z"
+    },
+    {
+      "repo": "objectionary/jeo-maven-plugin",
+      "number": 2073,
+      "title": "#1603: verify opcode lookups against ASM instruction constants",
+      "url": "https://github.com/objectionary/jeo-maven-plugin/pull/2073",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:14:30Z"
+    },
+    {
+      "repo": "jcabi/jcabi-github",
+      "number": 2038,
+      "title": "#1117: document redirects for default and custom requests",
+      "url": "https://github.com/jcabi/jcabi-github/pull/2038",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:14:14Z"
+    },
+    {
+      "repo": "jcabi/jcabi-github",
+      "number": 2037,
+      "title": "#1092: show how to reuse a cached response with an ETag",
+      "url": "https://github.com/jcabi/jcabi-github/pull/2037",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:14:01Z"
+    },
+    {
+      "repo": "jcabi/jcabi-maven-slf4j",
+      "number": 147,
+      "title": "#146: forward SLF4J marker calls to the Maven log",
+      "url": "https://github.com/jcabi/jcabi-maven-slf4j/pull/147",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:10:20Z"
+    },
+    {
+      "repo": "jcabi/jcabi-beanstalk-maven-plugin",
+      "number": 133,
+      "title": "#130: accept WARs with an implicit .ebextensions directory",
+      "url": "https://github.com/jcabi/jcabi-beanstalk-maven-plugin/pull/133",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:09:30Z"
+    },
+    {
+      "repo": "jcabi/jcabi-matchers",
+      "number": 254,
+      "title": "#253: strip default namespaces from parsed elements",
+      "url": "https://github.com/jcabi/jcabi-matchers/pull/254",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:09:25Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 582,
+      "title": "#474: parse fragile dispatch in chains and reversed calls",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/582",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:09:14Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 581,
+      "title": "#469: parse vertical voids and typed atom declarations",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/581",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:09:09Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 580,
+      "title": "#473: recognize the EO terminator and identity heads",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/580",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:08:57Z"
+    },
+    {
+      "repo": "objectionary/reo",
+      "number": 297,
+      "title": "#268: pin the PDD and XML checker action revisions",
+      "url": "https://github.com/objectionary/reo/pull/297",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:08:39Z"
+    },
+    {
+      "repo": "jcabi/jcabi-email",
+      "number": 170,
+      "title": "#166: quote charset aliases once in HTML MIME parts",
+      "url": "https://github.com/jcabi/jcabi-email/pull/170",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:08:21Z"
+    },
+    {
+      "repo": "jcabi/jcabi-dynamo",
+      "number": 632,
+      "title": "#629: preserve numeric DynamoDB conditions",
+      "url": "https://github.com/jcabi/jcabi-dynamo/pull/632",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:01:32Z"
+    },
+    {
+      "repo": "jcabi/jcabi-dynamo",
+      "number": 631,
+      "title": "#628: treat an absent optional row attribute as missing",
+      "url": "https://github.com/jcabi/jcabi-dynamo/pull/631",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:01:19Z"
+    },
+    {
+      "repo": "jcabi/jcabi-urn",
+      "number": 139,
+      "title": "#137: exclude the terminal wildcard when parsing URN parameters",
+      "url": "https://github.com/jcabi/jcabi-urn/pull/139",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:01:05Z"
+    },
+    {
+      "repo": "objectionary/eo-graphs",
+      "number": 132,
+      "title": "#60: pin the EO CLI used by the make workflow",
+      "url": "https://github.com/objectionary/eo-graphs/pull/132",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:00:53Z"
+    },
+    {
+      "repo": "objectionary/xax",
+      "number": 285,
+      "title": "#231: pin PDD and XML lint actions to immutable revisions",
+      "url": "https://github.com/objectionary/xax/pull/285",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:00:41Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 579,
+      "title": "#487: pin the actionlint downloader to its release revision",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/579",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:00:28Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 578,
+      "title": "#486: pin the PDD workflow action to the reviewed revision",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/578",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:00:14Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 577,
+      "title": "#468: parse receiver parameters in EO formation heads",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/577",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T14:00:02Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 576,
+      "title": "#466: parse the program header and all top-level objects",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/576",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:51Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 575,
+      "title": "#458: split multiline semantic tokens at line boundaries",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/575",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:40Z"
+    },
+    {
+      "repo": "jcabi/jcabi-xml",
+      "number": 599,
+      "title": "#597: preserve characters in non-UTF-8 XSL output",
+      "url": "https://github.com/jcabi/jcabi-xml/pull/599",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:35Z"
+    },
+    {
+      "repo": "objectionary/eo-lsp-server",
+      "number": 574,
+      "title": "#454: remove compatibility assertions that do not exercise the server",
+      "url": "https://github.com/objectionary/eo-lsp-server/pull/574",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:28Z"
+    },
+    {
+      "repo": "jcabi/jcabi-maven-skin",
+      "number": 176,
+      "title": "#175: resolve relative banner images on nested pages",
+      "url": "https://github.com/jcabi/jcabi-maven-skin/pull/176",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:23Z"
+    },
+    {
+      "repo": "jcabi/jcabi-github",
+      "number": 2036,
+      "title": "#1935: document the repository and SHA used by RtCommit",
+      "url": "https://github.com/jcabi/jcabi-github/pull/2036",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:16Z"
+    },
+    {
+      "repo": "zerocracy/zerocracy-mcp-server",
+      "number": 195,
+      "title": "#58: build the MCP server with TypeScript 6",
+      "url": "https://github.com/zerocracy/zerocracy-mcp-server/pull/195",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:09Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5869,
+      "title": "data(filecoin): list Fireblocks Wallets-as-a-Service",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5869",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:59:00Z"
+    },
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5868,
+      "title": "data(analytics): list Staking Rewards for Filecoin and Fuse",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5868",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-26T13:58:49Z"
+    },
     {
       "repo": "gonka-ai/gonka",
       "number": 2327,
@@ -3844,8 +5194,8 @@
       "number": 4225,
       "title": "data(analytics): add Coinranking API offers (Free, Startup, Professional, Enterprise), listed on Filecoin, Algorand and Somnia",
       "url": "https://github.com/Chain-Love/chain-love/pull/4225",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-10-06T00:49:05Z"
     },
