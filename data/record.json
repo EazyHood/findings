@@ -1,14 +1,44 @@
 {
   "totals": {
     "generatedAt": "2026-11-27",
-    "prsOpened": 705,
-    "prsMerged": 216,
+    "prsOpened": 708,
+    "prsMerged": 221,
     "issuesOpened": 133,
     "issuesClosed": 52,
-    "organizations": 44,
+    "organizations": 46,
     "truncated": false
   },
   "items": [
+    {
+      "repo": "Chain-Love/chain-love",
+      "number": 5934,
+      "title": "Add the outreach registry rows for collabnix/awesome-mcp-lists and sylviangth/awesome-remote-mcp-servers",
+      "url": "https://github.com/Chain-Love/chain-love/pull/5934",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-27T17:34:23Z"
+    },
+    {
+      "repo": "sylviangth/awesome-remote-mcp-servers",
+      "number": 468,
+      "title": "Add Chain.Love MCP to Finance & Crypto",
+      "url": "https://github.com/sylviangth/awesome-remote-mcp-servers/pull/468",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-27T17:32:08Z"
+    },
+    {
+      "repo": "collabnix/awesome-mcp-lists",
+      "number": 484,
+      "title": "Add Chain.Love MCP to Integrations & APIs",
+      "url": "https://github.com/collabnix/awesome-mcp-lists/pull/484",
+      "state": "open",
+      "merged": false,
+      "isPullRequest": true,
+      "createdAt": "2026-11-27T17:31:03Z"
+    },
     {
       "repo": "gonka-ai/gonka",
       "number": 2342,
@@ -1214,8 +1244,8 @@
       "number": 139,
       "title": "#137: exclude the terminal wildcard when parsing URN parameters",
       "url": "https://github.com/jcabi/jcabi-urn/pull/139",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-26T14:01:05Z"
     },
@@ -1604,8 +1634,8 @@
       "number": 5402,
       "title": "Add outreach registry rows for public-apis and marcelscruz",
       "url": "https://github.com/Chain-Love/chain-love/pull/5402",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-16T23:48:35Z"
     },
@@ -1664,8 +1694,8 @@
       "number": 5359,
       "title": "Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry",
       "url": "https://github.com/Chain-Love/chain-love/pull/5359",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-15T18:46:38Z"
     },
@@ -2634,8 +2664,8 @@
       "number": 1476,
       "title": "Append the published vitals figures to the Actions summary",
       "url": "https://github.com/zerocracy/pages-action/pull/1476",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:34:25Z"
     },
@@ -2704,8 +2734,8 @@
       "number": 1474,
       "title": "Use the published vitals report as its canonical URL",
       "url": "https://github.com/zerocracy/pages-action/pull/1474",
-      "state": "open",
-      "merged": false,
+      "state": "closed",
+      "merged": true,
       "isPullRequest": true,
       "createdAt": "2026-11-12T15:25:42Z"
     },

@@ -8,6 +8,7 @@ Generated automatically on 2026-11-27. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
+| [#5934](https://github.com/Chain-Love/chain-love/pull/5934) | Add the outreach registry rows for collabnix/awesome-mcp-lists and sylviangth/awesome-remote-mcp-servers | open |
 | [#5876](https://github.com/Chain-Love/chain-love/pull/5876) | data(fuse): list the ConnectKit wallet connection library | open |
 | [#5874](https://github.com/Chain-Love/chain-love/pull/5874) | data(filecoin): add the Rust SIMD piece commitment library | open |
 | [#5873](https://github.com/Chain-Love/chain-love/pull/5873) | data(filecoin): add the go-libipni storage-provider discovery library | open |
@@ -34,8 +35,8 @@ Generated automatically on 2026-11-27. Do not edit by hand: `scripts/update.mjs`
 | [#5422](https://github.com/Chain-Love/chain-love/pull/5422) | data(security): add Contact Sales to Dedaub Security Suite Team and Enterprise | open |
 | [#5420](https://github.com/Chain-Love/chain-love/pull/5420) | data(security): add Quantstamp Penetration Testing for all-networks | open |
 | [#5419](https://github.com/Chain-Love/chain-love/pull/5419) | data(services): add Fireblocks Wallets-as-a-Service for Algorand | open |
-| [#5402](https://github.com/Chain-Love/chain-love/pull/5402) | Add outreach registry rows for public-apis and marcelscruz | open |
-| [#5359](https://github.com/Chain-Love/chain-love/pull/5359) | Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry | open |
+| [#5402](https://github.com/Chain-Love/chain-love/pull/5402) | Add outreach registry rows for public-apis and marcelscruz | **merged** |
+| [#5359](https://github.com/Chain-Love/chain-love/pull/5359) | Mark VoltAgent/official-mcp-servers#81 as rejected in the outreach registry | **merged** |
 | [#5351](https://github.com/Chain-Love/chain-love/pull/5351) | feat(validate-csv): check the link format in providers.csv | **merged** |
 | [#5350](https://github.com/Chain-Love/chain-love/pull/5350) | feat(validate-csv): require uppercase TRUE/FALSE in boolean columns | **merged** |
 | [#5286](https://github.com/Chain-Love/chain-love/pull/5286) | Mark yjjnls/awesome-blockchain#162 as merged in the outreach registry | **merged** |
@@ -460,9 +461,9 @@ Generated automatically on 2026-11-27. Do not edit by hand: `scripts/update.mjs`
 | [#1521](https://github.com/zerocracy/pages-action/issues/1521) | Finite earned-value amounts can overflow the CPI or SPI and abort vitals rendering | open |
 | [#1520](https://github.com/zerocracy/pages-action/issues/1520) | A mixed valid and malformed when property aborts the vitals transform | open |
 | [#1477](https://github.com/zerocracy/pages-action/pull/1477) | fix(#1178): track pinned npm build tools with Renovate | open |
-| [#1476](https://github.com/zerocracy/pages-action/pull/1476) | Append the published vitals figures to the Actions summary | open |
+| [#1476](https://github.com/zerocracy/pages-action/pull/1476) | Append the published vitals figures to the Actions summary | **merged** |
 | [#1475](https://github.com/zerocracy/pages-action/pull/1475) | Publish the vitals figures as a JSON summary | open |
-| [#1474](https://github.com/zerocracy/pages-action/pull/1474) | Use the published vitals report as its canonical URL | open |
+| [#1474](https://github.com/zerocracy/pages-action/pull/1474) | Use the published vitals report as its canonical URL | **merged** |
 | [#1473](https://github.com/zerocracy/pages-action/pull/1473) | Use the project logo for adless social previews | **merged** |
 | [#1472](https://github.com/zerocracy/pages-action/pull/1472) | Limit contributor-name writes to awards and reconciliations | **merged** |
 | [#1471](https://github.com/zerocracy/pages-action/pull/1471) | Test bylaws selection with a non-HR PMP before HR | **merged** |
@@ -827,7 +828,7 @@ Generated automatically on 2026-11-27. Do not edit by hand: `scripts/update.mjs`
 
 | | Title | State |
 | --- | --- | --- |
-| [#139](https://github.com/jcabi/jcabi-urn/pull/139) | #137: exclude the terminal wildcard when parsing URN parameters | open |
+| [#139](https://github.com/jcabi/jcabi-urn/pull/139) | #137: exclude the terminal wildcard when parsing URN parameters | **merged** |
 | [#120](https://github.com/jcabi/jcabi-urn/pull/120) | #117: report reserved namespaces as invalid without throwing | **merged** |
 | [#119](https://github.com/jcabi/jcabi-urn/pull/119) | #116: preserve low bytes in escaped URN components | **merged** |
 | [#118](https://github.com/jcabi/jcabi-urn/issues/118) | `param(name, value)` interprets delimiters in the name as additional query parameters | closed |
@@ -1043,6 +1044,18 @@ Generated automatically on 2026-11-27. Do not edit by hand: `scripts/update.mjs`
 | --- | --- | --- |
 | [#61](https://github.com/sendaifun/solana-new/pull/61) | fix(setup): honour CLAUDE_CONFIG_DIR so the skills land where Claude looks | open |
 | [#60](https://github.com/sendaifun/solana-new/pull/60) | fix(apply-grant): export the right session with CLAUDE_CONFIG_DIR and on Windows | open |
+
+## sylviangth/awesome-remote-mcp-servers
+
+| | Title | State |
+| --- | --- | --- |
+| [#468](https://github.com/sylviangth/awesome-remote-mcp-servers/pull/468) | Add Chain.Love MCP to Finance & Crypto | open |
+
+## collabnix/awesome-mcp-lists
+
+| | Title | State |
+| --- | --- | --- |
+| [#484](https://github.com/collabnix/awesome-mcp-lists/pull/484) | Add Chain.Love MCP to Integrations & APIs | open |
 
 ## jcabi/jcabi-latex-maven-plugin
 
